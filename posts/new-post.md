@@ -5,7 +5,7 @@ date: 2022-04-24
 tags:
   - second tag
   - test
-layout: layouts/post.njk
+layout: post.njk
 ---
 This is a post I'm mkaing as a test. I'm trying to get this whole thing up and running.
 
