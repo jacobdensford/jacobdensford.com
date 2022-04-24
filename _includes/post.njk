@@ -2,11 +2,11 @@
 layout: main.njk
 ---
 
-<article class="page-content">
-  <header class="page-header">
-    <h1 class="page-title">{{ title }}</h1>
-    <p class="page-date">Published on
-      <time datetime="{{ date }}">{{ date }}</time></p>
+<article>
+
+  <header>
+    <h1>{{ title }}</h1>
+    <p>Published on <time datetime="{{ date }}">{{ date }}</time></p>
   </header>
 
     {{ content | safe }}
