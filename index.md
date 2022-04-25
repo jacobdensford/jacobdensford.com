@@ -1,8 +1,9 @@
 ---
 layout: home.njk
-title: Home
+title: Jacob Densford
+subtitle: Writer, etc.
 ---
 
-Welcome!
+## Welcome
 
-Check out the only [page](/posts): [New Post](posts/new-post)!
+Here you will find my [posts](/posts/) and [pages](pages), information [about](/about/) me and this website, and updates on my [projects](/projects/). Click any of the navigation links above to get started.
