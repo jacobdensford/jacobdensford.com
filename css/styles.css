@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,500;0,900&family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+@font-face {
+    font-family: 'Lapti Nek';
+    src: url('/fonts/laptinekaf-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -12,31 +19,57 @@ html {
 
 body {
   font-family: "Vollkorn", serif;
-  color: #12263A;
+  color: #262523;
   background-color: #FFF8E7;
   padding: 1rem;
 }
 
 p {
   line-height: 1.35em;
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
 }
 
 ul {
   list-style-position: inside;
 }
 
-a {
+hr {
+  border: 0;
+  border-top: 1px solid #6D6A62;
+  margin-bottom: 1em;
+}
+
+ul > li > a {
   text-decoration: none;
 }
 
 a:link,
 a:visited {
-  color: #FF8811;
+  color: #C15300;
 }
 
 a:hover {
-  color: #31572C;
+  color: #006C67;
+}
+
+#top a {
+ font-family: "Lapti Nek";
+  background-color: #006C67;
+  color: #C15300;
+  padding: 5px 6.5px 0px 6.5px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+#top a:link,
+#top a:visited {
+  color: #C15300;
+}
+
+#top a:hover {
+  background-color: #C15300;
+  color: #006C67;
 }
 
 header > a:link,
@@ -45,11 +78,11 @@ header > a:visited {
   font-size: 0.7rem;
   font-weight: 500;
   text-transform: uppercase;
-  color: #31572C;
+  color: #006C67;
 }
 
 header > a:hover {
-  color: #FF8811;
+  color: #C15300;
 }
 
 .site-header {
@@ -63,9 +96,14 @@ header > a:hover {
   flex-direction: column;
 }
 
+.site-header a {
+  text-decoration: none;
+}
+
 .site-header h1 {
   font-size: 1rem;
   font-weight: 900;
+  margin-bottom: 1rem
 }
 
 .site-header nav {
@@ -76,7 +114,7 @@ header > a:hover {
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .site-header ul > li {
@@ -87,17 +125,31 @@ header > a:hover {
 .site-header a:visited,
 .site-footer a:link,
 .site-footer a:visited {
-  color: #7F7B82;
+  color: #6D6A62;
 }
 
 .site-header h1 > a:hover,
 .site-header nav > ul > li > a:hover,
 .site-footer a:hover {
-  color: #31572C;
+  color: #006C67;
 }
 
 main ul {
   margin-bottom: 1rem;
+}
+
+article > img {
+  max-width: 100%;
+  vertical-align: middle;
+  height: auto;
+  box-shadow: 0px 0px 4px 2px #dbd4c5;
+}
+
+article > p > img {
+  max-width: 100%;
+  vertical-align: middle;
+  height: auto;
+  box-shadow: 0px 0px 4px 2px #dbd4c5;
 }
 
 article {
@@ -109,18 +161,28 @@ header {
 }
 
 header > h1 {
-  font-size: 3.3rem;
+  font-size: 2.3rem;
 }
 
 .tags {
   font-family: "Libre Franklin", sans-serif;
   font-size: 0.7rem;
-  color: #7F7B82;
+  color: #006C67;
   font-weight: 500;
   text-transform: uppercase;
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
+  margin-bottom: 0rem;
+}
+
+.tags li > a:link,
+.tags li > a:visited {
+  color: #006C67;
+}
+
+.tags li > a:hover {
+  color: #C15300;
 }
 
 .tags li {
@@ -129,13 +191,19 @@ header > h1 {
 
 .subtitle {
   font-size: 1.3rem;
-  color: #7F7B82;
+  color: #6D6A62;
+}
+
+footer {
+  font-size: 0.7rem;
+  color: #6D6A62;
+
 }
 
 .posted-edited-time {
   font-family: "Libre Franklin", sans-serif;
   font-size: 0.7rem;
-  color: #7F7B82;
+  color: #6D6A62;
 }
 
 .site-footer {
@@ -146,6 +214,10 @@ header > h1 {
   justify-content: flex-start;
   margin-top: 3rem;
   font-weight: 500;
+}
+
+.site-footer a {
+  text-decoration: none;
 }
 
 .site-footer ul {
@@ -167,6 +239,10 @@ header > h1 {
     flex-direction: row;
   }
 
+  .site-header h1 {
+    margin-bottom: 0rem
+  }
+
   .site-header nav {
     width: auto;
   }
@@ -182,6 +258,9 @@ header > h1 {
   .site-header ul {
     justify-content: flex-end;
   }
+  header > h1 {
+    font-size: 3.3rem;
+  }
 }
 
 @media only screen and (min-width: 800px) {
@@ -189,9 +268,12 @@ header > h1 {
     width: 800px;
     margin: 0 auto;
   }
+}
 
+@media only screen and (min-width: 1124px) {
   .back-to-top {
     position: fixed;
     bottom: 1rem;
     left: 1rem;
   }
+}
