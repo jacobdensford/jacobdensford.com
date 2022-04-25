@@ -5,7 +5,7 @@ date: 2022-04-25
 tags:
   - projects
   - novels
-layout: project.njk
+layout: ppp.njk
 subtitle: A novel
 ---
 

@@ -5,7 +5,7 @@ subtitle: Things I thought one time
 ---
 
 <ul>
-  {%- for post in collections.post -%}
+  {%- for post in collections.posts | reverse -%}
     <li><a href="{{ post.data.url }}">{{ post.data.title }}</a></li>
   {%- endfor %}
 </ul>

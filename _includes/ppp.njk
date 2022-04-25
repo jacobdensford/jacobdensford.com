@@ -1,0 +1,25 @@
+---
+layout: main.njk
+---
+
+<article>
+
+  <header>
+    <ul class="tags">
+      {%- for tag in tags -%}
+        <li><a href="/tags/{{ tag }}/">{{ tag }}</a></li>
+      {%- endfor %}
+    </ul>
+    <h1>{{ title }}</h1>
+    <p class="subtitle">{{ subtitle }}</p>
+  </header>
+
+    {{ content | safe }}
+
+  <footer>
+
+    <p class="posted-edited-time">Created or edited on <time datetime="{{ date }}">{{ date }}</time></p>
+
+  </footer>
+
+</article>
