@@ -1,0 +1,10 @@
+---
+layout: home.njk
+title: Pages
+---
+
+<ul>
+  {%- for post in collections.pages -%}
+    <li><a href="{{ post.data.url }}">{{ post.data.title }}</a></li>
+  {%- endfor %}
+</ul>

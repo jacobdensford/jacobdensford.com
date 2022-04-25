@@ -2,15 +2,14 @@
 layout: main.njk
 ---
 
-<div class="page-main">
+<section>
 
-  <article class="page-content">
-    <header class="page-header">
-      <h1 class="page-title">{{ title }}</h1>
-    </header>
+  <header>
+    <h1>{{ title }}</h1>
+  </header>
 
-      {{ content | safe }}
+    {{ content | safe }}
 
-  </article>
+</section>
 
-</div>
+<!-- can probably iterate over all the different sections to compile the home page together -->
