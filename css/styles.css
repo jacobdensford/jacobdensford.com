@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,900&family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,500;0,900&family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 * {
   margin: 0;
@@ -6,50 +6,146 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 24px;
+}
+
 body {
-  font-family: sans-serif;
+  font-family: "Vollkorn", serif;
+  color: #12263A;
+  background-color: #FFF8E7;
+  padding: 1rem;
+}
+
+p {
+  line-height: 1.35em;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #FF8811;
+}
+
+a:hover {
+  color: #31572C;
+}
+
+header > a:link,
+header > a:visited {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 0.7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #31572C;
+}
+
+header > a:hover {
+  color: #FF8811;
 }
 
 .site-header {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 0.7rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3rem;
+  flex-direction: column;
+}
+
+.site-header h1 {
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+.site-header nav {
+  width: 100%;
 }
 
 .site-header ul {
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
+  justify-content: space-between;
 }
 
-main {
+.site-header ul > li {
+  font-weight: 500;
+}
 
+.site-header a:link,
+.site-header a:visited,
+.site-footer a:link,
+.site-footer a:visited {
+  color: #7F7B82;
+}
+
+.site-header h1 > a:hover,
+.site-header nav > ul > li > a:hover,
+.site-footer a:hover {
+  color: #31572C;
+}
+
+main ul {
+  margin-bottom: 1rem;
 }
 
 article {
 
 }
 
+header {
+  margin-bottom: 2rem;
+}
+
 header > h1 {
-
+  font-size: 3.3rem;
 }
 
-.subheading {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.subheading ul {
+.tags {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 0.7rem;
+  color: #7F7B82;
+  font-weight: 500;
+  text-transform: uppercase;
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
 }
 
+.tags li {
+  margin-right: 1rem;
+}
+
+.subtitle {
+  font-size: 1.3rem;
+  color: #7F7B82;
+}
+
+.posted-edited-time {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 0.7rem;
+  color: #7F7B82;
+}
+
 .site-footer {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 0.7rem;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
+  margin-top: 3rem;
+  font-weight: 500;
 }
 
 .site-footer ul {
@@ -58,8 +154,44 @@ header > h1 {
   list-style-type: none;
 }
 
-@media only screen and (min-width: 960px) {
+.site-footer ul > li {
+  margin-left: 1rem;
+}
+
+.back-to-top {
+  text-transform: uppercase;
+}
+
+@media only screen and (min-width: 600px) {
+  .site-header {
+    flex-direction: row;
+  }
+
+  .site-header nav {
+    width: auto;
+  }
+
+  .site-header ul > li {
+    margin-left: 1rem;
+  }
+
+  .site-header ul > li:first-of-type {
+    margin-left: 0rem;
+  }
+
+  .site-header ul {
+    justify-content: flex-end;
+  }
+}
+
+@media only screen and (min-width: 800px) {
   main {
-    width: 960px;
+    width: 800px;
     margin: 0 auto;
+  }
+
+  .back-to-top {
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
   }

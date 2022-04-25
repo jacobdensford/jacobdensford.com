@@ -5,19 +5,17 @@ layout: main.njk
 <article>
 
   <header>
-    <a href="/posts/">Posts</a>
+    <ul class="tags">
+      {%- for tag in tags -%}
+        <li>{{ tag }}</li>
+      {%- endfor %}
+    </ul>
     <h1>{{ title }}</h1>
     <p class="subtitle">{{ subtitle }}</p>
-    <div class="subheading">
-      <ul>
-        {%- for tag in tags -%}
-          <li>{{ tag }}</li>
-        {%- endfor %}
-      </ul>
-      <p>Published on <time datetime="{{ date }}">{{ date }}</time></p>
-    </div>
   </header>
 
     {{ content | safe }}
+
+    <p class="posted-edited-time">Posted on <time datetime="{{ date }}"><!--figure out how to add date here--></time></p>
 
 </article>
