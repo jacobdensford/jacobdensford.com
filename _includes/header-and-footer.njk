@@ -3,13 +3,36 @@ layout: head.njk
 ---
 
 <header class="site-header">
-  <h1 id="home" class="site-title"><a href="/">Jacob Densford</a></h1>
+
+  <!-- logo or whatever will go here -->
+
+  <h1 id="top"><a href="/">Jacob Densford</a></h1>
+
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/projects/">Projects</a></li>
+      <li><a href="/pages/">Pages</a></li>
+      <li><a href="/posts/">Posts</a></li>
+    </ul>
+  </nav>
+
+  <!-- social media links might go here -->
+
 </header>
 
 {{ content | safe }}
 
 <footer class="site-footer">
-  <a href="/">&#8592; Back to home</a>
   <a href="#home">&#8593; Back to top &#8593;</a>
-  <a href="https://www.backtothefuture.com/" target="_blank">Back to future &#8594;</a>
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/projects/">Projects</a></li>
+      <li><a href="/pages/">Pages</a></li>
+      <li><a href="/posts/">Posts</a></li>
+    </ul>
+  </nav>
 </footer>

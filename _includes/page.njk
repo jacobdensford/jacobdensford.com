@@ -5,7 +5,7 @@ layout: main.njk
 <article>
 
   <header>
-    <a href="/posts/">Posts</a>
+    <a href="/pages/">Pages</a>
     <h1>{{ title }}</h1>
     <p class="subtitle">{{ subtitle }}</p>
     <div class="subheading">
@@ -14,7 +14,7 @@ layout: main.njk
           <li>{{ tag }}</li>
         {%- endfor %}
       </ul>
-      <p>Published on <time datetime="{{ date }}">{{ date }}</time></p>
+      <p>Last edited on <time datetime="{{ date }}">{{ date }}</time></p>
     </div>
   </header>
 

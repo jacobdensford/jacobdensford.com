@@ -1,3 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,900&family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   font-family: sans-serif;
 }
+
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.site-header ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+main {
+
+}
+
+article {
+
+}
+
+header > h1 {
+
+}
+
+.subheading {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.subheading ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.site-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.site-footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+@media only screen and (min-width: 960px) {
+  main {
+    width: 960px;
+    margin: 0 auto;
+  }
