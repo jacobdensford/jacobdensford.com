@@ -145,7 +145,7 @@ article > img {
   box-shadow: 0px 0px 4px 2px #dbd4c5;
 }
 
-article > p > img {
+article > div > p > img {
   max-width: 100%;
   vertical-align: middle;
   height: auto;
