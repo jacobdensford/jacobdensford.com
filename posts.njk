@@ -4,9 +4,9 @@ title: Posts
 subtitle: Things I thought one time, presented in reverse chronological order. It's a blog.
 ---
 
-<div class="all-cards">
+<div class="post-cards">
   {%- for post in collections.posts | reverse -%}
-    <div class="single-card">
+    <div class="single-post">
       <ul class="tags">
         {%- for tag in post.data.tags -%}
           {%- if tag != 'posts' -%}

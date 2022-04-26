@@ -47,7 +47,7 @@ hr {
   margin-bottom: 1em;
 }
 
-ul > li > a {
+.tags li > a {
   text-decoration: none;
 }
 
@@ -228,7 +228,8 @@ header > h1 {
 }
 
 .single-card p,
-.single-note p {
+.single-note p,
+.single-post p {
   color: #6D6A62;
 }
 
@@ -236,8 +237,14 @@ header > h1 {
   font-size: 0.7rem;
 }
 
-.single-card a {
+.single-card a,
+.single-post a {
   text-decoration: none;
+}
+
+.single-note ,
+.single-post {
+  margin-bottom: 2rem;
 }
 
 footer {
