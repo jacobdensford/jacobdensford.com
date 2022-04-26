@@ -146,17 +146,15 @@ main ul {
   margin-bottom: 1rem;
 }
 
-article > img {
-  max-width: 100%;
-  vertical-align: middle;
-  height: auto;
-  box-shadow: 0px 0px 4px 2px #dbd4c5;
-}
-
+section > img,
+section > p > img,
+article > img,
 article > div > p > img {
+  display: block;
   max-width: 100%;
   vertical-align: middle;
   height: auto;
+  margin: 0 auto;
   box-shadow: 0px 0px 4px 2px #dbd4c5;
 }
 
@@ -316,8 +314,6 @@ footer {
     width: 800px;
     margin: 0 auto;
   }
-
-}
 
 @media only screen and (min-width: 1200px) {
 
