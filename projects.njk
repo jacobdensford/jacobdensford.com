@@ -1,13 +1,21 @@
 ---
 layout: home.njk
 title: Projects
-subtitle: The things I'm working on; the things I'm procrastinating
+subtitle: The things I'm working on; the things I'm procrastinating.
 ---
 
-<h2>Novels</h2>
-
-<ul>
-  {%- for post in collections.projects and collections.novels -%}
-    <li><a href="{{ post.data.url }}">{{ post.data.title }}</a></li>
+<div class="all-cards">
+  {%- for post in collections.projects -%}
+    <div class="single-card">
+      <ul class="tags">
+        {%- for tag in post.data.tags -%}
+          {%- if tag != 'projects' -%}
+            <li><a href="/tags/{{ tag }}/">{{ tag }}</a></li>
+          {%- endif %}
+        {%- endfor %}
+      </ul>
+      <h2><a href="{{ post.data.url }}">{{ post.data.title }}</a></h2>
+      <p>{{ post.data.subtitle }}</p>
+    </div>
   {%- endfor %}
-</ul>
+</div>

@@ -18,7 +18,7 @@ layout: main.njk
 
   <footer>
 
-    <p class="posted-edited-time">Created or edited on <time datetime="{{ date }}">{{ date }}</time></p>
+    <p class="posted-edited-time">Created or edited on <time datetime="{{ date }}">{{ date.toDateString() }}</time></p>
 
   </footer>
 

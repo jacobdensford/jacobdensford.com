@@ -1,11 +1,21 @@
 ---
 layout: home.njk
 title: Pages
-subtitle: A digital garden
+subtitle: A digital garden.
 ---
 
-<ul>
+<div class="all-cards">
   {%- for post in collections.pages -%}
-    <li><a href="{{ post.data.url }}">{{ post.data.title }}</a></li>
+    <div class="single-card">
+      <ul class="tags">
+        {%- for tag in post.data.tags -%}
+          {%- if tag != 'pages' -%}
+            <li><a href="/tags/{{ tag }}/">{{ tag }}</a></li>
+          {%- endif %}
+        {%- endfor %}
+      </ul>
+      <h2><a href="{{ post.data.url }}">{{ post.data.title }}</a></h2>
+      <p>{{ post.data.subtitle }}</p>
+    </div>
   {%- endfor %}
-</ul>
+</div>
