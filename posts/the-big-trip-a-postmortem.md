@@ -6,7 +6,7 @@ tags:
   - posts
   - travel
 layout: ppp.njk
-subtitle: An ending. A beginning?
+subtitle: An ending. A beginning.
 ---
 
 ![SLS I on pad 39b](/images/sls.jpg)

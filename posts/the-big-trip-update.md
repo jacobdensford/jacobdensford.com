@@ -1,5 +1,5 @@
 ---
-title: The big trip update
+title: The Big Trip Update
 url: /posts/the-big-trip-update/
 date: 2021-11-08
 tags:

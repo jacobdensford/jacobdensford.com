@@ -1,0 +1,21 @@
+---
+layout: home.njk
+title: "Notes"
+subtitle: "Unimportant short-form posts. Like Twitter but on my own website."
+---
+
+<div class="note-cards">
+  {%- for post in collections.notes | reverse -%}
+    <div class="single-note">
+      <ul class="tags">
+        {%- for tag in post.data.tags -%}
+          {%- if tag != 'notes' -%}
+            <li><a href="/tags/{{ tag }}/">{{ tag }}</a></li>
+          {%- endif %}
+        {%- endfor %}
+      </ul>
+      <h2>{{ post.data.title }}</h2>
+      <p>Posted on <a href="{{ post.data.url }}"><time datetime="{{ post.data.date }}">{{ post.data.date.toDateString() }}</time></a>.</p>
+    </div>
+  {%- endfor %}
+</div>
