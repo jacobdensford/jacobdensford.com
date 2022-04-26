@@ -15,7 +15,7 @@ I write fiction—mostly science fiction. I also dabble in making other things: 
 - [contact@jacobdensford.com via email](mailto:contact@jacobdensford.com)
 - [@jacobdensford on Twitter](https://twitter.com/jacobdensford/)
 - [@jacobdensford@mastodon.social on the Fediverse](https://mastodon.social/@jacobdensford)
-- [Sign up for my newsletter](https://tinyletter.com/jacobdensford)
+- [Sign up for my newsletter](https://buttondown.email/jacobdensford)
 
 ## About this website
 
