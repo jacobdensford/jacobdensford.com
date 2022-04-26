@@ -10,7 +10,7 @@ I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my w
 
 ## Stay up to date
 
-Sign up for [my newsletter](https://tinyletter.com/jacobdensford) and this website’s [RSS feed](/feed.xml).
+Sign up for [my newsletter](https://buttondown.email/jacobdensford) and this website’s [RSS feed](/feed.xml).
 
 <div class="h-card">
   <a class="u-url" href="https://jacobdensford.com/" rel="me"/>
