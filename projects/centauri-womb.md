@@ -13,4 +13,4 @@ subtitle: A science fiction novel.
 
 ## Status
 
-I'm about two thirds of the way through the second draft. Trying really hard to finish by the end of the summer, but we'll see.
+I’m about two thirds of the way through the second draft. Trying really hard to finish by the end of the summer, but we’ll see.
