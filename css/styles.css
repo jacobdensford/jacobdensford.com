@@ -231,7 +231,7 @@ footer {
   font-size: 0.7rem;
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: space-between;
   margin-top: 3rem;
   font-weight: 500;
 }
@@ -290,6 +290,8 @@ footer {
     margin: 0 auto;
   }
 
+}
+
 @media only screen and (min-width: 1200px) {
 
   .back-to-top {
@@ -297,4 +299,5 @@ footer {
     bottom: 1rem;
     left: 1rem;
   }
+
 }

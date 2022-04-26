@@ -22,3 +22,7 @@ I write fiction—mostly science fiction. I also dabble in making other things: 
 I wrote it/am writing this website from scratch&mdash;code and all. Poke around as much as you want. And please [let me know](https://github.com/jacobdensford/jacobdensford.com) if you find anything that's broken. I'm very new to all this.
 
 This website uses the fonts [Vollkorn](http://vollkorn-typeface.com/), [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin), and [Lapti Nek](https://aurekfonts.github.io/?font=LaptiNekAF). The background color is called [cosmic latte](https://en.wikipedia.org/wiki/Cosmic_latte)&mdash;it's the average color of the universe.
+
+### Stay up to date
+
+Sign up for this websites [RSS feed](/feed.xml).
