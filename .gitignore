@@ -1,6 +1,3 @@
 _site/
 node_modules/
 package-lock.json
-post-templates/
-website.md
-drafts/
