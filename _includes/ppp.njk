@@ -22,12 +22,8 @@ layout: main.njk
 
   <footer>
 
-    <p class="posted-edited-time">Created or edited on <time class="dt-published dt-updated" datetime="{{ date }}">{{ date.toDateString() }}</time></p>
+    <p class="posted-edited-time">Created or edited on <a class="u-url" href="{{ post.data.url }}"><time class="dt-published dt-updated" datetime="{{ date }}">{{ date.toDateString() }}</time></a> by <a rel="author" class="p-author h-card" href="/">Jacob Densford</a>.</p>
 
   </footer>
-
-  <a class="u-url" href="{{ post.data.url }}"/>
-
-  <a class="p-auther h-card" rel=author href="/"/>
 
 </article>
