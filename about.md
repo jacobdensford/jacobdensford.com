@@ -6,7 +6,7 @@ subtitle: "You want to know more? Well, I’m here to tell ya."
 
 ## About me
 
-![A picture of me standing by my Prius and holding a Jar Jar Binks tiki mug.](/images/jarjarmug.jpeg)
+![A picture of me standing by my Prius and holding a Jar Jar Binks tiki mug.](/images/jarjarmug.png)
 
 I’m a writer who has yet to publish anything, currently traveling the country in my Prius-turned-camper (which is crazy because I hate driving).
 
