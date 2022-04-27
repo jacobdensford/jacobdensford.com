@@ -9,7 +9,7 @@ layout: ppp.njk
 subtitle: An ending. A beginning.
 ---
 
-![SLS I on pad 39b](/images/sls.jpg)
+![SLS I on pad 39b](/images/sls.png)
 
 I was on my way back from Space View Park in Titusville, Florida when it hit me: I don’t want to live on the road anymore.
 
@@ -21,7 +21,7 @@ Something I hadn’t realized would be a thing before starting this trip was the
 
 Nothing happened that night. But I was restless. The idea of ending the trip was in my head. I was eager to do something else. By the next morning, I knew. I was done.
 
-![Me and an RL-10 rocket engine](/images/me-and-engine.jpg)
+![Me and an RL-10 rocket engine](/images/me-and-engine.png)
 
 More than my low hitpoints from sustaining so much psychic damage--and this is something I never thought I’d say--I missed my stuff. I missed my books and my computer and my coffee mugs. I missed having a couple projects going. I missed being cozy in my own home. The thought of getting my own apartment and settling down for a little while somewhere was so alluring.
 

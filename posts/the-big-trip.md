@@ -13,7 +13,7 @@ After much ado and many delays, and despite having left Akron, Ohio—my home of
 
 The wait has not been for nothing. I spent most of August at my family’s home in West Virginia, helping on the farm and assisting my dad with an apartment renovation. I saw my brother for the first time in years, learned how to properly deadlift from my middle sister, and won many times at cards. (I didn’t lose. Not even once. Don’t listen to what they tell you.) It has been time well spent. But there are too many dogs and they are too big and shed too much. And the birds are loud (but that’s okay, Heidi; I still like your birds).
 
-![Penelope II as she sat on my first and only night sleeping in her during this trip so far.](/images/_Penelope.jpg)
+![Penelope II as she sat on my first and only night sleeping in her during this trip so far.](/images/_Penelope.png)
 
 My Prius-turned-camper (named Penelope II) is packed and my cardboard cutout of Mark Hamill dressed as Luke Skywalker<sup><a href=#1down id="1up">1</a></sup> is sitting in the passenger’s seat and growing impatient.
 
@@ -55,7 +55,7 @@ Plenty to fill my days and maybe even make a little money along the way. But jus
 
 Now I am off. Stay tuned here for updates, follow me on [Instagram](https://instagram.com/jacobdensford/) and [Twitter](https://twitter.com/jacobdensford/), and maybe even sign up for my [newsletter](https://buttondown.email/jacobdensford). (I might even post a [TikTok or two](https://www.tiktok.com/@jacobdensford). Who knows?) See you later!
 
-![](/images/_Mark.jpg "Testing this feature.")
+![](/images/_Mark.png "Testing this feature.")
 
 <footer>
 
