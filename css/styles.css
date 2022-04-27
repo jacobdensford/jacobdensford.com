@@ -7,6 +7,26 @@
     font-style: normal;
 }
 
+:root {
+  --background: #FFF8E7;
+  --accent-one: #006C67;
+  --accent-two: #C15300;
+  --text-main: rgba(0, 0, 0, 0.85);
+  --text-sub: rgba(0, 0, 0, 0.55);
+  --shadow: rgba(0, 0, 0, 0.2);
+}
+
+/*
+Light Theme
+background: #FFF8E7
+text-main: rgba(0, 0, 0, 0.85)
+text-sub: rgba(0, 0, 0, 0.55)
+Dark Theme
+background: #1F1F1F
+text-main: rgba(255, 255, 255, 0.85)
+text-sub: rgba(255, 255, 255, 0.55)
+*/
+
 * {
   margin: 0;
   padding: 0;
@@ -19,8 +39,8 @@ html {
 
 body {
   font-family: "Vollkorn", serif;
-  color: #262523;
-  background-color: #FFF8E7;
+  color: var(--text-main);
+  background-color: var(--background);
   padding: 1rem;
 }
 
@@ -43,7 +63,7 @@ ul {
 
 hr {
   border: 0;
-  border-top: 1px solid #6D6A62;
+  border-top: 1px solid var(--text-sub);
   margin-bottom: 1em;
 }
 
@@ -53,17 +73,17 @@ hr {
 
 a:link,
 a:visited {
-  color: #C15300;
+  color: var(--accent-two);
 }
 
 a:hover {
-  color: #006C67;
+  color: var(--accent-one);
 }
 
 #top a {
  font-family: "Lapti Nek";
-  background-color: #006C67;
-  color: #C15300;
+  background-color: var(--accent-one);
+  color: var(--accent-two);
   padding: 5px 6.5px 0px 6.5px;
   text-align: center;
   display: inline-block;
@@ -72,12 +92,12 @@ a:hover {
 
 #top a:link,
 #top a:visited {
-  color: #C15300;
+  color: var(--accent-two);
 }
 
 #top a:hover {
-  background-color: #C15300;
-  color: #006C67;
+  background-color: var(--accent-two);
+  color: var(--accent-one);
 }
 
 header > a:link,
@@ -86,11 +106,11 @@ header > a:visited {
   font-size: 0.7rem;
   font-weight: 500;
   text-transform: uppercase;
-  color: #006C67;
+  color: var(--accent-one);
 }
 
 header > a:hover {
-  color: #C15300;
+  color: var(--accent-two);
 }
 
 .site-header {
@@ -133,13 +153,13 @@ header > a:hover {
 .site-header a:visited,
 .site-footer a:link,
 .site-footer a:visited {
-  color: #6D6A62;
+  color: var(--text-sub);
 }
 
 .site-header h1 > a:hover,
 .site-header nav > ul > li > a:hover,
 .site-footer a:hover {
-  color: #006C67;
+  color: var(--accent-one);
 }
 
 main ul {
@@ -155,7 +175,7 @@ article > div > p > img {
   vertical-align: middle;
   height: auto;
   margin: 0 auto;
-  box-shadow: 0px 0px 4px 2px #dbd4c5;
+  box-shadow: 0px 0px 4px 2px var(--shadow);
 }
 
 article {
@@ -173,7 +193,7 @@ header > h1 {
 .tags {
   font-family: "Libre Franklin", sans-serif;
   font-size: 0.7rem;
-  color: #006C67;
+  color: var(--accent-one);
   font-weight: 500;
   text-transform: uppercase;
   display: flex;
@@ -184,11 +204,11 @@ header > h1 {
 
 .tags li > a:link,
 .tags li > a:visited {
-  color: #006C67;
+  color: var(--accent-one);
 }
 
 .tags li > a:hover {
-  color: #C15300;
+  color: var(--accent-two);
 }
 
 .tags li {
@@ -197,12 +217,12 @@ header > h1 {
 
 .subtitle {
   font-size: 1.3rem;
-  color: #6D6A62;
+  color: var(--text-sub);
 }
 
 .sub-subtitle {
   font-size: 1rem;
-  color: #6D6A62;
+  color: var(--text-sub);
 }
 
 .notes-title {
@@ -230,7 +250,7 @@ header > h1 {
 .single-card p,
 .single-note p,
 .single-post p {
-  color: #6D6A62;
+  color: var(--text-sub);
 }
 
 .single-note p {
@@ -249,13 +269,13 @@ header > h1 {
 
 footer {
   font-size: 0.7rem;
-  color: #6D6A62;
+  color: var(--text-sub);
 
 }
 
 .posted-edited-time {
   font-size: 0.7rem;
-  color: #6D6A62;
+  color: var(--text-sub);
 }
 
 .site-footer {
