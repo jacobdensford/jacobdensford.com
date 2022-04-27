@@ -4,13 +4,12 @@ This is my website. It compiles with 11ty and is hosted on netlify.
 
 ## Todo
 - Update some of the subtitles, especially on Home, and maybe on About.
-- Make Posts more like Notes.
 - Finish setting up my newsletter.
-- transfer everything from contact@jacobdensford.com to hello@jacobdensford.co
+- transfer everything from old email address to new one.
 - Find an elegant way to add a p-note to my homepage.
-- Develop a system for resizing my images and deploying the right one based on screensize.
+- Develop a system for processing my images and deploying the right one based on screen size.
 - Figure out how to automatically display webmentions under my posts, and design a format for them.
-- Figure out a simple way to post notes. Maybe through some function of Netlify.
+- Figure out how to automatically display backlinks under my pages, and design a format for them.
 
 ## Learn
 - [HTML simple tips and tricks for your website](https://thomasorus.com/html-tips.html)
