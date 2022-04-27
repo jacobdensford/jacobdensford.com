@@ -4,6 +4,7 @@ This is my website. It compiles with 11ty and is hosted on netlify.
 
 ## Todo
 - Update some of the subtitles, especially on Home, and maybe on About.
+- Make a dark mode and maybe a way to switch to it. (#1F1F1F, #006C67, #C15300, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.6) or something like that)
 - Finish setting up my newsletter.
 - transfer everything from old email address to new one.
 - Find an elegant way to add a p-note to my homepage.
@@ -48,5 +49,7 @@ I'm using [webmentions.io](https://webmention.io/) to receive webmentions and us
 This won’t be for a while, hopefully. But here are some ideas I might want to use in a future redesign of my website.
 
 - Make it look like a scifi UI somehow. Thin white lines around elements with transparent interiors and a spacescape background. Or something. (I got the idea from the Starfield youtube videos).
-- Use variables for all my colors in the CSS. I don’t know how to do this, but I know it’s possible. Then I can change the colors at will in the future.
-- Use the alpha channel for my main text (headings and p) and subtext (like subtitles and menus). Really, anything that isn’t one of the accent colors. I think it would look like color: rgba(0, 0, 0, 0.95).
+
+### Cool Looks
+
+- https://runyourown.social/
