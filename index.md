@@ -4,9 +4,15 @@ title: Jacob Densford
 subtitle: Writer, human, tired, etc.
 ---
 
+<section>
+
 ## Welcome
 
 I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Here you will find my [posts](/posts/) and [pages](/pages/), information [about](/about/) me and this website, and updates on my [projects](/projects/).
+
+</section>
+
+<section>
 
 ## Stay up to date
 
@@ -19,3 +25,5 @@ Sign up for [my newsletter](https://buttondown.email/jacobdensford) and follow t
   <a href="https://github.com/jacobdensford" rel="me"/>
   <a class="u-logo" href="/images/favicon.png" rel="me"/>
 </div>
+
+</section>
