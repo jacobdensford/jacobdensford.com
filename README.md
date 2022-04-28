@@ -4,13 +4,19 @@ This is my website. It compiles with 11ty and is hosted on netlify.
 
 ## Todo
 - Update some of the subtitles, especially on Home, and maybe on About.
-- Make a dark mode and maybe a way to switch to it. (#1F1F1F, #006C67, #C15300, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.6) or something like that)
+- Make a way to switch to dark mode.
+- Translate dates to day of the year, maybe using [the JavaScript on this page](https://www.epochconverter.com/daynumbers).
+- Add a [moon phase](https://www.timeanddate.com/moon/phases/) [emoji](https://emojipedia.org/search/?q=moon) to the date.
 - Finish setting up my newsletter.
 - transfer everything from old email address to new one.
+- Clean up my HTML and CSS!
+- Audit and address accessibility.
 - Find an elegant way to add a p-note to my homepage.
+- Start thinking about incorporating a blog roll and a web ring.
 - Develop a system for processing my images and deploying the right one based on screen size.
 - Figure out how to automatically display webmentions under my posts, and design a format for them.
 - Figure out how to automatically display backlinks under my pages, and design a format for them.
+- Make a super lightweight version and self-host it.
 
 ## Learn
 - [HTML simple tips and tricks for your website](https://thomasorus.com/html-tips.html)
