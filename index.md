@@ -25,5 +25,5 @@ Sign up for [my newsletter](https://buttondown.email/jacobdensford) and follow t
   <a class="u-email" href="mailto:contact@jacobdensford.com" rel="me"/>
   <a href="https://post.lurk.org/@jacobdensford" rel="me"/>
   <a href="https://github.com/jacobdensford" rel="me"/>
-  <a class="u-logo u-photo" href="/images/favicon.png" rel="me"/>
+  <a class="u-logo u-photo" href="/images/icon-full.png" rel="me"/>
 </div>
