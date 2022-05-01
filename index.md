@@ -18,6 +18,8 @@ I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my w
 
 Sign up for [my newsletter](https://buttondown.email/jacobdensford) and follow this website’s [RSS feed](/feed.xml).
 
+</section>
+
 <div class="h-card">
   <a class="u-url" href="https://jacobdensford.com/" rel="me"/>
   <a class="u-email" href="mailto:contact@jacobdensford.com" rel="me"/>
@@ -25,5 +27,3 @@ Sign up for [my newsletter](https://buttondown.email/jacobdensford) and follow t
   <a href="https://github.com/jacobdensford" rel="me"/>
   <a class="u-logo u-photo" href="/images/favicon.png" rel="me"/>
 </div>
-
-</section>
