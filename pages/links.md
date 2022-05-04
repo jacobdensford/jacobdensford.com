@@ -16,3 +16,5 @@ Welcome to hyperlink chaos. (I might decide to keep this more organized eventual
 - [https://savethesounds.info/](https://savethesounds.info/)
 - [https://guidebookgallery.org/](https://guidebookgallery.org/)
 - [https://tinysubversions.com/stuff/sandwiches](https://tinysubversions.com/stuff/sandwiches)
+- [https://www.bespokesynth.com/](https://www.bespokesynth.com/)
+- [https://learningsynths.ableton.com/](https://learningsynths.ableton.com/)
