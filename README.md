@@ -2,6 +2,8 @@
 
 This is my website. It compiles with 11ty and is hosted on netlify.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8167ff8f-a9c5-4327-8e0b-ea0e84056bdb/deploy-status)](https://app.netlify.com/sites/flourishing-sunflower-497834/deploys)
+
 ## Todo
 - Update some of the subtitles, especially on Home, and maybe on About.
 - Make a way to switch to dark mode.
