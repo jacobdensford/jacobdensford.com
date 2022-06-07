@@ -10,7 +10,7 @@ subtitle: "You want to know more? Well, I’m here to tell ya."
 
 ![A picture of me standing by my Prius and holding a Jar Jar Binks tiki mug.](/images/jarjarmug.png)
 
-I’m a writer who has yet to publish anything, currently traveling the country in my Prius-camper (which is crazy because I hate driving).
+I’m a writer who has yet to publish anything, currently dwelling in the foothills of Appalachia.
 
 I aspire to be a lot of things: An author of science fiction, writing stories that reach beyond the rumored coming dystopia to find a sustainable future. A game designer who makes interactive narratives and tabletop roleplaying games that show us what we are when we’re alone and what we can be when we’re together. A musician exploring the intersection of synthesis, acoustic instruments, and field recordings; writing folk music for when the sky becomes the color of television tuned to a dead channel. A contributor to a more decentralized internet and a less disposable world.
 
