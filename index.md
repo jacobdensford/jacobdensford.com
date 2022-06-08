@@ -1,7 +1,7 @@
 ---
 layout: home.njk
 title: Jacob Densford
-subtitle: Writer, human, tired, etc.
+subtitle: Writer of novels, short stories, etc.
 ---
 
 <section>
