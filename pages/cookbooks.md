@@ -4,6 +4,7 @@ subtitle: For cooking well.
 tags:
   - pages
   - food
+  - books
 url: /pages/cookbooks/
 layout: ppp.njk
 date: 2022-04-22
