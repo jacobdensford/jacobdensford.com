@@ -7,7 +7,7 @@ tags:
   - books
 url: /pages/cookbooks/
 layout: ppp.njk
-date: 2022-04-22
+date: 2022-06-20
 ---
 
 I used to have a lot of cookbooks. Sadly, I left them in Texas years ago. I have them all as ebooks now. But it’s not the same. I’ve found cookbooks are best as physical objects. I used to write notes on the recipes&mdash;what I changed, and if it made the dish better or worse&mdash;and I liked opening to a recipe I’d made many times and seeing my saucy fingerprints on the page. These days, I mostly cook by feel. But I would be lost had I not read these several cookbooks once upon a time.
