@@ -26,8 +26,8 @@ This was the first cookbook I cooked all the way through, only skipping a handfu
 
 ## *Mastering the Art of French Cooking* by Julia Child
 
-Here’s a classic. And a fancy one. This book teaches the “correct” way to cook a dish, the “impressive” way, the French way. Whenever I want to try cooking something new, first I check to see if there’s a recipe in *Twelve Recipes*. Then I check this book. (Lastly, I’ll search online and usually find something on [Serious Eats](https://seriouseats.com/). And then I’ll make the dish using a combination of whatever I’ve found. (Apparently, there is also a sequel. But I’ve never read it.)
+Here’s a classic. And a fancy one. This book teaches the “correct” way to cook a dish, the “impressive” way, the French way. Some of the recipes are even usable once you've translate them from nonsense. Whenever I want to try cooking something new, first I check to see if there’s a recipe in *Twelve Recipes*. Then I check this book. (Lastly, I’ll search online and usually find something on [Serious Eats](https://seriouseats.com/). And then I’ll make the dish using a combination of whatever I’ve found. (Apparently, there is also a sequel. But I’ve never read it.)
 
-## Bonus: *Home Made, Winter, and Summer* by Yvette van Boven
+## Bonus: *Home Made*, *Home Made Winter*, and *Home Made Summer* by Yvette van Boven
 
 I love these three cookbooks. Especially *Home Made Winter*. I never used them as often as the others, but they contain a lot of fun recipes that I’ve found myself coming back to again and again.
