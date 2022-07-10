@@ -62,9 +62,10 @@ ul {
 }
 
 hr {
-  border: 0;
-  border-top: 1px solid var(--text-sub);
+  /*border: 0;
+  border-top: 1px solid var(--text-sub);*/
   margin-bottom: 1em;
+  opacity: 0.2;
 }
 
 .tags li > a {
