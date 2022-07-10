@@ -16,7 +16,7 @@ I aspire to be a lot of things: An author of science fiction, writing stories th
 
 ### Contact me
 
-- [contact@jacobdensford.com](mailto:contact@jacobdensford.com) via email
+- [hello@jacobdensford.com](mailto:hello@jacobdensford.com) via email
 - [@jacobdensford @post.lurk.org](https://post.lurk.org/@jacobdensford) in the [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
 - [@jacobdensford:matrix.org](https://matrix.to/#/@jacobdensford:matrix.org) with [[matrix]](https://matrix.org/)
 

@@ -1,0 +1,70 @@
+# Big Text
+
+## Jacob's board
+
+### The day and the date of the month and the year
+
+Words, words words.
+
+---
+
+More words.
+
+<hr/>
+
+<p id="nav"><a href="https://jacobdensford.com/tags/boards/">&#128240;</a><a href="https://jacobdensford.com/">&#128279;</a><a href="https://jacobdensford.com/feed.xml">&#128225;</a><a href="mailto:hello@jacobdensford.com">&#128231;</a></p>
+
+<style>
+
+:host {
+  background-color: #FFF8E7;
+  color: rgba(0, 0, 0, 0.8);
+  font-family: serif;
+}
+
+h1 {
+  font-size: 4rem;
+  text-transform: uppercase;
+  color: #C15300;
+  line-height: 3.5rem;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 2.5rem;
+}
+
+h3 {
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 2rem;
+  line-height: 1.5rem;
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+a {
+  text-decoration: underline;
+}
+
+a:link, a:visited {
+  color: #006C67;
+}
+
+a:hover {
+  color: #C15300;
+}
+
+#nav a {
+  text-decoration: none;
+}
+
+hr {
+  opacity: 0.2;
+  margin: 1rem 0 1rem 0;
+}
+
+</style>
