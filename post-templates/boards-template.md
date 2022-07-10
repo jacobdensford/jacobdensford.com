@@ -1,5 +1,6 @@
 ---
-title: "Too humid to go running!"
+title: "Title of Thing"
+subtitle: "Subtitle of thing."
 tags:
   - posts
   - boards
