@@ -1,12 +1,12 @@
 ---
-title: "Title of Post"
-subtitle: "Subtitle of post."
+title: "Title of Thing"
+subtitle: "Subtitle of thing."
 tags:
   - posts
   - pages
   - or
   - projects
-url: /posts-pages-or-projects/url/
+url: /posts-pages-or-projects/url-of-thing/
 layout: ppp.njk
 date: 2022-04-18 20:56:00 -4
 ---
