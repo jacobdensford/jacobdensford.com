@@ -485,7 +485,7 @@ A javelin crafted by the giants as a gift to humans, whose lives are so short an
 This slightly soggy burlap sack contains soil from deep below, deeper even than the deepest mine. The soil contains a living colony of spotted red mushrooms. Once per day, when it is fertilized with fresh blood, roll 1d6.
 
 1d6|Result
----|---
+:---|---
 1-2|A tiny shroomling will adopt the face and general shape of the blood donor to do your bidding before returning to the bag.
 3-4|The shroomling will also have the blood donor's voice.
 5-6|The shroomling will also have the blood donor's recent memories.
@@ -636,20 +636,20 @@ When a roll (either a check, attack, or save) simply must succeed, a character m
 During short or long rests, at least one character should roleplay a scene. Think about where the characters are and what mundane tasks they might be performing during the rest. Consider what might have been weighing on the characters' minds recently. For inspiration, optionally roll on the tables below.
 
 1d4|Who leads the scene?
----|---
+:---|---
 1|Bree
 2|Davos
 2|Ilgiem
 4|Ravyn
 
 1d6|Who joins you?
----|---
+:---|---
 1|No one
 2-4|One other person (roll on previous table)
 5-6|Everyone
 
 1d6|What are you doing?
----|---
+:---|---
 1|Sitting or leaning restfully
 2|Cleaning, repairing, or polishing equipment
 3|Sorting or counting consumable items
@@ -658,7 +658,7 @@ During short or long rests, at least one character should roleplay a scene. Thin
 6|Pacing around restlessly
 
 1d8|What do you think or talk about?
----|---
+:---|---
 1|An event from your past; something from your backgrounds, character traits, ideals, flaws, or bonds
 2|An experience from earlier in the campaign
 3|A character you miss or haven't seen in awhile

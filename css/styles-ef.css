@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&family=Righteous&display=swap');
 
 body {
-  font-family: 'Helvetica', sans-serif;
+  font-family: Courier, 'Courier New', monospace;
   padding: 1rem;
   margin: 0 auto;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 h1 {
@@ -18,59 +20,63 @@ h2 {
 }
 
 h3 {
+  font-family: 'Helvetica', sans-serif;
   text-transform: uppercase;
 }
 
 h3 {
+  font-family: 'Helvetica', sans-serif;
   text-transform: uppercase;
 }
 
 h4 {
+  font-family: 'Helvetica', sans-serif;
   text-transform: uppercase;
 }
 
 h5 {
+  font-family: 'Helvetica', sans-serif;
   text-transform: uppercase;
 }
 
 p {
- font-family: 'Courier New', serif;
  line-height: 1.4rem
 }
 
-em {
-  font-family: 'Courier New', serif;
-}
-
 hr {
-  opacity: 0.2;
   margin: 1rem 0 1rem 0;
 }
 
 table {
   width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 ul {
 }
 
-a {
-  text-decoration: none;
-}
-
 a:link,
 a:visited {
+  color: #000000;
 }
 
 a:hover {
+  color: #e40712;
 }
 
 .pre-nav > h1 {
   margin: 0 1rem 0 1rem;
+  color: #e40712;
 }
 
 .pre-nav p {
   margin: 0 1rem 0 1rem;
+}
+
+.pre-nav a:link,
+.pre-nav a:visited {
+  color: #CB121C;
 }
 
 .pre-nav {
@@ -94,6 +100,15 @@ nav > ul {
 
 nav > ul > li > a {
   margin: 1rem 1rem 1rem 1rem;
+}
+
+nav > ul > li > a,
+.pre-nav > h1 > a {
+  text-decoration: none;
+}
+
+.pre-nav > h1 > a:hover {
+  color: #000000;
 }
 
 .barcode {
