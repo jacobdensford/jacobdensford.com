@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&family=Righteous&display=swap');
 
 body {
-  font-family: sans-serif;
+  font-family: 'Helvetica', sans-serif;
   padding: 1rem;
   margin: 0 auto;
 }
@@ -52,7 +52,6 @@ table {
 }
 
 ul {
-  list-style-type: none;
 }
 
 a {
