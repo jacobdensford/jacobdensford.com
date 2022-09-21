@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&family=Righteous&display=swap');
+
+body {
+  font-family: sans-serif;
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Righteous', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Righteous', sans-serif;
+  text-transform: uppercase;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+h4 {
+  text-transform: uppercase;
+}
+
+h5 {
+  text-transform: uppercase;
+}
+
+p {
+ font-family: 'Courier New', serif;
+ line-height: 1.4rem
+}
+
+em {
+  font-family: 'Courier New', serif;
+}
+
+hr {
+  opacity: 0.2;
+  margin: 1rem 0 1rem 0;
+}
+
+table {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+}
+
+a:hover {
+}
+
+.pre-nav > h1 {
+  margin: 0 1rem 0 1rem;
+}
+
+.pre-nav p {
+  margin: 0 1rem 0 1rem;
+}
+
+.pre-nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+nav > ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-family: sans-serif;
+  list-style-type: none;
+  list-style-position: inside;
+  text-transform: uppercase;
+  padding: 0;
+}
+
+nav > ul > li > a {
+  margin: 1rem 1rem 1rem 1rem;
+}
+
+.barcode {
+  font-family: 'Libre Barcode 128', sans-serif;
+}
+
+@media only screen and (min-width: 700px) {
+
+  body {
+    width: 700px;
+  }
