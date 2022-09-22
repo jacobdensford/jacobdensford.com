@@ -141,12 +141,31 @@ header > h1 > a:active {
   padding: 0 0.5rem 0 0.5rem;
 }
 
-footer > p {
-  text-align: center;
+footer > h1 > a {
+  text-decoration: none;
 }
 
-footer > p > a {
-  text-decoration: none;
+footer > h1 > a {
+  background-color: #e40712;
+  border: none;
+  border-radius: 50%;
+  margin: 1rem;
+  display: inline-block;
+  text-align: center;
+  font-size: 3rem;
+  width: 9rem;
+  line-height: 9rem;
+}
+
+footer > h1 > a:link,
+footer > h1 > a:visited {
+  color: #ffffff;
+}
+
+footer > h1 > a:hover,
+footer > h1 > a:active {
+  background-color: #000000;
+  color: #e40712;
 }
 
 @media only screen and (min-width: 700px) {
