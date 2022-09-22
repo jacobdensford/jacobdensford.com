@@ -57,6 +57,7 @@ h1 {
   text-align: center;
   color: #e40712;
   font-size: 3.7rem;
+  margin: 1rem 0 1rem 0;
 }
 
 h2 {
@@ -106,28 +107,6 @@ a:hover {
   color: #e40712;
 }
 
-.pre-nav > h1 {
-  margin: 0 0.7rem 0 0.7rem;
-  color: #e40712;
-  font-size: 1.7rem;
-}
-
-.pre-nav p {
-  margin: 0 1rem 0 1rem;
-}
-
-.pre-nav a:link,
-.pre-nav a:visited {
-  color: #CB121C;
-}
-
-.pre-nav {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
 nav > ul {
   display: flex;
   flex-direction: row;
@@ -146,16 +125,28 @@ nav > ul > li > a {
 }
 
 nav > ul > li > a,
-.pre-nav > h1 > a {
+header > h1 > a {
   text-decoration: none;
 }
 
-.pre-nav > h1 > a:hover {
-  color: #000000;
+header > h1 > a:link,
+header > h1 > a:visited {
+  color: #e40712;
 }
 
-.barcode {
-  font-family: 'Libre Barcode 128', sans-serif;
+header > h1 > a:hover,
+header > h1 > a:active {
+  background-color: #e40712;
+  color: #ffffff;
+  padding: 0 0.5rem 0 0.5rem;
+}
+
+footer > p {
+  text-align: center;
+}
+
+footer > p > a {
+  text-decoration: none;
 }
 
 @media only screen and (min-width: 700px) {
