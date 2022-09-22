@@ -1,59 +1,100 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&family=Righteous&display=swap');
 
+@font-face {
+    font-family: 'alte_haas_grotesk';
+    src: url('/fonts/altehaasgroteskbold-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'alte_haas_grotesk';
+    src: url('/fonts/altehaasgroteskregular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmunit-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'cmu_typewriter_text_bold';
+    src: url('/fonts/cmuntb-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmuntt-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmuntx-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
 body {
-  font-family: Courier, 'Courier New', monospace;
+  font-family: 'cmu_typewriter_text', Courier, 'Courier New', monospace;
   padding: 1rem;
   margin: 0 auto;
   background-color: #ffffff;
   color: #000000;
+  font-size: 1.3rem;
 }
 
 h1 {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'alte_haas_grotesk', sans-serif;
   text-transform: uppercase;
   text-align: center;
+  color: #e40712;
+  font-size: 3.7rem;
 }
 
 h2 {
-  font-family: 'Righteous', sans-serif;
-  text-transform: uppercase;
+  font-family: 'alte_haas_grotesk', sans-serif;
 }
 
 h3 {
-  font-family: 'Helvetica', sans-serif;
-  text-transform: uppercase;
+  font-family: 'alte_haas_grotesk', sans-serif;
 }
 
 h3 {
-  font-family: 'Helvetica', sans-serif;
-  text-transform: uppercase;
+  font-family: 'alte_haas_grotesk', sans-serif;
 }
 
 h4 {
-  font-family: 'Helvetica', sans-serif;
-  text-transform: uppercase;
+  font-family: 'alte_haas_grotesk', sans-serif;
 }
 
 h5 {
-  font-family: 'Helvetica', sans-serif;
-  text-transform: uppercase;
+  font-family: 'alte_haas_grotesk', sans-serif;
 }
 
 p {
- line-height: 1.4rem
+ line-height: 1.7rem
 }
 
 hr {
   margin: 1rem 0 1rem 0;
 }
 
-table {
-  width: 100%;
-  margin-top: 1em;
-  margin-bottom: 1em;
+strong {
+  text-transform: capitalize;
 }
 
-ul {
+table {
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 a:link,
@@ -66,8 +107,9 @@ a:hover {
 }
 
 .pre-nav > h1 {
-  margin: 0 1rem 0 1rem;
+  margin: 0 0.7rem 0 0.7rem;
   color: #e40712;
+  font-size: 1.7rem;
 }
 
 .pre-nav p {
@@ -100,6 +142,7 @@ nav > ul {
 
 nav > ul > li > a {
   margin: 1rem 1rem 1rem 1rem;
+  font-size: 1rem;
 }
 
 nav > ul > li > a,
