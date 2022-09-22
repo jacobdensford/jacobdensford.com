@@ -1,8 +1,7 @@
 ---
 layout: main-ef.njk
+title: 'Empire & Flame'
 ---
-
-# Empire & Flame
 
 *The Kingdom of Endoran is on the brink of war. In the capital of Aelmore, King Edric Almson calls for all able-bodied men and women of fighting age to muster to the city's defense.*
 
