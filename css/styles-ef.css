@@ -158,7 +158,7 @@ footer > h1 > a {
 }
 
 footer > h1 > a {
-  background-color: #e40712;
+  background-color: #000000;
   border: none;
   border-radius: 50%;
   margin: 1rem;
@@ -176,8 +176,7 @@ footer > h1 > a:visited {
 
 footer > h1 > a:hover,
 footer > h1 > a:active {
-  background-color: #000000;
-  color: #e40712;
+  background-color: #e40712;
 }
 
 @media only screen and (min-width: 700px) {
