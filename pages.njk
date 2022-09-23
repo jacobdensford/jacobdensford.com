@@ -1,25 +1,14 @@
 ---
 layout: home.njk
 title: Pages
-subtitle: A periodically updated collection of ideas, information, and explorations. A commonplace book. A personal wiki. A digital garden.
 ---
+
+<h2>Pages</h2>
 
 <div class="all-cards">
   {%- for post in collections.pages -%}
     <div class="single-card">
-      <ul class="tags">
-        {%- for tag in post.data.tags -%}
-          {%- if tag != 'pages' -%}
-            <li><a href="/tags/{{ tag }}/">{{ tag }}</a></li>
-          {%- endif %}
-        {%- endfor %}
-      </ul>
-      <h2><a href="{{ post.data.url }}">{{ post.data.title }}</a></h2>
-      <p>{{ post.data.subtitle }}</p>
+      <h3><a href="{{ post.data.url }}">{{ post.data.title }}</a></h3>
     </div>
   {%- endfor %}
 </div>
-
-<footer>
-  <p>For more information about what a digital garden is, why I have one, and where the idea came from, check out this <a href="https://maggieappleton.com/garden-history">brief history and ethos</a> by <a href="https://maggieappleton.com/about">Maggie Appleton</a>.</p>
-</footer>

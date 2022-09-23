@@ -1,21 +1,14 @@
 ---
 layout: home.njk
 title: Posts
-subtitle: Things I thought one time, presented in reverse chronological order. It's a blog.
 ---
+
+<h2>Posts</h2>
 
 <div class="post-cards">
   {%- for post in collections.posts | reverse -%}
     <div class="single-post">
-      <ul class="tags">
-        {%- for tag in post.data.tags -%}
-          {%- if tag != 'posts' -%}
-            <li><a href="/tags/{{ tag }}/">{{ tag }}</a></li>
-          {%- endif %}
-        {%- endfor %}
-      </ul>
-      <h2><a href="{{ post.data.url }}">{{ post.data.title }}</a></h2>
-      <p>{{ post.data.subtitle }}</p>
+      <h3><a href="{{ post.data.url }}">{{ post.data.title }}</a></h3>
     </div>
   {%- endfor %}
 </div>
