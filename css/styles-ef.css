@@ -53,10 +53,6 @@ body {
   font-size: 1.3rem;
 }
 
-nav {
-  margin: 1rem 0 1rem 0;
-}
-
 img {
   display: block;
   max-width: 100%;
@@ -124,19 +120,25 @@ a:active {
 }
 
 nav > ul {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  text-align: center;
+  padding-left: 0;
+}
+
+nav > ul {
   font-family: sans-serif;
   list-style-type: none;
   list-style-position: inside;
   text-transform: uppercase;
-  padding: 0;
+  margin: 1rem;
+}
+
+nav > ul > li {
+  display: inline;
 }
 
 nav > ul > li > a {
-  margin: 1rem 1rem 1rem 1rem;
+  display: inline-block;
+  margin: 0.5rem;
 }
 
 nav > ul > li > a:link,
