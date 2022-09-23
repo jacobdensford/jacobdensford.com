@@ -86,6 +86,7 @@ p {
 }
 
 hr {
+  border: 1px solid var(--text-color);
   margin: 1rem 0 1rem 0;
 }
 
@@ -136,7 +137,6 @@ nav > ul {
 
 nav > ul > li > a {
   margin: 1rem 1rem 1rem 1rem;
-  font-size: 1rem;
 }
 
 nav > ul > li > a:link,
