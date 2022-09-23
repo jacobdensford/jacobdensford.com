@@ -17,7 +17,7 @@ Oh, and degrees are in Fahrenheit.
 
 <section>
 
-## Table of Contents
+### Table of Contents
 
 - <a href="#fried-chicken">Chicken, Fried</a>
 - <a href="#chicken-and-waffles">Chicken and Waffles</a>
@@ -32,7 +32,7 @@ Oh, and degrees are in Fahrenheit.
 
 <section>
 
-<h2 id="fried-chicken">Chicken, Fried</h2>
+<h3 id="fried-chicken">Chicken, Fried</h3>
 
 Combine **2T paprika**, **2T freshly ground black pepper**, **2t garlic powder**, **2t dried oregano**, and **1/2t cayenne**, adding more spices if feeling more spicy. In a separate bowl, whisk **1c buttermilk**, **1 egg**, **1T salt**, and **2T spice mixture**. Add **4 skinless, boneless chicken thighs** and toss to coat. Transfer to freezer bag and refrigerate overnight (at least 4 hours).
 
@@ -52,7 +52,7 @@ Alternate chicken idea: the chicken from [Bon Appetit's Spicy Chicken Katsu Sand
 
 <section>
 
-<h2 id="chicken-and-waffles">Chicken and Waffles</h2>
+<h3 id="chicken-and-waffles">Chicken and Waffles</h3>
 
 - <a href="#fried-chicken">Chicken, Fried</a>
 - <a href="#spicy-apple-slaw">Slaw, Spicy Apple</a>
@@ -62,7 +62,7 @@ Alternate chicken idea: the chicken from [Bon Appetit's Spicy Chicken Katsu Sand
 
 <section>
 
-<h2 id="spring-galette">Galette, Spring</h2>
+<h3 id="spring-galette">Galette, Spring</h3>
 
 Combine **1 1/4 cups all purpose flour** with **1 t salt** in large mixing bowl. Cut in **1 stick cold, cubed, unsalted butter** with forks, making sure to leave plenty of pea sized chunks. Slowly mix in **1/2 cup ice water** until dough is combined but not too sticky, using your hands if necessary, but working quickly so as not to warm the dough. Shape dough into disk, wrap in plastic, refrigerate for at least an hour.
 
@@ -72,7 +72,7 @@ Over medium-high heat, cook **1/2 lbs cubed bacon** and **4 sliced green onion b
 
 <section>
 
-<h2 id="gluhwein">Glühwein</h2>
+<h3 id="gluhwein">Glühwein</h3>
 
 In a pot on the stove, combine **1 bottle of red wine** with **1 quartered orange**, **2 cinnamon sticks**, **6 cloves**, **3 star anise**, and **1/2c sugar**. Simmer (do not boil) for fifteen minutes and serve hot with an optional shot of **dark rum** (mit Schuss).
 
@@ -80,7 +80,7 @@ In a pot on the stove, combine **1 bottle of red wine** with **1 quartered orang
 
 <section>
 
-<h2 id="cranberry-sauce">Sauce, Cranberry</h2>
+<h3 id="cranberry-sauce">Sauce, Cranberry</h3>
 
 In medium pan heat **12oz fresh or frozen cranberries** with **1c sugar**, **2/3c red wine**, **juice of 1 orange** until cranberries begin to burst. Smash cranberries with wooden spoon then add **orange zest**, **grated ginger**, **grated nutmeg**, **3 cinnamon sticks**, **10 cloves**, **10 allspice** and simmer until sauce thickens. Cool and serve.
 
@@ -88,7 +88,7 @@ In medium pan heat **12oz fresh or frozen cranberries** with **1c sugar**, **2/3
 
 <section>
 
-<h2 id="spicy-apple-slaw">Slaw, Spicy Apple</h2>
+<h3 id="spicy-apple-slaw">Slaw, Spicy Apple</h3>
 
 Whisk together **1T honey**, **1/2c mayonnaise**, **1T sriracha**, **1/2t garlic powder**, **1/2t onion powder**, **1/2t salt** and refrigerate overnight (at least a few hours). Then add **1t apple cider vinegar**, **1 julienned granny smith apple**, **1c thinly sliced cabbage**, and **1/2c thinly sliced red onion**. Salt and pepper to taste.
 
@@ -102,7 +102,7 @@ Inspiration: [Fried Chicken and Waffle Sliders with Spicy Mayo](http://www.foodn
 
 <section>
 
-<h2 id="beef-stew">Stew, Beef, the Great Pumpkin Beer Tasting</h2>
+<h3 id="beef-stew">Stew, Beef, the Great Pumpkin Beer Tasting</h3>
 
 Heat **1 T olive oil** in 6 qt dutch oven or other sturdy pot, then add **2 slices of bacon**, chopped up. Cook on medium until bacon is crunchy. Remove bacon and add **2 lb of beef chuck**, cubed and tossed in salt, pepper, and flour; browning in batches and then removing. Cook **1/2 chopped onion** and **3 finely chopped cloves of garlic** until just fragrant. Add **3 T tomato paste**. Stir and cook until combined. Deglaze with **750 ml of red wine** and then return beef and bacon to pot and add **a generous bunch of sage, rosemary, and thyme**. Cook ten minutes, stirring occasionally. Add **3 lb of cubed root vegetables and mushrooms** and then add stock until covered (**about 2 cups beef stock**). Simmer for 3 - 6 hours, stirring gently from time to time. Salt and pepper to taste. Serve, or refrigerate for days.
 
@@ -116,7 +116,7 @@ New stew research: The article ["Why You Shouldn't Cook Your Beef All Day"](http
 
 <section>
 
-<h2 id="waffles">Waffles</h2>
+<h3 id="waffles">Waffles</h3>
 
 Melt **3oz unsalted butter** in saucepan and stir until browned. Remove from heat and stir in **4t sugar**, **1t salt**, and **10oz milk**, followed by **an egg**. Add **7 and 1/2oz all-purpose flour** and stir until smooth. Last, add **1 1/4t instant dry yeast** and **1/4t baking soda**, stirring to combine. Cover and refrigerate overnight (between 12 and 18 hours).
 
