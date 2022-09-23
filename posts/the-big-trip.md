@@ -21,7 +21,7 @@ Yes, it is time to go.
 
 The big trip!
 
-## The plan, vaguely
+### The plan, vaguely
 
 The plan is to leisurely head up to Maine and then down the East Coast (but not so leisurely that I become snowbound), then to drive along the southern border to the west, and keep going until I reach Anaheim. Really, I can go as slow or fast as I feel like. There are only a few places that I have to reach by certain dates—Birmingham by October fourth, New Orleans in early November, and Anaheim on the twenty-fifth of May.
 
@@ -39,7 +39,7 @@ Or this:
 
 What I’m saying is: I can go wherever, whenever, as long as I reach Anaheim by the twenty-fifth of May<sup><a href=#2down id="2up">2</a></sup>.
 
-## Why?
+### Why?
 
 A more relevant question might be, “Why not?” It’s something I’ve always wanted to do, and I’m never going to be freer and abler to do it than I am right now. But there’s more to it.
 
@@ -51,7 +51,7 @@ I’m knee-deep in the second draft of my novel. By the end of this trip, it is 
 
 Plenty to fill my days and maybe even make a little money along the way. But just enough to remain free.
 
-## Off I go
+### Off I go
 
 Now I am off. Stay tuned here for updates, follow me on [Instagram](https://instagram.com/jacobdensford/) and [Twitter](https://twitter.com/jacobdensford/), and maybe even sign up for my [newsletter](https://buttondown.email/jacobdensford). (I might even post a [TikTok or two](https://www.tiktok.com/@jacobdensford). Who knows?) See you later!
 

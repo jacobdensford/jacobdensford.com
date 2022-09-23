@@ -2,38 +2,31 @@
 layout: head.njk
 ---
 
-<header class="site-header">
+<header>
 
-  <!-- logo or whatever will go here -->
+  <h1 id="top"><a href="{{ sightlink }}">{{ sitetitle }}</a></h1>
 
-  <h1 class="header-logo" id="top"><a href="/">J</a></h1>
+  <hr/>
 
   <nav>
     <ul>
+      <li><a href="/">Home</a></li>
       <li><a href="/about/">About</a></li>
-      <!-- <li><a href="/contact/">Contact</a></li>
-      <li><a href="/now/">Now</a></li> -->
+      <li><a href="/contact/">Contact</a></li>
       <li><a href="/projects/">Projects</a></li>
       <li><a href="/pages/">Pages</a></li>
       <li><a href="/posts/">Posts</a></li>
     </ul>
   </nav>
 
-  <!-- social media links might go here -->
+  <hr/>
 
 </header>
 
 {{ content | safe }}
 
-<!-- <footer class="site-footer">
-  <a class="back-to-top" href="#top">Back to top &#8593;</a>
-   <nav>
-    <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/about/">About</a></li>
-      <li><a href="/projects/">Projects</a></li>
-      <li><a href="/pages/">Pages</a></li>
-      <li><a href="/posts/">Posts</a></li>
-    </ul>
-  </nav>
-</footer> -->
+<footer>
+
+  <h1><a href="#top">{{ letter }}</a></h1>
+
+</footer>

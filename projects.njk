@@ -1,21 +1,14 @@
 ---
 layout: home.njk
 title: Projects
-subtitle: Things I've made, things I'm making, and things I'm procrastinating.
 ---
+
+<h2>Projects</h2>
 
 <div class="all-cards">
   {%- for post in collections.projects -%}
     <div class="single-card">
-      <ul class="tags">
-        {%- for tag in post.data.tags -%}
-          {%- if tag != 'projects' -%}
-            <li><a href="/tags/{{ tag }}/">{{ tag }}</a></li>
-          {%- endif %}
-        {%- endfor %}
-      </ul>
-      <h2><a href="{{ post.data.url }}">{{ post.data.title }}</a></h2>
-      <p>{{ post.data.subtitle }}</p>
+      <h3><a href="{{ post.data.url }}">{{ post.data.title }}</a></h3>
     </div>
   {%- endfor %}
 </div>

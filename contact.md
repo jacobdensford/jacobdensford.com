@@ -1,8 +1,9 @@
 ---
 layout: home.njk
 title: Contact
-subtitle: "Wanna talk? Here's how."
 ---
+
+## Contact me
 
 I love email. Really. Please email me. I promise I'll write back.
 
