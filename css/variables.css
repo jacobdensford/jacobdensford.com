@@ -22,5 +22,7 @@
   --heading-font: 'alte_haas_grotesk', sans-serif;
   --main-font: 'cmu_typewriter_text', Courier, 'Courier New', monospace;
   --letter-font: 'Lapti Nek', sans-serif;
-  --background-image: none;
+  --cirlce-background-image: none;
+  --circle-font-size: 4.5rem;
+  --cirlce-text-align: center;
 }
