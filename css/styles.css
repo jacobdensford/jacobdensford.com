@@ -1,354 +1,203 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,500;0,900&family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Vollkorn+SC:wght@400;700&display=swap');
+@font-face {
+    font-family: 'alte_haas_grotesk';
+    src: url('/fonts/altehaasgroteskbold-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
 
 @font-face {
-    font-family: 'Lapti Nek';
-    src: url('/fonts/laptinekaf-webfont.woff2') format('woff2');
+    font-family: 'alte_haas_grotesk';
+    src: url('/fonts/altehaasgroteskregular-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
-:root {
-  --background: #FFF8E7;
-  --accent-one: #006C67;
-  --accent-two: #C15300;
-  --text-main: rgba(0, 0, 0, 0.8);
-  --text-sub: rgba(0, 0, 0, 0.55);
-  --shadow: rgba(0, 0, 0, 0.2);
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmunit-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
 }
 
-/*
-Light Theme
-background: #FFF8E7
-text-main: rgba(0, 0, 0, 0.85)
-text-sub: rgba(0, 0, 0, 0.55)
-Dark Theme
-background: #1F1F1F
-text-main: rgba(255, 255, 255, 0.85)
-text-sub: rgba(255, 255, 255, 0.55)
-*/
+@font-face {
+    font-family: 'cmu_typewriter_text_bold';
+    src: url('/fonts/cmuntb-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmuntt-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmuntx-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
 }
 
 html {
-  font-size: 24px;
+  scroll-behavior: smooth;
 }
 
 body {
-  font-family: "Vollkorn", serif;
-  color: var(--text-main);
-  background-color: var(--background);
+  font-family: var(--main-font);
   padding: 1rem;
+  margin: 0 auto;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-size: 1.3rem;
 }
 
-p {
-  line-height: 1.45em;
-  margin-bottom: 1em;
-}
-
-h2 {
-  font-size: 1.6rem;
-}
-
-h3 {
-  font-size: 1.2rem;
-}
-
-ul {
-  list-style-position: inside;
-}
-
-hr {
-  /*border: 0;
-  border-top: 1px solid var(--text-sub);*/
-  margin-bottom: 1em;
-  opacity: 0.2;
-}
-
-.tags li > a {
-  text-decoration: none;
-}
-
-a:link,
-a:visited {
-  color: var(--accent-two);
-}
-
-a:hover {
-  color: var(--accent-one);
-}
-
-#top a {
- font-family: "Lapti Nek";
-  background-color: var(--accent-one);
-  color: var(--accent-two);
-  padding: 5px 6.5px 0px 6.5px;
-  text-align: center;
-  display: inline-block;
-  border-radius: 4px;
-}
-
-#top a:link,
-#top a:visited {
-  color: var(--accent-two);
-}
-
-#top a:hover {
-  background-color: var(--accent-two);
-  color: var(--accent-one);
-}
-
-header > a:link,
-header > a:visited {
-  font-family: "Libre Franklin", sans-serif;
-  font-size: 0.7rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  color: var(--accent-one);
-}
-
-header > a:hover {
-  color: var(--accent-two);
-}
-
-.site-header {
-  font-family: "Libre Franklin", sans-serif;
-  font-size: 0.7rem;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 3rem;
-  flex-direction: column;
-}
-
-.site-header a {
-  text-decoration: none;
-}
-
-.site-header h1 {
-  font-size: 1rem;
-  font-weight: 900;
-  margin-bottom: 1rem
-}
-
-.site-header nav {
-  width: 100%;
-}
-
-.site-header ul {
-  display: flex;
-  flex-wrap: wrap;
-  list-style-type: none;
-  justify-content: space-around;
-}
-
-.site-header ul > li {
-  font-weight: 500;
-}
-
-.site-header a:link,
-.site-header a:visited,
-.site-footer a:link,
-.site-footer a:visited {
-  color: var(--text-sub);
-}
-
-.site-header h1 > a:hover,
-.site-header nav > ul > li > a:hover,
-.site-footer a:hover {
-  color: var(--accent-one);
-}
-
-main ul {
-  margin-bottom: 1rem;
-}
-
-section {
-  margin-top: 2rem;
-}
-
-section > img,
-section > p > img,
-article > img,
-article > div > p > img {
+img {
   display: block;
   max-width: 100%;
   vertical-align: middle;
   height: auto;
   margin: 0 auto;
-  box-shadow: 0px 0px 4px 2px var(--shadow);
-}
-
-header {
-  margin-bottom: 2rem;
 }
 
 header > h1 {
-  font-size: 2.3rem;
-}
-
-.tags {
-  font-family: "Libre Franklin", sans-serif;
-  font-size: 0.7rem;
-  color: var(--accent-one);
-  font-weight: 500;
+  font-family: var(--title-font);
   text-transform: uppercase;
-  display: flex;
-  flex-wrap: wrap;
-  list-style-type: none;
-  margin-bottom: 0rem;
+  color: var(--title-color);
+  font-size: 3.7rem;
+  margin: 1rem 0 1.742rem 0;
 }
 
-.tags li > a:link,
-.tags li > a:visited {
-  color: var(--accent-one);
+h1 {
+  text-align: center;
 }
 
-.tags li > a:hover {
-  color: var(--accent-two);
+h1, h2, h3, h4, h5 {
+  font-family: var(--heading-font);
 }
 
-.tags li {
-  margin-right: 1rem;
+p {
+ line-height: 1.7rem
 }
 
-.subtitle {
-  font-size: 1.3rem;
-  color: var(--text-sub);
+hr {
+  border: 1px solid var(--text-color);
+  margin: 1rem 0 1rem 0;
 }
 
-.sub-subtitle {
-  font-size: 1rem;
-  color: var(--text-sub);
+strong {
+  text-transform: capitalize;
 }
 
-.notes-title {
-  font-size: 2.3rem;
-}
-
-.note-cards {
-
-}
-
-.all-cards {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: stretch;
+table {
   width: 100%;
-  margin-top: 2rem;
-}
-
-.single-card {
-  flex-basis: 360px;
-  margin: 0rem 1rem 1rem 0rem;
-}
-
-.single-card p,
-.single-note p,
-.single-post p {
-  color: var(--text-sub);
-}
-
-.single-note p {
-  font-size: 0.7rem;
-}
-
-.single-card a,
-.single-post a {
-  text-decoration: none;
-}
-
-.single-note ,
-.single-post {
-  margin-bottom: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 footer {
-  font-size: 0.7rem;
-  color: var(--text-sub);
-
+  margin: 1rem 0 1rem 0;
 }
 
-.posted-edited-time {
-  font-size: 0.7rem;
-  color: var(--text-sub);
+footer > p {
+  font-style: italic;
 }
 
-.site-footer {
-  font-family: "Libre Franklin", sans-serif;
-  font-size: 0.7rem;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin-top: 3rem;
-  font-weight: 500;
+.lastdate {
+  font-family: var(--heading-font);
+  font-size: 1rem;
 }
 
-.site-footer a {
+a:link,
+a:visited {
+  color: var(--link-color);
+}
+
+a:hover,
+a:active {
+  color: var(--link-hover-color);
+}
+
+nav > ul {
+  text-align: center;
+  padding-left: 0;
+}
+
+nav > ul {
+  font-family: sans-serif;
+  list-style-type: none;
+  list-style-position: inside;
+  text-transform: uppercase;
+  margin: 1rem;
+}
+
+nav > ul > li {
+  display: inline;
+}
+
+nav > ul > li > a {
+  display: inline-block;
+  margin: 0.5rem;
+}
+
+nav > ul > li > a:link,
+nav > ul > li > a:visited {
+  color: var(--nav-color);
+}
+
+nav > ul > li > a:hover,
+nav > ul > li > a:active {
+  color: var(--nav-hover-color);
+}
+
+
+nav > ul > li > a,
+header > h1 > a {
   text-decoration: none;
 }
 
-.site-footer ul {
-  display: flex;
-  flex-wrap: wrap;
-  list-style-type: none;
+header > h1 > a:link,
+header > h1 > a:visited {
+  color: var(--title-color);
 }
 
-.site-footer ul > li {
-  margin-left: 1rem;
+header > h1 > a:hover,
+header > h1 > a:active {
+  background-color: var(--title-hover-color);
+  color: var(--background-color);
+  padding: 0.5rem 1rem 0.5rem 1rem;
 }
 
-.back-to-top {
-  text-transform: uppercase;
+footer > h1 > a {
+  background-color: var(--accent-color);
+  background-image: var(--background-image);
+  font-family: var(--letter-font);
+  text-decoration: none;
+  border: none;
+  border-radius: 50%;
+  margin: 1rem;
+  display: inline-block;
+  text-align: center;
+  font-size: 3.5rem;
+  width: 8rem;
+  line-height: 8rem;
 }
 
-@media only screen and (min-width: 600px) {
-  .site-header {
-    flex-direction: row;
-  }
-
-  .site-header h1 {
-    margin-bottom: 0rem
-  }
-
-  .site-header nav {
-    width: auto;
-  }
-
-  .site-header ul > li {
-    margin-left: 1rem;
-  }
-
-  .site-header ul > li:first-of-type {
-    margin-left: 0rem;
-  }
-
-  .site-header ul {
-    justify-content: flex-end;
-  }
-  header > h1 {
-    font-size: 3.3rem;
-  }
+footer > h1 > a:link,
+footer > h1 > a:visited {
+  color: var(--accent-color-2);
 }
 
-@media only screen and (min-width: 800px) {
-
-  main {
-    width: 800px;
-    margin: 0 auto;
-  }
-
-@media only screen and (min-width: 1200px) {
-
-  .back-to-top {
-    position: fixed;
-    bottom: 1rem;
-    left: 1rem;
-  }
-
+footer > h1 > a:hover,
+footer > h1 > a:active {
+  background-color: var(--accent-color-3);
+  background-image: none;
+  color: var(--accent-color-4)
 }
+
+@media only screen and (min-width: 700px) {
+
+  body {
+    width: 700px;
+  }

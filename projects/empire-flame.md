@@ -28,6 +28,8 @@ subtitle: A fantasy setting.
 
 *They must conquer flames.*
 
+[Empire & Flame](/empire-flame) is a setting, series of adventures, and some homebrewed mechanics for a Dungeons & Dragons
+
 ### Status
 
-[Empire & Flame](/empire-flame) is a setting, series of adventures, and some homebrewed mechanics for a Dungeons & Dragons campaign I'm currently running.
+I'm currently running this campaign. The [Empire & Flame](/empire-flame) page will be updated weekly is I prepare more for the active game.
