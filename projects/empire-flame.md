@@ -28,7 +28,7 @@ subtitle: A fantasy setting.
 
 *They must conquer flames.*
 
-[Empire & Flame](/empire-flame) is a setting, series of adventures, and some homebrewed mechanics for a Dungeons & Dragons
+[Empire & Flame](/empire-flame) is a setting, series of adventures, and some homebrewed mechanics for Dungeons & Dragons.
 
 ### Status
 

@@ -171,15 +171,15 @@ header > h1 > a:active {
 
 footer > h1 > a {
   background-color: var(--accent-color);
-  background-image: var(--background-image);
+  background-image: var(--cirlce-background-image);
   font-family: var(--letter-font);
   text-decoration: none;
   border: none;
   border-radius: 50%;
   margin: 1rem;
   display: inline-block;
-  text-align: center;
-  font-size: 3.5rem;
+  text-align: var(--circle-text-align);
+  font-size: var(--circle-font-size);
   width: 8rem;
   line-height: 8rem;
 }
