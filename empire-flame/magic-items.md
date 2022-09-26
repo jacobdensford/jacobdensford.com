@@ -30,7 +30,7 @@ When you drink this potion, your Strength score changes to 21 for 1 hour. The po
 
 ### Zalabor the Multi-colored's Staff
 
-*Staff, rare (requires attunement)*
+*Staff, very rare (requires attunement)*
 
 This staff is made of carved and polished wood with a cracked glass orb affixed to its top. The orb appears clear, but when light shines through it, it shines with a broken prismatic glow.
 
@@ -38,11 +38,13 @@ At dawn, the staff gains four charges. Expend one charge to cast a lesser versio
 
 <h2 id="weapons">Weapons</h2>
 
-### Daggers of the Far Sea
+### Javelin of Giant-friend
 
-Three daggers rest on a bed of padded silk within a polished wooden box. They are the Daggers of the Far Sea, given as gifts from Empress Nishanesti to her most sinless generals. Each of the three daggers represents on of the three imperial siblings.
+*Weapon, rare (requires attunement)*
 
-#### Nishanesti's Dagger
+A javelin crafted by the giants as a gift to humans, whose lives are so short and bodies so weak. Faintly glowing runes line its blade. The giants worried humans wouldn't have time to retrieve their thrown weapons, nor strength to rend them from the bodies of their foes, so they imbued this javelin with runic magic. After being thrown, this javelin returns to its bearer's hand, dealing 1d4 damage to any in its direct path (including anyone who was already hit by the weapon).
+
+### Nishanesti's Dagger
 
 *Weapon, rare (requires attunement)*
 
@@ -50,15 +52,15 @@ This dagger is golden in color with a gauntleted fist cast in miniature as its p
 
 This dagger deals 1d4 additional damage for each of the other Far Sea daggers that are within one hundred feet of it.
 
-#### Wendimu's Dagger
+### Tewodros' Bloodthirsty Blade
 
-*Weapon, rare (requires attunement)*
+*Weapon, very rare (requires attunement)*
 
-This dagger's black hilt is wrapped by a single ivory snake. The snakes mouth is open at the pommel, and the length of the snake is hollowed out. Shallow grooves twist and curl up the blade from the tip of the snake's tail.
+This weapon, from hilt to blade-tip, is blacker than night and wreathed in dark smoke. It seems to almost consume the very light that touches it. It thirsts for blood. At first, it is but the size of a dagger, but as it drinks, it grows.
 
-When a poison is applied to this dagger through the mouth of  the snake, it runs up through the tail and into the grooves of the blade. Poisons applied to the dagger in this way, they last a full day instead of one hour.
+When this blade is drawn, its barer must make a DC 10 Wisdom saving throw or be charmed by the blade and forced to attack and draw blood from the closest living being. Each time this blade draws blood, it gets larger, its damage increases, and its sway on its barer grows stronger. For the purposes of proficiency and attack rolls the blade is a dagger, even after growing. It strengthens as follows: 1d6, 1d8, 1d10, 1d12. Beyond that point, it needs two hands to wield and has reach, increasing in damage as follows: 2d6, 2d8, 2d10, 2d12, 3d6, 3d8, 3d10, 3d12, 4d6, etc. The blade requires a Wisdom saving throw to stop attacking and avoid being charmed. The save's DC increases by 1 for each successful attack after being drawn. After succeeding on the save, the blade's size and strength diminishes by one step per round.
 
-#### Tewodros's Dagger
+### Tewodros' Dagger
 
 *Weapon, rare (requires attunement)*
 
@@ -66,11 +68,13 @@ Black smoke curls around this dagger, obscuring it from view.
 
 As an action, you can cause the dagger's smoke to bellow around you, heavily obscuring a 20-foot-radius sphere, which disperses after 1 hour or if blown by a wind of moderate or greater speed.
 
-### Javelin of Giant-friend
+### Wendimu's Dagger
 
 *Weapon, rare (requires attunement)*
 
-A javelin crafted by the giants as a gift to humans, whose lives are so short and bodies so weak. Faintly glowing runes line its blade. The giants worried humans wouldn't have time to retrieve their thrown weapons, nor strength to rend them from the bodies of their foes, so they imbued this javelin with runic magic. After being thrown, this javelin returns to its bearer's hand, dealing 1d4 damage to any in its direct path (including anyone who was already hit by the weapon).
+This dagger's black hilt is wrapped by a single ivory snake. The snakes mouth is open at the pommel, and the length of the snake is hollowed out. Shallow grooves twist and curl up the blade from the tip of the snake's tail.
+
+When a poison is applied to this dagger through the mouth of  the snake, it runs up through the tail and into the grooves of the blade. Poisons applied to the dagger in this way, they last a full day instead of one hour.
 
 <h2 id="wondrous">Wondrous Items</h2>
 
