@@ -7,17 +7,21 @@ image: url("/images/efimage.png")
 
 # House Rules
 
-## Gaining Inspiration
+## Inspiration
 
-Inspiration can be handed out at any time at the DM's discretion. However, certain situations always grant inspiration. Each character gains inspiration after completing a long rest or leveling up. A character also gains inspiration when they put themselves in harm's way by following their personality traits, ideals, bonds, or flaws. After rolling a critical failure, a character gains inspiration that can be used on any subsequent rolls. After rolling a critical success, a character can grant one of their companions inspiration, but does not gain inspiration themselves.
+Inspiration can be spent either before or after rolling to gain advantage on an attack role, save, or ability check.
+
+Inspiration can be handed out at any time at the DM's discretion. However, certain situations always grant inspiration:
+
+- At the start of a session
+- By acting out personality traits, ideals, bonds, or flaws, especially when such actions put characters in harm's way (call this out to the DM so they know what you're doing)
+- After rolling a critical failure (can be used on any subsequent rolls, but not on the failed roll that just happened)
+- After rolling a critical success, a character can grant one of their companions inspiration, but does not gain inspiration themselves
+- Gain one point of exhaustion in exchange for inspiration (characters can keep gaining inspiration and rerolling the same roll, gaining one additional point of exhaustion each time until they have six points of exhaustion and begin making death saves, at which point their roll automatically succeeds)
 
 ## Passive Checks
 
 All passive checks use a base of 5 instead of 10. For example, a 1st level character with a +2 WIS and who is proficient in perception would have a 7 passive perception (base 5, +2 from WIS, +2 proficiency).
-
-## Pushing Beyond Breaking
-
-When a roll (either a check, attack, or save) simply must succeed, a character may push themselves beyond their breaking point in order to automatically succeed. They may choose to do this either before or after they've already made the roll. But there is a cost to such success. A character who pushes themselves in such a way is broken in their relevant stat, having to make all rolls using that stat with disadvantage until they have spent a significant amount of time (days, weeks, or even years in some cases) doing specific things to recover from that debility, as outlined by the DM. The DM will tell you what must be done to recover and how long it will take before you make the decision to push yourself in such a way.
 
 ## Rest Roleplay
 
@@ -58,7 +62,7 @@ During short or long rests, at least one character should roleplay a scene. Thin
 
 ## Skill Checks: Limits, Successes, and Failures
 
-Skill checks are only made when the thing is possible to do and there is a risk of failure. If something would have a DC of 5 or lower, no check is needed. The character can simply accomplish the task. Conversely, if something would have a DC higher than 30, no check is made. The task is impossible for the character to accomplish.
+Skill checks are only made when the thing is possible to do and there is a risk of failure. If something would have a DC of 5 or lower, no check is needed. The character can simply accomplish the task. Also, if 5 plus the character's relevant modifiers (ability and proficiency bonuses) would meet or exceed the DC, the task is automatically successful. Conversely, if something would have a DC higher than 30, no check is made. The task is impossible for the character to accomplish.
 
 Rolling a 1 is always a failure and rolling a 20 is always a success, even if the modified roll would not have failed or succeeded numerically when compared to the DC of the task. For example, a roll of 20 + 2 WIS + 2 proficiency would still succeed on a DC 25 task even though the roll only adds up to 24.
 
