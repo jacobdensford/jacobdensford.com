@@ -68,7 +68,7 @@ Elyn was a antique merchant in the town of Mistcrown. She was originally from Yo
 
 ### Ewis Aelstard
 
-Ewis was a lord in Mistcrown.
+Ewis was a lord in Mistcrown who was imprisoned after it was discovered he was working with the Cultists of the Red Dawn.
 
 ### Frytha
 

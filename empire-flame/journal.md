@@ -113,6 +113,8 @@ Before Bree could make the mistake of taking some of the treasure, Davos squeeze
 
 Back on track, the Four followed Balasar's trail until it reached a fork in the tunnel, passing (and killing) several frozen solid kobolds on the way. Three passages. Balasar had clearly taken the first, but to the right, desperate sounds of a captive could be heard. They considered continuing on, for their quest was feeling more and more urgent. But each of them was good at heart, despite what outward appearances might suggest.
 
+The Four rescued a teenage farmer named Billy. They fought their way through a horde of Kobolds and reached the chasm that had opened up in the ground and swallowed the Emerald River. Ilgiem nearly fell to his death, but Davos cast a featherfall spell and carried them all down safely to the chasm floor. There, they fought a group of steam mephits, and only barely survived. After a short rest, they finally found Balasar, who asked them to help him defeat a group of devils and rescue a woman who was about to be sacrificed. Unexpectedly, there was a massive horned devil who collapsed the tunnel from which they had entered the lava-filled chamber. Balasar teleported himself and the devil away, leaving The Four to defeat the remaining imps, which they did. After rescuing the captive, they followed Balasar through his sending runes. On the other side, they found themselves in a cave facing a bronze dragon. Balasar had transformed into the dragon and defeated the horned devil. He told The Four that there was more evil at work in the world than just Nishenisti and her Sinless army. He said he had to seek answers but asked The Four to return to Mistcrown and serve the city in his stead.
+
 ### Chapter 2: In the Halls of the Black Court
 
 *You stand alone atop a tower that affords a wide view of the distant obsidian mountains, their tops blown open, lava flowing freely down their sides.*
@@ -127,7 +129,7 @@ Back on track, the Four followed Balasar's trail until it reached a fork in the 
 
 *One steps forward from the rest, reaching a finger towards you that is barely more than bone. The finger touches your forehead and fills you with an icy chill. Suddenly, you are ripped free from your body, your spirit hurled into the air. You fly higher and higher, faster and faster.*
 
-*Looking down, you see four figures atop a tower, gazing out over a field of unspeakable creatures that stretches from horizon to horizon.
+*Looking down, you see four figures atop a tower, gazing out over a field of unspeakable creatures that stretches from horizon to horizon.*
 
 *You can no longer bare to look.*
 
@@ -137,7 +139,7 @@ Back on track, the Four followed Balasar's trail until it reached a fork in the 
 
 **Ellanday, the 35th day of Growing, in the 371st year of the Alliance**
 
-It had been four days since the Four had been teleported back to the wizard's tower. Four days since, at Balasar's urging, requesting an audience with the Lord Mayor of Mistcrown.
+It had been four days since the Four had been teleported back to the wizard's tower. Four days since, at Balasar's urging, requesting an audience with the Lord Mayor of Mistcrown. On that forth day, Lord Mayor Alys Aelen finally granted them an audience. She needed help solving a series of murders that had taken place in the city. The Four, after combing Mistcrown for clues and interrogating all relevant parties, managed to discover that the answers to the mystery weren't as simple as the Lord Mayor had hoped. One of the "murders" had been an accident. Another, a crime of passion. The third, a man trying to stay hidden. But the forth had been a gruesome ritual killing; that was the most troubling one. During the course of the investigation, another local noble went missing. The Four tracked the missing person to a Lord Ewis Aelstard's estate. There, they found the missing person restrained and about to be the victim in a devilish ritual. The Four stopped the ritual, but not before a fight ensued with a group of Red Dawn cultists, which the four managed to win. The Four began to be known as the Heroes of Mistcrown.
 
 ### Chapter 3: In the Footsteps of Giants
 
@@ -170,6 +172,8 @@ It had been four days since the Four had been teleported back to the wizard's to
 *And then all is cloaked in darkness.*
 
 **Ellanday, the 1st day of Reaping, in the 371st year of the Alliance**
+
+The Four attended the Festival of Reaping, won and lost some games, and had their fortunes read. During the evening celebration, the main tent was attacked by Sinless assassins. After interrogating one, they learned that giants were marching down from the mountains, through the shattered hills, and towards the logging town of Wafeld. The Four set off with all haste. On the road, they battled some owlbears and met a sinister figure called only Sig. The man offered to initiate the Four into the Order of the Third moon, but they declined. Reaching Wafeld, they discovered that they were too late. The town had all but been destroyed by giants. Not a single soul left alive now a building left standing except for the local lords' keep. Inside, The Four found Adwin and Tane, who had locked themselves away when the attack started, refusing help to everyone else in the town. The Four forced the nobles to dig graves and burry the dead as penance, then set off to track the giants across the Shattered Hills. They found a giant's camp, but the giants were dead. They had been slain by sinless assassins. The Four found evidence that the Sinless had tricked the giants into attacking the town, and that the sinless were camped further to the west. Continuing on, the four came across a giant still living, the daughter of the two dead. They befriended the giant, whose name turned out to be Lilly, and used her to speed them towards the Sinless camp and defeat them soundly. In the camp, they learned that the entire Sinless Army was marching through the Whitecloak mountains, with plans to turn east and march on Mistcrown. Davos sent his spiritual owl Oren to warn the town ahead of The Four, and then they set out at all haste. But before they had gone far, the ground open up and swallowed them into the depths.
 
 ### Chapter 4: City of Giants
 
