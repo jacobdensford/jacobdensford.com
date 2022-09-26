@@ -11,6 +11,7 @@ image: url("/images/efimage.png")
     <li><a href="#characters">Characters</a></li>
     <li><a href="#locations">Locations</a></li>
     <li><a href="#organizations">Organizations</a></li>
+    <li><a href="deities">Deities</a></li>
     <li><a href="#calendar">Calendar</a></li>
     <li><a href="#moons">Moons</a></li>
   </ul>
@@ -29,7 +30,7 @@ Adwin was a noble and businessman from Wafelt.
 
 ### Alys Aelen
 
-Alys is the Lord Mayor of Mistcrown.
+Alys was the Lord Mayor of Mistcrown until being forcibly ejected after the discovery that she has made a deal of surrender with the Sinless forces.
 
 ### Anfled
 
@@ -45,9 +46,19 @@ Balasar was a human wizard who lived in the town of Mistcrown.
 
 ### Bertio
 
-Bertio was a blacksmith in Mistcrown. Before that, he served in the Endoranian army.
+Bertio was a blacksmith in Mistcrown. Before that, he served in the Endoranian army. He was tried and found guilty for the murder of an Endoranian soldier, but he was later released in exhange for his help preparing the army's weapons for the Battle of Mistcrown.
+
+### Billy
+
+Billy was a farmer in the Mistfields around the town of Mistcrown. He served temperarily in the Endoranian army during the Battle of Mistcrown.
+
+### Cuthbeorht
+
+Cuthbeorht was an apprentice blacksmith in the town of Mistcrown. He aided Bertio in preparing the Endoranian army's weapons for the Battle of Mistcrown.
 
 ### Edric Almson
+
+![Edric](/images/edric.jpg)
 
 Edric Almson was the king of Endoran.
 
@@ -59,9 +70,13 @@ Elyn was a antique merchant in the town of Mistcrown. She was originally from Yo
 
 Ewis was a lord in Mistcrown.
 
+### Frytha
+
+Frytha was a young girl and member of Hugo's thieving guild.
+
 ### Hugo
 
-Hugo was a young boy and former member of the Black Court in Mistcrown.
+Hugo was a young boy and former member of the Black Court in Mistcrown who later went on to form his own thieving guild after being kicked out of the Black Court for attempted murder. He would come to be known as the Shadow Walker.
 
 ### Lilly
 
@@ -69,23 +84,43 @@ Lilly was a giant from the Mistcloak Mountains. Her family was tricked and murde
 
 ### Nishanesti
 
+![Nishanesti](/images/daironesta.jpg)
+
 Nishanesti was the empress of the Far Sea Archipelago.
+
+### Pleurotus Cornucopoides
+
+Pleurotus was the Primus Mycelia of the myconid colony beneath the ground in Endoran.
 
 ### Potter Jones
 
 Potter is the leader of the Black Court in Mistcrown.
 
+### Sartur
+
+Sartur was a giant and a cleric of the goddess Othea. Her soul was encased in her skull to guide all those who came seeking knowledge.
+
+### Sig
+
+Sig was a hunter and member of the Order of the Third Moon. He tried to recruit The Four to his order, but they declined.
+
 ### Tane
 
 Tane was a noble and businessman from Wafelt.
 
-### Tewondros
+### Tewodros
+
+![Tewodros](/images/tewodros.jpg)
 
 Tewondros was the brother of Nishanesti.
 
 ### Wendimu
 
 Wendimu was the sister of Nishanesti.
+
+### Zalabor the Multicolored
+
+Zalabor was a powerful wizard that lived long ago, during the time of the second cataclysm.
 
 <h2 id="locations">Locations</h2>
 
@@ -94,6 +129,8 @@ Wendimu was the sister of Nishanesti.
 The city of Aelmore was the capital of the Kingdom of Endoran and the seat of King Edric Almson. Though it was situated far from any waterway, all trade coming to or from Endoran passed through the city before continuing on.
 
 ### Alliance of the Five Domains
+
+![Alliance of the Five Domains](/images/alliance.jpg)
 
 Generations earlier, the five kingdoms of the continent ended the Great War by signing a treaty that formed the Alliance of the Five Domains and stipulated the construction of the locks system that would bind the kingdoms together, in travel and in trade. Each kingdom ruled itself independently but was prohibited from passing any laws or decrees that would inhibit free trade and travel between the domains. Once every five years, the leaders of each domain met to make decisions that would affect the whole continent.
 
@@ -131,7 +168,13 @@ Minaldar was a kingdom in the Alliance.
 
 ### Mistcrown
 
+![Mistcrown](/images/mistcrown.png)
+
 The sleepy town of Mistcrown sat atop a hill. The lowland fields surrounding the town were perpetually cloaked in fog. Mistcrown used to be rich and prosperous, at least by Endoranian standards. But when the stretch of the Emerald River beside which the town was built all but dried up, most of the town's wealth went with it.
+
+### Ostoria
+
+Ostoria was the capital city of a kingdom of giants that spanned the continent before the second cataclysm buried it far beneath the ground.
 
 ### Wafeld
 
@@ -150,6 +193,12 @@ The Black Court was a group of thieves that operated in and around Mistcrown. Th
 ### The Cult of the Red Dawn
 
 ### The Order of the Third Moon
+
+<h2 id="deities">Deities</h2>
+
+### Othea
+
+Othea was a god to the giants.
 
 <h2 id="calendar">Calendar</h2>
 
