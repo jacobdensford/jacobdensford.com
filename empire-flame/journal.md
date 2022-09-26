@@ -201,7 +201,7 @@ It had been four days since the Four had been teleported back to the wizard's to
 
 **Endday, the 5th day of Reaping, in the 371st year of the Alliance**
 
-### Chapter 5 & 7: Aelmore has Fallen & Last Stand of the Alliance
+### Chapter 5 Aelmore has Fallen
 
 *Aelmore has fallen.*
 
@@ -214,6 +214,12 @@ It had been four days since the Four had been teleported back to the wizard's to
 *Will they defeat empires?*
 
 *Will they conquer flames?*
+
+**Endday, the 7th day of Reaping, in the 371st year of the Alliance**
+
+### Chapter 6: Last Stand of the Alliance
+
+**Endday, the 10th day of Reaping, in the 371st year of the Alliance**
 
 <h2 id="part2">Part II: Rebellion</h2>
 
