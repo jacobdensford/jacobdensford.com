@@ -8,7 +8,7 @@ tags:
   - tools
 url: /pages/tabletop-rpg-tools/
 layout: ppp.njk
-date: 2022-08-17 13:20:00 -4
+date: 2022-09-27
 ---
 
 ## Map Making
