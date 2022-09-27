@@ -1,6 +1,6 @@
 ---
 layout: main-ef.njk
-title: 'Empire & Flame'
+title: 'Heroes'
 link: '/empire-flame'
 image: url("/images/efimage.png")
 ---
@@ -10,7 +10,7 @@ image: url("/images/efimage.png")
   <ul>
     <li><a href="#bree">Bree</a></li>
     <li><a href="#davos">Davos</a></li>
-    <li><a href="#ilgiem">Ilgiem</a></li>
+    <li><a href="#illgiem">Illgiem</a></li>
     <li><a href="#ravyn">Ravyn</a></li>
   </ul>
 
@@ -22,15 +22,19 @@ image: url("/images/efimage.png")
 
 <h2 id="bree">Bree</h2>
 
-*she/her, halfling, bard 4/cleric 1, played by Kelly*
+![Bree](/images/bree.png)
 
-Bree was abandoned by her mother when she was just a baby. She was left in a box in an alleyway in the eastern area of Mistcrown, just outside of the wall. Hugo, a young boy of 8 years old, found her crying and brought her to his leader, Potter Jones. They were part of a den of thieves called the Black Court. The Black Court was made up of all manners of children ranging in ages from 4-18 who were brought up to steal from the rich and prosperous in town to provide for each other. Bree grew to see these people as her family.
+*she/her, halfling, bard 4/cleric 1, criminal, played by Kelly*
 
-On her 5th birthday, Potter Jones presented her with a gift. It was a simple gift, made up of hallowed out sticks, but she loved it. It was her first pan flute. Somehow, the love she gave her flute imbued it with specific magical qualities that she did not quite understand (yet).
+**From Kelly:**
 
-As she grew older, she never let go of the flute, practicing daily. Her thoughts however, drifted to the open world. She never grew tired of thieving for her beloved Black Court, but she wanted more.
-
-Bree is a halfling of 19 years old. She is a spunky little thing with a mass of curly hair and a deep olive complexion. She wields two daggers for close hands-on combat but mostly relies on the spells coming from her pan flute.
+> Bree was abandoned by her mother when she was just a baby. She was left in a box in an alleyway in the eastern area of Mistcrown, just outside of the wall. Hugo, a young boy of 8 years old, found her crying and brought her to his leader, Potter Jones. They were part of a den of thieves called the Black Court. The Black Court was made up of all manners of children ranging in ages from 4-18 who were brought up to steal from the rich and prosperous in town to provide for each other. Bree grew to see these people as her family.
+>
+> On her 5th birthday, Potter Jones presented her with a gift. It was a simple gift, made up of hallowed out sticks, but she loved it. It was her first pan flute. Somehow, the love she gave her flute imbued it with specific magical qualities that she did not quite understand (yet).
+>
+> As she grew older, she never let go of the flute, practicing daily. Her thoughts however, drifted to the open world. She never grew tired of thieving for her beloved Black Court, but she wanted more.
+>
+> Bree is a halfling of 19 years old. She is a spunky little thing with a mass of curly hair and a deep olive complexion. She wields two daggers for close hands-on combat but mostly relies on the spells coming from her pan flute.
 
 ### Abilities
 
@@ -59,9 +63,11 @@ Bree is a halfling of 19 years old. She is a spunky little thing with a mass of 
 
 - **Nishanesti's Dagger** *+1d4 damage x number of other far sea daggers within 100ft*
 
-<h2 id="davos">Davos</h2>
+<h2 id="davos">Davos Kahn</h2>
 
-*he/him, human, wizard 5, played by Jordan*
+![Davos](/images/davos.png)
+
+*he/him, human, wizard 5, sage/haunted one, played by Jordan*
 
 ### Abilities
 
@@ -86,9 +92,11 @@ Bree is a halfling of 19 years old. She is a spunky little thing with a mass of 
 - **Zalabor's Staff** *1d4 charges/long rest, chromatic orb of predetermined damage type per charge x charges spent*
 - **Tewodro's Dagger** *can cast fog cloud on self (20ft radius cloud of smoke for 1 hour)*
 
-<h2 id="ilgiem">Ilgiem</h2>
+<h2 id="illgiem">Illgiem</h2>
 
-*he/him, aasimar, paladin 5, played by Kent*
+![Illgiem](/images/illgiem.png)
+
+*he/him, aasimar, paladin 5, soldier, played by Kent*
 
 #### After Long Rest
 
@@ -126,7 +134,9 @@ Bree is a halfling of 19 years old. She is a spunky little thing with a mass of 
 
 <h2 id="ravyn">Ravyn</h2>
 
-*she/her, tiefling, rogue 5, played by Olivia*
+![Ravyn](/images/ravyn.png)
+
+*she/her, tiefling, rogue 5, criminal, played by Olivia*
 
 ### Abilities
 

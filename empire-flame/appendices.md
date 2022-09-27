@@ -1,6 +1,6 @@
 ---
 layout: main-ef.njk
-title: 'Empire & Flame'
+title: 'Appendices'
 link: '/empire-flame'
 image: url("/images/efimage.png")
 ---
@@ -11,7 +11,7 @@ image: url("/images/efimage.png")
     <li><a href="#characters">Characters</a></li>
     <li><a href="#locations">Locations</a></li>
     <li><a href="#organizations">Organizations</a></li>
-    <li><a href="deities">Deities</a></li>
+    <li><a href="#deities">Deities</a></li>
     <li><a href="#calendar">Calendar</a></li>
     <li><a href="#moons">Moons</a></li>
   </ul>

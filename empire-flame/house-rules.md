@@ -1,13 +1,25 @@
 ---
 layout: main-ef.njk
-title: 'Empire & Flame'
+title: 'House Rules'
 link: '/empire-flame'
 image: url("/images/efimage.png")
 ---
 
+<nav>
+
+  <ul>
+    <li><a href="#inspiration">Inspiration</a></li>
+    <li><a href="#restroleplay">Rest Roleplay</a></li>
+    <li><a href="#skillchecks">Skill Checks</a></li>
+  </ul>
+
+</nav>
+
+<hr/>
+
 # House Rules
 
-## Inspiration
+<h2 id="inspiration">Inspiration</h2>
 
 Inspiration can be spent either before or after rolling to gain advantage on an attack role, save, or ability check.
 
@@ -16,14 +28,10 @@ Inspiration can be handed out at any time at the DM's discretion. However, certa
 - At the start of a session
 - By acting out personality traits, ideals, bonds, or flaws, especially when such actions put characters in harm's way (call this out to the DM so they know what you're doing)
 - After rolling a critical failure (can be used on any subsequent rolls, but not on the failed roll that just happened)
-- After rolling a critical success, a character can grant one of their companions inspiration, but does not gain inspiration themselves
+- After rolling a critical success a character can grant one of their companions inspiration, but does not gain inspiration themselves
 - Gain one point of exhaustion in exchange for inspiration (characters can keep gaining inspiration and rerolling the same roll, gaining one additional point of exhaustion each time until they have six points of exhaustion and begin making death saves, at which point their roll automatically succeeds)
 
-## Passive Checks
-
-All passive checks use a base of 5 instead of 10. For example, a 1st level character with a +2 WIS and who is proficient in perception would have a 7 passive perception (base 5, +2 from WIS, +2 proficiency).
-
-## Rest Roleplay
+<h2 id="restroleplay">Rest Roleplay</h2>
 
 During short or long rests, at least one character should roleplay a scene. Think about where the characters are and what mundane tasks they might be performing during the rest. Consider what might have been weighing on the characters' minds recently. For inspiration, optionally roll on the tables below.
 
@@ -60,10 +68,12 @@ During short or long rests, at least one character should roleplay a scene. Thin
 7|The potential repercussions of what you've done
 8|What you think might happen in the future
 
-## Skill Checks: Limits, Successes, and Failures
+<h2 id="skillchecks">Skill Checks</h2>
 
-Skill checks are only made when the thing is possible to do and there is a risk of failure. If something would have a DC of 5 or lower, no check is needed. The character can simply accomplish the task. Also, if 5 plus the character's relevant modifiers (ability and proficiency bonuses) would meet or exceed the DC, the task is automatically successful. Conversely, if something would have a DC higher than 30, no check is made. The task is impossible for the character to accomplish.
+Skill checks are only made when the thing is possible to do and there is a risk of failure. If something would have a DC of 5 or lower, no check is needed. The character can simply accomplish the task. Also, if 5 plus the character's relevant modifiers (ability and proficiency bonuses) would meet or exceed the DC, the task is automatically successful without a roll. Conversely, if something would have a DC higher than 30, no check is made. The task is impossible for the character to accomplish.
 
-Rolling a 1 is always a failure and rolling a 20 is always a success, even if the modified roll would not have failed or succeeded numerically when compared to the DC of the task. For example, a roll of 20 + 2 WIS + 2 proficiency would still succeed on a DC 25 task even though the roll only adds up to 24.
+Rolling a 1 is always a failure and rolling a 20 is always a success, even if the modified roll would not have failed or succeeded numerically when compared to the DC of the task. For example, a roll of 20 + 2 WIS + 2 proficiency would still succeed on a DC 25 task even though the roll only adds up to 24. Failing or succeeding a roll in such a way introduces new complications or advantages.
 
-Failing a role doesn't always mean failing a task. At the DM's discretion, a failed roll can still accomplish a given task, provided some other complication or danger is introduced. For example, a roll to pick a lock might fail to meet the DC of the task, but the character could still manage to pick the lock. In such a case, it may have taken so long that a roving monster stumbled upon the party in the process, introducing a new danger. Players can request this compromise from the DM after a failed role, but the DM is under no obligation to offer it.
+Failing a roll doesn't always mean failing a check. At the DM's discretion, a failed roll can still accomplish a given task, provided some other complication or danger is introduced. For example, a roll to pick a lock might fail to meet the DC of the task, but the character could still manage to pick the lock. In such a case, it may have taken so long that a roving monster stumbled upon the party in the process, introducing a new danger. Players can request this compromise from the DM after a failed role, but the DM is under no obligation to offer it.
+
+All passive checks use a base of 5 instead of 10. For example, a 1st level character with a +2 WIS who is proficient in perception would have a 7 passive perception (base 5, +2 from WIS, +2 proficiency).
