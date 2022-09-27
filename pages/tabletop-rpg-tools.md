@@ -1,12 +1,12 @@
 ---
-title: "Tabletop Roleplaying Game Tools"
-subtitle: "Tools to make planning and running a game better and easier."
+title: "Adventure Planning Resources"
+subtitle: "Tools to make planning and running an adventure in a tabletop roleplaying game better and easier."
 tags:
   - pages
   - games
   - tabletop
   - tools
-url: /pages/tabletop-rpg-tools/
+url: /pages/adventure-planning-resources/
 layout: ppp.njk
 date: 2022-09-27
 ---
