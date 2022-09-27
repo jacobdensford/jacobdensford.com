@@ -22,3 +22,5 @@ image: url("/images/efimage.png")
 *They must defeat empires.*
 
 *They must conquer flames.*
+
+[Empire & Flame Spotify Playlist](https://open.spotify.com/playlist/3dQ90XePmUVL91JFj15YyQ)
