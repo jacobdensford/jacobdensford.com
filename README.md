@@ -1,16 +1,11 @@
 # jacobdensford.com
 
-This is my website. It compiles with 11ty and is hosted on netlify.
+This website was crafted by hand in [Atom](https://atom.io/) and generated using [11ty](https://www.11ty.dev/). It's hosted on [Netlify](https://www.netlify.com/) and deployed from [Github](https://github.com/jacobdensford/jacobdensford.com). Typefaces used include [Computer Modern](https://en.wikipedia.org/wiki/Computer_Modern), [Alte Haas Grotesk](https://www.dafont.com/alte-haas-grotesk.font), [Breathe Fire III](https://www.dafont.com/breathe-fire-iii.font), and [Lapti Nek](https://aurekfonts.github.io/?font=LaptiNekAF).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8167ff8f-a9c5-4327-8e0b-ea0e84056bdb/deploy-status)](https://app.netlify.com/sites/flourishing-sunflower-497834/deploys)
 
 ## Todo
-- Rewrite things to be less abstract and airy; make them more "me," more meaty, more spicy.
-- Make logo an image for better compatibility.
-- Update some of the subtitles, especially on Home, and maybe on About.
 - Add "Now" page.
-- Add dedicated "Contact" page.
-- Fix responsive design of sight nav.
 - Make a way to switch to dark mode.
 - Translate dates to day of the year, maybe using [the JavaScript on this page](https://www.epochconverter.com/daynumbers).
 - Add a [moon phase](https://www.timeanddate.com/moon/phases/) [emoji](https://emojipedia.org/search/?q=moon) to the date.
@@ -24,6 +19,7 @@ This is my website. It compiles with 11ty and is hosted on netlify.
 - Figure out how to automatically display webmentions under my posts, and design a format for them.
 - Figure out how to automatically display backlinks under my pages, and design a format for them.
 - Make a super lightweight version and self-host it.
+- Rework homepage to link to and better represent the several different aspects of my "work"
 
 ## Learn
 - [HTML simple tips and tricks for your website](https://thomasorus.com/html-tips.html)
@@ -61,8 +57,19 @@ I'm using [webmentions.io](https://webmention.io/) to receive webmentions and us
 
 This won’t be for a while, hopefully. But here are some ideas I might want to use in a future redesign of my website.
 
-- Make it look like a scifi UI somehow. Thin white lines around elements with transparent interiors and a spacescape background. Or something. (I got the idea from the Starfield youtube videos).
+- Make it look like a scifi UI somehow. Thin white lines around elements with transparent interiors and a spacescape background. Or something. (I got the idea from the Starfield youtube videos). Or maybe just make it look more scifi and/or retro scifi somehow.
 
 ### Cool Looks
 
 - https://runyourown.social/
+- https://numbered.works/too-many-goat/
+- https://solar.lowtechmagazine.com/nl/power.html
+- https://100r.co/site/home.html
+- World of Dungeons
+- Mork Borg
+- Death in Space
+- Trophy
+
+## Other things
+
+- [unicode dice](https://www.htmlsymbols.xyz/games-symbols/dice)

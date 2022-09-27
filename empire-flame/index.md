@@ -1,6 +1,6 @@
 ---
 layout: main-ef.njk
-title: 'Empire & Flame'
+title: 'Home'
 link: '/empire-flame'
 image: url("/images/efimage.png")
 ---

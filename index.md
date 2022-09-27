@@ -1,6 +1,6 @@
 ---
 layout: home.njk
-title: Jacob Densford
+title: Home
 ---
 
 <div class="h-card">

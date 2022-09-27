@@ -33,9 +33,7 @@ Dad has made the World Famous Densford Secret Family Recipe Chip Dip for as long
 This past summer, Dad finally handed over the keys to the kingdom: the recipe and responsibility for THE dip.
 
 - 2 packets ranch dip mix  
-
 - 1 lb sour cream  
-
 - 1 lb cream cheese  
 
 The ingredients might seem simple, it's just a slight variation on the recipe from the back of the dip mix package, after all. But there are subtle nuances in technique and specificity of ingredients that one must consider.
@@ -51,13 +49,9 @@ Put all the ingredients in a bowl and mix until the cream cheese is fully incorp
 Serve with:
 
 - Ruffles or Wavy Lays potato chips (There is some disagreement within the family on which is best.)  
-
 - Fritos corn chips  
-
 - Bugles  
-
 - Pretzels  
-
 - Vegetables if you're feeling healthy  
 
 Also, keep this recipe on the down low. It is a family secret, after all.

@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Lapti Nek';
+    src: url('/fonts/laptinekaf-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+  --background-color: #ffffff;
+  --title-color: #2e8ba0;
+  --title-hover-color: #2e8ba0;
+  --nav-color: #000000;
+  --nav-hover-color: #2e8ba0;
+  --text-color: #000000;
+  --link-color: #000000;
+  --link-hover-color: #2e8ba0;
+  --accent-color: #000000;
+  --accent-color-2: #ffffff;
+  --accent-color-3: #2e8ba0;
+  --accent-color-4: #ffffff;
+  --title-font: 'Lapti Nek', sans-serif;
+  --heading-font: 'alte_haas_grotesk', sans-serif;
+  --main-font: 'cmu_typewriter_text', Courier, 'Courier New', monospace;
+  --letter-font: 'Lapti Nek', sans-serif;
+  --cirlce-background-image: none;
+  --circle-font-size: 4.5rem;
+  --cirlce-text-align: center;
+}
