@@ -109,6 +109,10 @@ footer > p {
   font-size: 1rem;
 }
 
+.subtitle {
+  font-style: italic;
+}
+
 a:link,
 a:visited {
   color: var(--link-color);
