@@ -10,6 +10,8 @@ layout: ppp.njk
 date: 2022-09-27
 ---
 
+I currently use [**Scivener**](https://www.literatureandlatte.com/scrivener/overview) for planning, writing, and editing. But I'm considering switching over to using plaintext with markdown for future projects.
+
 ## Planning
 
 - [**Scapple**](https://www.literatureandlatte.com/scapple/overview)
@@ -37,12 +39,12 @@ date: 2022-09-27
 
 - **Desktop Writing Apps**
   - [Abricotine](https://abricotine.brrd.fr/)
-  - [ghostwriter](https://wereturtle.github.io/ghostwriter/)
+  - [ghostwriter](http://kde.github.io/ghostwriter/)
   - [Writemonkey](http://writemonkey.com)
-  - [**Typora**](https://www.typora.io/)
+  - [Typora](https://www.typora.io/)
   - [Q10](http://www.baara.com/q10/)
   - [Caret](https://caret.io/)
-  - [**Mark Text**](https://marktext.app/)
+  - [Mark Text](https://marktext.app/)
   - [novelWriter](https://novelwriter.io/)
 
 - **Cross-Platform Writing Apps**

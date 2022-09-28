@@ -22,6 +22,23 @@ image: url("/images/efimage.png")
 
 <h2 id="potions">Potions</h2>
 
+### Myconid Essence
+
+The corked vial swirls with glittering gold particles. One whiff creates one of the following effects:
+
+1d10|Result
+:---|---
+1|The creature's skin turns an unusual color. Roll a d4: 1, purple with yellow splotches; 2, bright orange with tiger stripes; 3, tree-frog green with red squiggles; 4, hot pink with yellow spots. This change is permanent unless removed by a *greater restoration* spell or similar magic.
+2|The creature gains the enlarge or reduce effect (50 percent chance of either) of the *enlarge/reduce* spell for 1 hour.
+3|The creature regains 5d8 + 20 hit points.
+4|Vocally, the creature can only cluck and croon like a chicken. The creature can also understand and speak to chickens. This curse lasts for 1 hour unless ended by a *remove curse* spell or similar magic.
+5|The creature can understand and speak all languages for 1d4 days.
+6|The creature gains the benefits of the *telepathy* spell for the next 24 hours.
+7|The creature gains the benifits of the *speak with plants* spell for 8 hours.
+8|The creature immediately casts the *time stop* spell, requiring no components. Constitution is the spellcasting ability for this spell.
+9|The creature immediately casts the *detect thoughts* spell, requireing no components. Constitution is the spellcasting ability for this spell.
+10|Magical mists pour out of the creature's eyes and ears, acting as a *fog cloud* spell for 1 hour that is centered on the creature and moves with it.
+
 ### Potion of Giant Strength
 
 When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
@@ -66,7 +83,7 @@ When this blade is drawn, its barer must make a DC 10 Wisdom saving throw or be 
 
 Black smoke curls around this dagger, obscuring it from view.
 
-As an action, you can cause the dagger's smoke to bellow around you, heavily obscuring a 20-foot-radius sphere, which disperses after 1 hour or if blown by a wind of moderate or greater speed.
+As an bonus action, you can cause the dagger's smoke to bellow around you, acting as a *fog cloud* spell, heavily obscuring a 20-foot-radius sphere which is centered on you and moves with you. Dispelling the smoke requires another bonus action.
 
 ### Wendimu's Dagger
 

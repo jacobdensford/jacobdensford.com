@@ -14,6 +14,7 @@ image: url("/images/efimage.png")
     <li><a href="#deities">Deities</a></li>
     <li><a href="#calendar">Calendar</a></li>
     <li><a href="#moons">Moons</a></li>
+    <li><a href="#music">Music</a></li>
   </ul>
 
 </nav>
@@ -233,3 +234,7 @@ There were five days in a week, each named after one of the kingdoms in the Alli
 <h2 id="moons">Moons</h2>
 
 There were three moons in those days: Utu Sham, Na’an Sin, and In Ana.
+
+<h2 id="music">Music</h2>
+
+[Campaign Spotify Playlist](https://open.spotify.com/playlist/3dQ90XePmUVL91JFj15YyQ)
