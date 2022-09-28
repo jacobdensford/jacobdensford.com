@@ -5,6 +5,7 @@ This website was crafted by hand in [Atom](https://atom.io/) and generated using
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8167ff8f-a9c5-4327-8e0b-ea0e84056bdb/deploy-status)](https://app.netlify.com/sites/flourishing-sunflower-497834/deploys)
 
 ## Todo
+- Reincorporate tags.
 - Add "Now" page.
 - Make a way to switch to dark mode.
 - Translate dates to day of the year, maybe using [the JavaScript on this page](https://www.epochconverter.com/daynumbers).

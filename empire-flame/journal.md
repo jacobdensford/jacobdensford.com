@@ -173,7 +173,7 @@ It had been four days since the Four had been teleported back to the wizard's to
 
 **Ellanday, the 1st day of Reaping, in the 371st year of the Alliance**
 
-The Four attended the Festival of Reaping, won and lost some games, and had their fortunes read. During the evening celebration, the main tent was attacked by Sinless assassins. After interrogating one, they learned that giants were marching down from the mountains, through the shattered hills, and towards the logging town of Wafeld. The Four set off with all haste. On the road, they battled some owlbears and met a sinister figure called only Sig. The man offered to initiate the Four into the Order of the Third moon, but they declined. Reaching Wafeld, they discovered that they were too late. The town had all but been destroyed by giants. Not a single soul left alive now a building left standing except for the local lords' keep. Inside, The Four found Adwin and Tane, who had locked themselves away when the attack started, refusing help to everyone else in the town. The Four forced the nobles to dig graves and burry the dead as penance, then set off to track the giants across the Shattered Hills. They found a giant's camp, but the giants were dead. They had been slain by sinless assassins. The Four found evidence that the Sinless had tricked the giants into attacking the town, and that the sinless were camped further to the west. Continuing on, the four came across a giant still living, the daughter of the two dead. They befriended the giant, whose name turned out to be Lilly, and used her to speed them towards the Sinless camp and defeat them soundly. In the camp, they learned that the entire Sinless Army was marching through the Whitecloak mountains, with plans to turn east and march on Mistcrown. Davos sent his spiritual owl Oren to warn the town ahead of The Four, and then they set out at all haste. But before they had gone far, the ground open up and swallowed them into the depths.
+The Four attended the Festival of Reaping, won and lost some games, and had their fortunes read. During the evening celebration, the main tent was attacked by Sinless assassins who were after the Four. After interrogating one, they learned that giants were marching down from the mountains, through the shattered hills, and towards the logging town of Wafeld. The Four set off with all haste. On the road, they battled some owlbears and met a sinister figure called only Sig. The man offered to initiate the Four into the Order of the Third moon, but they declined. Reaching Wafeld, they discovered that they were too late. The town had all but been destroyed by giants. Not a single soul left alive now a building left standing except for the local lords' keep. Inside, The Four found Adwin and Tane, who had locked themselves away when the attack started, refusing help to everyone else in the town. The Four forced the nobles to dig graves and burry the dead as penance, then set off to track the giants across the Shattered Hills. They found a giant's camp, but the giants were dead. They had been slain by sinless assassins. The Four found evidence that the Sinless had tricked the giants into attacking the town, and that the sinless were camped further to the west. Continuing on, the four came across a giant still living, the daughter of the two dead. They befriended the giant, whose name turned out to be Lilly, and used her to speed them towards the Sinless camp and defeat them soundly. In the camp, they learned that the entire Sinless Army was marching through the Whitecloak mountains, with plans to turn east and march on Mistcrown. Davos sent his spiritual owl Oren to warn the town ahead of The Four, and then they set out at all haste. But before they had gone far, the ground open up and swallowed them into the depths.
 
 ### Chapter 4: City of Giants
 
@@ -219,12 +219,18 @@ The Four attended the Festival of Reaping, won and lost some games, and had thei
 
 *Will they conquer flames?*
 
-**Endday, the 7th day of Reaping, in the 371st year of the Alliance**
+**Yonday, the 7th day of Reaping, in the 371st year of the Alliance**
 
 ### Chapter 6: Last Stand of the Alliance
 
 **Endday, the 10th day of Reaping, in the 371st year of the Alliance**
 
 <h2 id="part2">Part II: Rebellion</h2>
+
+### Chapter 7: SOMETHING
+
+*WORDS// three half moons//*
+
+**Yonday, the 3rd day of Falling, in the 371st year of the Alliance**
 
 <h2 id="part3">Part III: Cataclysm</h2>

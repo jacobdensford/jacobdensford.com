@@ -92,7 +92,7 @@ image: url("/images/efimage.png")
 - **Zalabor's Staff** *1d4 charges/long rest, chromatic orb of predetermined damage type per charge x charges spent*
 - **Tewodro's Dagger** *can cast fog cloud on self (20ft radius cloud of smoke for 1 hour)*
 
-<h2 id="illgiem">Illgiem</h2>
+<h2 id="illgiem">Illgiem Zaphkiel</h2>
 
 ![Illgiem](/images/illgiem.png)
 
@@ -137,6 +137,26 @@ image: url("/images/efimage.png")
 ![Ravyn](/images/ravyn.png)
 
 *she/her, tiefling, rogue 5, criminal, played by Olivia*
+
+**From Olivia:**
+
+> The day I lost everything; I was with my crew. I was the leader, though we didn't really have one, but everyone looked up to me and always put me in charge. I loved them and they Loved me. They were my friends, scratch that they were my family. My only family. But there was also Saara, Saara was more. She was orphaned year's ago and thrown to the streets because she was a tiefling. No one wanted anything to do with her. My group saw her and watched her steal food from every stall in the market without anyone noticing at all. She was only eight! So they offered her food and a warm bed if she came with. When they brought her to me we had an instant connection. Not long after we were doing everything together, she became the daughter I never had. The daughter I never will have.
+>
+> 3 years later: It was late one night and Saara really wanted to go with us on this heist. I knew it was a bad idea I just had that feeling in the pit of my stomach. But she had been doing so well on our practice runs lately, she was so stealthy! Maybe even more than me. She would only keep watch for us and alert us if anything suspicious arose. She knew to signal, then run as soon as anything was about to go down. So she was able to persuade me to allow her to come with us. Everything seemed well. We actually found the chest we were looking for quite quickly, as expected, it was full of everything gold. Gold coins, gold goblets and gold jewelry. But as soon as it was opened, I look around to find my crew missing. There were a few behind me, but when I look they were gone. I hear Saara's signal, but it sounds off. Rushed and frightful.. Then silence. I try to find my crew and none of them are anywhere to be found. I hear a noise behind me and everything goes black. I wake up with my head throbbing. I can't see. There is something covering my eyes. I can't move. My arms and legs are tied to a post. I hear faintly "she's awake! Sister, who are these people? What were they doing here? It looked sinister."
+>
+> I respond "what people? I didn't see anything, where did you guys go!?" The door barges open and my blindfold is ripped off. " What are you doing here!? What did you see!? Who sent you!?" Says a woman.. Dressed head to toe in shining gold, with some type of magic surrounding her hands. All I can see is her eyes. I will always remember her eyes.
+>
+> I ignore the questions and look around. A brief moment of relief.. Saara is not here, she must have ran.. Good. My team is screaming that they saw something awful, something dark. I don't know.
+>
+> Not answering their questions, or even knowing the answers, they start killing my crew.. My family. One by one. These hideous monsters, are they even real? I start yelling & screaming, anything I can do or think of to make them stop.. To no avail. Some were yelling about some ritual or cult before they were brutally murdered. Another said it was the worse thing they had ever seen.. So many bodies.. I don't understand. They're all dead, I feel numb, not speaking. There's a knock on the door. The bitch sorceress says "what" and they come in. Dragging Saara, a cloth stuffed in her mouth. "We found this one trying to pick the lock on the back door."
+I beg and plead, "please not her." That only seems to make it worse. They seem to realize I don't have the answers they are looking for, and the sorceress says "even if you don't have my answers, you broke in here and I will make sure you will never be a problem again, your life will be hell on earth" she gives the nod and this "monster" slits Saara's throat. I'm screaming begging them to just kill me now get it over with. She says "No, you're not going to die. You will not get that pleasure" and she lays her hand upon my face. Everything goes black. I am just in another place at this point. I can feel them doing something to my face but it doesn't hurt. Not yet even with the blood. Then I wake from that out-of-world state.. The pain, I can still feel the pain. It was excruciating. The worst pain I have ever felt. I try with all of my might to escape, but im being held down. The pain intensifies and I let out a blood curdling scream. Before I knew it, the pain became too much to take. I black out.
+>
+> I wake up in an alley. I don't know where I am I barely know who I am. I'm covered in dried blood, piss? Shit? I'm not sure. I'm in so much pain. I can hear people laughing and mocking, I try and find anything that can tell me where I am. No luck. I Was able to find a water source with the help of a child. I don't know where they went after. I'm not sure how long I was there, a couple of days a week?
+>
+> I hear a man's voice I think he is trying to talk to me.. He said he's here to help and to call him "ILL" I don't speak. He laid his hand on my eyes, and I can feel the pain slowly leave me. But I still see nothing. He says that's the best he can do, and it is beyond his power.
+>
+> Illgiem set me up at an Inn, I didn't speak to Ill for a couple of months.. I couldn't trust him, not yet, I was afraid to speak I wasn't even sure if I could anymore. After, Ill and I remain good friends.
+At the inn I met a monk who noticed me, Ill vouched for him so I took a chance. The monk, Harol Hamezir, is the master of The Fists of Pandaria and trains blindfolded. They use this to enhance their other skills and are better fighters blind then an expert trained soldier with no afflictions. I trained with him for 3 years. Mastering my hearing, smelling and any another sense available to me. I am now quicker, nimbler and more dexterious than ever. Not having my eyes is now my advantage. But even without my sight, I still see her. Saara. Her face before she was taken from me. I try to forget.. But I will never. So I will always be searching, and I WILL have my vengeance. For Saara...
 
 ### Abilities
 
