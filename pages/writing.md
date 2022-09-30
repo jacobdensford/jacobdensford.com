@@ -1,5 +1,5 @@
 ---
-title: "Writing Workflow"
+title: "Writing"
 subtitle: "My method and order for writing a novel, as well as some tools and resources."
 tags:
   - pages
