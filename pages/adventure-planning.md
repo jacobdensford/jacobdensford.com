@@ -1,6 +1,6 @@
 ---
-title: "Adventure Planning for Tabletop Roleplaying Games"
-subtitle: "My method and order for planning adventures for tabletop roleplaying games, as well as tools and resources for doing so."
+title: "Adventure Planning"
+subtitle: "My method and order for planning and running adventures for tabletop roleplaying games, as well as tools and resources for doing so."
 tags:
   - pages
   - games
