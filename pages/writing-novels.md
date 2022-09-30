@@ -1,11 +1,11 @@
 ---
-title: "Writing"
+title: "Writing Novels"
 subtitle: "My method and order for writing a novel, as well as some tools and resources."
 tags:
   - pages
   - writing
   - tools
-url: /pages/writing/
+url: /pages/writing-novels/
 layout: ppp.njk
 date: 2022-09-27
 ---
