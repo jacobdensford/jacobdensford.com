@@ -11,6 +11,7 @@ image: url("/images/efimage.png")
     <li><a href="#characters">Characters</a></li>
     <li><a href="#locations">Locations</a></li>
     <li><a href="#organizations">Organizations</a></li>
+    <li><a href="events">Historical Events</a></li>
     <li><a href="#deities">Deities</a></li>
     <li><a href="#calendar">Calendar</a></li>
     <li><a href="#moons">Moons</a></li>
@@ -195,11 +196,35 @@ The Black Court was a group of thieves that operated in and around Mistcrown. Th
 
 ### The Order of the Third Moon
 
+<h2 id="events">Historical Events</h2>
+
+### The First Cataclysm
+
+### The Second Cataclysm
+
+### The Great War
+
+### Signing of the Alliance Treaty
+
+### Invasion from the Far Sea
+
+### Battle of Mistcrown
+
 <h2 id="deities">Deities</h2>
+
+### In Ana
+
+### Na’an Sin
 
 ### Othea
 
-Othea was a god to the giants.
+Othea was one of the giant's many gods. She was worshipped before memory of such things was lost below the ground during the Second Cataclysm.
+
+### Sune
+
+Sune was the goddess of light. She was said to reside within the sun, shining down on the faithful by day. Her domains were light, beauty, goodness, mercy, kindness, forgiveness, hope, love, laughter, art, joy, and courage. 
+
+### Utu Sham
 
 <h2 id="calendar">Calendar</h2>
 
