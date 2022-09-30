@@ -11,84 +11,27 @@ layout: ppp.njk
 date: 2022-09-30
 ---
 
-## Planning and Running Adventures
-
-This workflow is geared towards planning adventures for D&D and other games of high fantasy heroism. But with a few modifications it can probably work for other systems and styles of play.
-
-### Session Zero
-
-Sit down at the table for session zero with a few ideas about the campaign, a broad concept of the world, and a hook. But don't plan too much beforehand. Let the heroes your players create inform the world and where things could go.
-
-#### CATS
-
-Introduce the game system and its style of play with with [CATS](http://proleary.com/2016/04/25/the-cats-method-a-story-telling-game-opening-ritual/):
-
-- Concept
-- Aim
-- Tone
-- Subject Matter
-
-#### Safety Tools
-
-Talk about lines and vails, introduce the [X-Card](http://tinyurl.com/x-card-rpg), and establish a culture of safety.
-
-#### Making Heroes
-
-Introduce the campaign based on the few ideas you have for it. Present the world and a hook for adventure. Encourage your players to make heroes that would naturally bite the hook, and to make heroes with connections to each other and stakes in the world. Be prepared to pivot if the vibe at the table is going in a different direction than you planned.
-
-#### Building the World
-
-Start building the world together based on the heroes. What factions are they members of? Where do they live? Where are they from? Use those details to make a broad outline of the world together. Then dig a bit deeper into the place where the campaign will begin, be it a town or a wilderness location. Don't plan much beyond that.
-
-### Session One and Beyond
-
-- Start the session by asking the players what happened last time, filling in any relevant missing details.
-- Run the adventure fast and loose. Be a fan of the heroes. Present them with a challenging world. Play to find out what happens.
-- End the session by asking for and gracefully accepting feedback. Do [Roses & Thorns (and Buds)](https://gnomestew.com/roses-thorns-and-buds/) or Stars & Wishes.
-- Establish in-between session expectations.
-- Schedule next session.
-
-### Campaign Planning
-
-#### Campaign Hook
-
-Now that you know who the heroes are, elaborate further on your campaign hook.
-
-#### The World
-
-Come up with a list of things, at least six, that are unique about the world of your campaign. These might have already revealed themselves during session zero.
-
-#### Factions
-
-Establish who the driving factions are in your world. Some of these were likely already created during session zero. Come up with three to six defining characteristics for each faction and at least one driving goal. Then write three to six things that will happen as each faction presses ever closer towards completing their goal, assuming the heroes do not interfere.
-
-#### List of Names
-
-Write a list of names appropriate for your world. Always keep this list handy. Cross off names and note what characters they end up being as you use them.
-
-### Adventure Planning
-
-#### Heroes First
+## Heroes First
 
 Refamiliarize yourself with the heroes before you start planning the adventure. Note their unique abilities. Be aware of their personality traits, ideals, bonds, and flaws. Keep their goals in mind. Build an adventure that's uniquely designed with them in mind.
 
-#### Theme
+## Theme
 
 Decide on a theme for the adventure. Let that theme, as well as the heroes you just reviewed, inform the rest of the decisions you make.
 
-#### Adventure Hook
+## Adventure Hook
 
 Start strong with an adventure hook that is introduced in a compelling way. This will be the most outlined scene in the adventure because you are in control of how the session starts.
 
-#### Scenes
+## Scenes
 
 Make a list of other potential scenes, six to twelve of them, that could logically follow the first. Keep these brief and vague. None of them should be longer than a single sentence.
 
-#### Locations
+## Locations
 
 Come up with a list of locations, at least six and up to twelve. Each location should have an evocative name and a few moments, discoveries, and complications tied to it. They may also have NPCs tied to them, though NPCs tend to move around and show up just where they're needed...
 
-#### Complications, Discoveries, and Moments
+## Complications, Discoveries, and Moments
 
 For complications, discoveries, and moments, write six to twelve of each, including any tied to locations. It's possible that they're all tied to locations, though it's good to have a few floating free just in case.
 
@@ -98,21 +41,78 @@ Discoveries are things the heroes find that could aid them on their quest. This 
 
 Moments are incidental little bites of flavor that reinforce the theme of the adventure.
 
-#### NPCs
+## NPCs
 
 Come up with a few NPCs relevant to the adventure. Treat them like a mini-faction, giving each a name, a driving goal, and a few defining characteristics. Complications, discoveries, and moments can be tied to NPCs just like with locations.
 
-#### Maps
+## Maps
 
 Make a map or two, as vague or detailed as you like, as long is you establish where the adventure starts and in what direction the heroes have to travel to reach its locations. For at least one battle complication, make a gridded map with some interesting features for the heroes and monsters to interact with during combat.
 
-#### Music
+## Music
 
 Pick a few songs to play at specific times during the adventure. A song can be tied to anything: a location, a scene, or a complication, discovery, or moment.
 
-#### Handouts
+## Handouts
 
 If you have time, come up with a handout or two. Blah blah blah.
+
+# Campaign Planning
+
+## Before Session Zero
+
+Come up with a few ideas about the campaign, a broad concept of the world, and a hook. But don't plan too much before session zero. Let the heroes your players create inform the world and where things could go. After session zero, continue with the following steps.
+
+## Campaign Hook
+
+Now that you know who the heroes are, elaborate further on your campaign hook.
+
+## The World
+
+Come up with a list of things, at least six, that are unique about the world of your campaign. These might have already revealed themselves during session zero.
+
+## Factions
+
+Establish who the driving factions are in your world. Some of these were likely already created during session zero. Come up with three to six defining characteristics for each faction and at least one driving goal. Then write three to six things that will happen as each faction presses ever closer towards completing their goal, assuming the heroes do not interfere.
+
+## List of Names
+
+Write a list of names appropriate for your world. Always keep this list handy. Cross off names and note what characters they end up being as you use them.
+
+# Running Adventures
+
+## Session Zero
+
+Sit down at the table for session zero with a few ideas about the campaign, a broad concept of the world, and a hook. But don't plan too much beforehand. Let the heroes your players create inform the world and where things could go.
+
+### CATS
+
+Introduce the game system and its style of play with with [CATS](http://proleary.com/2016/04/25/the-cats-method-a-story-telling-game-opening-ritual/):
+
+- Concept
+- Aim
+- Tone
+- Subject Matter
+
+### Safety Tools
+
+Talk about lines and vails, introduce the [X-Card](http://tinyurl.com/x-card-rpg), and establish a culture of safety.
+
+### Making Heroes
+
+Introduce the campaign based on the few ideas you have for it. Present the world and a hook for adventure. Encourage your players to make heroes that would naturally bite the hook, and to make heroes with connections to each other and stakes in the world. Be prepared to pivot if the vibe at the table is going in a different direction than you planned.
+
+### Building the World
+
+Start building the world together based on the heroes. What factions are they members of? Where do they live? Where are they from? Use those details to make a broad outline of the world together. Then dig a bit deeper into the place where the campaign will begin, be it a town or a wilderness location. Don't plan much beyond that.
+
+## Session One and Beyond
+
+- Start the session by asking the players what happened last time, filling in any relevant missing details.
+- Run the adventure fast and loose. Be a fan of the heroes. Present them with a challenging world. Play to find out what happens.
+- End the session by asking for and gracefully accepting feedback. Do [Roses & Thorns (and Buds)](https://gnomestew.com/roses-thorns-and-buds/) or Stars & Wishes.
+- Establish in-between session expectations.
+- Schedule next session.
 
 # Tools and Resources
 
