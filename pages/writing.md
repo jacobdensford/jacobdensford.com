@@ -10,15 +10,13 @@ layout: ppp.njk
 date: 2022-09-27
 ---
 
-## Writing a Novel
+## Planning (Month 1)
 
-### Planning (Month 1)
-
-#### Brainstorm (Week 1)
+### Brainstorm (Week 1)
 
 - Write, write, write; concepts, characters, set-pieces, everything.
 
-#### Outline (Weeks 2 - 4)
+### Outline (Weeks 2 - 4)
 
 - Starting with the important ideas from the last step and building out from there, begin creating a detailed outline.
 - Get the general shape of the story using the 5-point story structure, the heroes journey, and save the cat. Mix and match as needed. Throw out what doesn't work and keep what does.
@@ -33,9 +31,9 @@ date: 2022-09-27
 - Use irony, especially dramatic irony.
 - Remember: the outline should contain every beat, scene, and chapter of the story—leave nothing out. Things will change, of course. But a strong outline is very important for my process.
 
-### Writing (Months 2 - 12)
+## Writing (Months 2 - 12)
 
-#### First Draft (Month 2 - 8)
+### First Draft (Month 2 - 8)
 
 - Working off the detailed outline, write the first draft of the story.
 - Write well to save work in subsequent drafts, but also write with the freedom of the knowledge that no one will ever read this draft but you.
@@ -43,21 +41,21 @@ date: 2022-09-27
 - Write three to four thousand words per week, using wordcount as a gauge—not a goal.
 - Once finished, set the draft aside and try not to think about it for a week or two.
 
-#### Second Draft (Months 9 - 10)
+### Second Draft (Months 9 - 10)
 
 - Read through the first draft with fresh eyes, taking brief notes about what might need to be changed.
 - Working off those notes, make any modifications to the outline that are needed.
 - Then, using both the first draft and the new outline, write the second draft, pasting over any parts that don't need changed and writing or rewriting sections as needed.
 - Export the second draft into a sharable format and share it with select individuals for developmental feedback on narrative—what worked really well, what didn't, where was the story thread lost or weakest, etc.
 
-#### Third Draft (Months 10 - 12)
+### Third Draft (Months 10 - 12)
 
 - Using the second draft and feedback on it, rework the story outline as needed.
 - Using the reworked outline and the second draft, compose the third draft.
 - Correct grammatical and other technical errors—spelling, grammar, punctuation, etc. Pay special attention to: passive voice, adverbs, sticky sentences, overused and vague words, pronoun overload, hidden verbs, clichés, repetition, dialogue tags, overly complicated vocabulary.
 - Export the manuscript for querying.
 
-### Publishing (???)
+## Publishing (???)
 
 ???
 
