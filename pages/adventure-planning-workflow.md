@@ -11,8 +11,6 @@ layout: ppp.njk
 date: 2022-09-30
 ---
 
-# Adventure Planning Workflow
-
 This workflow is geared towards planning adventures for D&D and other games of high fantasy heroism. But with a few modifications it can probably work for other systems and styles of play.
 
 ## Session Zero
@@ -52,7 +50,7 @@ Start building the world together based on the heroes. What factions are they me
 
 ### Campaign Hook
 
-Now that you know who the heroes are. elaborate further on your campaign hook.
+Now that you know who the heroes are, elaborate further on your campaign hook.
 
 ### The World
 
@@ -86,7 +84,7 @@ Make a list of other potential scenes, six to twelve of them, that could logical
 
 ### Locations
 
-Come up with a list of locations, at least six and up to twelve. Each location should have an evocative name and a few moments, discoveries, and complications tied to it. They may also have NPCs tied to them, thought NPCs tend to move around and show up just where they're needed...
+Come up with a list of locations, at least six and up to twelve. Each location should have an evocative name and a few moments, discoveries, and complications tied to it. They may also have NPCs tied to them, though NPCs tend to move around and show up just where they're needed...
 
 ### Complications, Discoveries, and Moments
 
@@ -100,7 +98,7 @@ Moments are incidental little bites of flavor that reinforce the theme of the ad
 
 ### NPCs
 
-Come up with a few NPCs relevant to the adventure. Treat each like a mini-faction, giving each a name, a driving goal, and a few defining characteristics. Complications, discoveries, and moments can be tied to NPCs, just like with locations.
+Come up with a few NPCs relevant to the adventure. Treat them like a mini-faction, giving each a name, a driving goal, and a few defining characteristics. Complications, discoveries, and moments can be tied to NPCs just like with locations.
 
 ### Maps
 
