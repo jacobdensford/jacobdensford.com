@@ -7,9 +7,13 @@ image: url("/images/efimage.png")
 
 # Rollable Tables
 
-## Carousing
+## Downtime Activities
 
-1d100 + days + skill|Result
+Roll 1d100 and add the number of days you spend doing the activity and the relevant skill bonus. If you're proficient in both a relevant skill and tool, add one or the other and roll with advantage.
+
+### Carousing
+
+1d100|Result
 :---|---
 01-10|Jailed for 1d4 or pay a fine of 10 gp/day to avoid jail time, or try to resist arrest.
 11-20|Wake in a strange place with no memory of how you got there, and you're missing 3d6 x 5 gp.
@@ -19,9 +23,9 @@ image: url("/images/efimage.png")
 81-90|Earn winnings from gambling of 2d6 x 10 gp.
 91 or higher|Make a small fortune while gambling of 4d6 x 10 gp and become a local legend.
 
-## Estate Management
+### Estate Management
 
-1d100 + days + skill|Result
+1d100|Result
 :---|---
 01-20|Pay 1 and 1/2 estate expenses per day (10 gp x 1.5 per day).
 21-30|Pay full estate expenses per day (10 gp per day).
@@ -31,9 +35,9 @@ image: url("/images/efimage.png")
 81-90|Earn 2d8 x 5 gp.
 91 or higher|Earn 3d10 x 5 gp.
 
-##  Hedge Wizardry
+###  Hedge Wizardry
 
-1d100 + days + skill|Result
+1d100|Result
 :---|---
 01-10|A spell went horribly wrong. Spend spend 4d6 x 10 gp on wasted components and compensation.
 11-20|Many spells didn't take the first try. Spend 3d6 x 10 gp on wasted components.
@@ -45,9 +49,9 @@ image: url("/images/efimage.png")
 81-90|Folks payed well and were impressed. Earn 3d6 x 10 gp.
 91 or higher|Earn 4d6 x 10 gp, gain local renown as a great wielder of the magical arts, and learn a new 1st level spell
 
-## Heroic Acts
+### Heroic Acts
 
-1d100 + days + skill|Result
+1d100|Result
 :---|---
 01-10|Something went horribly wrong. Someone was killed despite your best efforts and you were injured.
 11-20|Your weapons and armor were damaged. Spend 3d6 x 10 gp on wasted repairs.
@@ -59,62 +63,14 @@ image: url("/images/efimage.png")
 81-90|You slayed a local beast that had been plaguing the farmlands. Earn 3d6 x 10 gp in reward.
 91 or higher|Earn 4d6 x 10 gp, gain local renown as a great warrior and hero, the town will do anything for you.
 
-## Musical Performance
+### Musical Performance
 
-1d100 + days + skill|Result
+1d100|Result
 :---|---
-01-10|
-11-20|
-21-30|
-31-40|
-41-50|
-51-60|
-61-70|
-71-80|
-81-90|
-91 or higher|
-
-## Poison Crafting
-
-1d100 + days + skill|Result
-:---|---
-01-10|
-11-20|
-21-30|
-31-40|
-41-50|
-51-60|
-61-70|
-71-80|
-81-90|
-91 or higher|
-
-## Researching
-
-1d100 + days + skill|Result
-:---|---
-01-10|
-11-20|
-21-30|
-31-40|
-41-50|
-51-60|
-61-70|
-71-80|
-81-90|
-91 or higher|
-
-## Romancing
-
-1d100 + days + skill|Result
-:---|---
-01-10|
-11-20|
-21-30|
-31-40|
-41-50|
-51-60|
-61-70|
-71-80|
-81-90|
-91 or higher|
+01-10|You made a fool of yourself and broke your instrument. Spend 35 gp to repair or replace it.
+11-20|You accidentally plagiarized someone else's song and tried to pass it off as your own. Spend 2d6 x 5 gp to smooth things over with the offended fellow bard.
+21-30|You really brought the mood down. Spend 1d4 x 2 gp to buy everyone a cheery round.
+31-60|You made just enough in tips to cover your food and drink expenses.
+61-80|Earn 1d6 x 5 gp in tips for a good performance.
+81-90|Earn 2d6 x 5 gp for a wonderful performance.
+91 or higher|You gained local renown and wrote a new song that will be sung throughout the ages.

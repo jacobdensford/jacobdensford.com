@@ -8,6 +8,7 @@ image: url("/images/efimage.png")
 <nav>
 
   <ul>
+    <li><a href="#expendable">Expendable Equipment</a></li>
     <li><a href="#inspiration">Inspiration</a></li>
     <li><a href="#restroleplay">Rest Roleplay</a></li>
     <li><a href="#skillchecks">Skill Checks</a></li>
@@ -18,6 +19,10 @@ image: url("/images/efimage.png")
 <hr/>
 
 # House Rules
+
+<h2 id="expendable">Expendable Equipment</h2>
+
+Rather than tracking each arrow, ration, and spell component, a consequence of rolling a natural 1 on a d20 is that you expend your last use of that piece of equipment. This rule applies to any expendable equipment that can be purchased in collections of 20 (arrows or crossbow bolts, for example), or that is intentionally purchased and bundled in a collection of 20 (20 rations or 20 diamonds as spell components, for example). If using the equipment does not usually trigger a roll, the DM may still call for one to see if you run out.
 
 <h2 id="inspiration">Inspiration</h2>
 
