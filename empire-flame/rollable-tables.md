@@ -5,9 +5,20 @@ link: '/empire-flame'
 image: url("/images/efimage.png")
 ---
 
+<nav>
+
+  <ul>
+    <li><a href="#downtime">Downtime Activities</a></li>
+  </ul>
+
+</nav>
+
+<hr/>
+
+
 # Rollable Tables
 
-## Downtime Activities
+<h2 id="downtime">Downtime Activities</h2>
 
 Roll 1d100 and add the number of days you spend doing the activity and the relevant skill bonus. If you're proficient in both a relevant skill and tool, add one or the other and roll with advantage.
 
