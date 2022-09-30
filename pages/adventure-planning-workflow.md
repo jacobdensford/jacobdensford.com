@@ -8,7 +8,7 @@ tags:
   - tools
 url: /pages/adventure-planning-workflow/
 layout: ppp.njk
-date: 2022-09-27
+date: 2022-09-30
 ---
 
 # Adventure Planning Workflow
