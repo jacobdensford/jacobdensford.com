@@ -15,6 +15,10 @@ date: 2022-09-30
 
 Refamiliarize yourself with the heroes before you start planning the adventure. Note their unique abilities. Be aware of their personality traits, ideals, bonds, and flaws. Keep their goals in mind. Build an adventure that's uniquely designed with them in mind.
 
+## Questions
+
+Prepare a few questions to ask the heroes, at least one for each, to get their roleplaying minds working.
+
 ## Theme
 
 Decide on a theme for the adventure. Let that theme, as well as the heroes you just reviewed, inform the rest of the decisions you make.
@@ -25,7 +29,7 @@ Start strong with an adventure hook that is introduced in a compelling way. This
 
 ## Scenes
 
-Make a list of other potential scenes, six to twelve of them, that could logically follow the first. Keep these brief and vague. None of them should be longer than a single sentence.
+Make a list of other potential scenes, six to twelve of them, that could logically follow the first. Keep these brief and vague. None of them should be longer than a sentence or two.
 
 ## Locations
 
@@ -61,7 +65,7 @@ If you have time, come up with a handout or two. Blah blah blah.
 
 ## Before Session Zero
 
-Come up with a few ideas about the campaign, a broad concept of the world, and a hook. But don't plan too much before session zero. Let the heroes your players create inform the world and where things could go. After session zero, continue with the following steps.
+Come up with a few ideas about the campaign, a broad concept of the world, a potential overarching theme, and a hook. But don't plan too much before session zero. Let the heroes your players create inform the world and where things could go. After session zero, continue with the following steps.
 
 ## Campaign Hook
 
@@ -73,7 +77,7 @@ Come up with a list of things, at least six, that are unique about the world of 
 
 ## Factions
 
-Establish who the driving factions are in your world. Some of these were likely already created during session zero. Come up with three to six defining characteristics for each faction and at least one driving goal. Then write three to six things that will happen as each faction presses ever closer towards completing their goal, assuming the heroes do not interfere.
+Establish three to six major factions. Some of these were likely already created during session zero. Come up with three to six defining characteristics for each faction and at least one driving goal. Then write three to six things that will happen as each faction presses ever closer towards completing their goal, assuming the heroes do not interfere.
 
 ## List of Names
 
@@ -83,7 +87,7 @@ Write a list of names appropriate for your world. Always keep this list handy. C
 
 ## Session Zero
 
-Sit down at the table for session zero with a few ideas about the campaign, a broad concept of the world, and a hook. But don't plan too much beforehand. Let the heroes your players create inform the world and where things could go.
+Sit down at the table for session zero with a few ideas about the campaign, a broad concept of the world, a potential overarching theme, and a hook. But don't plan too much beforehand. Let the heroes your players create inform the world and where things could go.
 
 ### CATS
 
@@ -94,10 +98,6 @@ Introduce the game system and its style of play with with [CATS](http://proleary
 - Tone
 - Subject Matter
 
-### Safety Tools
-
-Talk about lines and vails, introduce the [X-Card](http://tinyurl.com/x-card-rpg), and establish a culture of safety.
-
 ### Making Heroes
 
 Introduce the campaign based on the few ideas you have for it. Present the world and a hook for adventure. Encourage your players to make heroes that would naturally bite the hook, and to make heroes with connections to each other and stakes in the world. Be prepared to pivot if the vibe at the table is going in a different direction than you planned.
@@ -106,11 +106,23 @@ Introduce the campaign based on the few ideas you have for it. Present the world
 
 Start building the world together based on the heroes. What factions are they members of? Where do they live? Where are they from? Use those details to make a broad outline of the world together. Then dig a bit deeper into the place where the campaign will begin, be it a town or a wilderness location. Don't plan much beyond that.
 
+### Roleplaying
+
+Establish what kind of roleplaying the group is going for. Will it be the kind of game where players narrate the gist of what their characters do and say, or will the players embody their characters by speaking in their voices the whole time? Or perhaps somewhere in between?
+
+### Narrative Agency
+
+Establish how much narrative agency the players want in the game, and how much you as the DM want to give them. Are you the arbiter of all things in the world, telling the players exactly how things are? Or are players allowed to invent their own things within reason? Do the players even want that power? For some players, this kind of power breaks their immersion.
+
+### Safety Tools
+
+Address potentially sensitive topics that might come up during play, establish lines and veils, and introduce the [X-Card](http://tinyurl.com/x-card-rpg) and the player ability to call for a "pause for a second".
+
 ## Session One and Beyond
 
 - Start the session by asking the players what happened last time, filling in any relevant missing details.
 - Run the adventure fast and loose. Be a fan of the heroes. Present them with a challenging world. Play to find out what happens.
-- End the session by asking for and gracefully accepting feedback. Do [Roses & Thorns (and Buds)](https://gnomestew.com/roses-thorns-and-buds/) or Stars & Wishes.
+- End the session by asking for and gracefully accepting feedback. Do [Roses & Thorns (and Buds)](https://gnomestew.com/roses-thorns-and-buds/) or [Stars & Wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes).
 - Establish in-between session expectations.
 - Schedule next session.
 
