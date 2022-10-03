@@ -13,19 +13,23 @@ date: 2022-09-30
 
 ## Heroes First
 
-Refamiliarize yourself with the heroes before you start planning the adventure. Note their unique abilities. Be aware of their personality traits, ideals, bonds, and flaws. Keep their goals in mind. Build an adventure that's uniquely designed with them in mind.
+Refamiliarize yourself with the heroes, what they've done, and what they plan to do before you start planning the adventure. Note their unique abilities. Be aware of their personality traits, ideals, bonds, and flaws. Keep their goals in mind. Review any notes you took during the previous session, especially any that pertain to the heroes. Build an adventure that's uniquely designed with the heroes in mind.
 
-## Questions
+## Brainstorm
 
-Prepare a few questions to ask the heroes, at least one for each, to get their roleplaying minds working.
+Brainstorm about a page worth of notes. Where might the heroes go next? What might they find? Who might they meet? What challenges could they face?
 
 ## Theme
 
 Decide on a theme for the adventure. Let that theme, as well as the heroes you just reviewed, inform the rest of the decisions you make.
 
+## Questions
+
+Prepare a few questions to ask the heroes, at least one for each, to get their roleplaying minds working.
+
 ## Adventure Hook
 
-Start strong with an adventure hook that is introduced in a compelling way. This will be the most outlined scene in the adventure because you are in control of how the session starts.
+Start strong with an adventure hook that is introduced in a compelling way. This will be the most outlined scene in the adventure because you are in control of how the session starts. Decide on the location and list some complications, discoveries, moments, NPCs, etc.
 
 ## Scenes
 
@@ -33,7 +37,7 @@ Make a list of other potential scenes, six to twelve of them, that could logical
 
 ## Locations
 
-Come up with a list of locations, at least six and up to twelve. Each location should have an evocative name and a few moments, discoveries, and complications tied to it. They may also have NPCs tied to them, though NPCs tend to move around and show up just where they're needed...
+Come up with a list of locations implied by your scenes and a few extras, at least six and up to twelve in total. Each location should have an evocative name and a few moments, discoveries, and complications tied to it. They may also have NPCs tied to them, though NPCs tend to move around and show up just where they're needed...
 
 ## Complications, Discoveries, and Moments
 
@@ -112,7 +116,7 @@ Establish what kind of roleplaying the group is going for. Will it be the kind o
 
 ### Narrative Agency
 
-Establish how much narrative agency the players want in the game, and how much you as the DM want to give them. Are you the arbiter of all things in the world, telling the players exactly how things are? Or are players allowed to invent their own things within reason? Do the players even want that power? For some players, this kind of power breaks their immersion.
+Establish how much narrative agency the players want in the game, and how much you as the DM want to give them. Are you the arbiter of all things in the world, telling the players exactly how things are? Or are players allowed to invent their own things within reason? Do the players even want that power? For some players, this kind of power breaks their immersion. Along those same lines, do the players want complete freedom to do whatever they want or do they want to be railroaded towards the "story"?
 
 ### Safety Tools
 

@@ -229,8 +229,6 @@ The Four attended the Festival of Reaping, won and lost some games, and had thei
 
 ### Chapter 7: SOMETHING
 
-*WORDS// three half moons//*
-
 **Yonday, the 3rd day of Falling, in the 371st year of the Alliance**
 
 <h2 id="part3">Part III: Cataclysm</h2>
