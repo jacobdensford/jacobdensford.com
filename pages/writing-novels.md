@@ -1,6 +1,6 @@
 ---
 title: "Writing Novels"
-subtitle: "My method and order for writing a novel, as well as some tools and resources."
+subtitle: "My method and order for writing a novel, as well as some tools and resources. It's all theoretical, though. I have yet to actually finish a novel."
 tags:
   - pages
   - writing
@@ -41,14 +41,14 @@ date: 2022-09-27
 - Write three to four thousand words per week, using wordcount as a gauge—not a goal.
 - Once finished, set the draft aside and try not to think about it for a week or two.
 
-### Second Draft (Months 9 - 10)
+### Second Draft (Months 9 - 11)
 
 - Read through the first draft with fresh eyes, taking brief notes about what might need to be changed.
 - Working off those notes, make any modifications to the outline that are needed.
 - Then, using both the first draft and the new outline, write the second draft, pasting over any parts that don't need changed and writing or rewriting sections as needed.
 - Export the second draft into a sharable format and share it with select individuals for developmental feedback on narrative—what worked really well, what didn't, where was the story thread lost or weakest, etc.
 
-### Third Draft (Months 10 - 12)
+### Third Draft (Month 12+)
 
 - Using the second draft and feedback on it, rework the story outline as needed.
 - Using the reworked outline and the second draft, compose the third draft.

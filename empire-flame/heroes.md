@@ -26,6 +26,12 @@ image: url("/images/efimage.png")
 
 *she/her, halfling, criminal, bard 4/cleric 1, played by Kelly*
 
+Abandoned at a very young age, Bree grew up on the streets of Mistcrown alone, until she was adopted into the Black Court. She had an affinity for music and learned to play several instruments in her youth. She was also adept at thieving. These two skills together made her a valuable asset to the Black Court.
+
+Bree was always focused on what and where the closest valuable object was, and determined to figure out how she might obtain it--sometimes to her determent. She was slow to trust but fiercely loyal once she did. She valued freedom above all else, for herself and for others.
+
+Later in life, after becoming one of the four Mistguard, she devoted herself to the goddess Mishakal and embraced her ability to heal others and her protective nature.
+
 ### Abilities
 
 #### After Long Rest
@@ -62,6 +68,10 @@ image: url("/images/efimage.png")
 
 *he/him, human, sage/haunted one, wizard 5, played by Jordan*
 
+Even Davos is not sure how long he's been alive. He was an important figure hundreds of years before, during the great war. It was then that he made his greatest blunder--a mistake he hid from for centuries, seeking solace in the bottom of bottle after bottle.
+
+Davos would go to great lengths to avoid talking about the past that haunted him and the guilt that threatened to consume him. He sought knowledge above all else and believed it was the main path to self-improvement. As such, he never could avoid getting swept up in a compelling mystery. He had lost faith in humanity and preferred the company of animals.
+
 ### Abilities
 
 #### After Long Rest
@@ -91,6 +101,10 @@ image: url("/images/efimage.png")
 ![Illgiem](/images/illgiem.png)
 
 *he/him, aasimar, soldier, paladin 5, played by Kent*
+
+Illgiem was once a simple soldier. He lost his ///
+
+Illgiem could find beauty in all things, but especially in women. He always fought to protect those who couldn't defend themselves. He was impulsive however, jumping into conflicts without much thought, which would often put those he cared most about into danger.
 
 #### After Long Rest
 
@@ -135,6 +149,10 @@ image: url("/images/efimage.png")
 ![Ravyn](/images/ravyn.png)
 
 *she/her, tiefling, criminal, rogue 5, played by Olivia*
+
+Grow up on the streets of Llanaga, the capital city of Ellandon, Ravyn ///
+
+Ravyn always had an escape plan, be that from people, situations, or locations. She was slow to trust others but fiercely loyal once she did. She valued freedom and charity, and would always do what she believed to be right despite the consequences. With all her might and will, she sought the sorceress who killed her found family.
 
 ### Abilities
 
