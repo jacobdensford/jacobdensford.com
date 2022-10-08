@@ -227,8 +227,22 @@ The Four attended the Festival of Reaping, won and lost some games, and had thei
 
 <h2 id="part2">Part II: Rebellion</h2>
 
-### Chapter 7: SOMETHING
+### Chapter 7: Two Sides to Every Coin
 
 **Yonday, the 3rd day of Falling, in the 371st year of the Alliance**
+
+After spending the month of Reaping working, crafting, and researching, the Mistguard encountered several signs pointing them towards the kingdom of Yondar. First, Bree learned that her mother always longed to visit the Yondar Steppes. Then, Ravyn received a letter from an old teacher asking her to travel to his monastery in the capital city of Pandara. Finally, a group of Fallionese refugees led by a woman named Jane request escort to the Mirror Lake. The Mistguard decide to bow to fate and head to Yondar.
+
+Not long after departing with the Fallionese caravan north along the Emerald Road, it is discovered that Hugo and his Shadow Steppers had secreted themselves away among the Fallionese. After securing promises that they wouldn't do anything thieving and would watch out for the children of the caravan, the Shadow Steppers were allowed to stay.
+
+Passing the chasm that opened up to swallow the Emerald River, the Mistguard heard the distant sounds of construction deep within. They surmised that the Kobolds were building something, though they were unable to ascertain exactly what.
+
+During the first night on the road, their camp is attacked by bandits, who turned out to be working for an Ellandonian merchant named Aeldher. They were after a powerful object that was in Jane's possession--The Two-Faced Coin. It was said that one who cast the coin in either the Mirror or Void Lake would have someone passed return to them or have an enemy drop dead. Jane had the coin in the hopes of resurrecting her deceased daughter, Sybella. After the loss of life at the coin's expense, Ravyn decides it best if she hold on to it.
+
+An uneventful evening was spent in the logging village of Bafeld. In the morning, the group set out along the Lakeward Road, east towards Yondar. The forest to the north showed signs of blight. The Mistguard sent the Fallionese caravan on their way with the Shadow Steppers as their guard, and headed into the forest towards the heart of the blight. They encountered a fey creature crying in a protected grove, who beseeches them to seek the evil entity causing the blight. They agree, and Davos leaves behind his pet mouse to comfort the dryad. The Mistguard also stumble upon a walking and talking tree who, intentionally or not, tries to capture them within an enchanted chest. Thinking the four were inside, the tree takes the chest to the heart of the blight. There, a devil stands atop an ancient monument to Illgiem's goddess, Sune. Unable to restrain himself, Illgiem leaps into battle with the devil. The rest follow. Most nearly die by the end, but they manage to survive through quick thinking and force of will. But the devil is not defeated and they have only moments before it returns.
+
+### Chapter 8:
+
+**Ellanday, the 7th day of Falling, in the 371st year of the Alliance**
 
 <h2 id="part3">Part III: Cataclysm</h2>

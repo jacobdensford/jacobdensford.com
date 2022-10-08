@@ -54,6 +54,10 @@ Bertio was a blacksmith in Mistcrown. Before that, he served in the Endoranian a
 
 Billy was a farmer in the Mistfields around the town of Mistcrown. He served temperarily in the Endoranian army during the Battle of Mistcrown.
 
+### Birtha
+
+Birtha was an old witch who lived in a hut in the forest just north of Bafeld.
+
 ### Cuthbeorht
 
 Cuthbeorht was an apprentice blacksmith in the town of Mistcrown. He aided Bertio in preparing the Endoranian army's weapons for the Battle of Mistcrown.
@@ -97,6 +101,10 @@ Pleurotus was the Primus Mycelia of the myconid colony beneath the ground in End
 ### Potter Jones
 
 Potter is the leader of the Black Court in Mistcrown.
+
+### Quelbea
+
+Quelbea was a dryad who embodied the northernmost forest in Endoran.
 
 ### Sartur
 
@@ -224,11 +232,13 @@ Othea was one of the giant's many gods. She was worshipped before memory of such
 
 ### Sune
 
-Sune was the goddess of light. She was said to reside within the sun, shining down on the faithful by day. Her domains were light, beauty, goodness, mercy, kindness, forgiveness, hope, love, laughter, art, joy, and courage.
+Sune was the goddess of light. She was said to manifest in the physical realm as the sun, shining down on the faithful by day. Her domains were light, beauty, goodness, mercy, kindness, forgiveness, hope, love, laughter, art, joy, and courage.
 
-The goddess Sune had three children: In Ana, Na'an Sin, and Utu Sham.
+The goddess Sune had three children: In Ana, Na'an Sin, and Mishakal.
 
-### Utu Sham
+### Mishakal
+
+Mishakal was the goddess of healing and new life. She was said to manifest in the physical realm as the first moon, the largest and oldest sister of the three, Utu Sham.
 
 <h2 id="calendar">Calendar</h2>
 
@@ -262,7 +272,7 @@ There were five days in a week, each named after one of the kingdoms in the Alli
 
 <h2 id="moons">Moons</h2>
 
-There were three moons in those days: Utu Sham, Na’an Sin, and In Ana.
+There were three moons in those days: Utu Sham (also called Mishakal), Na’an Sin, and In Ana.
 
 <h2 id="music">Music</h2>
 
