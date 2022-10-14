@@ -1,5 +1,5 @@
 ---
-title: "Movies and Shows"
+title: "Video Games"
 subtitle: "What I'm playing, what I've played, recommendations."
 tags:
   - pages
