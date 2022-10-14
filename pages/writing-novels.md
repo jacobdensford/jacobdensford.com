@@ -86,7 +86,7 @@ I currently use [**Scivener**](https://www.literatureandlatte.com/scrivener/over
   - [Sprinter](https://sprinter.getfreewrite.com/)
   - [Draft](https://draftin.com/)
   - [Reedsy Editor](https://editor.reedsy.com/)
-  - [Wavemaker](https://wavemaker.co.uk/)
+  - [Wavemaker](https://wavemaker.cards/)
 
 - **Desktop Writing Apps**
   - [Abricotine](https://abricotine.brrd.fr/)

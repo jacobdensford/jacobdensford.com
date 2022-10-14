@@ -170,6 +170,10 @@ Address potentially sensitive topics that might come up during play, establish l
 - [Kobold+ Fight Club | Plan D&D Encounters](https://koboldplus.club/)
 - [Download D&D Supplements for Free](https://anyflip.com/homepage/fqhgb)
 
+## Homebrewed Content for Indie TRPGS
+
+- [Ex Libris | Mostly Mork Borg](https://exlibrisrpg.com/)
+
 ## Virtual Tabletops
 
 - [One More Multiverse - Virtual Tabletop](https://multiverse.com/)
@@ -180,6 +184,19 @@ Address potentially sensitive topics that might come up during play, establish l
 - [Fantasy Grounds](https://www.fantasygrounds.com/)
 - [Owlbear Rodeo](https://www.owlbear.rodeo/)
 
+## Tools for Online Play
+
+- [Kenku FM | Audio Sharing for Discord](https://www.kenku.fm/)
+- [Token Stamp](https://rolladvantage.com/tokenstamp/)
+
 ## Online Shared Dice Rollers
 
 - [dddice](https://dddice.com/)
+
+## Publishers and Stores
+
+- [Monkey's Paw Games](https://monkeyspawgames.com/)
+- [Knave of Cups](https://knaveofcups.com/)
+- [Exalted Funeral](https://www.exaltedfuneral.com/)
+- [Free League](https://freeleaguepublishing.com/)
+- [Stockholm Kartell](https://www.stockholmkartell.com/)
