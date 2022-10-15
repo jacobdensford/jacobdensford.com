@@ -8,6 +8,7 @@ image: url("/images/efimage.png")
 <nav>
 
   <ul>
+    <li><a href="#crafting">Crafting Poisons</a></li>
     <li><a href="#expendable">Expendable Equipment</a></li>
     <li><a href="#inspiration">Inspiration</a></li>
     <li><a href="#restroleplay">Rest Roleplay</a></li>
