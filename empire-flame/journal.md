@@ -249,6 +249,6 @@ The Mistguard fled, making all haste to Quelbea's protected glade. blighted vine
 
 ### Chapter 9: Reflections
 
-**Yonday, the 15th of Falling, in the 371st year of the Alliance**
+**Yonday, the 18th of Falling, in the 371st year of the Alliance**
 
 <h2 id="part3">Part III: Cataclysm</h2>

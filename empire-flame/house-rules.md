@@ -20,6 +20,40 @@ image: url("/images/efimage.png")
 
 # House Rules
 
+<h2 id "crafting">Crafting Poisons</h2>
+
+To craft poisons, you must possess and be proficient with a poisoner's kit. Add up the total value of the poison you wish to craft from the chart below. Spent 25gp per day until you reach the poison's value to craft one use of the poison. Each day's gold requirement can be replaced with a successful DC 15 nature or survival check. Poisons are assumed to be applied via injury, be resisted with a DC 5 CON save, have conditions last for 1 round, and deal no damage, unless other options are selected from the chart below. Further options can be requested at the DM's discretion. Such additional options will likely require additional challenges beyond a simple gold value to craft.
+
+Cost|Effect
+:---|---
+25gp|The poison is applied by being ingested
+50gp|The poison is applied by physical contact
+100gp|The poison is applied by inhaling
+50gp|Resisting the poison's effect requires a DC 10 CON save
+100gp|Resisting the poison's effect requires a DC 15 CON save
+200gp|Resisting the poison's effect requires a DC 20 CON save
+300gp|Resisting the poison's effect requires a DC 25 CON save
+50gp|The poison deals 1d4 poison damage
+100gp|The poison deals 1d6 poison damage
+150gp|The poison deals 1d8 poison damage
+200gp|The poison deals 1d10 poison damage
+250gp|The poison deals 1d12 poison damage
+50gp|On the successful save, the poison still deals half damage
+25gp|The poison's effects last for 1 minute
+50gp|The poison's effects last for 1 hour
+100gp|The poison's effects last for 1 day
+200gp|The poison's effects last until treated
+25gp|The poison causes one level of exhaustion
+25gp|The poison causes the deafened condition
+50gp|The poison causes the poisoned condition
+50gp|The poison causes the blinded condition
+75gp|The poison causes the frightened condition
+100gp|The poison causes the charmed condition
+125gp|The poison causes the incapacitated condition
+150gp|The poison causes the stunned condition
+175gp|The poison causes the paralyzed condition
+200gp|The poison causes the unconscious condition
+
 <h2 id="expendable">Expendable Equipment</h2>
 
 Rather than tracking each piece of expendable equipment, a consequence of rolling a natural 1 on a d20 is that you expend your last use of that piece of equipment. This rule applies to anything that is normally purchased in collections of 20 (arrows or crossbow bolts, for example), or that is intentionally purchased in a collection of 20 (20 rations or 20 diamonds as spell components, for example). If using the equipment does not usually trigger a roll, the DM may still call for one to see if you run out.
