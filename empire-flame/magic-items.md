@@ -47,11 +47,11 @@ When you drink this potion, your Strength score changes to 21 for 1 hour. The po
 
 ### Zalabor the Multi-colored's Staff
 
-*Staff, very rare (requires attunement)*
+*Staff, very rare (requires attunement by a wizard)*
 
 This staff is made of carved and polished wood with a cracked glass orb affixed to its top. The orb appears clear, but when light shines through it, it shines with a broken prismatic glow.
 
-At dawn, the staff gains four charges. Expend one charge to cast a lesser version of chromatic orb (1d8 instead of 3d8 damage). The spell's damage increases by 1d8 with each additional charge expended, up to the wizard's highest spell slot. However, if the staff's last charge is expended, roll a d20. On a 1, the staff crumbles into ashes and is destroyed.
+At dawn, the staff gains charges equal to your proficiency bonus. Expend one charge to cast a lesser version of *chromatic orb* (1d8 instead of 3d8 damage). The spell's damage increases by 1d8 with each additional charge expended.
 
 <h2 id="weapons">Weapons</h2>
 
@@ -68,6 +68,14 @@ A javelin crafted by the giants as a gift to humans, whose lives are so short an
 This dagger is golden in color with a gauntleted fist cast in miniature as its pommel. Three ivory snakes twist their way up the hilt to encircle the base of the razor-sharp blade.
 
 This dagger deals 1d4 additional damage for each of the other Far Sea daggers that are within one hundred feet of it.
+
+### Quelbea's Thorn Whip
+
+*Weapon, rare (requires attunement)*
+
+A coiled length of living thorny vines.
+
+When you attack with this weapon, it is as if you cast the *thorn whip* spell. The range is 30 feet and the damage is 1d6 piercing (increasing by 1d6 when you reach 5th, 11th, and 17th level). On a hit, you can pull a large or smaller creature up to 10 feet towards you. This weapon is magical and is a whip for attack bonus, damage bonus, and proficiency purposes.
 
 ### Tewodros' Bloodthirsty Blade
 
@@ -95,7 +103,15 @@ When a poison is applied to this dagger through the mouth of  the snake, it runs
 
 <h2 id="wondrous">Wondrous Items</h2>
 
-### A Bag of Blood-Speckled Shroomlings
+### Amulet of Sune
+
+*Wondrous item, very rare (requires attunement by a cleric or paladin)*
+
+This ancient, tarnished, silver amulet depicts the face of the goddess Sune. Dirt and moss fill the crevasses of the goddess's face. It glows gently with untapped power.
+
+The barer of this amulet can call on Sune to cast *dispel good and evil*. As an action, beseech Sune to grant you power and roll a d20. The roll's DC is 20 - your proficiency bonus. Once cast, or if you roll below 10 - your proficiency bonus, the amulet dims and won't work again until the next dawn.
+
+### Bag of Blood-Speckled Shroomlings
 
 *Wondrous item, uncommon*
 
@@ -111,7 +127,7 @@ This slightly soggy burlap sack contains soil from deep below, deeper even than 
 
 *Wondrous item, uncommon*
 
-A fine robe, exquisite in every stitch. It changes to the color of whatever its wearer desires. The robe does not decay with age. Anything stored within the robe gains that same property. If the robe is ever damaged or dirtied, it is once again clean and mended by the next dawn.
+A fine robe, exquisite in every stitch. It changes to the color of whatever its wearer desires. The robe does not decay with age. Anything stored within the robe gains that same property. If the robe is ever damaged or dirtied, it is once again clean and mended by the next dawn. Any items stored within the robe are also mended, as if the *mending* spell was cast on them.
 
 ### Vainglorious Boots
 

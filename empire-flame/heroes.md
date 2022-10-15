@@ -79,7 +79,7 @@ Davos would go to great lengths to avoid talking about the past that haunted him
 - **Prepare Spells** *INT + wizard lvl*
 - **Regain Spell Slots** *4 x 1st, 3 x 2nd, 2 x 3rd*
 - **Roll Portent** *two d20s*
-- **Roll Zalabor's Staff** *1d4*
+- **Regain Zalabor's Staff Uses** *equal to proficiency bonus*
 
 #### From Class
 
@@ -93,7 +93,7 @@ Davos would go to great lengths to avoid talking about the past that haunted him
 #### From Items
 
 - **Color Changing Robes of Preservation** *bonus action, change color of robes to any other color, complex patterns require WIS check*
-- **Zalabor's Staff** *1d4 charges/long rest, chromatic orb of predetermined damage type per charge x charges spent*
+- **Zalabor's Staff** *proficiency bonus charges/long rest, chromatic orb of 1d8 x charges spent damage*
 - **Tewodro's Dagger** *can cast fog cloud on self (20ft radius cloud of smoke for 1 hour)*
 
 <h2 id="illgiem">Illgiem Zaphkiel</h2>
@@ -114,6 +114,7 @@ Illgiem could find beauty in all things, but especially in women. He always foug
  **Channel Divinity** *(1)*
 - **Regain Spell Slots** *4 x 1st, 2 x 2nd*
 - **Prepare Spells** *CHA + paladin lvl/2*
+- **Compliment Vainglorious Boots** *DC 10 CHA check, on fail must succeed on a DC 15 CHA save or be charmed for 1d12 hours*
 
 #### From Race
 
@@ -150,7 +151,7 @@ Illgiem could find beauty in all things, but especially in women. He always foug
 
 *she/her, tiefling, criminal, rogue 5, played by Olivia*
 
-Grow up on the streets of Llanaga, the capital city of Ellandon, Ravyn ///
+Grew up on the streets of Llanaga, the capital city of Ellandon, Ravyn ///
 
 Ravyn always had an escape plan, be that from people, situations, or locations. She was slow to trust others but fiercely loyal once she did. She valued freedom and charity, and would always do what she believed to be right despite the consequences. With all her might and will, she sought the sorceress who killed her found family.
 
@@ -158,14 +159,12 @@ Ravyn always had an escape plan, be that from people, situations, or locations. 
 
 #### After Long Rest
 
-- **Compliment Vainglorious Boots** *DC 10 CHA check, on fail must succeed on a DC 15 CHA save or be charmed for 1d12 hours*
 - **Apply Poison to Wendimu's Dagger** *lasts the whole day*
 - *regain use of* **Infernal Legacy** *(1)*
 
 #### From Race
 
-- **Darkvision** *60ft, dim is bright, dark is dim, no color*
-- **Helish Resistance** **Resistance to fire damage**
+- **Helish Resistance** *Resistance to fire damage*
 - **Infernal Legacy** *thaumaturgy cantrip, hellish rebuke 1/day as 2nd lvl spell*
 
 #### From Class
@@ -178,6 +177,7 @@ Ravyn always had an escape plan, be that from people, situations, or locations. 
 #### From Background
 
 - **Criminal Contact**
+- **Blindsight** *30ft, only form of vision*
 
 #### From Items
 
