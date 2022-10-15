@@ -205,7 +205,7 @@ The Four attended the Festival of Reaping, won and lost some games, and had thei
 
 **Endday, the 5th day of Reaping, in the 371st year of the Alliance**
 
-### Chapter 5 Aelmore has Fallen
+### Chapter 5: Aelmore has Fallen
 
 *Aelmore has fallen.*
 
