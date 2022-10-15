@@ -21,11 +21,11 @@ image: url("/images/efimage.png")
 
 # House Rules
 
-<h2 id "crafting">Crafting Poisons</h2>
+<h2 id="crafting">Crafting Poisons</h2>
 
 To craft poisons, you must possess and be proficient with a poisoner's kit. Add up the total value of the poison you wish to craft from the chart below. Spent 25gp per day until you reach the poison's value to craft one use of the poison. Each day's gold requirement can be replaced with a successful DC 15 nature or survival check. Poisons are assumed to be applied via injury, be resisted with a DC 5 CON save, have conditions last for 1 round, and deal no damage, unless other options are selected from the chart below. Further options can be requested at the DM's discretion. Such additional options will likely require additional challenges beyond a simple gold value to craft.
 
-Cost|Effect
+Cost   |Effect
 :---|---
 25gp|The poison is applied by being ingested
 50gp|The poison is applied by physical contact
