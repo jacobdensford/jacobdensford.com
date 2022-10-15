@@ -80,6 +80,10 @@ Ewis was a lord in Mistcrown who was imprisoned after it was discovered he was w
 
 Frytha was a young girl and member of Hugo's thieving guild.
 
+### Garakas
+
+Garakas was a barbed devil who had jammed open a doorway between the hells and the mortal realm. The Mistguard defeated him and destroyed his hellish tower.
+
 ### Hugo
 
 Hugo was a young boy and former member of the Black Court in Mistcrown who later went on to form his own thieving guild after being kicked out of the Black Court for attempted murder. He would come to be known as the Shadow Walker.
@@ -104,7 +108,11 @@ Potter is the leader of the Black Court in Mistcrown.
 
 ### Quelbea
 
-Quelbea was a dryad who embodied the northernmost forest in Endoran.
+Quelbea was a dryad who embodied the northernmost forest in Endoran. After the Mistguard cleansed her forest, she promised they would always have a friend in the woods.
+
+### Ralxire
+
+Ralxire was a bearded devil who made a deal with the Mistguard, one which they broke.
 
 ### Sartur
 

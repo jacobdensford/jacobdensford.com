@@ -22,7 +22,7 @@ image: url("/images/efimage.png")
 
 <h2 id="expendable">Expendable Equipment</h2>
 
-Rather than tracking each arrow, ration, and spell component, a consequence of rolling a natural 1 on a d20 is that you expend your last use of that piece of equipment. This rule applies to any expendable equipment that can be purchased in collections of 20 (arrows or crossbow bolts, for example), or that is intentionally purchased and bundled in a collection of 20 (20 rations or 20 diamonds as spell components, for example). If using the equipment does not usually trigger a roll, the DM may still call for one to see if you run out.
+Rather than tracking each piece of expendable equipment, a consequence of rolling a natural 1 on a d20 is that you expend your last use of that piece of equipment. This rule applies to anything that is normally purchased in collections of 20 (arrows or crossbow bolts, for example), or that is intentionally purchased in a collection of 20 (20 rations or 20 diamonds as spell components, for example). If using the equipment does not usually trigger a roll, the DM may still call for one to see if you run out.
 
 <h2 id="inspiration">Inspiration</h2>
 
@@ -44,7 +44,7 @@ During short or long rests, at least one character should roleplay a scene. Thin
 :---|---
 1|Bree
 2|Davos
-2|Ilgiem
+3|Ilgiem
 4|Ravyn
 
 1d6|Who joins you?

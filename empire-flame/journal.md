@@ -241,8 +241,14 @@ During the first night on the road, their camp is attacked by bandits, who turne
 
 An uneventful evening was spent in the logging village of Bafeld. In the morning, the group set out along the Lakeward Road, east towards Yondar. The forest to the north showed signs of blight. The Mistguard sent the Fallionese caravan on their way with the Shadow Steppers as their guard, and headed into the forest towards the heart of the blight. They encountered a fey creature crying in a protected grove, who beseeches them to seek the evil entity causing the blight. They agree, and Davos leaves behind his pet mouse to comfort the dryad. The Mistguard also stumble upon a walking and talking tree who, intentionally or not, tries to capture them within an enchanted chest. Thinking the four were inside, the tree takes the chest to the heart of the blight. There, a devil stands atop an ancient monument to Illgiem's goddess, Sune. Unable to restrain himself, Illgiem leaps into battle with the devil. The rest follow. Most nearly die by the end, but they manage to survive through quick thinking and force of will. But the devil is not defeated and they have only moments before it returns.
 
-### Chapter 8:
+### Chapter 8: To Hell and Back
 
 **Ellanday, the 7th day of Falling, in the 371st year of the Alliance**
+
+The Mistguard fled, making all haste to Quelbea's protected glade. blighted vines grasped at them and devilish imps harassed them, but they managed to evade death and reach shelter. They rested in the glade and recovered their strength before returning to the place where they fought the barbed devil Garakas. This time, they defeated him handily, banishing him back to the nine hells. Illgiem's goddess, Sune, demanded he end the blight and sever the bridge Garakas had opened. With Quelbea's help, the Mistguard journey to hell. There they toppled Garakas's tower, severing the bridge and ending the blight. In thanks, Quelbea blessed their horses and promised they would always have a friend in the forest.
+
+### Chapter 9: Reflections
+
+**Yonday, the 15th of Falling, in the 371st year of the Alliance**
 
 <h2 id="part3">Part III: Cataclysm</h2>
