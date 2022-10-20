@@ -20,7 +20,7 @@ Here are the rules for a new tabletop roleplaying game I'm working on. They're i
 >
 > - Use all the dice
 > - No math
-> - Options for players doing all the rolling or players and GMs both rolling
+> - Options for both players and the GM rolling dice or just the players
 > - OSR (Old-School Renaissance/Revival) compatible-ish
 > - NSR (New OSR or New Sworddream Renaissance) sensibilities, to an extent
 > - Be simple enough to easily learn and run a one-shot but complex enough for campaign play and to offer extra depth for players who want it
@@ -124,6 +124,28 @@ Each class grants the PC certain special abilities.
 
 Based on your attributes, choose one of the three main classes. Then choose one of that classes starting abilities.
 
+#### Warrior
+
+#### Thief
+
+#### Mage
+
+Mages can do magic. Each spell costs magic points (or MP). When casting a spell, the Mage adds the spent magic points to their magic point track, rolling on the magic point table when they hit a die number (4, 6, 8, 10, 12, and 20). The results get worse the higher on the track the Mage goes.
+
+**MP Table**
+
+Roll|Result
+:--|---
+1|Erase all MP
+2-3|Etc
+4-6|Etc
+7-8|Etc
+9-10|Etc
+11-12|Etc
+13-16|Etc
+17-19|Etc
+20|Reduce WIS by one die
+
 **Example character:** *Jane takes the Thief class, since her best attribute is INT.*
 
 > There might be six additional classes that focus on combinations of the three attributes.
@@ -144,8 +166,8 @@ There are twelve skills. Each is associated with one of the three attributes (bu
 
 **INT Skills:**
 
-- Investigation
 - Ranged Combat
+- Perception
 - Etc
 - Etc
 
@@ -218,17 +240,21 @@ If none of the dice hit, the test fails. If any of the dice are a hit-, there ar
 
 #### Help or Hinder
 
-If another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder the acted upon test--replace a miss with a hit or a hit with a miss. A hit+ or hit- on the help or hinder roll causes the unintended side effect to happens to the player helping or hindering, and a miss presents its own consequences.
+If another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder the acted upon test--replace a miss with a hit or a hit with a miss. A hit+ or hit- on the help or hinder roll causes an unintended side effect to happens to the player helping or hindering, and a miss presents its own consequences.
 
-#### Contested Tests (or ConTests--ha, ha, ha--get it?!)
+#### Contests (ConTests--get it?! Contested Tests?! Ha, ha, ha--get it?!)
 
-When two PCs or a PC and an NPC are acting against each other, they collect dice as normal and roll. Whoever has the most hits wins. (In a tie, hit+ beats hit beats hit-.)
+When two PCs or a PC and an NPC are acting against each other, they collect dice as normal and roll. Whoever has the most hits wins. (In a tie, hit+ beats hit beats hit-, then higher number beats lower, then bigger die beats smaller.)
+
+##### Combat
+
+Combat involves a series of contests. First, an initiative contest decides the order of action. Then, whoever wins each attack contest deals their hits to the opponent's relevant HP track (discussed in the next section).
 
 ### Health Points, Death, and Healing
 
 Each attribute has its own health point (or HP) track that is the length of the die for that attribute, and each has an associated rollable table, with better results the higher you go, from reducing the associated attribute by one or more to erasing all HP in the track. When a track is filled, roll the associated attribute die and consult the relevant table to see what happens. When any attribute is reduced beyond a d4, the PC dies.
 
-#### BOD HP Table
+**BOD HP Table**
 
 Roll|Result
 :--|---
@@ -242,7 +268,7 @@ Roll|Result
 17-19|Etc
 20|Heal all HP
 
-#### INT HP Table
+**INT HP Table**
 
 Roll|Result
 :--|---
@@ -256,7 +282,7 @@ Roll|Result
 17-19|Etc
 20|Heal all HP
 
-#### WIS HP Table
+**WIS HP Table**
 
 Roll|Result
 :--|---
@@ -278,7 +304,7 @@ PCs gain experience points (or XP) whenever they play up their style, follow the
 
 PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they roll (or choose options) from the XP table. The further down the track, the better the options, from gaining new skills and class abilities to increasing the die of a skill or attribute. (Skill and Attribute dice start at d4 and go up to d12.)
 
-#### XP Table
+**XP Table**
 
 Roll|Result
 :--|---
@@ -295,6 +321,14 @@ Roll|Result
 ## Game Master
 
 The Game Master (or GM) facilitates the game, controlling the world and any non-player characters (or NPCs).
+
+### When is it a test and when is it a contest?
+
+If the PCs are acting against the world or something that can't act back, it's a test. If the PCs are acting against an NPC or something else that can react to them, it's a contest.
+
+### Who rolls dice?
+
+If the GM doesn't want to roll dice, contests against NPCs are instead tests. In such a case, the PC rolling a hit- allows the NPC to act against the PC.
 
 ### Tracks
 
