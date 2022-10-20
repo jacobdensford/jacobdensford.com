@@ -102,17 +102,17 @@ d12|Flaw
 
 ### Attributes
 
-There are three attributes: Body (BOD), Intellect (INT), and Willpower (WIL). A PC's Body represents how strong and dexterous they are, Intellect how smart and clever, and Willpower their force of will and magical potential.
+There are three attributes: Body (BOD), Intellect (INT), and Willpower (WIL). A PC's Body represents how strong and dexterous they are, Intellect how sharp-eyed and smart, and Willpower their force of will and magical potential.
 
 Roll on the following table for each attribute to assign dice.
 
-d6|Attribute Die
+d8|Attribute Die
 :--|---
 1-4|d4
 5-6|d6
 7-8|d8
 
-Alternatively, assign a d6 to each attribute (or a d8 if another attribute has a d4).
+Alternatively, assign a d6 to each attribute (or a d6 to one, a d8 to one, and a d4 to one).
 
 **Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL.*
 
@@ -124,9 +124,9 @@ Each class grants the PC certain special abilities.
 
 Based on your attributes, choose one of the three main classes. Then choose one of that classes starting abilities.
 
-(There are six additional classes that focus on combinations of the three attributes, but they won't be discussed here.)
-
 **Example character:** *Jane takes the Thief class, since her best attribute is INT.*
+
+> There might be six additional classes that focus on combinations of the three attributes.
 
 > Class abilities shouldn't negate something creative that everyone should be able to do. Instead, they should grant specific thematic mechanics for doing something cool, or grant new abilities that a regular person wouldn't be able to do. For example, a thief might be tricky so they have an ability that lets them "cheat" on a roll, or a warrior might have more grit so they can take hits on their STR HP track to push a miss into a hit. Or something like that. Flavorful, thematic, mechanics. Classes probably also have special tracks and/or clocks.
 
@@ -137,7 +137,7 @@ There are twelve skills. Each is associated with one of the three attributes (bu
 **BOD Skills:**
 
 - Close Quarters Combat
-- Ranged Combat
+- Etc
 - Etc
 - Etc
 
@@ -145,7 +145,7 @@ There are twelve skills. Each is associated with one of the three attributes (bu
 **INT Skills:**
 
 - Investigation
-- History
+- Ranged Combat
 - Etc
 - Etc
 
@@ -156,7 +156,7 @@ There are twelve skills. Each is associated with one of the three attributes (bu
 - Etc
 - Etc
 
-Assign a d6 to three skills (or a d8 if another skill has a d4).
+Assign a d6 to three skills (or a d6 to one, a d8 to one, and a d4 to one).
 
 ### Equipment
 
@@ -214,15 +214,15 @@ Usually, if they rolled at least one hit (hit-, hit, or hit+), the test passes. 
 
 If none of the dice hit, the test fails. If any of the dice are a hit-, there are unforeseen consequences. If any of the dice are a hit+, there is an unanticipated benefit. The more dice that result in a hit- or hit+, the more extreme the positive or negative extra result. (A result of a hit- and a hit+ cancel out any extra effects.)
 
-> In general, needing more than one hit really under-powers the characters and kind of breaks the probabilities I'm aiming for with the game.
+> In general, needing more than one hit really under-powers the PCs and kind of breaks the probabilities I'm aiming for with the game, so such requirements should be used with care.
 
 #### Help or Hinder
 
-If another PC has a relevant skill, they may roll it and use a hit to either add or subtract from the acted upon test--replace a miss with a hit of the type rolled or replace a hit with a miss. A hit+ or hit- causes the unintended side effect to  happens to the player helping or hindering.
+If another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder the acted upon test--replace a miss with a hit or a hit with a miss. A hit+ or hit- on the help or hinder roll causes the unintended side effect to happens to the player helping or hindering, and a miss presents its own consequences.
 
 #### Contested Tests (or ConTests--ha, ha, ha--get it?!)
 
-When two PCs or a PC and an NPC are acting against each other, they collect dice as normal and roll. Whoever has the most hits wins. (In a tie, hit+ beat hit beat hit-.)
+When two PCs or a PC and an NPC are acting against each other, they collect dice as normal and roll. Whoever has the most hits wins. (In a tie, hit+ beats hit beats hit-.)
 
 ### Health Points, Death, and Healing
 
@@ -240,7 +240,7 @@ Roll|Result
 11-12|Etc
 13-16|Etc
 17-19|Etc
-20|Etc
+20|Heal all HP
 
 #### INT HP Table
 
@@ -254,7 +254,7 @@ Roll|Result
 11-12|Etc
 13-16|Etc
 17-19|Etc
-20|Etc
+20|Heal all HP
 
 #### WIS HP Table
 
@@ -268,7 +268,7 @@ Roll|Result
 11-12|Etc
 13-16|Etc
 17-19|Etc
-20|Etc
+20|Heal all HP
 
 HP tracks can be healed relatively easily. Whenever players take some downtime, they can roll their attribute die and regain that many hit points, up to their maximum. Returning a reduced attribute die to normal is a more involved process, requiring special care, training, or magic.
 
