@@ -142,7 +142,7 @@ Address potentially sensitive topics that might come up during play, establish l
   - [One Page Dungeon by watabou](https://watabou.itch.io/one-page-dungeon)
   - [Cave Generator by watabou](https://watabou.itch.io/cave-generator)
   - [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
-  - [Dungeon Scrawl by ProbableTrain](https://probabletrain.itch.io/dungeon-scrawl)
+  - [Dungeon Scrawl by ProbableTrain](https://app.dungeonscrawl.com/)
   - [Printable Graph Paper of All Kinds](https://incompetech.com/graphpaper/)
   - [Fantastic Maps - Tips and Tricks](http://www.fantasticmaps.com/category/tips-and-tricks/)
   - [Dungeondraft](https://dungeondraft.net/)
@@ -165,10 +165,10 @@ Address potentially sensitive topics that might come up during play, establish l
 
 ## Dungeons & Dragons Specific Tools
 
-- [The Homebrewery - Make Custom Homebrew Content for D&D](https://homebrewery.naturalcrit.com/)
-- [D&D Beyond - An Official Digital Toolset for D&D](https://www.dndbeyond.com/)
+- [The Homebrewery | Make Custom Homebrew Content for D&D](https://homebrewery.naturalcrit.com/)
+- [D&D Beyond | An Official Digital Toolset for D&D](https://www.dndbeyond.com/)
 - [Kobold+ Fight Club | Plan D&D Encounters](https://koboldplus.club/)
-- [Download D&D Supplements for Free](https://anyflip.com/homepage/fqhgb)
+- [DiceCloud | Online Character Sheet](https://dicecloud.com/)
 
 ## Homebrewed Content for Indie TRPGS
 
@@ -200,3 +200,4 @@ Address potentially sensitive topics that might come up during play, establish l
 - [Exalted Funeral](https://www.exaltedfuneral.com/)
 - [Free League](https://freeleaguepublishing.com/)
 - [Stockholm Kartell](https://www.stockholmkartell.com/)
+- [Deernicorn Distro](https://heartofthedeernicorn.com)
