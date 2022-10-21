@@ -124,7 +124,7 @@ Each class grants the PC certain special abilities.
 
 Based on your attributes, choose one of the three main classes. Then choose one of that class's abilities. (Or, when playing without classes, simply skip this section.)
 
-**Example character:** *Jane takes the Thief class, since her best attribute is INT. From her class, she chooses STARTING ABILITY.*
+**Example character:** *Jane takes the Thief class, since her best attribute is INT. From her class, she chooses Sneak Attack.*
 
 > There might be six additional classes that focus on combinations of the three attributes.
 
@@ -144,7 +144,7 @@ WORDS ABOUT THE THIEF
 
 ##### Thief Abilities
 
--
+- **Sneak Attack:** Deal double HP when attacking an enemy who is engaged with someone else or who is unaware of your presence.
 
 #### Mage
 
@@ -201,10 +201,10 @@ d8|Skill Die
 
 **INT Skills:**
 
-- Ranged Combat
 - Perception
+- Ranged Combat
 - Skullduggery
-- Etc
+- Stealth
 
 **WIL Skills:**
 
@@ -311,9 +311,9 @@ That's it. Your character is ready to go.
 
 *BOD: d6 -- 0/6 HP (0/2 AP) | INT: d8 -- 0/8 HP | WIL: d4 -- 0/4 HP*
 
-*Skullduggery: d4 | Ranged Combat: d6 | Perception: d8*
+*Perception: d8, Ranged Combat: d6, Skullduggery: d4*
 
-*CLASS FEATURE*
+*Sneak Attack: Deal double HP when attacking an enemy who is engaged with someone else or who is unaware of your presence*
 
 *Equipment (5/10 slots): light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20), a cracked porcelain doll, 15 SP*
 
@@ -332,15 +332,17 @@ Roll|Result
 7-9|Hit
 10-12|Hit+
 
-Usually, if they rolled at least one hit (hit-, hit, or hit+), the test passes. (Rarely, especially difficult tasks might require two hits.)
+Usually, if they rolled at least one hit (hit-, hit, or hit+), the test passes. (Rarely, especially difficult tests might require two or more hits.)
 
-If none of the dice hit, the test fails. If any of the dice are a hit-, there are unforeseen consequences. If any of the dice are a hit+, there is an unanticipated benefit. The more dice that result in a hit- or hit+, the more extreme the positive or negative extra result. (A result of a hit- and a hit+ cancel out any extra effects.)
+If one of the dice is a hit-, there are unforeseen consequences. If one of the dice is a hit+, there is an unanticipated benefit. Two hit+ count as an extra hit (3 hits total) while two hit- instead count as a miss (0 hits). (A result of one hit- and one hit+ cancel out any extra effects.)
+
+If none of the dice hit, the test fails. Optionally, the PC can accept extra trouble in exchange for passing a failed test.
 
 > In general, needing more than one hit really under-powers the PCs and kind of breaks the probabilities I'm aiming for with the game, so such requirements should be used with care.
 
 #### Help or Hinder
 
-If another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder the acted upon test--replace a miss with a hit or a hit with a miss. A hit+ or hit- on the help or hinder roll causes an unintended side effect to happens to the player helping or hindering, and a miss presents its own consequences.
+When a PC is making a test, if another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder that test, replacing a miss with a hit or a hit with a miss. A hit+ or hit- on the help or hinder test causes unintended side effects to happens to the PC helping or hindering.
 
 #### Contests (ConTests--get it?! Contested Tests?! Ha, ha, ha--get it?!)
 
@@ -360,7 +362,7 @@ Roll|Result
 :--|---
 1|Mortal wound: reduce BOD die, fall unconscious, and die in 1d4 minutes without aid
 2-3|Bloody wound: 1d4 HP to INT and WIL, fall unconscious, and die in 1d6 minutes without aid
-4-6|Etc
+4-6|Severed limb: roll 1d6 and lose an arm on a 1-2, a leg on a 3-4, a hand on a 5, or a finger on a 6
 7-8|Etc
 9-10|Etc
 11-12|Etc
@@ -400,9 +402,9 @@ HP tracks can be healed relatively easily. Whenever players take some downtime, 
 
 ### Experience Points
 
-PCs gain experience points (or XP) whenever they play up their style, follow their motivation, or allow their flaw to put them in a tight spot. (Players should call out these moments.) Additionally, the game master (or GM) will stipulate any other specific situations or actions that will award XP.
+PCs gain experience points (or XP) whenever they play up their style, follow their motivation, or allow their flaw to put them in a tight spot. (Players should call out these moments.) Additionally, the game master (or GM) will stipulate any other specific situations or actions that will award XP, such as defeating an enemy or disarming a trap.
 
-PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they roll (or choose options) from the XP table. The further down the track, the better the options, from gaining new skills and class abilities to increasing the die of a skill or attribute. (Skill and Attribute dice start at d4 and go up to d12.)
+PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may roll (or choose options) from the XP table. The further down the track, the better the options, from gaining new skills and class abilities to increasing the die of a skill or attribute. (Skill and Attribute dice start at d4 and go up to d12.)
 
 XP can also be spent to improve test rolls. Spend 2 XP to increase a hit- to a hit or a hit to a hit+, spend 4 XP to turn a miss into a hit, or spend 6 XP to add an additional hit to a roll.
 
@@ -430,7 +432,42 @@ If the PCs are acting against the world or something that can't act back, it's a
 
 ### Who rolls dice?
 
-If the GM doesn't want to roll dice, contests against NPCs are instead tests. In such a case, the PC rolling a hit- allows the NPC to act against the PC.
+If the GM doesn't want to roll dice, contests against NPCs are instead tests. In such a case, the PC rolling a miss or a hit- allows the NPC to act against the PC.
+
+### Interpreting Rolls
+
+When a test passes with no hit+ or hit-, that's easy. The GM simply gives the PC what they were aiming for. But when hit+ and hit- are involved, or when the PC fails the test but chooses to accept trouble to pass it anyway, things get more complicated.
+
+Think of it this way: a hit+ is worth a hit and a half while a hit- is worth half a hit (even though it still counts as a hit for the purpose of determining if a test passes or not).
+
+#### Hit+ and Extra Hits
+
+The easiest way to deal with a hit+ is to think of it as a hit and a half. So the thing the PC wanted comes to pass and a little extra. If the PC has more hits than they need, including the extra hit from rolling two hit+, The result should be proportionately better--twice as good with two hits when only one was needed, or three times as good if the two hits were hit+.
+
+Some ideas for what to give a PC on a hit+ (an extra half-hit):
+
+- They deal double damage
+- They gain XP
+
+Some ideas for what to give a PC with an extra hit:
+
+-
+
+#### Hit- and Failed Tests
+
+The easiest way to deal with a hit- is to think of it as half a hit. What complications might come about if the PC succeeds, but only half as good as they had hoped to? You can also think of a hit- as half a miss. What consequences might failing the test introduce? You could bring half of that to the table.
+
+Some ideas for when a PC rolls a hit-:
+
+- Threaten them with impending danger
+- Put them in a tight spot
+- Deal damage
+
+When a PC failed a test, they can choose to except a consequence in exchange for passing the test regardless of their roll. DMs can also offer this option to PCs without them asking for it. These consequences should be worse than a hit-. They should be at least twice as bad, in fact.
+
+Some ideas for when a PC accepts trouble to turn a failed test into a passed one:
+
+-
 
 ### Tracks
 
@@ -494,4 +531,4 @@ When rolling two dice and only needing a hit on one, add the probability of the 
 - **Track**
 - **Clock**
 - **Test** When a PC has to roll dice it's called a test.
-- **Points** Each hit on a track is called a point.
+- **Point** Each hit on a track is called a point.
