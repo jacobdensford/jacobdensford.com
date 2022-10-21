@@ -14,17 +14,27 @@ subtitle: Very much a work in progress.
 
 Here are the rules for a new tabletop roleplaying game I'm working on. They're incomplete and very much a work-in-progress, obviously. They're also incredibly generic right now. Eventually, once I settle on a setting, theme, and tone, I will rework some of the mechanics and the classes to more closely reflect those decisions. I'd call this a version 0.0.1.
 
-> *Throughout this document, design notes will be denoted by block quotes.*
+**Design Requirements:**
 
-> **Design Requirements:**
->
-> - Use all the dice
-> - No math
-> - Options for both players and the GM rolling dice or just the players
-> - OSR (Old-School Renaissance/Revival) compatible-ish
-> - NSR (New OSR or New Sworddream Renaissance) sensibilities, to an extent
-> - Be simple enough to easily learn and run a one-shot but complex enough for campaign play and to offer extra depth for players who want it
-> - Have mechanics that reinforce the themes and tones of the game and offer options for emergent storytelling
+- Use all the dice
+- No math
+- Options for both players and the GM rolling dice or just the players
+- OSR (Old-School Renaissance/Revival) compatible-ish<sup><a href="https://en.wikipedia.org/wiki/Old_School_Renaissance">1</a></sup> <sup><a href="https://www.youtube.com/watch?v=wRVJNkOObIU">2</a></sup>
+- NSR (New OSR or New Sworddream Renaissance) sensibilities, to an extent<sup><a href="https://boneboxchant.wordpress.com/2019/12/21/nsr/">3</a></sup> <sup><a href="https://newschoolrevolution.com/2020/01/19/what-is-the-nsr-part-1">4</a></sup> <sup><a href="https://newschoolrevolution.com/2022/05/04/the-new-new-school-revolution">5</a></sup> <sup><a href="https://boneboxchant.wordpress.com/2022/05/04/revisiting-the-nsr/">6</a></sup>
+- Be simple enough to easily learn and run a one-shot but complex enough for campaign play and to offer extra depth for players who want it
+- Have mechanics that reinforce the themes and tones of the game and offer options for emergent storytelling
+
+**Design Inspiration**
+
+- Numenera for the idea for the character description section
+- Mothership for the idea to make points and tracks
+- Apocalypse World for the concept of partial success
+- Also Apocalypse World for clocks
+- Mork Borg and Death in Space for lots of things
+- Trophy for mathless dice rolls that instead rely on hits and misses
+- So many others for so many things I can't even think of right now (I will add them as they come to me)
+
+> *Throughout this document, design notes will be denoted by block quotes.*
 
 ## Making Player Characters
 
@@ -72,9 +82,9 @@ d12|Motivation
 :--|---
 1|seeks wealth to pay their family's debts
 2|strives for perfection in function and form
-3|Etc
-4|Etc
-5|Etc
+3|wants to visit every city at least once
+4|seeks revenge for the death of their brother
+5|must complete their holy pilgrimage before returning home
 6|Etc
 7|Etc
 8|Etc
@@ -85,11 +95,11 @@ d12|Motivation
 
 d12|Flaw
 :--|---
-1|can't resist stealing everything valuable not nailed down
+1|can't resist stealing everything that's not nailed down
 2|will never trust again after what happened last time
-3|Etc
-4|Etc
-5|Etc
+3|can't forgive themselves for the mistakes of their past
+4|is addicted to a powerful drug
+5|is on the run because of a crime they didn't commit
 6|Etc
 7|Etc
 8|Etc
@@ -100,7 +110,7 @@ d12|Flaw
 
 **Example character:** *Jane is a charming CLASS who seeks wealth to pay her family's debts, but she will never trust again after what happened last time.*
 
-> Flaw might be replaced with Worst Outcome.
+> The motivations and flaws will be a great way to add theme, tone, and setting flavor to the game. I also might replace flaws with worst outcomes, but we'll see.
 
 ### Attributes
 
@@ -110,8 +120,8 @@ Roll on the following table for each attribute to assign dice. (Alternatively, a
 
 d8|Attribute Die
 :--|:--
-1-4|d4
-5-6|d6
+1-2|d4
+3-6|d6
 7-8|d8
 
 **Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL.*
@@ -273,9 +283,9 @@ Weapons deal hits to an opponent's BOD as health points, unless otherwise noted.
 
 Weapon|Details|Cost
 :--|---|--:
-Arrows|20 arrows|10sp
+Arrows|20 uses|10sp
 Battle Axe|3 HP, 2 slots|35 SP
-Bolts (10)|10 bolts|15sp
+Bolts|10 uses|15sp
 Club|1 HP|10 SP
 Crossbow|3 HP, 2 slots|40 SP
 Dagger|1 HP|10 SP
@@ -323,7 +333,7 @@ That's it. Your character is ready to go.
 
 ### Tests
 
-Whenever a PC attempts to do something and the outcome is uncertain, they roll a test. First, they collect dice, one or two--one from their relevant attribute and one, if any, from a relevant skill. Then they roll, counting each die's roll individually.
+Whenever a PC attempts to do something that they could reasonably accomplish but the outcome is uncertain, they roll a test. First, they collect dice, one or two--one from their relevant attribute and one, if any, from a relevant skill. Then they roll, counting each die's roll individually.
 
 Roll|Result
 :--|:--
@@ -332,21 +342,21 @@ Roll|Result
 7-9|Hit
 10-12|Hit+
 
-Usually, if they rolled at least one hit (hit-, hit, or hit+), the test passes. (Rarely, especially difficult tests might require two or more hits.)
+Usually, if they rolled at least one hit (hit-, hit, or hit+), the test passes. The more hits above what the test required, the better the results. (Rarely, especially difficult tests might require two or more hits.)
 
-If one of the dice is a hit-, there are unforeseen consequences. If one of the dice is a hit+, there is an unanticipated benefit. Two hit+ count as an extra hit (3 hits total) while two hit- instead count as a miss (0 hits). (A result of one hit- and one hit+ cancel out any extra effects.)
+If one of the dice is a hit-, there are unforeseen consequences. If one of the dice is a hit+, there is an unanticipated benefit. Two hit+ count as an extra hit (3 hits total) while two hit- still pass the test but extra trouble is introduced. (A result of one hit- and one hit+ cancel out any extra effects.)
 
-If none of the dice hit, the test fails. Optionally, the PC can accept extra trouble in exchange for passing a failed test.
+If none of the dice hit, the test fails. Optionally, the PC can accept extra trouble in exchange for passing a failed test, the trouble getting worse the more hits needed to succeed.
 
 > In general, needing more than one hit really under-powers the PCs and kind of breaks the probabilities I'm aiming for with the game, so such requirements should be used with care.
 
 #### Help or Hinder
 
-When a PC is making a test, if another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder that test, replacing a miss with a hit or a hit with a miss. A hit+ or hit- on the help or hinder test causes unintended side effects to happens to the PC helping or hindering.
+When a PC is making a test, if another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder that test, replacing a hit with a miss or adding the hit to the other PC's test. A hit+ or hit- on the help or hinder test causes unintended side effects to happens to the PC helping or hindering.
 
 #### Contests (ConTests--get it?! Contested Tests?! Ha, ha, ha--get it?!)
 
-When two PCs or a PC and an NPC are acting against each other, they collect dice as normal and roll. Whoever has the most hits wins. (In a tie, hit+ beats hit beats hit-, then higher number beats lower, then bigger die beats smaller.)
+When two or more PCs, or one or more PCs and one or more NPCs, are acting against each other, they collect dice as normal and roll. Whoever has the most hits wins. (In a tie, hit+ beats hit beats hit-, then higher number beats lower, then bigger die beats smaller. If the result is still tied, the situation stays the same as it was before.)
 
 ##### Combat
 
@@ -400,11 +410,13 @@ Roll|Result
 
 HP tracks can be healed relatively easily. Whenever players take some downtime, they can roll their attribute die and heal that many hit points, up to their maximum. Returning a reduced attribute die to normal is a more involved process, requiring special care, training, or magic.
 
+> Alternatively, there might just be one HP track that all damage uses. It might add up to a combination of all the PCs attribute dice, with rolls at each used die number. Or it might just be twenty points long, with rolls at each die number (4, 6, 8, 10, 12, and 20). Will have to playtest the multiple HP tracks first.
+
 ### Experience Points
 
-PCs gain experience points (or XP) whenever they play up their style, follow their motivation, or allow their flaw to put them in a tight spot. (Players should call out these moments.) Additionally, the game master (or GM) will stipulate any other specific situations or actions that will award XP, such as defeating an enemy or disarming a trap.
+PCs gain experience points (or XP) whenever they play up their style, follow their motivation, or allow their flaw to put them in a tight spot. (Players should call out these moments.) dditionally, the game master (or GM) will stipulate any other specific situations or actions that will award XP, such as defeating an enemy or disarming a trap.
 
-PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may roll (or choose options) from the XP table. The further down the track, the better the options, from gaining new skills and class abilities to increasing the die of a skill or attribute. (Skill and Attribute dice start at d4 and go up to d12.)
+PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may choose to roll that die on the XP table (or choose options within that die's range). The further down the track, the better the options, from gaining new skills and class abilities to increasing the die of a skill or attribute. (Skill and Attribute dice range from a d4 to a d12.)
 
 XP can also be spent to improve test rolls. Spend 2 XP to increase a hit- to a hit or a hit to a hit+, spend 4 XP to turn a miss into a hit, or spend 6 XP to add an additional hit to a roll.
 
@@ -414,13 +426,15 @@ Roll|Result
 :--|---
 1|Gain nothing and lose all XP
 2-3|Gain nothing
-4-9|Increase a skill's die or learn a new skill
+4-9|Increase a skill's die or learn a new skill at d4
 10-12|Gain a new class feature*
 13-16|Gain a feature from a different class*
 17-19|Increase an attribute's die
 20|Choose one and reroll
 
 *When not playing with classes, reroll on these options.
+
+> PCs might also gain XP for failed rolls. I'm not sure yet, though. Since there aren't any built-in consequences for failure, it might be an over-powered way of gaining xp.
 
 ## Game Master
 
@@ -463,7 +477,7 @@ Some ideas for when a PC rolls a hit-:
 - Put them in a tight spot
 - Deal damage
 
-When a PC failed a test, they can choose to except a consequence in exchange for passing the test regardless of their roll. DMs can also offer this option to PCs without them asking for it. These consequences should be worse than a hit-. They should be at least twice as bad, in fact.
+When a PC failed a test, they can choose to accept a consequence in exchange for passing the test regardless of their roll. DMs can also offer this option to PCs without them asking for it. These consequences should be worse than a hit-. They should be at least twice as bad, in fact, because they are the same as consequences for the PC rolling two hit-.
 
 Some ideas for when a PC accepts trouble to turn a failed test into a passed one:
 
