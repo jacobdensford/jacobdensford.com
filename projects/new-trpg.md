@@ -159,11 +159,11 @@ PCs must have at least a D8 in a class's main attribute to take that class. Base
 
 //WORDS ABOUT THE Mage//
 
-Start with one mage feat or three spells. (Whenever a mage takes the "class feat" option from the XP table, they can instead take another three spells.)
+Starts with the Spellcasting mage feat and one spell. Whenever a mage takes the "class feat" option from the XP table, they may instead take another spell.
 
 ##### Mage Feats
 
-- **Divination:** Make two WIL tests at dawn and save the results to use for yourself, a PC, or an NPC at any point throughout the coming day, for any kind of test.
+- **Spellcasting:** Gain the ability to cast spells.
 - //
 - //
 - //
@@ -176,6 +176,7 @@ Mages can do magic. Each spell costs a number of WIL HP. Generally, a spell's ef
 
 Spell Name|Effect|Cost
 :--|---|--:
+Divination|Roll 1 WIL test, replace result of any other test by anyone during the next day|2 WIL HP
 Fireball|2 BOD HP harm to 3 adjacent targets|2 WIL HP
 //
 

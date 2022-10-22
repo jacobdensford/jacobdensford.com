@@ -214,7 +214,9 @@ The sleepy town of Mistcrown sat atop a hill. The lowland fields surrounding the
 
 Ostoria was the capital city of a kingdom of giants that spanned the continent before the second cataclysm buried it far beneath the ground.
 
-### Pandara
+### [Pandara](castle=1&plaza=1&temple=1&walls=1&shantytown=1&coast=0&river=0&gates=2)
+
+![Pandara](/images/pandara.png)
 
 The capital city of Yondar and the oldest city in the Alliance.
 

@@ -19,10 +19,6 @@ Refamiliarize yourself with the heroes, what they've done, and what they plan to
 
 Brainstorm about a page worth of notes. Where might the heroes go next? What might they find? Who might they meet? What challenges could they face?
 
-## Theme
-
-Decide on a theme for the adventure. Let that theme, as well as the heroes you just reviewed, inform the rest of the decisions you make.
-
 ## Questions
 
 Prepare a few questions to ask the heroes, at least one for each, to get their roleplaying minds working.
@@ -33,7 +29,7 @@ Start strong with an adventure hook that is introduced in a compelling way. This
 
 ## Scenes
 
-Make a list of other potential scenes, six to twelve of them, that could logically follow the first. Keep these brief and vague. None of them should be longer than a sentence or two.
+Make a list of other potential scenes, six to twelve of them, that could logically follow the first. Keep these brief and vague. None of them should be longer than a sentence or two. You're not planning a story. You're just trying to anticipate what directions the players might go in.
 
 ## Locations
 
@@ -47,7 +43,7 @@ Complications are traps, hazards, monsters, and anything else that might have th
 
 Discoveries are things the heroes find that could aid them on their quest. This may be secrets, hints, and clues, or maybe treasure. Be sure to include at least some treasure and a magic item or two.
 
-Moments are incidental little bites of flavor that reinforce the theme of the adventure.
+Moments are just incidental little bites of flavor that help spark the imagination.
 
 ## NPCs
 
