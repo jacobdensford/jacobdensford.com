@@ -366,13 +366,13 @@ Roll|Result
 
 Usually, if they rolled at least one hit (hit-, hit, or hit+), the test passes. The more hits above what the test required, the better the results. (Rarely, especially difficult tests might require two or more hits.)
 
-If a die is a hit-, there are unforeseen consequences. If a die is a hit+, there is an unanticipated benefit. (A result of one hit- and one hit+ cancels out any extra effects.)
+If a die is a hit-, there are unforeseen consequences. If a die is a hit+, there is an unanticipated benefit. These effects stack and do not cancel each other out.
 
 If none of the dice hit, the test fails. Optionally, the PC can accept extra trouble in exchange for passing a failed test, the trouble getting worse the more hits needed to succeed.
 
 #### Help or Hinder
 
-When a PC is making a test, if another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder that test, replacing a hit with a miss or adding the hit to the other PC's test. A hit+ or hit- on the help or hinder test causes unintended side effects to happens to the PC helping or hindering.
+When a PC is making a test, if another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder that test, replacing a hit with a miss or adding the hit to the other PC's test. A hit+ or hit- on the help or hinder test causes unintended side effects for the PC helping or hindering.
 
 #### Contests (ConTests--get it?! Contested Tests?! Ha, ha, ha--get it?!)
 
