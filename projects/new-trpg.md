@@ -18,7 +18,7 @@ Here are the rules for a new tabletop roleplaying game I'm working on. They're i
 
 - Use all the dice
 - No math
-- No roll under mechanics
+- No roll under mechanics (generally, rolling higher should be better)
 - Options for both players and the GM rolling dice or just the players
 - OSR (Old-School Renaissance/Revival) compatible-ish<sup><a href="https://en.wikipedia.org/wiki/Old_School_Renaissance">1</a></sup> <sup><a href="https://www.youtube.com/watch?v=wRVJNkOObIU">2</a></sup>
 - NSR (New OSR or New Sworddream Renaissance) sensibilities, to an extent<sup><a href="https://boneboxchant.wordpress.com/2019/12/21/nsr/">3</a></sup> <sup><a href="https://newschoolrevolution.com/2020/01/19/what-is-the-nsr-part-1">4</a></sup> <sup><a href="https://newschoolrevolution.com/2022/05/04/the-new-new-school-revolution">5</a></sup> <sup><a href="https://boneboxchant.wordpress.com/2022/05/04/revisiting-the-nsr/">6</a></sup>
@@ -127,9 +127,9 @@ d8|Attribute Die
 
 There are three main classes. They are Warrior, Thief, and Mage. Each specializes in one of the three attributes. The Warrior's focus is Body, the Thief's Intellect, and the Mage's Willpower.
 
-Each class grants the PC feats. Also, each class can use their main attribute in a special way: they can spend 2 HP to reroll a die, 4 HP to increase a hit- to a hit or a hit to a hit+, 6 HP to turn a miss into a hit, or 8 HP to add an additional hit to a roll.
+Each class grants the PC feats. Also, each class can use their main attribute in a special way: they can spend 2 HP to reroll a die, 4 HP to increase a hit- to a hit or a hit to a hit+, 6 HP to turn a miss into a hit, or 8 HP to add an additional hit to a roll. (More on rolls, hits, misses, and HP later.)
 
-PCs must have at least a D8 in a class's main attribute to take that class. Based on your attributes, choose one of the three main classes. Then choose one of that class's feats. If none of the PC's attributes are high enough, or when playing without classes, simply skip this section and choose or roll a background. (PCs can always take a class after leveling up their attributes later on.)
+PCs must have at least a D8 in a class's main attribute to take that class. Based on your attributes, choose one of the three main classes. Then choose one of that class's feats. If none of the PC's attributes are high enough, or when playing without classes, simply skip this section and choose or roll a background. (PCs can take a class after leveling up their attributes later on by getting the class feat option on the XP table.)
 
 **Example character:** *Jane takes the Thief class, since she rolled a d8 for her INT. From her class, she chooses Sneak Attack.*
 
@@ -139,8 +139,8 @@ PCs must have at least a D8 in a class's main attribute to take that class. Base
 
 ##### Warrior Feats
 
-- **Protect:** Lose the BOD HP that someone nearby would lose instead of them.
-- **Berserk:** When the warrior passes a test with a weapon, they can keep making tests to attacking until they miss.
+- **Protect:** Take the BOD HP harm that someone nearby would have taken instead of them.
+- **Berserk:** When the warrior passes a test with a weapon and deals harm, they may make additional tests with a weapon until they fail.
 - //
 - //
 
@@ -150,9 +150,9 @@ PCs must have at least a D8 in a class's main attribute to take that class. Base
 
 ##### Thief Feats
 
-- **Sneak Attack:** Deal double HP when attacking an enemy who is engaged with someone else or who is unaware of your presence.
-- **Retry** Lose 2 INT HP in order to reroll skill dice.
-- **Jack of all Trades:** Lose 2 INT HP to roll a d4 with any skill.
+- **Sneak Attack:** Deal double HP harm when attacking an enemy who is engaged with someone else or who is unaware of your presence.
+- **Retry** Spend 2 INT HP in order to reroll skill dice.
+- **Jack of all Trades:** Spend 2 INT HP to roll a d4 with any skill.
 - //
 
 #### Mage
@@ -163,7 +163,7 @@ Start with one mage feat or three spells. (Whenever a mage takes the "class feat
 
 ##### Mage Feats
 
-- **Divination:** Make a WIL test at dawn and save the result to use for yourself, a PC, or an NPC at any point throughout the coming day, for any kind of test. (Taking this feat multiple times allows you to roll and retain more additional uses.)
+- **Divination:** Make two WIL tests at dawn and save the results to use for yourself, a PC, or an NPC at any point throughout the coming day, for any kind of test.
 - //
 - //
 - //
@@ -176,14 +176,14 @@ Mages can do magic. Each spell costs a number of WIL HP. Generally, a spell's ef
 
 Spell Name|Effect|Cost
 :--|---|--:
-Fireball|2 BOD HP per WIL HP cost to 2 target per WIL HP cost|2 WIL HP
+Fireball|2 BOD HP harm to 3 adjacent targets|2 WIL HP
 //
 
 #### Three More Classes
 
 There are three more classes, each focusing on two of the three attributes instead of one. They are Cleric (BOD and WIL), Ranger (INT and WILL), and //CLASS// (BOD and INT). In order to take one of these classes, a PC needs to have at least a d8 in both of the classes main attributes.
 
-For feats, Clerics can choose from both the Warrior and the Mage feats, Ranger the Thief and Mage, and //CLASS// the Warrior and Thief.
+For feats and spells, Clerics can choose from both the Warrior and the Mage options, Ranger the Thief and Mage, and //CLASS// the Warrior and Thief.
 
 ### Backgrounds
 
@@ -243,7 +243,7 @@ d8|Skill Die
 
 ### Equipment
 
-A PC has 4+BOD equipment slots (a d4 in BOD would mean 8 pieces of equipment, a d6 10, a d8 12, etc). Most items use one slot unless otherwise noted.
+A PC has 4+BOD equipment slots (a d4 in BOD would grant 8 equipment slots, a d6 would grant 10, etc). Most items use one slot unless otherwise noted.
 
 Roll or choose an equipment package from your class. Alternatively, start with 100 silver pieces (or SP) and purchase equipment from the equipment, weapons, and armor tables below.
 
@@ -301,28 +301,28 @@ Item|What?|Price//
 
 #### Weapons and Armor
 
-Weapons deal hits to an opponent's BOD as health point damage, unless otherwise noted. Stronger weapons can turn a single hit into multiple HP of BOD damage.
+Weapons deal hits to an opponent as BOD HP harm unless otherwise noted. Stronger weapons can turn a single hit into multiple points of harm.
 
 Weapon|Details|Cost
 :--|---|--:
 Arrows|20 uses|10sp
-Battle Axe|3 HP, 2 slots|35 SP
+Battle Axe|3 harm, 2 slots|35 SP
 Bolts|10 uses|15sp
-Club|1 HP|10 SP
-Crossbow|3 HP, 2 slots|40 SP
-Dagger|1 HP|10 SP
-Flail|3 HP, 2 slots|35 SP
-Greatsword|3 HP, 2 slots|45 SP
-Handaxe|1 HP|15 SP
-Longbow|2 HP|25 SP
-Longsword|2 HP|30 SP
-Mace|2 HP|25 SP
-Shortsword|1 HP|20 SP
-Shortbow|1 HP|15 SP
-Staff|1 HP|5 SP
-Warhammer|2 HP|30 SP
+Club|1 harm|10 SP
+Crossbow|3 harm, 2 slots|40 SP
+Dagger|1 harm|10 SP
+Flail|3 harm, 2 slots|35 SP
+Greatsword|3 harm, 2 slots|45 SP
+Handaxe|1 harm|15 SP
+Longbow|2 harm|25 SP
+Longsword|2 harm|30 SP
+Mace|2 harm|25 SP
+Shortsword|1 harm|20 SP
+Shortbow|1 harm|15 SP
+Staff|1 harm|5 SP
+Warhammer|2 harm|30 SP
 
-Wearing armor grants a PC armor points (or AP). At the PCs option, instead of taking a hit as BOD HP damage, they can take it as AP damage. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
+Wearing armor grants a PC armor points (or AP). At the PCs option, instead of taking a hit as BOD HP harm, they can take it as AP harm. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
 
 Armor|Details|Cost
 :--|---|--:
@@ -333,7 +333,7 @@ Heavy (splint, plate, etc)|4 AP, 4 slots|200 SP
 
 ### Character Sheet
 
-You don't need to print out a special character sheet for this game, though you can if you want to. All you really need is a piece of paper to record your character details on. At the top of your paper, write your character description. Under that, record your attribute dice and note your max and current HP for each attribute. Below that, list your skill dice. Then your class feats, equipment, and SP. Lastly, write your current XP, noting the points on the track where you roll a die or pick options (4, 6, 8, 10, 12, and 20).
+You don't need to print out a special character sheet for this game, though you can if you want to. All you really need is a piece of paper to record your character details on. At the top of your paper, write your character description. Under that, record your attribute dice and note your max and current HP for each attribute. Below that, list your skill dice. Then your feats, equipment, and SP. Lastly, write your current XP, noting the points on the track where you roll a die on the XP table.
 
 That's it. Your character is ready to go.
 
@@ -341,7 +341,7 @@ That's it. Your character is ready to go.
 
 *Jane is a charming thief who seeks wealth to pay her family's debts, but she will never trust again after what happened last time.*
 
-*BOD: d6 -- 6/6 HP (0/2 AP) | INT: d8 -- 8/8 HP | WIL: d4 -- 4/4 HP*
+*BOD: d6 -- 6/6 HP (2/2 AP) | INT: d8 -- 8/8 HP | WIL: d4 -- 4/4 HP*
 
 *Perception: d8, Ranged Combat: d6, Skullduggery: d4*
 
@@ -384,7 +384,7 @@ Combat involves a series of turns and rounds. A round lasts long enough to make 
 
 First, an initiative contest decides the order of turns in the round. Then, PCs and NPCs each take their turn in order, repeating the same order in subsequent rounds until everyone is either dead, has surrendered, or has fled.
 
-Attacking is a contest. Whoever wins each attack contest deals their hits as health point (or HP) damage to the opponent's relevant attribute HP pool (discussed in the next section).
+Attacking is a contest. Whoever wins each attack contest deals their hits as health point (or HP) harm to the opponent's relevant attribute HP pool (discussed in the next section).
 
 ### Health Points, Death, and Healing
 
@@ -405,8 +405,8 @@ Roll|Result
 1|Gain nothing and lose d8 XP
 2-3|Gain nothing and lose d4 XP
 4-6|Increase a skill's die or learn a new skill at d4
-7-9|Gain a new class feature*
-10-12|Gain a feature from a different class*
+7-9|Gain a new class feat*
+10-12|Gain a feat from a different class*
 13-19|Increase an attribute's die
 20|Choose one and reroll
 
@@ -442,7 +442,7 @@ The easiest way to deal with a hit+ is to think of it as a hit and a half. So th
 
 Some ideas for what to give a PC on a hit+ (an extra half-hit):
 
-- They deal double damage
+- They deal double harm
 - They gain XP
 //
 
@@ -458,7 +458,7 @@ Some ideas for when a PC rolls a hit-:
 
 - Threaten them with impending danger
 - Put them in a tight spot
-- Deal damage
+- Deal harm
 //
 
 When a PC fails a test, they can choose to accept a consequence in exchange for passing the test regardless of their roll. DMs can also offer this option to PCs without them asking for it. These consequences should be worse than a hit-. They should be at least twice as bad, in fact, because they are the same as consequences for the PC rolling two hit-. They should also be worse the more hits would have been required to pass the test.
@@ -522,6 +522,7 @@ When rolling multiple dice and trying to get a hit on each, multiply all the pro
 
 ### Terms
 
+- **Harm** //
 - **Clock** //
 - **Contest** //
 - **Hit** //
@@ -530,5 +531,6 @@ When rolling multiple dice and trying to get a hit on each, multiply all the pro
 - **Miss** //
 - **Point** Each hit on a track or in a pool is called a point.
 - **Pool** //
+- **Roll** //
 - **Test** When a PC has to roll dice it's called a test.
 - **Track** //
