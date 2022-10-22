@@ -24,7 +24,7 @@ image: url("/images/efimage.png")
 
 ![Bree](/images/bree.png)
 
-*she/her, halfling, criminal, bard 4/cleric 1, played by Kelly*
+*she/her, halfling, criminal, bard 4/cleric 2, played by Kelly*
 
 Abandoned at a very young age, Bree grew up on the streets of Mistcrown alone, until she was adopted into the Black Court. She had an affinity for music and learned to play several instruments in her youth. She was also adept at thieving. These two skills together made her a valuable asset to the Black Court.
 
@@ -52,7 +52,8 @@ Later in life, after becoming one of the four Mistguard, she devoted herself to 
 - **Jack of all Trades** *+1/2 proficiency bonus to ability checks not proficient in*
 - **Song of Rest** *during short rest, +1d6 hp for anyone who spent any hit dice (one extra d6 per rest; not per hit die)*
 - **Cutting Words** *reaction, 60ft, -one bardic inspiration die from check, attack, or save*
-- **Desciple of Life** *healing spells extra 2 + the spell lvl HP*
+- **Disciple of Life** *healing spells extra 2 + the spell lvl HP*
+- **Channel Divinity** *action, turn undead or preserve life (heal 5 x cleric lvl), multiple targets within 30ft, 1/long rest*
 
 #### From Background
 
@@ -85,6 +86,7 @@ Davos would go to great lengths to avoid talking about the past that haunted him
 
 - **Arcane Recovery** *short rest, regain spell slots = 1/2 wizard level rounded up, once per long rest*
 - **Portent** *roll two d20s, replace any check, save, or attack with those rolls before they are rolled*
+- **Expert Divination** *when 2nd or high divination spell cast regain 1 spell slot below that lvl, no higher than 5th lvl*
 
 #### From Background
 
@@ -134,6 +136,7 @@ Illgiem could find beauty in all things, but especially in women. He always foug
   + **Nature's Wrath** *action, 10ft, STR or DEX save or restrained, repeat save at end of turn*
   + **Turn the Faithless** *action, 30ft, WIS save or turned for 1min*
 - **Extra Attack** *2 x attacks*
+- **Aura of Protection** *you and all allies within 10ft gain +CHA on saves*
 
 #### From Background
 
