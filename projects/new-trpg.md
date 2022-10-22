@@ -170,7 +170,7 @@ Start with one mage feat or three spells. (Whenever a mage takes the "class feat
 
 ##### Magic
 
-Mages can do magic. Each spell costs a number of WIL AP. Generally, a spell's effects increase the more HP is spent on it.
+Mages can do magic. Each spell costs a number of WIL HP. Generally, a spell's effects increase the more HP is spent on it.
 
 **Spells**
 
@@ -190,7 +190,7 @@ For feats, Clerics can choose from both the Warrior and the Mage feats, Ranger t
 When playing without classes, or when none of a PC's attributes are high enough to gain a class, roll or choose a background instead. Each background grants a relevant skill at d4. (Alternatively, work with your GM to come up with your own background to pair with a skill.)
 
 1d12|Background|Skill
-:--|---|--:
+:--|---|---
 1|Etc|Etc//
 2|Etc|Etc//
 3|Etc|Etc//
@@ -329,7 +329,7 @@ Armor|Details|Cost
 Shield|1 AP|20 SP
 Light (fur, padded, leather)|2 AP, 2 slots|50 SP
 Medium (scale, mail, etc)|3 AP, 3 slots|100 SP
-Heavy (slint, plate, etc)|4 AP, 4 slots|200 SP
+Heavy (splint, plate, etc)|4 AP, 4 slots|200 SP
 
 ### Character Sheet
 
@@ -355,14 +355,14 @@ That's it. Your character is ready to go.
 
 ### Tests
 
-Whenever a PC attempts to do something that they could reasonably accomplish but the outcome is uncertain, they roll a test. First, they collect dice, one or two--one from their relevant attribute and one, if any, from a relevant skill. Then they roll, counting each die's roll individually.
+Whenever a PC attempts to do something that they could reasonably accomplish but the outcome is uncertain, they roll a test. First, they collect dice, one or two--one from their relevant attribute and one, if any, from a relevant skill. Then they roll, counting each die's result individually.
 
 Roll|Result
 :--|:--
 1-3|Miss
-4-6|Hit-
+4-6|Weak Hit (Hit-)
 7-9|Hit
-10-12|Hit+
+10-12|Strong Hit (Hit+)
 
 Usually, if they rolled at least one hit (hit-, hit, or hit+), the test passes. The more hits above what the test required, the better the results. (Rarely, especially difficult tests might require two or more hits.)
 
@@ -380,11 +380,11 @@ When two or more PCs, or one or more PCs and one or more NPCs, are acting agains
 
 ##### Combat
 
-Combat involves a series of turns and rounds. A round lasts long enough to make a test and traverse a small room--anywhere from six to twelve seconds.
+Combat involves a series of turns and rounds. A round lasts long enough to make a test and traverse a room--anywhere from six to twelve seconds.
 
 First, an initiative contest decides the order of turns in the round. Then, PCs and NPCs each take their turn in order, repeating the same order in subsequent rounds until everyone is either dead, has surrendered, or has fled.
 
-Attacking is a contest. Whoever wins each attack contest deals their hits as health points (or HP) damage to the opponent's relevant attribute HP (discussed in the next section).
+Attacking is a contest. Whoever wins each attack contest deals their hits as health point (or HP) damage to the opponent's relevant attribute HP pool (discussed in the next section).
 
 ### Health Points, Death, and Healing
 
@@ -396,7 +396,7 @@ HP pools can be healed by succeeding on a test using the relevant attribute. Whe
 
 PCs gain experience points (or XP) whenever they play up their style, follow their motivation, or allow their flaw to put them in a tight spot. (Players should call out these moments.) Additionally, the game master (or GM) will stipulate any other specific situations or actions that will award XP, such as defeating an enemy or disarming a trap.
 
-PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may choose to roll that die on the XP table (or choose options within that die's range). The further down the track, the better the options. Once a PC rolls or chooses an option, their XP track resets to zero.
+PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may choose to roll that die on the XP table. The further down the track, the better the options. Once a PC rolls or chooses an option, their XP track resets to zero.
 
 **XP Table**
 
@@ -411,6 +411,8 @@ Roll|Result
 20|Choose one and reroll
 
 *When not playing with classes, reroll on these options.
+
+Another optional way to handle XP is for PCs to spend XP on specific advancements directly. 6 XP to increase a skill's die or learn a new skill at d4, 9 XP to gain a new class feature, 12 XP to gain a feature from a different class, and 20 XP to increase an attribute's die.
 
 ### Example of Play
 
@@ -434,7 +436,7 @@ When a test passes with no hit+ or hit-, that's easy. The GM simply gives the PC
 
 Think of it this way: a hit+ is worth a hit and a half while a hit- is worth half a hit (even though it still counts as a hit for the purpose of determining if a test passes or not).
 
-#### Hit+ and Extra Hits
+#### Strong Hits and Extra Hits
 
 The easiest way to deal with a hit+ is to think of it as a hit and a half. So the thing the PC wanted comes to pass and a little extra. If the PC has more hits than they need, including the extra hit from rolling two hit+, The result should be proportionately better--twice as good with two hits when only one was needed, or three times as good if the two hits were hit+.
 
@@ -448,7 +450,7 @@ Some ideas for what to give a PC with an extra hit:
 
 //
 
-#### Hit- and Failed Tests
+#### Weak Hits and Failed Tests
 
 The easiest way to deal with a hit- is to think of it as half a hit. What complications might come about if the PC succeeds, but only half as good as they had hoped to? You can also think of a hit- as half a miss. What consequences might failing the test introduce? You could bring half of that to the table.
 
