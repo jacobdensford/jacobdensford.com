@@ -388,7 +388,18 @@ Attacking is a contest. Whoever wins each attack contest deals their hits as hea
 
 ### Health Points, Death, and Healing
 
-Each attribute has its own health point (or HP) pool that is the size of the die for that attribute (4 for a d4, 6 for a d6, etc). When a pool is depleted, reduce the attribute's die by one and refill the pool. When any attribute is reduced beyond a d4, the PC dies.
+Each attribute has its own health point (or HP) pool that is the size of the die for that attribute (4 for a d4, 6 for a d6, etc). When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time a PC's attribute is reduced in such a way, they gain a wound--a lasting mark or sign on their struggle.
+
+When any attribute is reduced beyond a d4, roll on the death table. When an attribute is reduced beyond a d4, tests cannot be made with that attribute and it's HP pool is 0. Any additional damage done to that attribute requires another roll on the death table.
+
+**Death Table**
+
+d4|Result
+:--|---
+1|Dead
+2|Dead in 1d6 rounds unless treated
+3|Dead in 1d4 hours unless treated
+4|Fall unconscious
 
 HP pools can be healed by succeeding on a test using the relevant attribute. Whenever players take a few moments to rest, they can make this test. When resting for a full night, such a test automatically succeeds. Returning a reduced attribute die to normal is a more involved process, requiring special care or magic.
 
