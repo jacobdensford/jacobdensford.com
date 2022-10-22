@@ -127,7 +127,7 @@ This slightly soggy burlap sack contains soil from deep below, deeper even than 
 
 *Wonderous item, uncommon*
 
-Mist bellows around this grey cloak, lightly obscuring those who wear it. When wearing this cloak, you count as lightly obscured for the purpose of using stealth. Additionally, your vision can pierce mist, seeing anything within it as if it weren't obscured.
+Mist bellows around this grey cloak, lightly obscuring those who wear it. When wearing this cloak, you count as one level more obscured than normal. Additionally, your vision can pierce mist, seeing anything heavily obscured as lightly obscured and lightly obscured as if it wasn't obscured at all.
 
 ### Color Changing Robe of Preservation
 

@@ -67,9 +67,9 @@ Later in life, after becoming one of the four Mistguard, she devoted herself to 
 
 ![Davos](/images/davos.png)
 
-*he/him, human, sage/haunted one, wizard 5, played by Jordan*
+*he/him, human, sage/haunted one, wizard 6, played by Jordan*
 
-Even Davos is not sure how long he's been alive. He was an important figure hundreds of years before, during the great war. It was then that he made his greatest blunder--a mistake he hid from for centuries, seeking solace in the bottom of bottle after bottle.
+Even Davos was not sure how long he'd been alive. He was an important figure hundreds of years before, during the great war. It was then that he made his greatest blunder--a mistake he hid from for centuries, seeking solace in the bottom of bottle after bottle.
 
 Davos would go to great lengths to avoid talking about the past that haunted him and the guilt that threatened to consume him. He sought knowledge above all else and believed it was the main path to self-improvement. As such, he never could avoid getting swept up in a compelling mystery. He had lost faith in humanity and preferred the company of animals.
 
@@ -102,11 +102,11 @@ Davos would go to great lengths to avoid talking about the past that haunted him
 
 ![Illgiem](/images/illgiem.png)
 
-*he/him, aasimar, soldier, paladin 5, played by Kent*
+*he/him, aasimar, soldier, paladin 6, played by Kent*
 
 Illgiem was once a simple soldier. He lost his ///
 
-Illgiem could find beauty in all things, but especially in women. He always fought to protect those who couldn't defend themselves. He was impulsive however, jumping into conflicts without much thought, which would often put those he cared most about into danger.
+Illgiem could find beauty in all things, but especially in women. He always fought to protect those who couldn't defend themselves. He was impulsive however, jumping into conflicts without much thought, which would often put those he cared for most in danger.
 
 #### After Long Rest
 
@@ -145,6 +145,7 @@ Illgiem could find beauty in all things, but especially in women. He always foug
 #### From Items
 
 - **Javelin of Giant-Friend** *returns after being thrown, +1d4 damage to target and all in the path of returning*
+- **Vainglorious Boots** *+20ft speed, advantage on performance checks and DEX saves, disadvantage on stealth checks*
 
 ### Abilities
 
@@ -152,7 +153,7 @@ Illgiem could find beauty in all things, but especially in women. He always foug
 
 ![Ravyn](/images/ravyn.png)
 
-*she/her, tiefling, criminal, rogue 5, played by Olivia*
+*she/her, tiefling, criminal, rogue 6, played by Olivia*
 
 Grew up on the streets of Llanaga, the capital city of Ellandon, Ravyn ///
 
@@ -184,5 +185,4 @@ Ravyn always had an escape plan, be that from people, situations, or locations. 
 
 #### From Items
 
-- **Vainglorious Boots** *+20ft speed, advantage on performance checks and DEX saves, disadvantage on stealth checks*
 - **Wendimu's Dagger** *poisons last full day*
