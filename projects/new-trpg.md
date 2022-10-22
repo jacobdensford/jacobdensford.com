@@ -110,13 +110,13 @@ d12|Flaw
 
 **Example character:** *Jane is a charming CLASS who seeks wealth to pay her family's debts, but she will never trust again after what happened last time.*
 
-> The motivations and flaws will be a great way to add theme, tone, and setting flavor to the game. I also might replace flaws with worst outcomes, but we'll see.
+> The motivations and flaws will be a great way to add theme, tone, and setting flavor to the game. I also might replace flaws with worst outcomes, like from Dogs in the Vineyard, but we'll see.
 
 ### Attributes
 
-There are three attributes: Body (BOD), Intellect (INT), and Willpower (WIL). A PC's Body represents how strong and dexterous they are, Intellect how sharp-eyed and smart, and Willpower their force of will and magical potential.
+There are three attributes: Body (BOD), Intellect (INT), and Willpower (WIL). Their values range from a d4 to a d12. A PC's Body represents how strong and dexterous they are, Intellect how sharp-eyed and smart, and Willpower their force of will and magical potential.
 
-Roll on the following table for each attribute to assign dice. (Alternatively, assign a d6 to each attribute, or assign a d6 to one, a d8 to one, and a d4 to one.)
+Roll on the following table for each attribute to assign dice. (Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8.)
 
 d8|Attribute Die
 :--|:--
@@ -130,13 +130,11 @@ d8|Attribute Die
 
 There are three main classes. They are Warrior, Thief, and Mage. Each specializes in one of the three attributes. The Warrior's focus is Body, the Thief's Intellect, and the Mage's Willpower.
 
-Each class grants the PC certain special abilities.
+Each class grants the PC certain special abilities. Also, each class can use their main attribute in a special way: they can gain 2 HP to reroll a die, gain 4 HP to increase a hit- to a hit or a hit to a hit+, gain 6 HP to turn a miss into a hit, or gain 8 HP to add an additional hit to a roll.
 
-Based on your attributes, choose one of the three main classes. Then choose one of that class's abilities. (Or, when playing without classes, simply skip this section.)
+PCs must have at least a D8 in a classes main attribute to take that class. Based on your attributes, choose one of the three main classes. Then choose one of that class's abilities. If none of the PC's attributes are high enough, or when playing without classes, simply skip this section. (PCs can always take a class after leveling up their attribute later on.)
 
-**Example character:** *Jane takes the Thief class, since her best attribute is INT. From her class, she chooses Sneak Attack.*
-
-> There might be six additional classes that focus on combinations of the three attributes.
+**Example character:** *Jane takes the Thief class, since she rolled a d8 for her INT. From her class, she chooses Sneak Attack.*
 
 > Class abilities shouldn't negate something creative that everyone should be able to do. Instead, they should grant specific thematic mechanics for doing something cool, or grant new abilities that a regular person wouldn't be able to do. For example, a thief might be tricky so they have an ability that lets them "cheat" on a roll, or a warrior might have more grit so they can take hits on their STR HP track to push a miss into a hit. Or something like that. Flavorful, thematic, mechanics. Classes probably also have special tracks and/or clocks.
 
@@ -146,7 +144,8 @@ WORDS ABOUT THE WARRIOR
 
 ##### Warrior Abilities
 
--
+- **Protect:** Take the HP that someone nearby would take instead of them.
+- **Berserk:** When the warrior hits with a weapon, they can keep making tests to attacking until they miss.
 
 #### Thief
 
@@ -155,6 +154,8 @@ WORDS ABOUT THE THIEF
 ##### Thief Abilities
 
 - **Sneak Attack:** Deal double HP when attacking an enemy who is engaged with someone else or who is unaware of your presence.
+- **Retry** Take 2 INT HP in order to reroll skill dice.
+- **Jack of all Trades:** Take 2 INT HP to roll a d4 with any skill.
 
 #### Mage
 
@@ -168,10 +169,18 @@ Start with one mage ability or three spells. (Whenever a mage takes the "class a
 
 ##### Magic
 
-Mages can do magic. Each spell costs magic points (or MP). When casting a spell, the Mage adds the spent magic points to their magic point track, rolling on the magic point table when they hit a die number (4, 6, 8, 10, 12, and 20). The results get worse the higher on the track the Mage goes.
+Mages can do magic. Each spell deals a number of WIL HP.
 
-**MP Table**
+**Spells**
 
+Spell Name|Effect|Cost
+:--|---|--:
+Fireball|1 BOD HP per MP cost to 1 target per MP cost|2 WIS HP
+
+> Or maybe when casting a spell, the Mage spends magic points and adds them to a magic point track, rolling on the magic point table when they hit a die number (4, 6, 8, 10, 12, and 20). The results get worse the higher on the track the Mage goes.
+>
+> **MP Table**
+>
 Roll|Result
 :--|---
 1|Recover from 1d8 MP
@@ -184,17 +193,17 @@ Roll|Result
 17-19|Forget 1d4 spells, including the one you just cast
 20|Reduce WIL by one die
 
-**Spells**
+#### Three More Classes
 
-Spell Name|Effect|MP Cost
-:--|---|--:
-Fireball|1 BOD HP per MP cost to 1 target per MP cost|2 MP
+There are three more classes, each focusing on two of the three attributes instead of one. They are Cleric (BOD and WIL), Ranger (INT and WILL), and //CLASS// (BOD and INT). In order to take one of these classes, a PC needs to have at least a d8 in both of the classes main attributes.
+
+For abilities, Clerics can choose from both the Warrior and the Mage abilities, Ranger the Thief and Mage, and //CLASS// the Warrior and Thief.
 
 ### Skills
 
-There are twelve skills. Each is associated with one of the three attributes (but can be used with a different attribute if and when it makes sense).
+There are twelve skills. Each is associated with one of the three attributes (but can be used with a different attribute if and when it makes sense). Skill values range from a d4 to a d12 once the skill is known.
 
-Roll on the skill die table three times and assign each die to a skill. (Alternatively, assign a d6 to three skills, or assign a d6 to one, a d8 to one, and a d4 to one.)
+Roll on the skill die table three times and assign each die to a skill. (Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8.)
 
 d8|Skill Die
 :--|:--
@@ -360,53 +369,48 @@ When two or more PCs, or one or more PCs and one or more NPCs, are acting agains
 
 ##### Combat
 
-Combat involves a series of contests. First, an initiative contest decides the order of action. Then, whoever wins each attack contest deals their hits to the opponent's relevant HP track (discussed in the next section).
+Combat involves a series of turns and rounds. A round lasts long enough to make a test and traverse a small room--anywhere from six to twelve seconds.
+
+First, an initiative contest decides the order of turns in the round. Then, PCs and NPCs each take their turn in order, repeating the same order in subsequent rounds until everyone is either dead, has surrendered, or has fled.
+
+Attacking is a contest. Whoever wins each attack contest deals their hits as health points (or HP) to the opponent's relevant HP track (discussed in the next section).
 
 ### Health Points, Death, and Healing
 
-Each attribute has its own health point (or HP) track that is the length of the die for that attribute, and each has an associated rollable table, with better results the higher you go, from reducing the associated attribute to healing HP. When a track is filled, roll the associated attribute die and consult the relevant table to see what happens. When any attribute is reduced beyond a d4, the PC dies.
+Each attribute has its own health point (or HP) track that is the length of the die for that attribute, and each has an associated rollable table, with less dire results the higher it goes. When a track is filled, roll the associated attribute die and consult the relevant table to see what happens. The PC now has the number rolled HP left in the track, erasing any extras. When any attribute is reduced beyond a d4, the PC dies.
 
 **BOD HP Table**
 
 Roll|Result
 :--|---
-1|Mortal wound: reduce BOD die, fall unconscious, and die in 1d4 minutes without aid
-2-3|Bloody wound: 1d4 HP to INT and WIL, fall unconscious, and die in 1d6 minutes without aid
-4-6|Severed limb: roll 1d6 and lose an arm on a 1-2, a leg on a 3-4, a hand on a 5, or a finger on a 6
-7-8|Etc
-9-10|Etc
-11-12|Etc
-13-16|Etc
-17-19|Heal 1d6 BOD HP
-20|Heal 1d12 BOD HP
+1|Mortal wound: reduce BOD die, lose a limb (roll a d6: 1:an arm, 2:a leg, 3-4: a hand, 5-6: a finger), fall unconscious, and die in 1d4 minutes without aid
+2-3|Bloody wound: lose a limb (roll a d6: 1:an arm, 2:a leg, 3-4: a hand, 5-6: a finger), fall unconscious for 1d6 minutes
+4-6|Scarring wound: gain a gruesome scar
+7-9|
+10-11|
+12|
 
 **INT HP Table**
 
 Roll|Result
 :--|---
-1|Shattered mind: reduce INT die, fall unconscious, and die in 1d4 minutes without aid
-2-3|Broken mind: reduce one skill die, fall unconscious, and die in 1d6 minutes without aid
-4-6|Etc
-7-8|Etc
-9-10|Etc
-11-12|Etc
-13-16|Etc
-17-19|Heal 1d6 INT HP
-20|Heal 1d12 INT HP
+1|Shattered mind: reduce INT die, reduce one skill die, fall unconscious, and die in 1d4 minutes without aid
+2-3|Broken mind: reduce one skill die, fall unconscious for 1d6 minutes
+4-6|
+7-9|
+10-11|
+12|
 
 **WIL HP Table**
 
 Roll|Result
 :--|---
-1|Severed soul: reduce WIL die, fall unconscious, and die in 1d4 minutes without aid
-2-3|Leaking soul: lose access to one spell, fall unconscious, and die in 1d6 minutes without aid
-4-6|Severed soul: your soul leaves its body, the body falls unconscious and dies in 1d6 minutes without your soul passing a WIL test (test once per minute)
-7-8|Etc
-9-10|Etc
-11-12|Etc
-13-16|Etc
-17-19|Heal 1d6 WIL HP
-20|Heal 1d12 WIL HP
+1|Severed soul: reduce WIL die, lose access to one spell, fall unconscious, and die in 1d4 minutes without aid
+2-3|Leaking soul: lose access to one spell, fall unconscious for 1d6
+4-6|Dispelled soul: your soul leaves its body, requiring your soul to pass a WIL test (test once per minute) to return
+7-9|
+10-11|
+12|
 
 HP tracks can be healed relatively easily. Whenever players take some downtime, they can roll their attribute die and heal that many hit points, up to their maximum. Returning a reduced attribute die to normal is a more involved process, requiring special care, training, or magic.
 
@@ -416,25 +420,23 @@ HP tracks can be healed relatively easily. Whenever players take some downtime, 
 
 PCs gain experience points (or XP) whenever they play up their style, follow their motivation, or allow their flaw to put them in a tight spot. (Players should call out these moments.) dditionally, the game master (or GM) will stipulate any other specific situations or actions that will award XP, such as defeating an enemy or disarming a trap.
 
-PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may choose to roll that die on the XP table (or choose options within that die's range). The further down the track, the better the options, from gaining new skills and class abilities to increasing the die of a skill or attribute. (Skill and Attribute dice range from a d4 to a d12.)
-
-XP can also be spent to improve test rolls. Spend 2 XP to increase a hit- to a hit or a hit to a hit+, spend 4 XP to turn a miss into a hit, or spend 6 XP to add an additional hit to a roll.
+PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may choose to roll that die on the XP table (or choose options within that die's range). The further down the track, the better the options. Once a PC rolls or chooses an option, their XP track resets to zero.
 
 **XP Table**
 
 Roll|Result
 :--|---
-1|Gain nothing and lose all XP
-2-3|Gain nothing
-4-9|Increase a skill's die or learn a new skill at d4
-10-12|Gain a new class feature*
-13-16|Gain a feature from a different class*
-17-19|Increase an attribute's die
+1|Gain nothing and lose d8 XP
+2-3|Gain nothing and lose d4 XP
+4-6|Increase a skill's die or learn a new skill at d4
+7-9|Gain a new class feature*
+10-12|Gain a feature from a different class*
+13-19|Increase an attribute's die
 20|Choose one and reroll
 
 *When not playing with classes, reroll on these options.
 
-> PCs might also gain XP for failed rolls. I'm not sure yet, though. Since there aren't any built-in consequences for failure, it might be an over-powered way of gaining xp.
+> PCs might also gain XP for failed rolls. I'm not sure yet, though. Since there aren't any built-in consequences for failure, it might be an over-powered way of gaining xp. Also, XP might also be spent to improve test rolls. Spend 2 XP to reroll a die, spend 4 XP to increase a hit- to a hit or a hit to a hit+, spend 6 XP to turn a miss into a hit, or spend 8 XP to add an additional hit to a roll.
 
 ## Game Master
 
