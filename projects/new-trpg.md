@@ -12,7 +12,7 @@ subtitle: Very much a work in progress.
 
 ![A rough character sheet design with some dice sitting on it.](/images/newtrpg.jpg)
 
-Here are the rules for a new tabletop roleplaying game I'm working on. They're incomplete and very much a work-in-progress, obviously. They're also incredibly generic right now. Eventually, once I settle on a setting, theme, and tone, I will rework some of the mechanics and the classes to more closely reflect those decisions. I'd call this a version 0.0.1.
+Here are the rules for a new tabletop roleplaying game I'm working on. They're incomplete and very much a work-in-progress, obviously. They're also incredibly generic right now. Eventually, once I settle on a setting, theme, and tone, I will rework some of the mechanics and the classes to more closely reflect those decisions. Consider these rules a "minimum viable product". I'd call this a version 0.0.1.
 
 **Design Requirements:**
 
@@ -34,8 +34,6 @@ Here are the rules for a new tabletop roleplaying game I'm working on. They're i
 - Mork Borg and Death in Space for lots of things
 - Trophy for mathless dice rolls that instead rely on hits and misses
 - So many others for so many things I can't even think of right now (I will add them as they come to me)
-
-> *Throughout this document, design notes will be denoted by block quotes.*
 
 ## Making Player Characters
 
@@ -86,13 +84,13 @@ d12|Motivation
 3|wants to visit every city at least once
 4|seeks revenge for the death of their brother
 5|must complete their holy pilgrimage before returning home
-6|Etc
-7|Etc
-8|Etc
-9|Etc
-10|Etc
-11|Etc
-12|Etc
+6|Etc//
+7|Etc//
+8|Etc//
+9|Etc//
+10|Etc//
+11|Etc//
+12|Etc//
 
 d12|Flaw
 :--|---
@@ -101,17 +99,15 @@ d12|Flaw
 3|can't forgive themselves for the mistakes of their past
 4|is addicted to a powerful drug
 5|is on the run because of a crime they didn't commit
-6|Etc
-7|Etc
-8|Etc
-9|Etc
-10|Etc
-11|Etc
-12|Etc
+6|Etc//
+7|Etc//
+8|Etc//
+9|Etc//
+10|Etc//
+11|Etc//
+12|Etc//
 
 **Example character:** *Jane is a charming CLASS who seeks wealth to pay her family's debts, but she will never trust again after what happened last time.*
-
-> The motivations and flaws will be a great way to add theme, tone, and setting flavor to the game. I also might replace flaws with worst outcomes, like from Dogs in the Vineyard, but we'll see.
 
 ### Attributes
 
@@ -131,42 +127,46 @@ d8|Attribute Die
 
 There are three main classes. They are Warrior, Thief, and Mage. Each specializes in one of the three attributes. The Warrior's focus is Body, the Thief's Intellect, and the Mage's Willpower.
 
-Each class grants the PC feats. Also, each class can use their main attribute in a special way: they can gain 2 HP to reroll a die, gain 4 HP to increase a hit- to a hit or a hit to a hit+, gain 6 HP to turn a miss into a hit, or gain 8 HP to add an additional hit to a roll.
+Each class grants the PC feats. Also, each class can use their main attribute in a special way: they can spend 2 HP to reroll a die, 4 HP to increase a hit- to a hit or a hit to a hit+, 6 HP to turn a miss into a hit, or 8 HP to add an additional hit to a roll.
 
 PCs must have at least a D8 in a class's main attribute to take that class. Based on your attributes, choose one of the three main classes. Then choose one of that class's feats. If none of the PC's attributes are high enough, or when playing without classes, simply skip this section and choose or roll a background. (PCs can always take a class after leveling up their attributes later on.)
 
 **Example character:** *Jane takes the Thief class, since she rolled a d8 for her INT. From her class, she chooses Sneak Attack.*
 
-> Class feats shouldn't negate something creative that everyone should be able to do. Instead, they should grant specific thematic mechanics for doing something cool, or grant new feats that a regular person wouldn't be able to do. For example, a thief might be tricky so they have an feat that lets them "cheat" on a roll, or a warrior might have more grit so they can take hits on their STR HP track to push a miss into a hit. Or something like that. Flavorful, thematic, mechanics. Classes probably also have special tracks and/or clocks.
-
 #### Warrior
 
-WORDS ABOUT THE WARRIOR
+//WORDS ABOUT THE WARRIOR//
 
 ##### Warrior Feats
 
 - **Protect:** Lose the BOD HP that someone nearby would lose instead of them.
 - **Berserk:** When the warrior passes a test with a weapon, they can keep making tests to attacking until they miss.
+- //
+- //
 
 #### Thief
 
-WORDS ABOUT THE THIEF
+//WORDS ABOUT THE THIEF//
 
 ##### Thief Feats
 
 - **Sneak Attack:** Deal double HP when attacking an enemy who is engaged with someone else or who is unaware of your presence.
 - **Retry** Lose 2 INT HP in order to reroll skill dice.
 - **Jack of all Trades:** Lose 2 INT HP to roll a d4 with any skill.
+- //
 
 #### Mage
 
-WORDS ABOUT THE Mage
+//WORDS ABOUT THE Mage//
 
 Start with one mage feat or three spells. (Whenever a mage takes the "class feat" option from the XP table, they can instead take another three spells.)
 
 ##### Mage Feats
 
 - **Divination:** Make a WIL test at dawn and save the result to use for yourself, a PC, or an NPC at any point throughout the coming day, for any kind of test. (Taking this feat multiple times allows you to roll and retain more additional uses.)
+- //
+- //
+- //
 
 ##### Magic
 
@@ -177,6 +177,7 @@ Mages can do magic. Each spell costs a number of WIL AP. Generally, a spell's ef
 Spell Name|Effect|Cost
 :--|---|--:
 Fireball|2 BOD HP per WIL HP cost to 2 target per WIL HP cost|2 WIL HP
+//
 
 #### Three More Classes
 
@@ -190,18 +191,18 @@ When playing without classes, or when none of a PC's attributes are high enough 
 
 1d12|Background|Skill
 :--|---|--:
-1|Etc|Etc
-2|Etc|Etc
-3|Etc|Etc
-4|Etc|Etc
-5|Etc|Etc
-6|Etc|Etc
-7|Etc|Etc
-8|Etc|Etc
-9|Etc|Etc
-10|Etc|Etc
-11|Etc|Etc
-12|Etc|Etc
+1|Etc|Etc//
+2|Etc|Etc//
+3|Etc|Etc//
+4|Etc|Etc//
+5|Etc|Etc//
+6|Etc|Etc//
+7|Etc|Etc//
+8|Etc|Etc//
+9|Etc|Etc//
+10|Etc|Etc//
+11|Etc|Etc//
+12|Etc|Etc//
 
 ### Skills
 
@@ -219,8 +220,8 @@ d8|Skill Die
 
 - Close Quarters Combat
 - Defense
-- Etc
-- Etc
+- Etc//
+- Etc//
 
 **INT Skills:**
 
@@ -233,8 +234,8 @@ d8|Skill Die
 
 - Persuasion
 - Spellcasting
-- Etc
-- Etc
+- Etc//
+- Etc//
 
 (Optionally, work with your DM to make up your own skills)
 
@@ -248,51 +249,59 @@ Roll or choose an equipment package from your class. Alternatively, start with 1
 
 1d6|Warrior Equipment
 :--|---
-1|Etc
-2|Etc
-3|Etc
-4|Etc
-5|Etc
-6|Etc
+1|Etc//
+2|Etc//
+3|Etc//
+4|Etc//
+5|Etc//
+6|Etc//
 
 1d6|Thief Equipment
 :--|---
-1|Etc
-2|Etc
-3|Etc
+1|Etc//
+2|Etc//
+3|Etc//
 4|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20)
-5|Etc
-6|Etc
+5|Etc//
+6|Etc//
 
 1d6|Mage Equipment
 :--|---
-1|Etc
-2|Etc
-3|Etc
-4|Etc
-5|Etc
-6|Etc
+1|Etc//
+2|Etc//
+3|Etc//
+4|Etc//
+5|Etc//
+6|Etc//
 
 Then roll or choose one of these hundred trinkets. (Trinkets don't use equipment slots.)
 
 1d100|Trinkets
 :--|---
-1|a cracked porcelain doll
+1|a cracked porcelain doll//
+//
 
-Feel free to spend any remaining SP on the following equipment table.
-
-Equipment|Details|Cost
-:--|---|--:
-Item|What?|Price
-Item|What?|Price
-Item|What?|Price
-Item|What?|Price
+Feel free to spend any remaining SP on the tables in the following sections.
 
 **Example character:** *Jane rolls the fourth thief equipment pack and gets the first trinket.*
 
+#### Equipment, Goods, and Services
+
+Equipment|Details|Cost
+:--|---|--:
+Item|What?|Price//
+Item|What?|Price//
+Item|What?|Price//
+Item|What?|Price//
+//
+
+//
+
+//
+
 #### Weapons and Armor
 
-Weapons deal hits to an opponent's BOD as health point damage, unless otherwise noted. Stronger weapons can turn a single hit into multiple HP of BOD HP damage.
+Weapons deal hits to an opponent's BOD as health point damage, unless otherwise noted. Stronger weapons can turn a single hit into multiple HP of BOD damage.
 
 Weapon|Details|Cost
 :--|---|--:
@@ -361,8 +370,6 @@ If one of the dice is a hit-, there are unforeseen consequences. If one of the d
 
 If none of the dice hit, the test fails. Optionally, the PC can accept extra trouble in exchange for passing a failed test, the trouble getting worse the more hits needed to succeed.
 
-> In general, needing more than one hit really under-powers the PCs and kind of breaks the probabilities I'm aiming for with the game, so such requirements should be used with care.
-
 #### Help or Hinder
 
 When a PC is making a test, if another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder that test, replacing a hit with a miss or adding the hit to the other PC's test. A hit+ or hit- on the help or hinder test causes unintended side effects to happens to the PC helping or hindering.
@@ -385,8 +392,6 @@ Each attribute has its own health point (or HP) pool that is the size of the die
 
 HP pools can be healed by succeeding on a test using the relevant attribute. Whenever players take a few moments to rest, they can make this test. When resting for a full night, such a test automatically succeeds. Returning a reduced attribute die to normal is a more involved process, requiring special care or magic.
 
-> Alternatively, there might just be one HP track that all damage uses. It might add up to a combination of all the PCs attribute dice, with rolls at each used die number. Or it might just be twenty points long, with rolls at each die number (4, 6, 8, 10, 12, and 20). Will have to playtest the multiple HP tracks first.
-
 ### Experience Points
 
 PCs gain experience points (or XP) whenever they play up their style, follow their motivation, or allow their flaw to put them in a tight spot. (Players should call out these moments.) Additionally, the game master (or GM) will stipulate any other specific situations or actions that will award XP, such as defeating an enemy or disarming a trap.
@@ -407,7 +412,9 @@ Roll|Result
 
 *When not playing with classes, reroll on these options.
 
-> XP might also be spent to improve test rolls. Spend 2 XP to reroll a die, spend 4 XP to increase a hit- to a hit or a hit to a hit+, spend 6 XP to turn a miss into a hit, or spend 8 XP to add an additional hit to a roll.
+### Example of Play
+
+//
 
 ## Game Master
 
@@ -435,10 +442,11 @@ Some ideas for what to give a PC on a hit+ (an extra half-hit):
 
 - They deal double damage
 - They gain XP
+//
 
 Some ideas for what to give a PC with an extra hit:
 
--
+//
 
 #### Hit- and Failed Tests
 
@@ -449,12 +457,13 @@ Some ideas for when a PC rolls a hit-:
 - Threaten them with impending danger
 - Put them in a tight spot
 - Deal damage
+//
 
 When a PC fails a test, they can choose to accept a consequence in exchange for passing the test regardless of their roll. DMs can also offer this option to PCs without them asking for it. These consequences should be worse than a hit-. They should be at least twice as bad, in fact, because they are the same as consequences for the PC rolling two hit-. They should also be worse the more hits would have been required to pass the test.
 
 Some ideas for when a PC accepts trouble to turn a failed test into a passed one:
 
--
+//
 
 ### Pools
 
@@ -511,13 +520,13 @@ When rolling multiple dice and trying to get a hit on each, multiply all the pro
 
 ### Terms
 
-- **Clock**
-- **Contest**
-- **Hit**
-- **Hit-**
-- **Hit+**
-- **Miss**
+- **Clock** //
+- **Contest** //
+- **Hit** //
+- **Hit-** //
+- **Hit+** //
+- **Miss** //
 - **Point** Each hit on a track or in a pool is called a point.
-- **Pool**
+- **Pool** //
 - **Test** When a PC has to roll dice it's called a test.
-- **Track**
+- **Track** //
