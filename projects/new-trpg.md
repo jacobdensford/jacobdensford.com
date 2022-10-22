@@ -366,7 +366,7 @@ Roll|Result
 
 Usually, if they rolled at least one hit (hit-, hit, or hit+), the test passes. The more hits above what the test required, the better the results. (Rarely, especially difficult tests might require two or more hits.)
 
-If one of the dice is a hit-, there are unforeseen consequences. If one of the dice is a hit+, there is an unanticipated benefit. Two hit+ count as an extra hit (3 hits total) while two hit- still pass the test but extra trouble is introduced. (A result of one hit- and one hit+ cancel out any extra effects.)
+If a die is a hit-, there are unforeseen consequences. If a die is a hit+, there is an unanticipated benefit. (A result of one hit- and one hit+ cancels out any extra effects.)
 
 If none of the dice hit, the test fails. Optionally, the PC can accept extra trouble in exchange for passing a failed test, the trouble getting worse the more hits needed to succeed.
 
@@ -421,9 +421,9 @@ Roll|Result
 13-19|Increase an attribute's die
 20|Choose one and reroll
 
-*When not playing with classes, reroll on these options. If the PC doesn't already have a class, they may choose one at these options, provided they meet the attribute requirements.
-
 Another optional way to spend XP is for PCs to spend XP on specific advancements directly. 6 XP to gain a new class feature, 9 XP to increase a skill's die or learn a new skill at d4, 12 XP to gain a feature from a different class, and 20 XP to increase an attribute's die.
+
+*: If the PC doesn't already have a class, they may choose one at these options, provided they meet the attribute requirements. When not playing with classes, reroll on these options.
 
 ### Example of Play
 
@@ -541,6 +541,7 @@ When rolling multiple dice and trying to get a hit on each, multiply the probabi
 - **Point:** Each hit on a track or in a pool is called a point.
 - **Pool:** //
 - **Roll:** //
+- **Slice:** //
 - **Test:** When a PC has to roll dice it's called a test.
 - **Track:** //
 - **Wound:** //
