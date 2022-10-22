@@ -251,4 +251,14 @@ The Mistguard fled, making all haste to Quelbea's protected glade. blighted vine
 
 **Yonday, the 18th of Falling, in the 371st year of the Alliance**
 
+The Mistguard caught up with the Fallionese caravan and continued through the western plains of Yondar, traveling for ten days before reaching the area surrounding the Mirror Lake. They were attacked by bulettes, which they handily dispatched. They suspiciously ran into Sig again, who once again invited them to join the Order of the Third Moon. The Mistguard were slightly more receptive, accepting his magical feather and agreeing to meet with the group in Pandara. The Mistguard found and bathed in a sacred pool, angering a group of Yondarian herdsfolk who were hunting bulettes. Impressed by the Mistguard's defeat of the beasts, all was forgiven, and the Fallionese caravan joined the herdsfolk. All but Jane, who continued on with the Mistguard and the Shadow Steppers for a time.
+
+The Mistguard and Jane reached the fishing village of Turtle's Rest, where they found suspicious, slippery, oddly fishlike residence. They cornered one named Jawad and, after healing the man and lifting his curse, convinced him to tell them what was going on. The Aboleth of the Mirror Lake had cursed and enthralled the people of the town. The Mistguard determined to free the town. They requisitioned riding turtles from Jawad and sent Jane back to circle around the lake with the Shadow Steppers. But before she left, Ravyn tossed her the magical two-faced coin. Jane, determined to resurect her daughter, threw the coin into the mirror lake. Despite everyone trying to intercept the coin, it splashed into the water. Jane's daughter, Sybella walked out of the lake just in time to watch her mother drop dead. The Mistguard sent Sybella to join the Shadow Steppers, who had renamed themselves the Mist Steppers, and headed out into the lake.
+
+Once on the water, the Aboleth pried at their minds, but all resisted. In the middle of the lake, Illgiem taunted the creature, prompting it to emerge from its watery depths and attack.
+
+### Chapter 10:
+
+**Yonday, the 18th of Falling, in the 371st year of the Alliance**
+
 <h2 id="part3">Part III: Cataclysm</h2>

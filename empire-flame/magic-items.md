@@ -109,7 +109,7 @@ When a poison is applied to this dagger through the mouth of  the snake, it runs
 
 This ancient, tarnished, silver amulet depicts the face of the goddess Sune. Dirt and moss fill the crevasses of the goddess's face. It glows gently with untapped power.
 
-The barer of this amulet can call on Sune to cast *dispel good and evil*. As an action, beseech Sune to grant you power and roll a d20. The roll's DC is 20 - your proficiency bonus. Once cast, or if you roll below 10 - your proficiency bonus, the amulet dims and won't work again until the next dawn.
+The barer of this amulet can call on Sune to cast *dispel good and evil*. As an action, beseech Sune to grant you power and roll a d20. The roll's DC is 20 - your proficiency bonus. Once cast, or if you roll below 10 - your proficiency bonus, the amulet dims and won't work again until the next dawn. The amulet can act as a holy symbol and spellcasting focus.
 
 ### Bag of Blood-Speckled Shroomlings
 
@@ -123,11 +123,37 @@ This slightly soggy burlap sack contains soil from deep below, deeper even than 
 3-4|The shroomling will also have the blood donor's voice.
 5-6|The shroomling will also have the blood donor's recent memories.
 
+### Cloak of the Mistguard
+
+*Wonderous item, uncommon*
+
+Mist bellows around this grey cloak, lightly obscuring those who wear it. When wearing this cloak, you count as lightly obscured for the purpose of using stealth. Additionally, your vision can pierce mist, seeing anything within it as if it weren't obscured.
+
 ### Color Changing Robe of Preservation
 
 *Wondrous item, uncommon*
 
 A fine robe, exquisite in every stitch. It changes to the color of whatever its wearer desires. The robe does not decay with age. Anything stored within the robe gains that same property. If the robe is ever damaged or dirtied, it is once again clean and mended by the next dawn. Any items stored within the robe are also mended, as if the *mending* spell was cast on them.
+
+### Eye of the Aboleth
+
+*Wondrous item, very rare (requires attunement by a spellcaster)*
+
+A slick, palm-sized eyeball that squirms and looks this way and that.
+
+At dawn, the eye gains charges equal to your proficiency bonus. As an action, you can expend a charge to cast *sending* or *charm person* (using the caster's spell save DC). The eye can act as a spellcasting focus.
+
+**Curse:** Each time you use this eye, make a WIS save that starts with a DC 10 and increases by one each time the eye is used. If the save is ever failed, the barer is charmed by the Abolith for 1d12x2 hours.
+
+### Ring of the Aboleth
+
+*Wondrous item, very rare (requires attunement)*
+
+This inky black ring is slimy and cold to the touch.
+
+As an action, touch or make a melee attack against a charmed creature, deal 3d6 psychic damage, and gain that number of temporary hit points. HP gained in this way dissipates at dawn.
+
+**Curse:** Each time you use this eye, make a WIS save that starts with a DC 10 and increases by one each time the eye is used. If the save is ever failed, the finger which bears the ring falls off and transforms into a tiny Aboleth that grows by one size each hour until it is full size.
 
 ### Vainglorious Boots
 

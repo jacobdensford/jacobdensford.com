@@ -38,6 +38,10 @@ Alys was the Lord Mayor of Mistcrown until being forcibly ejected after the disc
 
 Anfled was the prioress of the Temple of the Sisters in Mistcrown.
 
+### Arabelle
+
+A young Fallionese girl who had a broken doll.
+
 ### Ashanti
 
 Ashanti was a human woman and a Fighter. She was a captain in the Endoranian army.
@@ -88,9 +92,21 @@ Garakas was a barbed devil who had jammed open a doorway between the hells and t
 
 Hugo was a young boy and former member of the Black Court in Mistcrown who later went on to form his own thieving guild after being kicked out of the Black Court for attempted murder. He would come to be known as the Shadow Walker.
 
+### Jane Ceray
+
+A Fallionese woman who sacrificed her life at the Mirror Lake to bring her daughter back.
+
+### Jawad
+
+An old man from Turtle's Rest in Yondar, cursed by the Aboleth, freed by the Mistguard.
+
 ### Lilly
 
 Lilly was a giant from the Mistcloak Mountains. Her family was tricked and murdered by Nishanesti's Sinless.
+
+### Mukhtar
+
+The leader of the Yondarian Herdsfolk from the plains in western Yondar.
 
 ### Nishanesti
 
@@ -121,6 +137,10 @@ Sartur was a giant and a cleric of the goddess Othea. Her soul was encased in he
 ### Sig
 
 Sig was a hunter and member of the Order of the Third Moon. He tried to recruit The Four to his order, but they declined.
+
+### Sybella Ceray
+
+Jane's once dead daughter who was rised back to life at the Mirror Lake.
 
 ### Tane
 
@@ -193,6 +213,14 @@ The sleepy town of Mistcrown sat atop a hill. The lowland fields surrounding the
 ### Ostoria
 
 Ostoria was the capital city of a kingdom of giants that spanned the continent before the second cataclysm buried it far beneath the ground.
+
+### Pandara
+
+The capital city of Yondar and the oldest city in the Alliance.
+
+### Turtle's Rest
+
+A small fishing village on the edge of the Mirror Lake in the kingdom of Yondar.
 
 ### Wafeld
 
