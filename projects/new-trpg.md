@@ -388,9 +388,9 @@ Attacking is a contest. Whoever wins each attack contest deals their hits as hea
 
 ### Health Points, Death, and Healing
 
-Each attribute has its own health point (or HP) pool that is the size of the die for that attribute (4 for a d4, 6 for a d6, etc). When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time a PC's attribute is reduced in such a way, they gain a wound--a lasting mark or sign on their struggle.
+Each attribute has its own health point (or HP) pool that is the size of the die for that attribute (4 for a d4, 6 for a d6, etc). When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time a PC's attribute is reduced in such a way, they gain a wound--a lasting mark or sign of their struggle.
 
-When any attribute is reduced beyond a d4, roll on the death table. When an attribute is reduced beyond a d4, tests cannot be made with that attribute and it's HP pool is 0. Any additional damage done to that attribute requires another roll on the death table.
+When any attribute is reduced beyond a d4, roll on the death table. When an attribute is reduced beyond a d4, tests cannot be made with that attribute and it's HP pool is zero. Any additional damage done to that attribute requires another roll on the death table.
 
 **Death Table**
 
@@ -407,7 +407,7 @@ HP pools can be healed by succeeding on a test using the relevant attribute. Whe
 
 PCs gain experience points (or XP) whenever they play up their style, follow their motivation, or allow their flaw to put them in a tight spot. (Players should call out these moments.) Additionally, the game master (or GM) will stipulate any other specific situations or actions that will award XP, such as defeating an enemy or disarming a trap.
 
-PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may choose to roll that die on the XP table. The further down the track, the better the options. Once a PC rolls or chooses an option, their XP track resets to zero.
+PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may choose to roll that die on the XP table. The further down the track, the better the options. Once a PC gains an option, their XP track resets to zero.
 
 **XP Table**
 
@@ -415,15 +415,15 @@ Roll|Result
 :--|---
 1|Gain nothing and lose d8 XP
 2-3|Gain nothing and lose d4 XP
-4-6|Increase a skill's die or learn a new skill at d4
-7-9|Gain a new class feat*
+4-6|Gain a new class feat*
+7-9|Increase a skill's die or learn a new skill at d4
 10-12|Gain a feat from a different class*
 13-19|Increase an attribute's die
 20|Choose one and reroll
 
-*When not playing with classes, reroll on these options.
+*When not playing with classes, reroll on these options. If the PC doesn't already have a class, they may choose one at these options, provided they meet the attribute requirements.
 
-Another optional way to handle XP is for PCs to spend XP on specific advancements directly. 6 XP to increase a skill's die or learn a new skill at d4, 9 XP to gain a new class feature, 12 XP to gain a feature from a different class, and 20 XP to increase an attribute's die.
+Another optional way to spend XP is for PCs to spend XP on specific advancements directly. 6 XP to gain a new class feature, 9 XP to increase a skill's die or learn a new skill at d4, 12 XP to gain a feature from a different class, and 20 XP to increase an attribute's die.
 
 ### Example of Play
 
@@ -439,7 +439,7 @@ If the PCs are acting against the world or something that can't act back, it's a
 
 ### Who rolls dice?
 
-If the GM doesn't want to roll dice, contests against NPCs are instead tests (usually requiring 1 hit, unless otherwise specified). In such a case, the possible consequences of a PC rolling a miss or a hit- allows the NPC to act against the PC. On the NPCs turn, the PC must roll a test to defend against the attack.
+If the GM doesn't want to roll dice, contests against NPCs are instead tests (usually requiring 1 hit, unless otherwise specified). In such a case, the possible consequences of a PC rolling a miss or a hit- allows the NPC to act against the PC. On the NPCs turn or when the NPC is acting against the PC, the PC must roll a test to defend against the attack.
 
 ### Interpreting Rolls
 
@@ -453,7 +453,7 @@ The easiest way to deal with a hit+ is to think of it as a hit and a half. So th
 
 Some ideas for what to give a PC on a hit+ (an extra half-hit):
 
-- They deal double harm
+- They deal extra harm
 - They gain XP
 //
 
@@ -472,7 +472,7 @@ Some ideas for when a PC rolls a hit-:
 - Deal harm
 //
 
-When a PC fails a test, they can choose to accept a consequence in exchange for passing the test regardless of their roll. DMs can also offer this option to PCs without them asking for it. These consequences should be worse than a hit-. They should be at least twice as bad, in fact, because they are the same as consequences for the PC rolling two hit-. They should also be worse the more hits would have been required to pass the test.
+When a PC fails a test, they can choose to accept a consequence in exchange for passing the test regardless of their roll. DMs can also offer this option to PCs without them asking for it. These consequences should be worse than a hit-. They should be at least twice as bad. They should also be worse the more hits would have been required to pass the test.
 
 Some ideas for when a PC accepts trouble to turn a failed test into a passed one:
 
@@ -488,13 +488,11 @@ Tracks range from 1 to 20. A track can be 1-4, 1-6, 1-8, 1-10, 1-12, or 1-20. An
 
 ### Clocks
 
-Clocks are like tracks, but they don't have associated rollable tables. Instead, predetermined things happen along the way. They're also circular and have slices. Like a pie. Maybe they should be called pies instead of clocks. Or clock pies. Or clies.
+Clocks are like tracks, but they don't have associated rollable tables. Instead, predetermined things happen along the way as they advanced towards their ultimate conclusion. They're also circular and have slices. (Like a pie. Maybe they should be called pies instead of clocks. Or clock pies. Or clies.)
 
 ### Probabilities
 
-When rolling multiple dice and trying to get a hit on each, multiply all the probabilities together:
-
-**%1d x %2d**
+When rolling multiple dice and trying to get a hit on each, multiply the probabilities together: **%1d x %2d**
 
 ### D4
 
@@ -533,15 +531,16 @@ When rolling multiple dice and trying to get a hit on each, multiply all the pro
 
 ### Terms
 
-- **Harm** //
-- **Clock** //
-- **Contest** //
-- **Hit** //
-- **Hit-** //
-- **Hit+** //
-- **Miss** //
-- **Point** Each hit on a track or in a pool is called a point.
-- **Pool** //
-- **Roll** //
-- **Test** When a PC has to roll dice it's called a test.
-- **Track** //
+- **Harm:** //
+- **Clock:** //
+- **Contest:** //
+- **Hit:** //
+- **Hit-:** Weak hit, introduces complications
+- **Hit+:** Strong hit, grants extra benefits
+- **Miss:** //
+- **Point:** Each hit on a track or in a pool is called a point.
+- **Pool:** //
+- **Roll:** //
+- **Test:** When a PC has to roll dice it's called a test.
+- **Track:** //
+- **Wound:** //
