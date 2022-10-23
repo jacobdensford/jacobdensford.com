@@ -12,56 +12,17 @@ subtitle: Very much a work in progress.
 
 ![A rough character sheet design with some dice sitting on it.](/images/newtrpg.jpg)
 
-Here are the rules for a new tabletop roleplaying game I'm working on. They're incomplete and very much a work-in-progress, obviously. They're also incredibly generic right now. Eventually, once I settle on a setting, theme, and tone, I will rework some of the mechanics and the classes to more closely reflect those decisions. Consider these rules a "minimum viable product". I'd call this a version 0.0.1.
-
-**Design Requirements:**
-
-- Use all the dice
-- No math
-- No roll under mechanics (generally, rolling higher should be better)
-- Options for both players and the GM rolling dice or just the players
-- OSR (Old-School Renaissance/Revival) compatible-ish<sup><a href="https://en.wikipedia.org/wiki/Old_School_Renaissance">1</a></sup> <sup><a href="https://www.youtube.com/watch?v=wRVJNkOObIU">2</a></sup>
-- NSR (New OSR or New Sworddream Renaissance) sensibilities, to an extent<sup><a href="https://boneboxchant.wordpress.com/2019/12/21/nsr/">3</a></sup> <sup><a href="https://newschoolrevolution.com/2020/01/19/what-is-the-nsr-part-1">4</a></sup> <sup><a href="https://newschoolrevolution.com/2022/05/04/the-new-new-school-revolution">5</a></sup> <sup><a href="https://boneboxchant.wordpress.com/2022/05/04/revisiting-the-nsr/">6</a></sup>
-- Be simple enough to easily learn and run a one-shot but complex enough for campaign play and to offer extra depth for players who want it
-- Have mechanics that reinforce the themes and tones of the game and offer options for emergent storytelling
-
-**Design Inspiration**
-
-- Numenera for the idea for the character description section
-- Mothership for the idea to make points and tracks
-- Apocalypse World for the concept of partial success
-- Also Apocalypse World for clocks
-- Mork Borg and Death in Space for lots of things
-- Trophy for mathless dice rolls that instead rely on hits and misses
-- So many others for so many things I can't even think of right now (I will add them as they come to me)
+Here are the rules for a new tabletop roleplaying game I'm working on. They're incomplete but playable. They're also incredibly generic right now. Eventually, once I settle on a default setting, I will rework some of the mechanics and the classes to more closely reflect that decision. Consider these rules a "minimum viable product". I'd call this a version 0.1.
 
 ## Player Characters
 
-You are a //flavor text about who the PCs are in the world//.
+You are an adventurer in a world full of magic and danger.
 
-You have a **name**, a **style**, a **class** or **background**, a **motivation**, and a **flaw**. You also have three **attributes**, a number of **skills**, and some **equipment**.
-
-Your **name** is what people call you. It could be the name you were born with or a nickname you picked up along the way.
-
-Your **style** is the main way you do things and move through the world.
-
-Your **class** or **background** is what you do or what you've done with your life.
-
-Your **motivation** is what drives you. It's the one thing you want more than anything else. If you're doing things right, every major action you take brings you one step closer to fulfilling your motivation.
-
-Your **flaw** is the one thing about yourself that gets you into trouble most often. It is something to overcome. It is something to give in to.
-
-Your **attributes** are body, intellect, and willpower. They represent how strong and dexterous you are, how sharp-eyed and smart, and your force of will and magical potential.
-
-Your **skills** are what you're good at. They're broad abilities you've picked up over the years and learned to apply in difficult situations.
-
-You have **equipment**. They're the tools you use to get the job done.
+You have a **name**, **style**, **class** or **background**, **motivation**, and **flaw**. You have preferred **pronouns** and a few **looks**. You also have three **attributes**, a number of **skills**, and some **equipment**.
 
 ### Character Description
 
-**NAME is a STYLE CLASS/BACKGROUND who MOTIVATION, but FLAW.**
-
-Roll or choose a name, style, motivation, and flaw from the lists below or write your own that matches the format.
+Roll, choose, or write your own name, style, motivation, flaw, pronoun and looks.
 
 d12|Name
 :--|:--
@@ -82,7 +43,7 @@ d12|Style
 :--|:--
 1|charming
 2|rugged
-3|friendly
+3|loyal
 4|defiant
 5|elegant
 6|brave
@@ -93,41 +54,59 @@ d12|Style
 11|thoughtful
 12|wild
 
-d12|Motivation
+d6|Motivation
 :--|---
-1|seeks wealth to pay their family's debts
+1|seeks wealth to pay off their family's debts
 2|strives for perfection in function and form
 3|wants to visit every city at least once
 4|seeks revenge for the death of their brother
 5|must complete their holy pilgrimage before returning home
-6|Etc//
-7|Etc//
-8|Etc//
-9|Etc//
-10|Etc//
-11|Etc//
-12|Etc//
+6|carries a secret they must share with the high lord before it's too late
 
-d12|Flaw
+d6|Flaw
 :--|---
 1|can't resist stealing everything that's not nailed down
 2|will never trust again after what happened last time
 3|can't forgive themselves for the mistakes of their past
 4|is addicted to a powerful drug
 5|is on the run because of a crime they didn't commit
-6|Etc//
-7|Etc//
-8|Etc//
-9|Etc//
-10|Etc//
-11|Etc//
-12|Etc//
+6|can't stand being alone even for a second
 
-**Example character:** *Jane is a charming CLASS/BACKGROUND who seeks wealth to pay her family's debts, but she will never trust again after what happened last time.*
+d4|Pronouns
+:--|:--
+1|they/them
+2|she/her
+3|he/him
+4|other/prefer not to say
+
+d20|Looks
+:--|:--
+1|messy hair
+2|windburnt skin
+3|darting eyes
+4|flowing hair
+5|tattered clothes
+6|bloodshot eyes
+7|pockmarked skin
+8|bald head
+9|many piercings
+10|bulbous nose
+11|sinister grin
+12|sharp nose
+13|fine clothes
+14|button nose
+15|kind eyes
+16|missing teeth
+17|tattoos all over
+18|warm smile
+19|diminutavely short
+20|excedingly tall
+
+**Example character:** *Jane is a charming young woman with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time.*
 
 ### Attributes
 
-There are three attributes: **body** (BOD), **intellect** (INT), and **willpower** (WIL). Roll on the following table for each attribute to assign dice. Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8. An attributes values ranges from d4 to d12.
+You have three attributes: **body** (BOD), **intellect** (INT), and **willpower** (WIL). Roll on the following table for each attribute and assign dice. Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8. An attribute's value ranges from d4 to d12.
 
 d8|Attribute Die
 :--|:--
@@ -135,7 +114,7 @@ d8|Attribute Die
 3-6|d6
 7-8|d8
 
-Each attribute has a health point (or HP) pool consisting of as many points as the attribute's die.
+You have a health point (or HP) pool for each attribute consisting of as many points as the attribute's die.
 
 **Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She has an HP pool of 6 in BOD, 8 in INT, and 4 in WIL.*
 
@@ -143,19 +122,17 @@ Each attribute has a health point (or HP) pool consisting of as many points as t
 
 There are six classes, each specializing in one or two of the three attributes.
 
-Choose one of the six classes. You must have at least a D8 in a class's main attribute(s) to take the class. Choose one of your class's feats.
+Choose one of the six classes. You must have at least a d8 in the class's main attribute(s). Gain one of your class's feats.
 
 If none of your attributes are high enough, skip this section and gain a background instead.
 
-**Example character:** *Jane takes the Thief class, since she rolled a d8 for her INT. From her class, she chooses Sneak Attack.*
+**Example character:** *Jane takes the Thief class, since she rolled a d8 for her INT. From her class, she chooses* sneak attack.
 
-#### Warrior
+#### Fighter
 
-The warrior's main attribute is body.
+The fighter's main attribute is body.
 
-//WORDS ABOUT THE WARRIOR//
-
-##### Warrior Feats
+##### Fighter Feats
 
 - **Protect:** Take the BOD HP harm that someone nearby would have taken instead of them.
 - **Berserk:** When the warrior passes a test with a weapon and deals harm, they may make additional tests with a weapon until they fail.
@@ -166,8 +143,6 @@ The warrior's main attribute is body.
 
 The thief's main attribute is intellect.
 
-//WORDS ABOUT THE THIEF//
-
 ##### Thief Feats
 
 - **Sneak Attack:** Deal double HP harm when attacking an enemy who is engaged with someone else or who is unaware of your presence.
@@ -175,57 +150,31 @@ The thief's main attribute is intellect.
 - **Jack of all Trades:** Spend 2 INT HP to roll a d4 with any skill.
 - //
 
-#### Mage
+#### Sage
 
-The mage's main attribute is willpower.
+The sage's main attribute is willpower.
 
-//WORDS ABOUT THE Mage//
+##### Sage Feats
 
-##### Mage Feats
+- **Spellcasting:** Gain the ability to cast spells and gain one spell. Whenever taking the "gain feat" option from the XP table, instead gain another spell.
 
-- **Spellcasting:** Gain the ability to cast spells and gain one spell. Whenever taking the "gain feat" option from the XP table, may instead take another spell.
-- //
-- //
-- //
+#### Battle Mage
 
-#### Cleric
+The battle mage's main attributes are body and willpower.
 
-The cleric's main attributes are body and willpower.
+The battle mage may gain warrior or sage feats.
 
-//WORDS ABOUT THE CLERIC//
+#### Arcane Trickster
 
-##### Cleric Feats
+The arcane trickster's main attributes are intellect and willpower.
 
-- **Spellcasting:** Gain the ability to cast spells and gain one spell. Whenever taking the "gain feat" option from the XP table, may instead take another spell.
-- //
-- //
-- //
+The arcane trickster may gain thief or mage feats.
 
-#### Ranger
+#### Warrior Poet
 
-The ranger's main attributes are intellect and willpower.
+The warrior poet's main attributes are body and intellect.
 
-//WORDS ABOUT THE RANGER//
-
-##### Ranger Feats
-
-- **Spellcasting:** Gain the ability to cast spells and gain one spell. Whenever taking the "gain feat" option from the XP table, may instead take another spell.
-- //
-- //
-- //
-
-#### //SIXTH CLASS//
-
-the //CLASS//'s main attributes are body and intellect.
-
-//WORDS ABOUT THE CLASS//
-
-##### //CLASS// Feats
-
-- //
-- //
-- //
-- //
+The warrior poet may gain fighter or thief feats.
 
 ### Magic
 
@@ -233,8 +182,8 @@ Each spell costs a number of WIL HP. Generally, a spell's effects increase the m
 
 Spell Name|Effect|Cost
 :--|---|--:
-Divination|Roll 1 WIL test, replace result of any other test by anyone during the next day|2 WIL HP
-Fireball|2 BOD HP harm to 3 adjacent targets|2 WIL HP
+Divination|Roll 1 WIL test, replace result of any other test by anyone during the next day|2
+Fireball|2 BOD HP harm to 3 adjacent targets|2
 //
 
 ### Backgrounds
@@ -258,7 +207,7 @@ If you don't have a class, you instead gain a background. Roll, choose, or write
 
 ### Skills
 
-There are twelve skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8. A skills value ranges from d4 to d12 once it is known.
+There are twelve skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8. A skill's value ranges from d4 to d12 once it is known.
 
 d8|Skill Die
 :--|:--
@@ -285,110 +234,90 @@ d12|Skill
 
 ### Equipment
 
-You have 4+BOD **equipment slots**. Roll or choose an equipment package from your class. Alternatively, start with 100 silver pieces (or SP) and purchase equipment from the tables below. Items use one slot unless otherwise noted.
+You have 4+BOD **equipment slots**. Roll or choose an equipment package from your class. Alternatively, spend 100 silver pieces (or SP) on the tables below. Items use one slot unless otherwise noted.
 
-1d4|Warrior Equipment
+1d4|Fighter, Battle Mage, and Warrior Poet Equipment
 :--|---
 1|Etc//
 2|Etc//
 3|Etc//
 4|Etc//
 
-1d4|Thief Equipment
+1d4|Thief, Arcane Trickster, and Warrior Poet Equipment
 :--|---
 1|Etc//
 2|Etc//
 3|Etc//
 4|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20)
 
-1d4|Mage Equipment
+1d4|Sage, Battle Mage, and Arcane Trickster Equipment
 :--|---
 1|Etc//
 2|Etc//
 3|Etc//
 4|Etc//
 
-1d4|Cleric Equipment
-:--|---
-1|Etc//
-2|Etc//
-3|Etc//
-4|Etc//
-
-1d4|Ranger Equipment
-:--|---
-1|Etc//
-2|Etc//
-3|Etc//
-4|Etc//
-
-1d4|//CLASS// Equipment
-:--|---
-1|Etc//
-2|Etc//
-3|Etc//
-4|Etc//
-
-Roll or choose one of these hundred trinkets, which don't take up equipment slots.
-
-1d100|Trinkets
-:--|---
-1|a cracked porcelain doll//
-//
-
-**Example character:** *Jane rolls the fourth thief equipment pack and gets the first trinket.*
+**Example character:** *Jane rolls the fourth thief equipment pack, gaining light armor, a dagger, and a shortbow with arrows.*
 
 #### Equipment
 
-Equipment|Details|Cost
+Equipment|Cost
 :--|---|--:
-Item|What?|Price//
-Item|What?|Price//
-Item|What?|Price//
-Item|What?|Price//
-//
+bedroll|4
+calrops (1 harm)|7
+chalk|1
+crowbar|8
+flint and steel|4
+grappling hook|12
+lantern|7
+lantern oil (4 hours)|5
+lockpicks|5
+role (30 feet)|4
+tent|12s
+torch|2
+travel rations (5 days)|10
+waterskin (5 days)|5
 
-//
+#### Services
 
-//
-
-#### Goods and Services
-
-////
-
-////
+Service|Cost
+:--|:--
+good meal|2
+pint of ale|1
+repair armor (1 AP)|15
+warm bed|3
 
 #### Weapons and Armor
 
-Weapons deal hits to an opponent as harm to their BOD HP.
+Weapons deal hits as harm to BOD HP.
 
-Weapon|Details|Cost
-:--|---|--:
-Arrows|20 uses|10sp
-Battle Axe|3 harm, 2 slots|35 SP
-Bolts|10 uses|15sp
-Club|1 harm|10 SP
-Crossbow|3 harm, 2 slots|40 SP
-Dagger|1 harm|10 SP
-Flail|3 harm, 2 slots|35 SP
-Greatsword|3 harm, 2 slots|45 SP
-Handaxe|1 harm|15 SP
-Longbow|2 harm|25 SP
-Longsword|2 harm|30 SP
-Mace|2 harm|25 SP
-Shortsword|1 harm|20 SP
-Shortbow|1 harm|15 SP
-Staff|1 harm|5 SP
-Warhammer|2 harm|30 SP
+Weapon|Cost
+:--|:--
+arrows (20 uses)|10
+battle axe (3 harm, 2 slots)|35
+bolts (10 uses)|15
+club (1 harm)|10
+crossbow (3 harm, 2 slots)|40
+dagger (1 harm)|10
+flail (3 harm, 2 slots)|35
+greatsword (3 harm, 2 slots)|45
+handaxe (1 harm)|15
+longbow (2 harm)|25
+longsword (2 harm)|30
+mace (2 harm)|25
+shortsword (1 harm)|20
+shortbow (1 harm)|15
+staff (1 harm)|5
+warhammer (2 harm)|30
 
 Armor grants armor points (or AP). Instead of taking harm to your BOD HP, you may choose to take it to your AP. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
 
-Armor|Details|Cost
-:--|---|--:
-Shield|1 AP|20 SP
-Light (fur, padded, leather)|2 AP, 2 slots|50 SP
-Medium (scale, mail, etc)|3 AP, 3 slots|100 SP
-Heavy (splint, plate, etc)|4 AP, 4 slots|200 SP
+Armor|Cost
+:--|:--
+shield (1 AP)|20
+light (2 AP, 2 slots)|50
+medium (3 AP, 3 slots)|100
+heavy (4 AP, 4 slots)|200
 
 ### Character Advancement
 
@@ -401,14 +330,14 @@ Roll|XP Result
 1|Gain nothing and lose d8 XP
 2-3|Gain nothing and lose d4 XP
 4-6|Gain a new class feat or gain a class
-7-9|Increase a skill's die or learn a new skill at d4
+7-9|Increase a skill's die or gain a new skill at d4
 10-12|Gain a feat from a different class or switch classes
 13-19|Increase an attribute's die
 20|Choose one and reroll
 
 **Example Character:**
 
-*Jane is a charming thief who seeks wealth to pay her family's debts, but she will never trust again after what happened last time.*
+*Jane is a charming thief with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time.*
 
 *BOD: d6 -- 6/6 HP (2/2 AP) | INT: d8 -- 8/8 HP | WIL: d4 -- 4/4 HP*
 
@@ -433,29 +362,29 @@ Roll|Result
 7-9|Hit
 10-12|Strong Hit (Hit+)
 
-The test passes if you roll at least one **hit**. The more hits you get, the better the results. (Rarely, especially difficult tests might require two or more hits.)
+The test passes if you roll at least one **hit**. (Rarely, especially difficult tests might require two or more hits.)
 
-If a die is a **weak hit**, there are unforeseen consequences. If a die is a **strong hit**, there is an unanticipated benefit. These effects stack and do not cancel each other out.
+If a die is a **weak hit**, there is an unforeseen consequence. If a die is a **strong hit**, there is an unanticipated benefit.
 
 If none of the dice hit, the test fails. You may choose to accept extra trouble in exchange for passing a failed test.
 
 #### Modifying Tests
 
-You may use your class's main attribute(s) in a special way: you can spend 2 HP to reroll a die, 4 HP to increase a weak hit to a hit or a hit to a strong hit, 6 HP to turn a miss into a hit, or 8 HP to add an additional hit to your roll.
+You may use your class's main attribute(s) in a special way: you may spend 2 HP to reroll a die, 4 HP to increase a weak hit to a hit or a hit to a strong hit, 6 HP to turn a miss into a hit, or 8 HP to add an additional hit to your roll.
 
-#### Help or Hinder
+#### Help
 
-When someone else makes a test you may roll a relevant skill die and use a hit to either help or hinder them, replacing their hit with a miss or adding a hit to their test.
+When someone else makes a test you may roll a relevant skill die and add your hit to their test.
 
 #### Contests
 
-When you test against someone, you each collect dice as normal and roll. Whoever has the most hits wins. In a tie, a strong hit beats a hit beats a weak hit, higher numbers beats lower, then bigger dice beat smaller.
+When you test against someone, you each collect dice as normal and roll. Whoever has the most hits wins. In a tie, strong hits beat hits beat weak hits, higher numbers beat lower, then bigger dice beat smaller.
 
 ##### Combat
 
 Combat involves a series of rounds made up of turns. A round lasts long enough to make a test and traverse a room--anywhere from six to twelve seconds.
 
-An initiative contest decides the order of turns that PCs and NPCs each take each round. Rounds continuing until everyone is either dead, surrendered, or fled.
+An initiative contest decides the order of turns in a round. Rounds continuing until everyone is either dead, surrendered, or fled.
 
 Attacking is a contest. Whoever wins each attack contest deals their hits as harm.
 
@@ -468,12 +397,8 @@ When an attribute is reduced below d4, tests can no longer be made with it and i
 d4|Death Result
 :--|---
 1|Dead
-2|Dead in 1d6 rounds unless treated
-3|Dead in 1d4 hours unless treated
-4|Fall unconscious
+2|Dead in 1d4 rounds unless treated
+3|Dead in 1d6 hours unless treated
+4|Dead in 1d8 days unless treated
 
-Whenever you take about an hour to rest, you may replenish an HP pool by succeeding on a test using its attribute. When you rest for a full night, the test automatically succeeds. Returning a reduced attribute die to normal is a more involved process, requiring special care or magic.
-
-### Example of Play
-
-////
+Whenever you take about an hour to rest and eat or drink, you may replenish an HP pool by succeeding on a test using its attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced attribute die to normal is a more involved process, requiring special care or magic.
