@@ -257,7 +257,7 @@ The Mistguard and Jane reached the fishing village of Turtle's Rest, where they 
 
 Once on the water, the Aboleth pried at their minds, but all resisted. In the middle of the lake, Illgiem taunted the creature, prompting it to emerge from its watery depths and attack.
 
-### Chapter 10:
+### Chapter 10: Curses and Hard Truths
 
 **Minalday, the 19th of Falling, in the 371st year of the Alliance**
 

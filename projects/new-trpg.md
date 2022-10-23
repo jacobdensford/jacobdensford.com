@@ -35,17 +35,33 @@ Here are the rules for a new tabletop roleplaying game I'm working on. They're i
 - Trophy for mathless dice rolls that instead rely on hits and misses
 - So many others for so many things I can't even think of right now (I will add them as they come to me)
 
-## Making Player Characters
+## Player Characters
 
-Follow these steps to create a player character (or PC for short).
+You are a //flavor text about who the PCs are in the world//.
+
+You have a **name**, a **style**, a **class** or **background**, a **motivation**, and a **flaw**. You also have three **attributes**, a number of **skills**, and some **equipment**.
+
+Your **name** is what people call you. It could be the name you were born with or a nickname you picked up along the way.
+
+Your **style** is the main way you do things and move through the world.
+
+Your **class** or **background** is what you do or what you've done with your life.
+
+Your **motivation** is what drives you. It's the one thing you want more than anything else. If you're doing things right, every major action you take brings you one step closer to fulfilling your motivation.
+
+Your **flaw** is the one thing about yourself that gets you into trouble most often. It is something to overcome. It is something to give in to.
+
+Your **attributes** are body, intellect, and willpower. They represent how strong and dexterous you are, how sharp-eyed and smart, and your force of will and magical potential.
+
+Your **skills** are what you're good at. They're broad abilities you've picked up over the years and learned to apply in difficult situations.
+
+You have **equipment**. They're the tools you use to get the job done.
 
 ### Character Description
 
-**NAME is a STYLE CLASS who MOTIVATION, but FLAW.**
+**NAME is a STYLE CLASS/BACKGROUND who MOTIVATION, but FLAW.**
 
-A player character starts with a name, a style, a motivation, and a flaw. (A class will be chosen later. Or, When playing without classes, or when none of a PC's attributes are high enough to gain a class, roll or choose a background instead.)
-
-Roll or choose a name, style, motivation, and flaw from the lists below or write your own that matches the format. (Feel free to slightly alter the format to make everything flow nicely.)
+Roll or choose a name, style, motivation, and flaw from the lists below or write your own that matches the format.
 
 d12|Name
 :--|:--
@@ -107,13 +123,11 @@ d12|Flaw
 11|Etc//
 12|Etc//
 
-**Example character:** *Jane is a charming CLASS who seeks wealth to pay her family's debts, but she will never trust again after what happened last time.*
+**Example character:** *Jane is a charming CLASS/BACKGROUND who seeks wealth to pay her family's debts, but she will never trust again after what happened last time.*
 
 ### Attributes
 
-There are three attributes: Body (BOD), Intellect (INT), and Willpower (WIL). Their values range from a d4 to a d12. A PC's Body represents how strong and dexterous they are, Intellect how sharp-eyed and smart, and Willpower their force of will and magical potential.
-
-Roll on the following table for each attribute to assign dice. (Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8.)
+There are three attributes: **body** (BOD), **intellect** (INT), and **willpower** (WIL). Roll on the following table for each attribute to assign dice. Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8. An attributes values ranges from d4 to d12.
 
 d8|Attribute Die
 :--|:--
@@ -121,19 +135,23 @@ d8|Attribute Die
 3-6|d6
 7-8|d8
 
-**Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL.*
+Each attribute has a health point (or HP) pool consisting of as many points as the attribute's die.
+
+**Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She has an HP pool of 6 in BOD, 8 in INT, and 4 in WIL.*
 
 ### Classes
 
-There are three main classes. They are Warrior, Thief, and Mage. Each specializes in one of the three attributes. The Warrior's focus is Body, the Thief's Intellect, and the Mage's Willpower.
+There are six classes, each specializing in one or two of the three attributes.
 
-Each class grants the PC feats. Also, each class can use their main attribute in a special way: they can spend 2 HP to reroll a die, 4 HP to increase a hit- to a hit or a hit to a hit+, 6 HP to turn a miss into a hit, or 8 HP to add an additional hit to a roll. (More on rolls, hits, misses, and HP later.)
+Choose one of the six classes. You must have at least a D8 in a class's main attribute(s) to take the class. Choose one of your class's feats.
 
-PCs must have at least a D8 in a class's main attribute to take that class. Based on your attributes, choose one of the three main classes. Then choose one of that class's feats. If none of the PC's attributes are high enough, or when playing without classes, simply skip this section and choose or roll a background. (PCs can take a class after leveling up their attributes later on by getting the class feat option on the XP table.)
+If none of your attributes are high enough, skip this section and gain a background instead.
 
 **Example character:** *Jane takes the Thief class, since she rolled a d8 for her INT. From her class, she chooses Sneak Attack.*
 
 #### Warrior
+
+The warrior's main attribute is body.
 
 //WORDS ABOUT THE WARRIOR//
 
@@ -146,6 +164,8 @@ PCs must have at least a D8 in a class's main attribute to take that class. Base
 
 #### Thief
 
+The thief's main attribute is intellect.
+
 //WORDS ABOUT THE THIEF//
 
 ##### Thief Feats
@@ -157,22 +177,59 @@ PCs must have at least a D8 in a class's main attribute to take that class. Base
 
 #### Mage
 
-//WORDS ABOUT THE Mage//
+The mage's main attribute is willpower.
 
-Starts with the Spellcasting mage feat and one spell. Whenever a mage takes the "class feat" option from the XP table, they may instead take another spell.
+//WORDS ABOUT THE Mage//
 
 ##### Mage Feats
 
-- **Spellcasting:** Gain the ability to cast spells.
+- **Spellcasting:** Gain the ability to cast spells and gain one spell. Whenever taking the "gain feat" option from the XP table, may instead take another spell.
 - //
 - //
 - //
 
-##### Magic
+#### Cleric
 
-Mages can do magic. Each spell costs a number of WIL HP. Generally, a spell's effects increase the more HP is spent on it.
+The cleric's main attributes are body and willpower.
 
-**Spells**
+//WORDS ABOUT THE CLERIC//
+
+##### Cleric Feats
+
+- **Spellcasting:** Gain the ability to cast spells and gain one spell. Whenever taking the "gain feat" option from the XP table, may instead take another spell.
+- //
+- //
+- //
+
+#### Ranger
+
+The ranger's main attributes are intellect and willpower.
+
+//WORDS ABOUT THE RANGER//
+
+##### Ranger Feats
+
+- **Spellcasting:** Gain the ability to cast spells and gain one spell. Whenever taking the "gain feat" option from the XP table, may instead take another spell.
+- //
+- //
+- //
+
+#### //SIXTH CLASS//
+
+the //CLASS//'s main attributes are body and intellect.
+
+//WORDS ABOUT THE CLASS//
+
+##### //CLASS// Feats
+
+- //
+- //
+- //
+- //
+
+### Magic
+
+Each spell costs a number of WIL HP. Generally, a spell's effects increase the more HP is spent.
 
 Spell Name|Effect|Cost
 :--|---|--:
@@ -180,15 +237,9 @@ Divination|Roll 1 WIL test, replace result of any other test by anyone during th
 Fireball|2 BOD HP harm to 3 adjacent targets|2 WIL HP
 //
 
-#### Three More Classes
-
-There are three more classes, each focusing on two of the three attributes instead of one. They are Cleric (BOD and WIL), Ranger (INT and WILL), and //CLASS// (BOD and INT). In order to take one of these classes, a PC needs to have at least a d8 in both of the classes main attributes.
-
-For feats and spells, Clerics can choose from both the Warrior and the Mage options, Ranger the Thief and Mage, and //CLASS// the Warrior and Thief.
-
 ### Backgrounds
 
-When playing without classes, or when none of a PC's attributes are high enough to gain a class, roll or choose a background instead. Each background grants a relevant skill at d4. (Alternatively, work with your GM to come up with your own background to pair with a skill.)
+If you don't have a class, you instead gain a background. Roll, choose, or write your own background and gain an associated skill at d4.
 
 1d12|Background|Skill
 :--|---|---
@@ -207,9 +258,7 @@ When playing without classes, or when none of a PC's attributes are high enough 
 
 ### Skills
 
-There are twelve skills. Each is associated with one of the three attributes (but can be used with a different attribute if and when it makes sense). Skill values range from a d4 to a d12 once the skill is known.
-
-Roll on the skill die table three times and assign each die to a skill. (Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8.)
+There are twelve skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8. A skills value ranges from d4 to d12 once it is known.
 
 d8|Skill Die
 :--|:--
@@ -217,76 +266,79 @@ d8|Skill Die
 5-6|d6
 7-8|d8
 
-**BOD Skills:**
-
-- Close Quarters Combat
-- Defense
-- Etc//
-- Etc//
-
-**INT Skills:**
-
-- Perception
-- Ranged Combat
-- Skullduggery
-- Stealth
-
-**WIL Skills:**
-
-- Persuasion
-- Spellcasting
-- Etc//
-- Etc//
-
-(Optionally, work with your DM to make up your own skills)
+d12|Skill
+:--|:--
+1|Close Quarters Combat
+2|Defense
+3|Perception
+4|Ranged Combat
+5|Skullduggery
+6|Stealth
+7|Persuasion
+8|Spellcasting
+9|Etc//
+10|Etc//
+11|Etc//
+12|Etc//
 
 **Example character:** *Jane rolled and put her d4 in Skullduggery, d6 in Ranged Combat, and d8 in Perception.*
 
 ### Equipment
 
-A PC has 4+BOD equipment slots (a d4 in BOD would grant 8 equipment slots, a d6 would grant 10, etc). Most items use one slot unless otherwise noted.
+You have 4+BOD **equipment slots**. Roll or choose an equipment package from your class. Alternatively, start with 100 silver pieces (or SP) and purchase equipment from the tables below. Items use one slot unless otherwise noted.
 
-Roll or choose an equipment package from your class. Alternatively, start with 100 silver pieces (or SP) and purchase equipment from the equipment, weapons, and armor tables below.
-
-1d6|Warrior Equipment
+1d4|Warrior Equipment
 :--|---
 1|Etc//
 2|Etc//
 3|Etc//
 4|Etc//
-5|Etc//
-6|Etc//
 
-1d6|Thief Equipment
+1d4|Thief Equipment
 :--|---
 1|Etc//
 2|Etc//
 3|Etc//
 4|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20)
-5|Etc//
-6|Etc//
 
-1d6|Mage Equipment
+1d4|Mage Equipment
 :--|---
 1|Etc//
 2|Etc//
 3|Etc//
 4|Etc//
-5|Etc//
-6|Etc//
 
-Then roll or choose one of these hundred trinkets. (Trinkets don't use equipment slots.)
+1d4|Cleric Equipment
+:--|---
+1|Etc//
+2|Etc//
+3|Etc//
+4|Etc//
+
+1d4|Ranger Equipment
+:--|---
+1|Etc//
+2|Etc//
+3|Etc//
+4|Etc//
+
+1d4|//CLASS// Equipment
+:--|---
+1|Etc//
+2|Etc//
+3|Etc//
+4|Etc//
+
+Roll or choose one of these hundred trinkets, which don't take up equipment slots.
 
 1d100|Trinkets
 :--|---
 1|a cracked porcelain doll//
 //
 
-Feel free to spend any remaining SP on the tables in the following sections.
-
 **Example character:** *Jane rolls the fourth thief equipment pack and gets the first trinket.*
 
-#### Equipment, Goods, and Services
+#### Equipment
 
 Equipment|Details|Cost
 :--|---|--:
@@ -300,9 +352,15 @@ Item|What?|Price//
 
 //
 
+#### Goods and Services
+
+////
+
+////
+
 #### Weapons and Armor
 
-Weapons deal hits to an opponent as BOD HP harm unless otherwise noted. Stronger weapons can turn a single hit into multiple points of harm.
+Weapons deal hits to an opponent as harm to their BOD HP.
 
 Weapon|Details|Cost
 :--|---|--:
@@ -323,7 +381,7 @@ Shortbow|1 harm|15 SP
 Staff|1 harm|5 SP
 Warhammer|2 harm|30 SP
 
-Wearing armor grants a PC armor points (or AP). At the PCs option, instead of taking a hit as BOD HP harm, they can take it as AP harm. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
+Armor grants armor points (or AP). Instead of taking harm to your BOD HP, you may choose to take it to your AP. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
 
 Armor|Details|Cost
 :--|---|--:
@@ -332,11 +390,21 @@ Light (fur, padded, leather)|2 AP, 2 slots|50 SP
 Medium (scale, mail, etc)|3 AP, 3 slots|100 SP
 Heavy (splint, plate, etc)|4 AP, 4 slots|200 SP
 
-### Character Sheet
+### Character Advancement
 
-You don't need to print out a special character sheet for this game, though you can if you want to. All you really need is a piece of paper to record your character details on. At the top of your paper, write your character description. Under that, record your attribute dice and note your max and current HP for each attribute. Below that, list your skill dice. Then your feats, equipment, and SP. Lastly, write your current XP, noting the points on the track where you roll a die on the XP table.
+You gain **experience points** (or XP) whenever you play up your style, follow your motivation, or allow your flaw to put you in a tight spot. The game master (or GM) may stipulate other situations that will award XP.
 
-That's it. Your character is ready to go.
+Add your earned XP to your XP track. At each die number (4, 6, 8, 10, 12, and 20), you may roll that die on the XP table and reduce your XP to zero.
+
+Roll|XP Result
+:--|---
+1|Gain nothing and lose d8 XP
+2-3|Gain nothing and lose d4 XP
+4-6|Gain a new class feat or gain a class
+7-9|Increase a skill's die or learn a new skill at d4
+10-12|Gain a feat from a different class or switch classes
+13-19|Increase an attribute's die
+20|Choose one and reroll
 
 **Example Character:**
 
@@ -356,7 +424,7 @@ That's it. Your character is ready to go.
 
 ### Tests
 
-Whenever a PC attempts to do something that they could reasonably accomplish but the outcome is uncertain, they roll a test. First, they collect dice, one or two--one from their relevant attribute and one, if any, from a relevant skill. Then they roll, counting each die's result individually.
+Whenever you attempt to do something that you could reasonably accomplish but the outcome is uncertain, roll a **test**. Collect dice: one from your relevant attribute and one, if any, from a relevant skill. Roll, counting each die's result individually.
 
 Roll|Result
 :--|:--
@@ -365,184 +433,47 @@ Roll|Result
 7-9|Hit
 10-12|Strong Hit (Hit+)
 
-Usually, if they rolled at least one hit (hit-, hit, or hit+), the test passes. The more hits above what the test required, the better the results. (Rarely, especially difficult tests might require two or more hits.)
+The test passes if you roll at least one **hit**. The more hits you get, the better the results. (Rarely, especially difficult tests might require two or more hits.)
 
-If a die is a hit-, there are unforeseen consequences. If a die is a hit+, there is an unanticipated benefit. These effects stack and do not cancel each other out.
+If a die is a **weak hit**, there are unforeseen consequences. If a die is a **strong hit**, there is an unanticipated benefit. These effects stack and do not cancel each other out.
 
-If none of the dice hit, the test fails. Optionally, the PC can accept extra trouble in exchange for passing a failed test, the trouble getting worse the more hits needed to succeed.
+If none of the dice hit, the test fails. You may choose to accept extra trouble in exchange for passing a failed test.
+
+#### Modifying Tests
+
+You may use your class's main attribute(s) in a special way: you can spend 2 HP to reroll a die, 4 HP to increase a weak hit to a hit or a hit to a strong hit, 6 HP to turn a miss into a hit, or 8 HP to add an additional hit to your roll.
 
 #### Help or Hinder
 
-When a PC is making a test, if another PC has a relevant skill, they may roll it (only the skill--not an associated attribute) and use a hit to either help or hinder that test, replacing a hit with a miss or adding the hit to the other PC's test. A hit+ or hit- on the help or hinder test causes unintended side effects for the PC helping or hindering.
+When someone else makes a test you may roll a relevant skill die and use a hit to either help or hinder them, replacing their hit with a miss or adding a hit to their test.
 
-#### Contests (ConTests--get it?! Contested Tests?! Ha, ha, ha--get it?!)
+#### Contests
 
-When two or more PCs, or one or more PCs and one or more NPCs, are acting against each other, they collect dice as normal and roll. Whoever has the most hits wins. (In a tie, hit+ beats hit beats hit-, then higher number beats lower, then bigger die beats smaller. If the result is still tied, the situation stays the same as it was before.)
+When you test against someone, you each collect dice as normal and roll. Whoever has the most hits wins. In a tie, a strong hit beats a hit beats a weak hit, higher numbers beats lower, then bigger dice beat smaller.
 
 ##### Combat
 
-Combat involves a series of turns and rounds. A round lasts long enough to make a test and traverse a room--anywhere from six to twelve seconds.
+Combat involves a series of rounds made up of turns. A round lasts long enough to make a test and traverse a room--anywhere from six to twelve seconds.
 
-First, an initiative contest decides the order of turns in the round. Then, PCs and NPCs each take their turn in order, repeating the same order in subsequent rounds until everyone is either dead, has surrendered, or has fled.
+An initiative contest decides the order of turns that PCs and NPCs each take each round. Rounds continuing until everyone is either dead, surrendered, or fled.
 
-Attacking is a contest. Whoever wins each attack contest deals their hits as health point (or HP) harm to the opponent's relevant attribute HP pool (discussed in the next section).
+Attacking is a contest. Whoever wins each attack contest deals their hits as harm.
 
 ### Health Points, Death, and Healing
 
-Each attribute has its own health point (or HP) pool that is the size of the die for that attribute (4 for a d4, 6 for a d6, etc). When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time a PC's attribute is reduced in such a way, they gain a wound--a lasting mark or sign of their struggle.
+Each attribute has a health point (or HP) pool that is the size of its die. When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
 
-When any attribute is reduced beyond a d4, roll on the death table. When an attribute is reduced beyond a d4, tests cannot be made with that attribute and it's HP pool is zero. Any additional damage done to that attribute requires another roll on the death table.
+When an attribute is reduced below d4, tests can no longer be made with it and it's HP pool is zero. Roll on the death table.
 
-**Death Table**
-
-d4|Result
+d4|Death Result
 :--|---
 1|Dead
 2|Dead in 1d6 rounds unless treated
 3|Dead in 1d4 hours unless treated
 4|Fall unconscious
 
-HP pools can be healed by succeeding on a test using the relevant attribute. Whenever players take a few moments to rest, they can make this test. When resting for a full night, such a test automatically succeeds. Returning a reduced attribute die to normal is a more involved process, requiring special care or magic.
-
-### Experience Points
-
-PCs gain experience points (or XP) whenever they play up their style, follow their motivation, or allow their flaw to put them in a tight spot. (Players should call out these moments.) Additionally, the game master (or GM) will stipulate any other specific situations or actions that will award XP, such as defeating an enemy or disarming a trap.
-
-PC's add their earned XP to their XP track. At each die number (4, 6, 8, 10, 12, and 20), they may choose to roll that die on the XP table. The further down the track, the better the options. Once a PC gains an option, their XP track resets to zero.
-
-**XP Table**
-
-Roll|Result
-:--|---
-1|Gain nothing and lose d8 XP
-2-3|Gain nothing and lose d4 XP
-4-6|Gain a new class feat*
-7-9|Increase a skill's die or learn a new skill at d4
-10-12|Gain a feat from a different class*
-13-19|Increase an attribute's die
-20|Choose one and reroll
-
-Another optional way to spend XP is for PCs to spend XP on specific advancements directly. 6 XP to gain a new class feature, 9 XP to increase a skill's die or learn a new skill at d4, 12 XP to gain a feature from a different class, and 20 XP to increase an attribute's die.
-
-*: If the PC doesn't already have a class, they may choose one at these options, provided they meet the attribute requirements. When not playing with classes, reroll on these options.
+Whenever you take about an hour to rest, you may replenish an HP pool by succeeding on a test using its attribute. When you rest for a full night, the test automatically succeeds. Returning a reduced attribute die to normal is a more involved process, requiring special care or magic.
 
 ### Example of Play
 
-//
-
-## Game Master
-
-The Game Master (or GM) facilitates the game, controlling the world and any non-player characters (or NPCs).
-
-### When is it a test and when is it a contest?
-
-If the PCs are acting against the world or something that can't act back, it's a test. If the PCs are acting against another PC, an NPC, or something else that can react to them, it's a contest.
-
-### Who rolls dice?
-
-If the GM doesn't want to roll dice, contests against NPCs are instead tests (usually requiring 1 hit, unless otherwise specified). In such a case, the possible consequences of a PC rolling a miss or a hit- allows the NPC to act against the PC. On the NPCs turn or when the NPC is acting against the PC, the PC must roll a test to defend against the attack.
-
-### Interpreting Rolls
-
-When a test passes with no hit+ or hit-, that's easy. The GM simply gives the PC what they were aiming for. But when hit+ and hit- are involved, or when the PC fails the test but chooses to accept trouble to pass it anyway, things get more complicated.
-
-Think of it this way: a hit+ is worth a hit and a half while a hit- is worth half a hit (even though it still counts as a hit for the purpose of determining if a test passes or not).
-
-#### Strong Hits and Extra Hits
-
-The easiest way to deal with a hit+ is to think of it as a hit and a half. So the thing the PC wanted comes to pass and a little extra. If the PC has more hits than they need, including the extra hit from rolling two hit+, The result should be proportionately better--twice as good with two hits when only one was needed, or three times as good if the two hits were hit+.
-
-Some ideas for what to give a PC on a hit+ (an extra half-hit):
-
-- They deal extra harm
-- They gain XP
-//
-
-Some ideas for what to give a PC with an extra hit:
-
-//
-
-#### Weak Hits and Failed Tests
-
-The easiest way to deal with a hit- is to think of it as half a hit. What complications might come about if the PC succeeds, but only half as good as they had hoped to? You can also think of a hit- as half a miss. What consequences might failing the test introduce? You could bring half of that to the table.
-
-Some ideas for when a PC rolls a hit-:
-
-- Threaten them with impending danger
-- Put them in a tight spot
-- Deal harm
-//
-
-When a PC fails a test, they can choose to accept a consequence in exchange for passing the test regardless of their roll. DMs can also offer this option to PCs without them asking for it. These consequences should be worse than a hit-. They should be at least twice as bad. They should also be worse the more hits would have been required to pass the test.
-
-Some ideas for when a PC accepts trouble to turn a failed test into a passed one:
-
-//
-
-### Pools
-
-Pools are collections of points that can be spent, reduced, replenished, etc.
-
-### Tracks
-
-Tracks range from 1 to 20. A track can be 1-4, 1-6, 1-8, 1-10, 1-12, or 1-20. Any time you hit a die value on the track, you roll that die on the track's table. Tracks can be positive, building towards something great with higher results being more favorable, or negative, building towards something terrible with higher results getting worse and worse.
-
-### Clocks
-
-Clocks are like tracks, but they don't have associated rollable tables. Instead, predetermined things happen along the way as they advanced towards their ultimate conclusion. They're also circular and have slices. (Like a pie. Maybe they should be called pies instead of clocks. Or clock pies. Or clies.)
-
-### Probabilities
-
-When rolling multiple dice and trying to get a hit on each, multiply the probabilities together: **%1d x %2d**
-
-### D4
-
-- **Miss:** 0.75
-- **At Least a Hit-:** 0.25
-
-### D6
-
-- **Miss:** 0.5
-- **At Least a Hit-:** 0.5
-
-### D8
-
-- **Miss:** 0.375
-- **At Least a Hit-** 0.625
-	- **Hit-:** 0.375
-	- **Hit:** 0.25
-
-### D10
-
-- **Miss:** 0.3
-- **At Least a Hit-:** 0.7
-	- **Hit-:** 0.3
-	- **Hit:** 0.3
-	- **Hit+:** 0.1
-
-### D12
-
-- **Miss:** 0.25
-- **At Least a Hit-:** 0.75
-	- **Hit-:** 0.25
-	- **Hit:** 0.25
-	- **Hit+:** 0.25
-
-## Appendix
-
-### Terms
-
-- **Harm:** //
-- **Clock:** //
-- **Contest:** //
-- **Hit:** //
-- **Hit-:** Weak hit, introduces complications
-- **Hit+:** Strong hit, grants extra benefits
-- **Miss:** //
-- **Point:** Each hit on a track or in a pool is called a point.
-- **Pool:** //
-- **Roll:** //
-- **Slice:** //
-- **Test:** When a PC has to roll dice it's called a test.
-- **Track:** //
-- **Wound:** //
+////
