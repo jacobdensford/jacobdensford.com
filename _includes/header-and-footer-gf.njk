@@ -1,0 +1,30 @@
+---
+layout: head-gf.njk
+---
+
+    <header>
+
+      <h1 class="p-name" id="top"><a href="{{ sitelink }}">{{ sitetitle }}</a></h1>
+
+      <hr/>
+
+      <nav>
+
+        <ul>
+          <li><a href="#player-characters">Player Characters</a></li>
+          <li><a href="#playing">Playing the Game</a></li>
+        </ul>
+
+      </nav>
+
+      <hr/>
+
+    </header>
+
+    {{ content | safe }}
+
+    <footer>
+
+      <h1><a href="#top">{{ letter }}</a></h1>
+
+    </footer>

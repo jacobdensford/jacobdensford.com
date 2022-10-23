@@ -30,6 +30,6 @@ subtitle:
 
 [Empire & Flame](/empire-flame) is a setting, series of adventures, and some homebrewed mechanics for Dungeons & Dragons.
 
-### Status
+## Status
 
 I'm currently running this campaign. The [Empire & Flame](/empire-flame) page will be updated weekly is I prepare more for the active game.
