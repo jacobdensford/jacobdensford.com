@@ -1,7 +1,7 @@
 ---
 title: New TRPG
 url: /projects/new-trpg/
-date: 2022-10-22
+date: 2022-10-23
 tags:
   - projects
   - games
@@ -22,7 +22,7 @@ You have a **name**, **style**, **class** or **background**, **motivation**, and
 
 ### Character Description
 
-Roll, choose, or write your own name, style, motivation, flaw, pronoun and looks.
+Roll, choose, or write your own name, style, motivation, flaw, pronouns and looks.
 
 d12|Name
 :--|:--
@@ -120,7 +120,7 @@ You have a health point (or HP) pool for each attribute consisting of as many po
 
 ### Classes
 
-There are six classes, each specializing in one or two of the three attributes.
+There are six classes, each specializing in one or more attributes.
 
 Choose one of the six classes. You must have at least a d8 in the class's main attribute(s). Gain one of your class's feats.
 
@@ -130,14 +130,13 @@ If none of your attributes are high enough, skip this section and gain a backgro
 
 #### Fighter
 
-The fighter's main attribute is body.
+As a fighter, your main attribute is body.
 
 ##### Fighter Feats
 
-- **Protect:** Take the BOD HP harm that someone nearby would have taken instead of them.
-- **Berserk:** When the warrior passes a test with a weapon and deals harm, they may make additional tests with a weapon until they fail.
-- //
-- //
+- **Protect:** Take the BOD harm that someone nearby would have taken instead of them.
+- **Berserk:** When you hit with a weapon and deal harm, you may make additional tests with a weapon until you fail.
+- **Precise Strike** When you hit with a weapon and deal harm, you may turn strong hits into double harm.
 
 #### Thief
 
@@ -145,10 +144,9 @@ The thief's main attribute is intellect.
 
 ##### Thief Feats
 
-- **Sneak Attack:** Deal double HP harm when attacking an enemy who is engaged with someone else or who is unaware of your presence.
-- **Retry** Spend 2 INT HP in order to reroll skill dice.
+- **Sneak Attack:** Deal double harm when attacking an enemy who is engaged with someone else or who is unaware of your presence.
+- **Expertise** Spend 2 INT HP in order to reroll skill dice.
 - **Jack of all Trades:** Spend 2 INT HP to roll a d4 with any skill.
-- //
 
 #### Sage
 
@@ -176,38 +174,45 @@ The warrior poet's main attributes are body and intellect.
 
 The warrior poet may gain fighter or thief feats.
 
-### Magic
+### Spellcasting
 
-Each spell costs a number of WIL HP. Generally, a spell's effects increase the more HP is spent.
+Each spell costs a WIL HP and effects one target unless otherwise noted. A spell's effects double by doubling the HP spent.
 
-Spell Name|Effect|Cost
-:--|---|--:
-Divination|Roll 1 WIL test, replace result of any other test by anyone during the next day|2
-Fireball|2 BOD HP harm to 3 adjacent targets|2
-//
+Spell Name|Cost
+:--|:--
+darkness|1
+detect magic|1
+feather fall|1
+fireball (2 harm to 3 adjacent targets)|3
+illusion (effects 1 sense)|1
+invisibility|1
+levitate|1
+light|1
+magic missile (2 harm, 1 target)|1
+mending|1
+misty step|1
+
 
 ### Backgrounds
 
 If you don't have a class, you instead gain a background. Roll, choose, or write your own background and gain an associated skill at d4.
 
-1d12|Background|Skill
+1d10|Background|Skill
 :--|---|---
-1|Etc|Etc//
-2|Etc|Etc//
-3|Etc|Etc//
-4|Etc|Etc//
-5|Etc|Etc//
-6|Etc|Etc//
-7|Etc|Etc//
-8|Etc|Etc//
-9|Etc|Etc//
-10|Etc|Etc//
-11|Etc|Etc//
-12|Etc|Etc//
+1|farmer|athletics
+2|blacksmith|defense
+3|priest|discernment
+4|scholar|lore
+5|soldier|melee
+6|bard|performance
+7|politician|persuasion
+8|hunter|ranged
+9|cutpurse|skullduggery
+10|tracker|survival
 
 ### Skills
 
-There are twelve skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8. A skill's value ranges from d4 to d12 once it is known.
+There are ten skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8. A skill's value ranges from d4 to d12 once it is known.
 
 d8|Skill Die
 :--|:--
@@ -215,49 +220,35 @@ d8|Skill Die
 5-6|d6
 7-8|d8
 
-d12|Skill
+d10|Skill
 :--|:--
-1|Close Quarters Combat
-2|Defense
-3|Perception
-4|Ranged Combat
-5|Skullduggery
-6|Stealth
-7|Persuasion
-8|Spellcasting
-9|Etc//
-10|Etc//
-11|Etc//
-12|Etc//
+1|athletics
+2|defense
+3|discernment
+4|lore
+5|melee
+6|performance
+7|persuasion
+8|ranged
+9|skullduggery
+10|survival
 
-**Example character:** *Jane rolled and put her d4 in Skullduggery, d6 in Ranged Combat, and d8 in Perception.*
+**Example character:** *Jane rolled and put her d4 in skullduggery, d6 in ranged, and d8 in discernment.*
 
 ### Equipment
 
-You have 4+BOD **equipment slots**. Roll or choose an equipment package from your class. Alternatively, spend 100 silver pieces (or SP) on the tables below. Items use one slot unless otherwise noted.
+You have 4+BOD **equipment slots**. Gain your class's equipment package or spend 100 silver pieces (or SP) on the tables below. Items use one slot unless otherwise noted.
 
-1d4|Fighter, Battle Mage, and Warrior Poet Equipment
+Class|Equipment
 :--|---
-1|Etc//
-2|Etc//
-3|Etc//
-4|Etc//
+Fighter|light armor(2 AP, 2 slots), shield (1 AP), longsword (2 harm)
+Thief|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20), lockpicks, 10 SP
+Sage|staff (1 harm), lantern, lantern oil (4 hours), chalk, 82 SP
+Battle Mage|light armor(2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 SP
+Arcane Trickster|light (2 AP, 2 slots), longbow (2 harm), arrows (20 uses)
+Warrior Poet|shield (1 AP), greatsword (3 harm, 2 slots), bedroll, 31 SP
 
-1d4|Thief, Arcane Trickster, and Warrior Poet Equipment
-:--|---
-1|Etc//
-2|Etc//
-3|Etc//
-4|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20)
-
-1d4|Sage, Battle Mage, and Arcane Trickster Equipment
-:--|---
-1|Etc//
-2|Etc//
-3|Etc//
-4|Etc//
-
-**Example character:** *Jane rolls the fourth thief equipment pack, gaining light armor, a dagger, and a shortbow with arrows.*
+**Example character:** *Jane takes the thief's equipment package, gaining light armor, a dagger, a shortbow with arrows, lockpicks, and 10 SP.*
 
 #### Equipment
 
@@ -272,7 +263,6 @@ grappling hook|12
 lantern|7
 lantern oil (4 hours)|5
 lockpicks|5
-role (30 feet)|4
 tent|12s
 torch|2
 travel rations (5 days)|10
@@ -341,11 +331,11 @@ Roll|XP Result
 
 *BOD: d6 -- 6/6 HP (2/2 AP) | INT: d8 -- 8/8 HP | WIL: d4 -- 4/4 HP*
 
-*Perception: d8, Ranged Combat: d6, Skullduggery: d4*
+*Discernment: d8, Ranged: d6, Skullduggery: d4*
 
 *Sneak Attack: Deal double HP when attacking an enemy who is engaged with someone else or who is unaware of your presence*
 
-*Equipment (5/10 slots): light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20), a cracked porcelain doll, 15 SP*
+*Equipment (5/10 slots): light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 SP*
 
 *XP: 0 (roll on 4, 6, 8, 10, 12, and 20)*
 
