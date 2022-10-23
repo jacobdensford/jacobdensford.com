@@ -148,25 +148,25 @@ As a sage, your main attribute is willpower.
 
 ##### Sage Feats
 
-- **Spellcasting:** Gain the ability to cast spells and gain one spell--whenever taking the "gain feat" option from the XP table, instead gain another spell
+- **Spellcasting:** Gain the ability to cast spells and gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead
 
 #### Battle Mage
 
 As a battle mage, your main attributes are body and willpower.
 
-You may gain warrior or sage feats.
+You may gain warrior and sage feats.
 
 #### Arcane Trickster
 
 As an arcane trickster, your main attributes are intellect and willpower.
 
-You may gain thief or mage feats.
+You may gain thief and mage feats.
 
 #### Warrior Poet
 
 As a warrior poet, your main attributes are body and intellect.
 
-You may gain fighter or thief feats.
+You may gain fighter and thief feats.
 
 ### Spellcasting
 
@@ -192,7 +192,7 @@ misty step|1
 If you don't have a class, you instead gain a background. Roll, choose, or write your own background and gain an associated skill at d4.
 
 1d10|Background|Skill
-:--|:--|--:
+:--|:--|:--
 1|farmer|athletics
 2|blacksmith|defense
 3|priest|discernment
