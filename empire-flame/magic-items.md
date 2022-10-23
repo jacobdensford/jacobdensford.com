@@ -135,25 +135,19 @@ Mist bellows around this grey cloak, lightly obscuring those who wear it. When w
 
 A fine robe, exquisite in every stitch. It changes to the color of whatever its wearer desires. The robe does not decay with age. Anything stored within the robe gains that same property. If the robe is ever damaged or dirtied, it is once again clean and mended by the next dawn. Any items stored within the robe are also mended, as if the *mending* spell was cast on them.
 
-### Eye of the Aboleth
+### Rings of the Aboleth
 
-*Wondrous item, very rare (requires attunement by a spellcaster)*
+*Wondrous item, rare (requires attunement by a spellcaster)*
 
-A slick, palm-sized eyeball that squirms and looks this way and that.
+These inky black rings are slimy and cold to the touch.
 
-At dawn, the eye gains charges equal to your proficiency bonus. As an action, you can expend a charge to cast *sending* or *charm person* (using the caster's spell save DC). The eye can act as a spellcasting focus.
+Ring 1: As an action, touch or make a melee attack against a charmed creature, deal 3d6 psychic damage, and gain that number of temporary hit points. HP gained in this way dissipates at dawn.
 
-**Curse:** Each time you use this eye, make a WIS save that starts with a DC 10 and increases by one each time the eye is used. If the save is ever failed, the barer is charmed by the Abolith for 1d12x2 hours.
+Ring 2: At dawn, the ring gains charges equal to your proficiency bonus. As an action, you can expend a charge to cast *charm person* (using the caster's spell save DC).
 
-### Ring of the Aboleth
+Ring 3: At dawn, the ring gains charges equal to your proficiency bonus. As an action, you can expend a charge to cast *sending*.
 
-*Wondrous item, very rare (requires attunement)*
-
-This inky black ring is slimy and cold to the touch.
-
-As an action, touch or make a melee attack against a charmed creature, deal 3d6 psychic damage, and gain that number of temporary hit points. HP gained in this way dissipates at dawn.
-
-**Curse:** Each time you use this eye, make a WIS save that starts with a DC 10 and increases by one each time the eye is used. If the save is ever failed, the finger which bears the ring falls off and transforms into a tiny Aboleth that grows by one size each hour until it is full size.
+**Curse:** Each dawn, make a DC 10 Wisdom saving throw. Failing the save causes the finger which bears the ring to fall off and transform into a tiny Aboleth that doubles in size each hour until it is full size. Once worn, these rings can not be removed without dispelling their curse.
 
 ### Vainglorious Boots
 

@@ -259,6 +259,6 @@ Once on the water, the Aboleth pried at their minds, but all resisted. In the mi
 
 ### Chapter 10:
 
-**Yonday, the 18th of Falling, in the 371st year of the Alliance**
+**Minalday, the 19th of Falling, in the 371st year of the Alliance**
 
 <h2 id="part3">Part III: Cataclysm</h2>
