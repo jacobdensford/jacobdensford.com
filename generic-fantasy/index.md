@@ -1,20 +1,14 @@
 ---
-title: New TRPG
-url: /projects/new-trpg/
-date: 2022-10-23
-tags:
-  - projects
-  - games
-  - tabletop
-layout: ppp.njk
-subtitle: Very much a work in progress.
+layout: main-gf.njk
+title: 'Home'
+link: '/generic-fantasy'
 ---
 
-![A rough character sheet design with some dice sitting on it.](/images/newtrpg.jpg)
+![A rough character sheet design in a gridded notebook with some dice and a pencil sitting on it.](/images/generic-fantasy.jpg)
 
-Here are the rules for a new tabletop roleplaying game I'm working on. They're incomplete but playable. They're also incredibly generic right now. Eventually, once I settle on a default setting, I will rework some of the mechanics and the classes to more closely reflect that decision. Consider these rules a "minimum viable product". I'd call this a version 0.1.
+Generic Fantasy is a tabletop roleplaying game. It is a minimum viable product to test designs and mechanics.
 
-## Player Characters
+<h2 id="player-characters">Player Characters</h2>
 
 You are an adventurer in a world full of magic and danger.
 
@@ -77,7 +71,7 @@ d4|Pronouns
 1|they/them
 2|she/her
 3|he/him
-4|other/prefer not to say
+4|they/her or him
 
 d20|Looks
 :--|:--
@@ -126,7 +120,7 @@ Choose one of the six classes. You must have at least a d8 in the class's main a
 
 If none of your attributes are high enough, skip this section and gain a background instead.
 
-**Example character:** *Jane takes the Thief class, since she rolled a d8 for her INT. From her class, she chooses* sneak attack.
+**Example character:** *Jane takes the thief class, since she rolled a d8 for her INT. From her class, she chooses* sneak attack.
 
 #### Fighter
 
@@ -134,52 +128,53 @@ As a fighter, your main attribute is body.
 
 ##### Fighter Feats
 
-- **Protect:** Take the BOD harm that someone nearby would have taken instead of them.
-- **Berserk:** When you hit with a weapon and deal harm, you may make additional tests with a weapon until you fail.
-- **Precise Strike** When you hit with a weapon and deal harm, you may turn strong hits into double harm.
+- **Protect:** Take the BOD harm that someone nearby would have taken instead of them
+- **Berserk:** When you hit with a weapon and deal harm, you may make additional tests with a weapon until you fail
+- **Precise Strike** When you hit with a weapon and deal harm, you may turn strong hits into double harm
 
 #### Thief
 
-The thief's main attribute is intellect.
+As a thief, your main attribute is intellect.
 
 ##### Thief Feats
 
-- **Sneak Attack:** Deal double harm when attacking an enemy who is engaged with someone else or who is unaware of your presence.
-- **Expertise** Spend 2 INT HP in order to reroll skill dice.
-- **Jack of all Trades:** Spend 2 INT HP to roll a d4 with any skill.
+- **Sneak Attack:** Deal double harm when attacking an enemy who is engaged with someone else or who is unaware of your presence
+- **Expertise** Spend 2 INT HP in order to reroll skill dice
+- **Jack of all Trades:** Spend 2 INT HP to roll a d4 with any skill
 
 #### Sage
 
-The sage's main attribute is willpower.
+As a sage, your main attribute is willpower.
 
 ##### Sage Feats
 
-- **Spellcasting:** Gain the ability to cast spells and gain one spell. Whenever taking the "gain feat" option from the XP table, instead gain another spell.
+- **Spellcasting:** Gain the ability to cast spells and gain one spell--whenever taking the "gain feat" option from the XP table, instead gain another spell
 
 #### Battle Mage
 
-The battle mage's main attributes are body and willpower.
+As a battle mage, your main attributes are body and willpower.
 
-The battle mage may gain warrior or sage feats.
+You may gain warrior or sage feats.
 
 #### Arcane Trickster
 
-The arcane trickster's main attributes are intellect and willpower.
+As an arcane trickster, your main attributes are intellect and willpower.
 
-The arcane trickster may gain thief or mage feats.
+You may gain thief or mage feats.
 
 #### Warrior Poet
 
-The warrior poet's main attributes are body and intellect.
+As a warrior poet, your main attributes are body and intellect.
 
-The warrior poet may gain fighter or thief feats.
+You may gain fighter or thief feats.
 
 ### Spellcasting
 
-Each spell costs a WIL HP and effects one target unless otherwise noted. A spell's effects double by doubling the HP spent.
+Each spell costs WIL HP and effects one target unless otherwise noted. A spell's effects double by doubling the HP spent.
 
 Spell Name|Cost
-:--|:--
+:--|--:
+counterspell|2
 darkness|1
 detect magic|1
 feather fall|1
@@ -192,13 +187,12 @@ magic missile (2 harm, 1 target)|1
 mending|1
 misty step|1
 
-
 ### Backgrounds
 
 If you don't have a class, you instead gain a background. Roll, choose, or write your own background and gain an associated skill at d4.
 
 1d10|Background|Skill
-:--|---|---
+:--|:--|--:
 1|farmer|athletics
 2|blacksmith|defense
 3|priest|discernment
@@ -253,7 +247,7 @@ Warrior Poet|shield (1 AP), greatsword (3 harm, 2 slots), bedroll, 31 SP
 #### Equipment
 
 Equipment|Cost
-:--|---|--:
+:--|:--
 bedroll|4
 calrops (1 harm)|7
 chalk|1
@@ -333,13 +327,13 @@ Roll|XP Result
 
 *Discernment: d8, Ranged: d6, Skullduggery: d4*
 
-*Sneak Attack: Deal double HP when attacking an enemy who is engaged with someone else or who is unaware of your presence*
+*Sneak Attack: Deal double harm when attacking an enemy who is engaged with someone else or who is unaware of your presence*
 
 *Equipment (5/10 slots): light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 SP*
 
 *XP: 0 (roll on 4, 6, 8, 10, 12, and 20)*
 
-## Playing the Game
+<h2 id="playing">Playing the Game</h2>
 
 ### Tests
 

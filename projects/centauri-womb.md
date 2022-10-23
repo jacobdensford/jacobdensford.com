@@ -13,6 +13,6 @@ A freelance spaceship captain on the verge of losing everything embarks on a mis
 
 Centauri Womb will be a science fiction novel.
 
-### Status
+## Status
 
 I’m about two thirds of the way through the second draft. Trying really hard to finish by the end of the year, but we’ll see.

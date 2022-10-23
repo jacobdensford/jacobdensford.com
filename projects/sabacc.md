@@ -14,6 +14,6 @@ Sabacc has been called the greatest card game in the galaxy. True or not, it's a
 
 I've compiled and clarified all the versions of [sabacc](/sabacc) I could find.
 
-### Status
+## Status
 
 I might dable with it and refine it from time to time, but this is more or less done. I'd call it version 0.9. Well, I do still need to add the new game introduced for the Galactic Star Cruiser. But I don't know when I'll ever get around to it.
