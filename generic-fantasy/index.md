@@ -238,7 +238,7 @@ You have 4+BOD **equipment slots**. Gain an equipment package or spend 100 silve
 
 Class|Equipment
 :--|---
-Fighter|light armor(2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 SP
+Fighter|light armor (2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 SP
 Thief|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20), lockpicks, 10 SP
 Sage|staff (1 harm), lantern, lantern oil (4 hours), chalk, 80 SP
 Battle Mage|light armor(2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 SP
@@ -260,6 +260,7 @@ grappling hook|12
 lantern|7
 lantern oil (4 hours)|5
 lockpicks|5
+rope (50 feet)|6
 tent|12s
 torch|2
 travel rations (5 days)|10
@@ -371,7 +372,7 @@ When you test against someone, you each collect dice as normal and roll. Whoever
 
 Combat involves a series of rounds made up of turns. A round lasts long enough to make a test and traverse a room--about six seconds.
 
-An initiative contest decides the order of turns in a round. Rounds continuing until everyone has either surrendered, fled, or died.
+An initiative contest decides the order of turns in a round. Rounds continue until everyone has either surrendered, fled, or died.
 
 Attacking is a contest. Whoever wins each attack contest deals their hits as harm.
 
@@ -379,7 +380,7 @@ Attacking is a contest. Whoever wins each attack contest deals their hits as har
 
 Each attribute has a health point (or HP) pool that is the size of its die. When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
 
-When an attribute is reduced below d4, tests can no longer be made with it and it's HP pool is zero. Roll on the death table.
+When an attribute is reduced below d4, tests can no longer be made with it and its HP pool is zero. Roll on the death table.
 
 d4|Death Result
 :--|---
