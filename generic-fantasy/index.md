@@ -6,7 +6,14 @@ link: '/generic-fantasy'
 
 ![A rough character sheet design in a gridded notebook with some dice and a pencil sitting on it.](/images/generic-fantasy.jpg)
 
-Generic Fantasy is a tabletop roleplaying game. It is a minimum viable product to test designs and mechanics. This is version 0.1.
+**v0.1**
+
+Generic Fantasy (working title) is a tabletop roleplaying game for one facilitator and at least one other player. Players act as adventurers and heroes exploring a dangerous and magical world. The facilitator plays that world.
+
+This game was written with the following design philosophies in mind:
+
+- **Rullings over rules**
+- **Fiction over mechanics**
 
 <h2 id="player-characters">Creating a Character</h2>
 
@@ -310,7 +317,7 @@ heavy (4 AP, 4 slots)|200
 
 ### Character Advancement
 
-You gain **experience points** (or XP) whenever you allow your style, motivation, or flaw to put you in a tight spot. The game master (or GM) may stipulate other situations that will award XP.
+You gain **experience points** (or XP) whenever you allow your style, motivation, or flaw to put you in a tight spot.
 
 Add your earned XP to your XP track. At each die number (4, 6, 8, 10, 12, and 20), you may roll that die on the XP table and reduce your XP to the next die down.
 
@@ -391,3 +398,11 @@ d4|Death Result
 4|Dead in 1d8 days unless treated
 
 Whenever you take about an hour to rest and eat or drink, you may replenish an HP pool by succeeding on a test using its attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced attribute die to normal is a more involved process, requiring special care or magic.
+
+<footer>
+
+</hr>
+
+Written by Jacob Densford. Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+</footer>
