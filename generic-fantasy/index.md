@@ -12,7 +12,7 @@ Generic Fantasy is a tabletop roleplaying game. It is a minimum viable product t
 
 You are an adventurer in a world full of magic and danger.
 
-You have a **name**, **style**, **class** or **background**, **motivation**, and **flaw**. You have preferred **pronouns** and a few distinct **looks**. You also have three **attributes**, a number of **skills**, and some **equipment**.
+You have a **name**, **style**, **class** or **background**, **motivation**, **flaw**, and a few distinct **looks**. You also have three **attributes**, a number of **skills**, and some **equipment**.
 
 ### Character Description
 
@@ -66,13 +66,6 @@ d6|Flaw
 5|is on the run because of a crime they didn't commit
 6|can't stand being alone even for a second
 
-d4|Pronouns
-:--|:--
-1|they/them
-2|she/her
-3|he/him
-4|they/her or him
-
 d20|Looks
 :--|:--
 1|messy hair
@@ -100,7 +93,13 @@ d20|Looks
 
 ### Attributes
 
-You have three attributes: **body** (BOD), **intellect** (INT), and **willpower** (WIL). Roll on the following table for each attribute and assign dice. Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8. An attribute's value ranges from d4 to d12.
+You have three attributes:
+
+- **Body (BOD):** Constitution, grit, reflexes, strength, etc
+- **Intellect (INT):** Aim, cunning, intelligence, perception, etc
+- **Willpower (WIL):** Force of will, leadership, magical potential, persuasion, etc
+
+Roll on the following table for each attribute and assign dice. Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8. An attribute's value ranges from d4 to d12.
 
 d8|Attribute Die
 :--|:--
@@ -128,9 +127,9 @@ As a fighter, your main attribute is body.
 
 ##### Fighter Feats
 
-- **Protect:** Take the BOD harm that someone nearby would have taken instead of them
 - **Berserk:** When you hit and deal harm, you may make additional tests to deal harm until you fail
 - **Precise Strike** When you hit and deal harm, you may turn strong hits into double harm
+- **Protect:** Take the BOD harm that someone nearby would have taken instead of them
 
 #### Thief
 
@@ -138,9 +137,9 @@ As a thief, your main attribute is intellect.
 
 ##### Thief Feats
 
-- **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, deal double harm
-- **Expertise** Spend 2 INT HP in order to reroll skill dice
+- **Expertise:** Spend 2 INT HP in order to reroll skill dice
 - **Jack of all Trades:** Spend 2 INT HP to roll a d4 with any skill
+- **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, deal double harm
 
 #### Sage
 
@@ -148,7 +147,9 @@ As a sage, your main attribute is willpower.
 
 ##### Sage Feats
 
+- **Counterspell:** WIL contest to prevent someone from casting a spell
 - **Spellcasting:** Gain the ability to cast spells and gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead
+- **Spellshield:** Take harm to WIL instead of BOD or INT
 
 #### Battle Mage
 
@@ -170,15 +171,15 @@ You may gain fighter and thief feats.
 
 ### Spellcasting
 
-Each spell costs WIL HP and effects one target unless otherwise noted. A spell's effects double by doubling the HP spent.
+Each spell costs WIL HP and effects one target unless otherwise noted. If a spell is aimed at an unwilling target, they may force a contest to half the effects. A spell's effects double by doubling the HP spent.
 
 Spell Name|Cost
 :--|--:
-counterspell|2
 darkness|1
 detect magic|1
 feather fall|1
 fireball (2 harm, 3 adjacent targets)|3
+heal (+2 BOD HP)|1
 illusion (1 sense)|1
 invisibility|2
 levitate|2
@@ -241,8 +242,8 @@ Class|Equipment
 Fighter|light armor (2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 SP
 Thief|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20), lockpicks, 10 SP
 Sage|staff (1 harm), lantern, lantern oil (4 hours), chalk, 80 SP
-Battle Mage|light armor(2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 SP
-Arcane Trickster|light (2 AP, 2 slots), longbow (2 harm), arrows (20 uses), 5 SP
+Battle Mage|light armor (2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 SP
+Arcane Trickster|light armor (2 AP, 2 slots), longbow (2 harm), arrows (20 uses), 5 SP
 Warrior Poet|shield (1 AP), greatsword (3 harm, 2 slots), bedroll, 30 SP
 
 **Example character:** *Jane takes the thief's equipment package, gaining light armor, a dagger, a shortbow with arrows, lockpicks, and 10 SP.*
@@ -261,7 +262,7 @@ lantern|7
 lantern oil (4 hours)|5
 lockpicks|5
 rope (50 feet)|6
-tent|12s
+tent|12
 torch|2
 travel rations (5 days)|10
 waterskin (5 days)|5
@@ -327,7 +328,7 @@ Roll|XP Result
 
 *Jane is a charming thief with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time.*
 
-*BOD: d6 -- 6/6 HP (2/2 AP) | INT: d8 -- 8/8 HP | WIL: d4 -- 4/4 HP*
+*BOD: d6 -- 6/6 HP (2/2 AP) | ^INT^: d8 -- 8/8 HP | WIL: d4 -- 4/4 HP*
 
 *Discernment: d8, Ranged: d6, Skullduggery: d4*
 
@@ -358,7 +359,7 @@ If none of the dice hit, the test fails. You may choose to accept extra trouble 
 
 #### Modifying Tests
 
-You may use your class's main attribute(s) in a special way: you may spend 2 HP to reroll a die, 4 HP to increase a weak hit to a hit or a hit to a strong hit, 6 HP to turn a miss into a hit, or 8 HP to add an additional hit to your roll.
+You may use your class's main attribute(s) in a special way: you may spend 2 HP to increase a weak hit to a hit or a hit to a strong hit, 4 HP to turn a miss into a hit, or 6 HP to add an additional hit to your roll.
 
 #### Help
 
