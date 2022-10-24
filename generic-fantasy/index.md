@@ -10,7 +10,7 @@ link: '/generic-fantasy'
 
 Generic Fantasy (working title) is a tabletop roleplaying game for one facilitator and at least one other player. Players act as adventurers and heroes exploring a dangerous and magical world. The facilitator plays that world.
 
-This game was written with the following design philosophies in mind:
+This game was written with the following principles in mind:
 
 - **Rullings over rules**
 - **Fiction over mechanics**
@@ -242,18 +242,18 @@ d10|Skill
 
 ### Equipment
 
-You have 4+BOD **equipment slots**. Gain an equipment package or spend 100 silver pieces (or SP) on the tables below. Items use one slot unless otherwise noted.
+You have 4+BOD **equipment slots**. Gain an equipment package or spend 100 coin on the tables below. Items use one slot unless otherwise noted.
 
 Class|Equipment
 :--|---
-Fighter|light armor (2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 SP
-Thief|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20), lockpicks, 10 SP
-Sage|staff (1 harm), lantern, lantern oil (4 hours), chalk, 80 SP
-Battle Mage|light armor (2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 SP
-Arcane Trickster|light armor (2 AP, 2 slots), longbow (2 harm), arrows (20 uses), 5 SP
-Warrior Poet|shield (1 AP), greatsword (3 harm, 2 slots), bedroll, 30 SP
+Fighter|light armor (2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 coin
+Thief|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20), lockpicks, 10 coin
+Sage|staff (1 harm), lantern, lantern oil (4 hours), chalk, 80 coin
+Battle Mage|light armor (2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 coin
+Arcane Trickster|light armor (2 AP, 2 slots), longbow (2 harm), arrows (20 uses), 5 coin
+Warrior Poet|shield (1 AP), greatsword (3 harm, 2 slots), bedroll, 30 coin
 
-**Example character:** *Jane takes the thief's equipment package, gaining light armor, a dagger, a shortbow with arrows, lockpicks, and 10 SP.*
+**Example character:** *Jane takes the thief's equipment package, gaining light armor, a dagger, a shortbow with arrows, lockpicks, and 10 coin.*
 
 #### Equipment
 
@@ -341,7 +341,7 @@ Roll|XP Result
 
 *Sneak Attack: Deal double harm when attacking an enemy who is engaged with someone else or who is unaware of your presence*
 
-*Equipment (5/10 slots): light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 SP*
+*Equipment (5/10 slots): light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 coin*
 
 *XP: 0 (roll on 4, 6, 8, 10, 12, and 20)*
 
@@ -397,12 +397,12 @@ d4|Death Result
 3|Dead in 1d6 hours unless treated
 4|Dead in 1d8 days unless treated
 
-Whenever you take about an hour to rest and eat or drink, you may replenish an HP pool by succeeding on a test using its attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced attribute die to normal is a more involved process, requiring special care or magic.
+Whenever you take about an hour to rest and eat or drink, you may replenish an HP pool by succeeding on a test using its attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced attribute die to normal requires a week of comfortable rest with adequate food and drink.
 
 <footer>
 
-</hr>
+<hr/>
 
-Written by Jacob Densford. Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Written by [Jacob Densford](https://jacobdensford.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 </footer>
