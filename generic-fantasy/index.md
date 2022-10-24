@@ -19,7 +19,7 @@ This game was written with the following principles in mind:
 
 You are an adventurer in a world full of magic and danger.
 
-You have a **name**, **style**, **class** or **background**, **motivation**, **flaw**, and a few distinct **traits**. You also have three **attributes**, a number of **skills**, and some **equipment**.
+You have a **name**, **style**, **motivation**, **flaw**, and **traits**. You also have **attributes**, a **class** or **background**, **feats**, **skills**, and **equipment**. You improve with **experience points**.
 
 ### Character Description
 
@@ -73,7 +73,7 @@ d6|Flaw
 5|is on the run because of a crime they didn't commit
 6|can't stand being alone even for a second
 
-d20|Traits
+d20|Trait
 :--|:--
 1|messy hair
 2|windburnt skin
@@ -130,7 +130,7 @@ If none of your attributes are high enough, skip this section and gain a backgro
 
 #### Fighter
 
-As a fighter, your main attribute is body.
+As a fighter, your main attribute is BOD.
 
 ##### Fighter Feats
 
@@ -140,7 +140,7 @@ As a fighter, your main attribute is body.
 
 #### Thief
 
-As a thief, your main attribute is intellect.
+As a thief, your main attribute is INT.
 
 ##### Thief Feats
 
@@ -150,7 +150,7 @@ As a thief, your main attribute is intellect.
 
 #### Sage
 
-As a sage, your main attribute is willpower.
+As a sage, your main attribute is WIL.
 
 ##### Sage Feats
 
@@ -160,27 +160,27 @@ As a sage, your main attribute is willpower.
 
 #### Battle Mage
 
-As a battle mage, your main attributes are body and willpower.
+As a battle mage, your main attributes are BOD and WIL.
 
 You may gain warrior and sage feats.
 
 #### Arcane Trickster
 
-As an arcane trickster, your main attributes are intellect and willpower.
+As an arcane trickster, your main attributes are INT and WIL.
 
 You may gain thief and mage feats.
 
 #### Warrior Poet
 
-As a warrior poet, your main attributes are body and intellect.
+As a warrior poet, your main attributes are BOD and INT.
 
 You may gain fighter and thief feats.
 
 ### Spellcasting
 
-Each spell costs willpower points. If a spell is aimed at an unwilling target, they may force a contest to half the effects. A spell's effects double by doubling the points spent.
+Each spell costs WIL. If a spell is aimed at an unwilling target, they may force a contest to half the effects. A spell's effects double by doubling the points spent.
 
-Spell Name|Cost
+Spell|Cost
 :--|--:
 darkness|1
 detect magic|1
@@ -202,7 +202,7 @@ stupefy (2 INT harm)|2
 
 If you don't have a class, you instead gain a background. Roll, choose, or write your own background and gain an associated skill at d4.
 
-1d10|Background|Skill
+d10|Background|Skill
 :--|:--|:--
 1|farmer|athletics
 2|blacksmith|defense
@@ -242,9 +242,13 @@ d10|Skill
 
 ### Equipment
 
-You have 4+BOD **equipment slots**. Gain an equipment package or spend 100 coin on the tables below. Items use one slot unless otherwise noted.
+You have 4+BOD equipment slots. Gain an equipment package or spend 100 coin on the tables below.
 
-Class|Equipment
+Unless otherwise noted, items use one slot and harm is dealt to BOD.
+
+Armor grants armor points (or AP). Instead of taking harm to your BOD, you may choose to take it to your AP. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
+
+Class|Equipment Package
 :--|---
 Fighter|light armor (2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 coin
 Thief|light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 coin
@@ -252,10 +256,6 @@ Sage|staff (1 harm), lantern, lantern oil (4 hours), chalk, 80 coin
 Battle Mage|light armor (2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 coin
 Arcane Trickster|light armor (2 AP, 2 slots), longbow (2 harm), arrows (20 uses), 5 coin
 Warrior Poet|shield (1 AP), greatsword (3 harm, 2 slots), bedroll, 30 coin
-
-**Example character:** *Jane takes the thief's equipment package, gaining light armor, a dagger, a shortbow with arrows, lockpicks, and 10 coin.*
-
-#### Equipment
 
 Equipment|Cost
 :--|:--
@@ -274,18 +274,12 @@ torch|2
 travel rations (5 days)|10
 waterskin (5 days)|5
 
-#### Services
-
 Service|Cost
 :--|:--
 good meal|2
 pint of ale|1
 repair armor (1 AP)|15
 warm bed|3
-
-#### Weapons and Armor
-
-Weapons deal hits as harm to BOD unless otherwise noted.
 
 Weapon|Cost
 :--|:--
@@ -306,8 +300,6 @@ shortbow (1 harm)|15
 staff (1 harm)|5
 warhammer (2 harm)|30
 
-Armor grants armor points (or AP). Instead of taking harm to your BOD, you may choose to take it to your AP. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
-
 Armor|Cost
 :--|:--
 shield (1 AP)|20
@@ -315,9 +307,11 @@ light (2 AP, 2 slots)|50
 medium (3 AP, 3 slots)|100
 heavy (4 AP, 4 slots)|200
 
+**Example character:** *Jane takes the thief's equipment package, gaining light armor, a dagger, a shortbow with arrows, lockpicks, and 10 coin.*
+
 ### Character Advancement
 
-You gain **experience points** (or XP) whenever you allow your style, motivation, or flaw to put you in a tight spot.
+You gain experience points (or XP) whenever you allow your style, motivation, or flaw to put you in a tight spot.
 
 Add your earned XP to your XP track. At each die number (4, 6, 8, 10, 12, and 20), you may roll that die on the XP table and reduce your XP to the next die down.
 
@@ -354,39 +348,41 @@ Whenever you attempt to do something that you could reasonably accomplish but th
 Roll|Result
 :--|:--
 1-3|Miss
-4-6|Weak Hit (Hit-)
+4-6|Weak Hit
 7-9|Hit
-10-12|Strong Hit (Hit+)
+10-12|Strong Hit
 
-The test passes if you roll at least one **hit**. (Rarely, especially difficult tests might require two or more hits.)
+The test passes if you roll at least one **hit** of any kind. (Rarely, especially difficult tests might require two or more hits.)
 
-If a die is a **weak hit**, there is an unforeseen consequence. If a die is a **strong hit**, there is an unanticipated benefit.
+If a die is a **weak hit**, there is also an unforeseen consequence. If a die is a **strong hit**, there is also an unanticipated benefit.
 
 If none of the dice hit, the test fails. You may choose to accept extra trouble in exchange for passing a failed test.
-
-#### Modifying Tests
-
-You may use your class's main attribute(s) in a special way: you may spend 2 PP to increase a weak hit to a hit or a hit to a strong hit, 4 PP to turn a miss into a hit, or 6 PP to add an additional hit to your roll.
-
-#### Help
-
-When someone else makes a test, you may roll a relevant skill die and add your hit to their test.
 
 #### Contests
 
 When you test against someone, you each collect dice as normal and roll. Whoever has the most hits wins. In a tie, strong hits beat hits beat weak hits, higher numbers beat lower, then bigger dice beat smaller.
 
-##### Combat
+#### Help
 
-Combat involves a series of rounds made up of turns. A round lasts long enough to make a test and traverse a room--about six seconds.
+When someone else makes a test, you may roll a relevant skill die and add your hit to their test.
+
+#### Modifying Tests
+
+You may use your class's main attribute(s) in a special way: you may spend 2 PP to increase a weak hit to a hit or a hit to a strong hit, 4 PP to turn a miss into a hit, or 6 PP to add an additional hit to your roll.
+
+### Combat
+
+Combat involves a series of **rounds** made up of **turns**. A round lasts long enough to make a test and traverse a room--about six seconds.
 
 An initiative contest decides the order of turns in a round. Rounds continue until everyone has either surrendered, fled, or died.
 
-Attacking is a contest. Whoever wins each attack contest deals their hits as harm.
+Attacking is a contest. Whoever wins each contest deals their hits as harm.
 
-### Point Pools, Death, and Healing
+### Harm, Healing, and Death
 
-Each attribute has a point pool (or PP) that is the size of its die. When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
+Each attribute has a point pool (or PP) that is the size of its die. Harm subtracts points and healing increases them.
+
+When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
 
 When an attribute is reduced below d4, tests can no longer be made with it and its PP is zero. Roll on the death table.
 
@@ -397,7 +393,7 @@ d4|Death Result
 3|Dead in 1d6 hours unless treated
 4|Dead in 1d8 days unless treated
 
-Whenever you take about an hour to rest and eat or drink, you may replenish a point pool by succeeding on a test using its attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced attribute die to normal requires a week of comfortable rest with adequate food and drink.
+Whenever you take about an hour to rest and eat or drink, you may heal a point pool by succeeding on a test using its attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced attribute die to normal requires a week of comfortable rest with adequate food and drink.
 
 <footer>
 
