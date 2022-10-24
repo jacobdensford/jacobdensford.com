@@ -8,7 +8,7 @@ link: '/generic-fantasy'
 
 Generic Fantasy is a tabletop roleplaying game. It is a minimum viable product to test designs and mechanics. This is version 0.1.
 
-<h2 id="player-characters">Player Characters</h2>
+<h2 id="player-characters">Creating a Character</h2>
 
 You are an adventurer in a world full of magic and danger.
 
@@ -16,7 +16,7 @@ You have a **name**, **style**, **class** or **background**, **motivation**, **f
 
 ### Character Description
 
-Roll, choose, or write your own name, style, motivation, flaw, pronouns and looks.
+Roll, choose, or write your own name, style, motivation, flaw, and looks.
 
 d12|Name
 :--|:--
@@ -129,7 +129,7 @@ As a fighter, your main attribute is body.
 
 - **Berserk:** When you hit and deal harm, you may make additional tests to deal harm until you fail
 - **Precise Strike** When you hit and deal harm, you may turn strong hits into double harm
-- **Protect:** Take the BOD harm that someone nearby would have taken instead of them
+- **Protect:** You may take the BOD harm that someone nearby would have taken instead of them
 
 #### Thief
 
@@ -137,9 +137,9 @@ As a thief, your main attribute is intellect.
 
 ##### Thief Feats
 
-- **Expertise:** Spend 2 INT HP in order to reroll skill dice
-- **Jack of all Trades:** Spend 2 INT HP to roll a d4 with any skill
-- **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, deal double harm
+- **Expertise:** You may spend 2 INT HP in order to reroll skill dice
+- **Jack of all Trades:** You may spend 2 INT HP to roll a d4 with any skill
+- **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm
 
 #### Sage
 
@@ -147,9 +147,9 @@ As a sage, your main attribute is willpower.
 
 ##### Sage Feats
 
-- **Counterspell:** WIL contest to prevent someone from casting a spell
-- **Spellcasting:** Gain the ability to cast spells and gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead
-- **Spellshield:** Take harm to WIL instead of BOD or INT
+- **Counterspell:** You may force a WIL contest to prevent someone from casting a spell
+- **Spellcasting:** You may cast spells and you gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead
+- **Spellshield:** You may take harm to WIL instead of BOD or INT
 
 #### Battle Mage
 
@@ -171,20 +171,20 @@ You may gain fighter and thief feats.
 
 ### Spellcasting
 
-Each spell costs WIL HP and effects one target unless otherwise noted. If a spell is aimed at an unwilling target, they may force a contest to half the effects. A spell's effects double by doubling the HP spent.
+Each spell costs WIL HP. If a spell is aimed at an unwilling target, they may force a contest to half the effects. A spell's effects double by doubling the HP spent.
 
 Spell Name|Cost
 :--|--:
 darkness|1
 detect magic|1
 feather fall|1
-fireball (2 harm, 3 adjacent targets)|3
+fireball (2 BOD harm x 3 adjacent targets)|3
 heal (+2 BOD HP)|1
 illusion (1 sense)|1
 invisibility|2
 levitate|2
 light|1
-magic missile (2 harm, 1 target)|1
+magic missile (2 BOD harm)|1
 mending|1
 misty step|2
 read mind|2
@@ -312,7 +312,7 @@ heavy (4 AP, 4 slots)|200
 
 You gain **experience points** (or XP) whenever you allow your style, motivation, or flaw to put you in a tight spot. The game master (or GM) may stipulate other situations that will award XP.
 
-Add your earned XP to your XP track. At each die number (4, 6, 8, 10, 12, and 20), you may roll that die on the XP table and reduce your XP to zero.
+Add your earned XP to your XP track. At each die number (4, 6, 8, 10, 12, and 20), you may roll that die on the XP table and reduce your XP to the next die down.
 
 Roll|XP Result
 :--|---
