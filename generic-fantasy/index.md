@@ -6,13 +6,13 @@ link: '/generic-fantasy'
 
 ![A rough character sheet design in a gridded notebook with some dice and a pencil sitting on it.](/images/generic-fantasy.jpg)
 
-Generic Fantasy is a tabletop roleplaying game. It is a minimum viable product to test designs and mechanics.
+Generic Fantasy is a tabletop roleplaying game. It is a minimum viable product to test designs and mechanics. This is version 0.1.
 
 <h2 id="player-characters">Player Characters</h2>
 
 You are an adventurer in a world full of magic and danger.
 
-You have a **name**, **style**, **class** or **background**, **motivation**, and **flaw**. You have preferred **pronouns** and a few **looks**. You also have three **attributes**, a number of **skills**, and some **equipment**.
+You have a **name**, **style**, **class** or **background**, **motivation**, and **flaw**. You have preferred **pronouns** and a few distinct **looks**. You also have three **attributes**, a number of **skills**, and some **equipment**.
 
 ### Character Description
 
@@ -120,7 +120,7 @@ Choose one of the six classes. You must have at least a d8 in the class's main a
 
 If none of your attributes are high enough, skip this section and gain a background instead.
 
-**Example character:** *Jane takes the thief class, since she rolled a d8 for her INT. From her class, she chooses* sneak attack.
+**Example character:** *Jane takes the thief class since she rolled a d8 for her INT. From her class, she chooses* sneak attack.
 
 #### Fighter
 
@@ -129,8 +129,8 @@ As a fighter, your main attribute is body.
 ##### Fighter Feats
 
 - **Protect:** Take the BOD harm that someone nearby would have taken instead of them
-- **Berserk:** When you hit with a weapon and deal harm, you may make additional tests with a weapon until you fail
-- **Precise Strike** When you hit with a weapon and deal harm, you may turn strong hits into double harm
+- **Berserk:** When you hit and deal harm, you may make additional tests to deal harm until you fail
+- **Precise Strike** When you hit and deal harm, you may turn strong hits into double harm
 
 #### Thief
 
@@ -138,7 +138,7 @@ As a thief, your main attribute is intellect.
 
 ##### Thief Feats
 
-- **Sneak Attack:** Deal double harm when attacking an enemy who is engaged with someone else or who is unaware of your presence
+- **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, deal double harm
 - **Expertise** Spend 2 INT HP in order to reroll skill dice
 - **Jack of all Trades:** Spend 2 INT HP to roll a d4 with any skill
 
@@ -178,14 +178,17 @@ counterspell|2
 darkness|1
 detect magic|1
 feather fall|1
-fireball (2 harm to 3 adjacent targets)|3
-illusion (effects 1 sense)|1
-invisibility|1
-levitate|1
+fireball (2 harm, 3 adjacent targets)|3
+illusion (1 sense)|1
+invisibility|2
+levitate|2
 light|1
 magic missile (2 harm, 1 target)|1
 mending|1
-misty step|1
+misty step|2
+read mind|2
+spiritual weapon (2 WIL harm)|2
+stupefy (2 INT harm)|2
 
 ### Backgrounds
 
@@ -206,12 +209,12 @@ If you don't have a class, you instead gain a background. Roll, choose, or write
 
 ### Skills
 
-There are ten skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8. A skill's value ranges from d4 to d12 once it is known.
+There are ten skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8. Once gained, a skill's value ranges from d4 to d12.
 
 d8|Skill Die
 :--|:--
-1-4|d4
-5-6|d6
+1-2|d4
+3-6|d6
 7-8|d8
 
 d10|Skill
@@ -231,16 +234,16 @@ d10|Skill
 
 ### Equipment
 
-You have 4+BOD **equipment slots**. Gain your class's equipment package or spend 100 silver pieces (or SP) on the tables below. Items use one slot unless otherwise noted.
+You have 4+BOD **equipment slots**. Gain an equipment package or spend 100 silver pieces (or SP) on the tables below. Items use one slot unless otherwise noted.
 
 Class|Equipment
 :--|---
-Fighter|light armor(2 AP, 2 slots), shield (1 AP), longsword (2 harm)
+Fighter|light armor(2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 SP
 Thief|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20), lockpicks, 10 SP
-Sage|staff (1 harm), lantern, lantern oil (4 hours), chalk, 82 SP
+Sage|staff (1 harm), lantern, lantern oil (4 hours), chalk, 80 SP
 Battle Mage|light armor(2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 SP
-Arcane Trickster|light (2 AP, 2 slots), longbow (2 harm), arrows (20 uses)
-Warrior Poet|shield (1 AP), greatsword (3 harm, 2 slots), bedroll, 31 SP
+Arcane Trickster|light (2 AP, 2 slots), longbow (2 harm), arrows (20 uses), 5 SP
+Warrior Poet|shield (1 AP), greatsword (3 harm, 2 slots), bedroll, 30 SP
 
 **Example character:** *Jane takes the thief's equipment package, gaining light armor, a dagger, a shortbow with arrows, lockpicks, and 10 SP.*
 
@@ -273,7 +276,7 @@ warm bed|3
 
 #### Weapons and Armor
 
-Weapons deal hits as harm to BOD HP.
+Weapons deal hits as harm to BOD HP unless otherwise noted.
 
 Weapon|Cost
 :--|:--
@@ -305,7 +308,7 @@ heavy (4 AP, 4 slots)|200
 
 ### Character Advancement
 
-You gain **experience points** (or XP) whenever you play up your style, follow your motivation, or allow your flaw to put you in a tight spot. The game master (or GM) may stipulate other situations that will award XP.
+You gain **experience points** (or XP) whenever you allow your style, motivation, or flaw to put you in a tight spot. The game master (or GM) may stipulate other situations that will award XP.
 
 Add your earned XP to your XP track. At each die number (4, 6, 8, 10, 12, and 20), you may roll that die on the XP table and reduce your XP to zero.
 
@@ -358,7 +361,7 @@ You may use your class's main attribute(s) in a special way: you may spend 2 HP 
 
 #### Help
 
-When someone else makes a test you may roll a relevant skill die and add your hit to their test.
+When someone else makes a test, you may roll a relevant skill die and add your hit to their test.
 
 #### Contests
 
@@ -366,9 +369,9 @@ When you test against someone, you each collect dice as normal and roll. Whoever
 
 ##### Combat
 
-Combat involves a series of rounds made up of turns. A round lasts long enough to make a test and traverse a room--anywhere from six to twelve seconds.
+Combat involves a series of rounds made up of turns. A round lasts long enough to make a test and traverse a room--about six seconds.
 
-An initiative contest decides the order of turns in a round. Rounds continuing until everyone is either dead, surrendered, or fled.
+An initiative contest decides the order of turns in a round. Rounds continuing until everyone has either surrendered, fled, or died.
 
 Attacking is a contest. Whoever wins each attack contest deals their hits as harm.
 
