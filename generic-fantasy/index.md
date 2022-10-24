@@ -19,11 +19,11 @@ This game was written with the following principles in mind:
 
 You are an adventurer in a world full of magic and danger.
 
-You have a **name**, **style**, **class** or **background**, **motivation**, **flaw**, and a few distinct **looks**. You also have three **attributes**, a number of **skills**, and some **equipment**.
+You have a **name**, **style**, **class** or **background**, **motivation**, **flaw**, and a few distinct **traits**. You also have three **attributes**, a number of **skills**, and some **equipment**.
 
 ### Character Description
 
-Roll, choose, or write your own name, style, motivation, flaw, and looks.
+Roll, choose, or write your own name, style, motivation, flaw, and traits.
 
 d12|Name
 :--|:--
@@ -73,7 +73,7 @@ d6|Flaw
 5|is on the run because of a crime they didn't commit
 6|can't stand being alone even for a second
 
-d20|Looks
+d20|Traits
 :--|:--
 1|messy hair
 2|windburnt skin
@@ -88,7 +88,7 @@ d20|Looks
 11|sinister grin
 12|sharp nose
 13|fine clothes
-14|button nose
+14|gravely voice
 15|kind eyes
 16|missing teeth
 17|tattoos all over
@@ -102,9 +102,9 @@ d20|Looks
 
 You have three attributes:
 
-- **Body (BOD):** Constitution, grit, reflexes, strength, etc
-- **Intellect (INT):** Aim, cunning, intelligence, perception, etc
-- **Willpower (WIL):** Force of will, leadership, magical potential, persuasion, etc
+- **Body (BOD):** Constitution, grit, reflexes, strength
+- **Intellect (INT):** Aim, cunning, intelligence, perception
+- **Willpower (WIL):** Force of will, leadership, magical potential, persuasion
 
 Roll on the following table for each attribute and assign dice. Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8. An attribute's value ranges from d4 to d12.
 
@@ -114,9 +114,9 @@ d8|Attribute Die
 3-6|d6
 7-8|d8
 
-You have a health point (or HP) pool for each attribute consisting of as many points as the attribute's die.
+You have a point pool (or PP) for each attribute consisting of as many points as the attribute's die.
 
-**Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She has an HP pool of 6 in BOD, 8 in INT, and 4 in WIL.*
+**Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She has a PP of 6 in BOD, 8 in INT, and 4 in WIL.*
 
 ### Classes
 
@@ -135,7 +135,7 @@ As a fighter, your main attribute is body.
 ##### Fighter Feats
 
 - **Berserk:** When you hit and deal harm, you may make additional tests to deal harm until you fail
-- **Precise Strike** When you hit and deal harm, you may turn strong hits into double harm
+- **Precise Strike:** When you hit and deal harm, you may turn strong hits into double harm
 - **Protect:** You may take the BOD harm that someone nearby would have taken instead of them
 
 #### Thief
@@ -144,8 +144,8 @@ As a thief, your main attribute is intellect.
 
 ##### Thief Feats
 
-- **Expertise:** You may spend 2 INT HP in order to reroll skill dice
-- **Jack of all Trades:** You may spend 2 INT HP to roll a d4 with any skill
+- **Expertise:** You may spend 2 INT in order to reroll skill dice
+- **Jack of all Trades:** You may spend 2 INT to roll a d4 with any skill
 - **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm
 
 #### Sage
@@ -178,7 +178,7 @@ You may gain fighter and thief feats.
 
 ### Spellcasting
 
-Each spell costs WIL HP. If a spell is aimed at an unwilling target, they may force a contest to half the effects. A spell's effects double by doubling the HP spent.
+Each spell costs willpower points. If a spell is aimed at an unwilling target, they may force a contest to half the effects. A spell's effects double by doubling the points spent.
 
 Spell Name|Cost
 :--|--:
@@ -186,7 +186,7 @@ darkness|1
 detect magic|1
 feather fall|1
 fireball (2 BOD harm x 3 adjacent targets)|3
-heal (+2 BOD HP)|1
+heal (2 BOD healing)|1
 illusion (1 sense)|1
 invisibility|2
 levitate|2
@@ -247,7 +247,7 @@ You have 4+BOD **equipment slots**. Gain an equipment package or spend 100 coin 
 Class|Equipment
 :--|---
 Fighter|light armor (2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 coin
-Thief|light armor (2 AP, 2 slots), dagger (1 HP), shortbow (1 HP), arrows (20), lockpicks, 10 coin
+Thief|light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 coin
 Sage|staff (1 harm), lantern, lantern oil (4 hours), chalk, 80 coin
 Battle Mage|light armor (2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 coin
 Arcane Trickster|light armor (2 AP, 2 slots), longbow (2 harm), arrows (20 uses), 5 coin
@@ -285,7 +285,7 @@ warm bed|3
 
 #### Weapons and Armor
 
-Weapons deal hits as harm to BOD HP unless otherwise noted.
+Weapons deal hits as harm to BOD unless otherwise noted.
 
 Weapon|Cost
 :--|:--
@@ -306,7 +306,7 @@ shortbow (1 harm)|15
 staff (1 harm)|5
 warhammer (2 harm)|30
 
-Armor grants armor points (or AP). Instead of taking harm to your BOD HP, you may choose to take it to your AP. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
+Armor grants armor points (or AP). Instead of taking harm to your BOD, you may choose to take it to your AP. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
 
 Armor|Cost
 :--|:--
@@ -335,7 +335,7 @@ Roll|XP Result
 
 *Jane is a charming thief with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time.*
 
-*BOD: d6 -- 6/6 HP (2/2 AP) | ^INT^: d8 -- 8/8 HP | WIL: d4 -- 4/4 HP*
+*BOD: d6 -- 6/6 PP (2/2 AP) | ^INT^: d8 -- 8/8 PP | WIL: d4 -- 4/4 PP*
 
 *Discernment: d8, Ranged: d6, Skullduggery: d4*
 
@@ -366,7 +366,7 @@ If none of the dice hit, the test fails. You may choose to accept extra trouble 
 
 #### Modifying Tests
 
-You may use your class's main attribute(s) in a special way: you may spend 2 HP to increase a weak hit to a hit or a hit to a strong hit, 4 HP to turn a miss into a hit, or 6 HP to add an additional hit to your roll.
+You may use your class's main attribute(s) in a special way: you may spend 2 PP to increase a weak hit to a hit or a hit to a strong hit, 4 PP to turn a miss into a hit, or 6 PP to add an additional hit to your roll.
 
 #### Help
 
@@ -384,11 +384,11 @@ An initiative contest decides the order of turns in a round. Rounds continue unt
 
 Attacking is a contest. Whoever wins each attack contest deals their hits as harm.
 
-### Health Points, Death, and Healing
+### Point Pools, Death, and Healing
 
-Each attribute has a health point (or HP) pool that is the size of its die. When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
+Each attribute has a point pool (or PP) that is the size of its die. When a pool is depleted, reduce the attribute's die by one and refill the pool. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
 
-When an attribute is reduced below d4, tests can no longer be made with it and its HP pool is zero. Roll on the death table.
+When an attribute is reduced below d4, tests can no longer be made with it and its PP is zero. Roll on the death table.
 
 d4|Death Result
 :--|---
@@ -397,7 +397,7 @@ d4|Death Result
 3|Dead in 1d6 hours unless treated
 4|Dead in 1d8 days unless treated
 
-Whenever you take about an hour to rest and eat or drink, you may replenish an HP pool by succeeding on a test using its attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced attribute die to normal requires a week of comfortable rest with adequate food and drink.
+Whenever you take about an hour to rest and eat or drink, you may replenish a point pool by succeeding on a test using its attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced attribute die to normal requires a week of comfortable rest with adequate food and drink.
 
 <footer>
 
