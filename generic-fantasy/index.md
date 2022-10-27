@@ -10,7 +10,7 @@ link: '/generic-fantasy'
 
 Generic Fantasy (working title) is a tabletop roleplaying game for one facilitator and at least one other player. Players act as adventurers and heroes exploring a dangerous and magical world. The facilitator plays that world.
 
-This game was written with the following principles in mind:
+## Principles of Play
 
 - **Rullings over rules**
 - **Fiction over mechanics**

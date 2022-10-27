@@ -93,7 +93,7 @@ You have three attributes:
 
 - **Body (BOD):** Constitution, grit, reflexes, strength
 - **Intellect (INT):** Aim, cunning, intelligence, perception
-- **Willpower (WIL):** Force of will, leadership, magical potential, persuasion
+- **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
 Roll on the following table for each attribute and assign dice. Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8. An attribute's value ranges from d4 to d12.
 
