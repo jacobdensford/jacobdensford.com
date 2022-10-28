@@ -6,7 +6,7 @@ link: '/generic-fantasy'
 
 # Creating a Character
 
-You are an adventurer in a world full of magic and danger.
+You are a player character (or Pc), an adventurer in a world full of magic and danger.
 
 You have a **name**, **style**, **motivation**, **flaw**, and **traits**. You also have **attributes**, a **class** or **background**, **feats**, **skills**, and **equipment**. You improve with **experience points**.
 
@@ -206,13 +206,12 @@ d10|Background|Skill
 
 ## Skills
 
-There are ten skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d6 to three skills, or assign an array of d4, d6, and d8. Once gained, a skill's value ranges from d4 to d12.
+There are ten skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d4 to three skills. Once gained, a skill's value ranges from d4 to d12.
 
-d8|Skill Die
+d4|Skill Die
 :--|:--
-1-2|d4
-3-6|d6
-7-8|d8
+1-3|d4
+4|d6
 
 d10|Skill
 :--|:--
@@ -318,7 +317,7 @@ Roll|XP Result
 
 *Jane is a charming thief with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time.*
 
-*BOD: d6 -- 6/6 PP (2/2 AP) | ^INT^: d8 -- 8/8 PP | WIL: d4 -- 4/4 PP*
+*BOD: d6 -- 6/6 PP (2/2 AP) | INT: d8 -- 8/8 PP | WIL: d4 -- 4/4 PP*
 
 *Discernment: d8, Ranged: d6, Skullduggery: d4*
 

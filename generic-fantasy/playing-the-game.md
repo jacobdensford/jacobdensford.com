@@ -37,13 +37,55 @@ When someone else makes a test, you may roll a relevant skill die and add your h
 
 When you roll a test, you may modify it by spending points from the relevant attribute's pool. Spend 2 points to increase a weak hit to a hit or a hit to a strong hit, 4 to turn a miss into a hit, or 6 to add an additional hit to your roll.
 
+## Hirelings
+
+You can employ hirelings to carry your burdens and assist you in your endeavors. Hirelings have a d4 in every attribute and a d4 in one skill. When performing a relevant test, you may add your hireling's skill die to your roll.
+
+Hirelings cost 5 coin per day. If not paid upfront, roll a WIL test on the table below whenever asking a hireling to do something dangerous to determine their reaction.
+
+Roll|Hireling
+:--|:--
+1-3|Flee
+4-6|Refuse
+7-9|Hesitate
+10-12|Cooperate
+
+## Reactions
+
+When you encounter a nonplayer character (NPC) who's disposition towards you is not obvious, roll a WIL test on the table below to determine their reaction.
+
+Roll|Reaction
+:--|:--
+1-3|Hostile
+4-6|Wary
+7-9|Friendly
+10-12|Helpful
+
 ## Combat
 
-Combat involves a series of **rounds** made up of **turns**. A round lasts long enough to make a test and traverse a room--about six seconds.
+Combat involves a series of **rounds** made up of **turns**. A round lasts long enough for everyone to make a test and traverse a room--about six seconds. Each side acts as a group, taking their turns together.
 
-An initiative contest decides the order of turns in a round. Rounds continue until everyone has either surrendered, fled, or died.
+During your turn, you may move and make a test, often an attack. Attacking is a contest. Whoever wins deals their hits as harm.
 
-Attacking is a contest. Whoever wins each contest deals their hits as harm.
+If it isn't obvious, make an INT test on the initiative table to determine which side takes their turns first.
+
+Roll|Initiative
+:--|:--
+1-3|Enemies go twice
+4-6|Enemies begin
+7-9|PCs begin
+10-12|PCs go twice
+
+## Morale
+
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies PP by half, roll a WIL test on the morale table to see what the surviving enemies do.
+
+Roll|Morale
+:--|:--
+1-3|Fight
+4-6|Retreat
+7-9|Flee
+10-12|Surender
 
 ## Harm, Healing, and Death
 
