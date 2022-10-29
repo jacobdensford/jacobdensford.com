@@ -8,15 +8,15 @@
 :root {
   --background-color: #ffffff;
   --title-color: #000000;
-  --title-hover-color: #C15300;
+  --title-hover-color: #000000;
   --nav-color: #000000;
-  --nav-hover-color: #C15300;
+  --nav-hover-color: #000000;
   --text-color: #000000;
   --link-color: #000000;
-  --link-hover-color: #006C67;
+  --link-hover-color: #000000;
   --accent-color: #000000;
   --accent-color-2: #ffffff;
-  --accent-color-3: #C15300;
+  --accent-color-3: #000000;
   --accent-color-4: #ffffff;
   --title-transform: uppercase;
   --title-font-size: 3.7rem;

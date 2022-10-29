@@ -6,7 +6,7 @@ link: '/fell'
 
 # Playing the Game
 
-Most of the time, you will simply be saying what you do in response to the world described by the facilitator. Sometimes, you will roll dice.
+Most of the time, you will simply say what you do in response to the world described by the facilitator. Sometimes, you will roll dice.
 
 ## Tests
 
@@ -34,13 +34,13 @@ When someone else makes a test, you may roll a relevant skill die and add your h
 
 ## Hirelings
 
-You can employ hirelings to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD), 4 hit points (or HP) and d4 in one skill. When performing a relevant test, you may add your hireling's skill die to your roll.
+Hirelings are **nonplayer characters** (or NPCs). You can employ them to carry your burdens and assist you in your endeavors. Hirelings have d4 **hit die** (or HD), 4 **hit points** (or HP) and d4 in one skill. When performing a relevant test, you may add your hireling's skill die to your roll.
 
 Hirelings cost 5 coin per day. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
 
 ## Reactions
 
-When you encounter a nonplayer character (NPC) who's disposition towards you is not obvious, roll on the table below to determine their reaction.
+When you encounter an NPC who's disposition towards you is not obvious, roll on the table below to determine their reaction.
 
 d6|Reaction
 :--|:--
