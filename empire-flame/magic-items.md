@@ -123,11 +123,11 @@ This slightly soggy burlap sack contains soil from deep below, deeper even than 
 3-4|The shroomling will also have the blood donor's voice.
 5-6|The shroomling will also have the blood donor's recent memories.
 
-### Cloak of the Mistguard
+### Cloak of the Mists
 
 *Wonderous item, uncommon*
 
-Mist bellows around this grey cloak, lightly obscuring those who wear it. When wearing this cloak, you count as one level more obscured than normal. Additionally, your vision can pierce mist, seeing anything heavily obscured as lightly obscured and lightly obscured as if it wasn't obscured at all.
+Mist bellows around this grey cloak, lightly obscuring those who wear it. When wearing this cloak, you count as one level more obscured than normal for the purpose of stealth checks. Additionally, your vision can pierce mist, seeing anything heavily obscured as lightly obscured and lightly obscured as if it wasn't obscured at all.
 
 ### Color Changing Robe of Preservation
 
@@ -147,10 +147,18 @@ Ring 2: At dawn, the ring gains charges equal to your proficiency bonus. As an a
 
 Ring 3: At dawn, the ring gains charges equal to your proficiency bonus. As an action, you can expend a charge to cast *sending*.
 
-**Curse:** Each dawn, make a DC 10 Wisdom saving throw. Failing the save causes the finger which bears the ring to fall off and transform into a tiny Aboleth that doubles in size each hour until it is full size. Once worn, these rings can not be removed without dispelling their curse.
+**Curse:** Each dawn, make a DC 10 Wisdom saving throw. Failing the save causes the finger which bears the ring to fall off and transform into a tiny aboleth that doubles in size each hour until it is full size. Once worn, these rings can not be removed without dispelling their curse.
 
 ### Vainglorious Boots
 
 *Wondrous item, rare (requires attunement)*
 
 These gaudy boots shimmer like diamonds as they spew purple smoke. Once per day, you must pay these boots a complement and roll a DC 10 Charisma check. On a success, the boots are flattered—add 20 feet to your movement (walking) speed and gain advantage on Dexterity (Performance) checks and Dexterity saving throws, but also disadvantage on Dexterity (Stealth) checks. On a failure, you still gain the benefits, but you must succeed on a DC 15 Charisma saving throw or be charmed by the Vainglorious Boots for 1d12 hours. While charmed, the wearer will be forced to use the boot's powers to put themselves in harms way by acting in a vain or boastful manner. If the wearer takes damage, they can repeat the saving throw, ending the effect early on a success.
+
+### Zalabor's Pouch of Costly Components
+
+*Wondrous item, rare*
+
+This pouch is made of many colorful panels of silken fabric stitched together with golden thread.
+
+When you cast a spell and reach into the pouch looking for components, roll a number of d6s equal to your highest unused spell slot. If your highest roll is a 1-2, the pouch is found to be empty and will remain so until the next day at dawn; 3-4, you find the components you need, after which the pouch will remain empty until the next day at dawn; 5-6, you find the component you need and believe there are likely more components remaining inside.
