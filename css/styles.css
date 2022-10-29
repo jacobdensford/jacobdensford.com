@@ -67,9 +67,9 @@ blockquote {
 
 header > h1 {
   font-family: var(--title-font);
-  text-transform: uppercase;
+  text-transform: var(--title-transform);
   color: var(--title-color);
-  font-size: 3.7rem;
+  font-size: var(--title-font-size);
   margin: 1rem 0 1.742rem 0;
 }
 
@@ -155,16 +155,17 @@ nav > ul > li > a:visited {
   color: var(--nav-color);
 }
 
-nav > ul > li > a:hover,
-nav > ul > li > a:active {
-  color: var(--nav-hover-color);
-}
-
-
 nav > ul > li > a,
 header > h1 > a {
   text-decoration: none;
 }
+
+nav > ul > li > a:hover,
+nav > ul > li > a:active {
+  color: var(--nav-hover-color);
+  text-decoration: underline;
+}
+
 
 header > h1 > a:link,
 header > h1 > a:visited {
@@ -180,7 +181,6 @@ header > h1 > a:active {
 
 footer > h1 > a {
   background-color: var(--accent-color);
-  background-image: var(--cirlce-background-image);
   font-family: var(--letter-font);
   text-decoration: none;
   border: none;
@@ -201,7 +201,7 @@ footer > h1 > a:visited {
 footer > h1 > a:hover,
 footer > h1 > a:active {
   background-color: var(--accent-color-3);
-  background-image: none;
+  background-image: var(--cirlce-background-image);
   color: var(--accent-color-4)
 }
 
