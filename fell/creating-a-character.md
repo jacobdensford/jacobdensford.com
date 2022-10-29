@@ -8,7 +8,7 @@ link: '/fell'
 
 You are a player character (or PC), an adventurer in a world full of magic and danger.
 
-You have a **name**, **style**, **traits**, **motivation**, **flaw**, and **bond**. You also have **attributes**, a **background**,  **skills**, **feats**, and **equipment**. You improve with **experience points**.
+You have a **name**, a **style**, some **traits**, a **motivation**, a **flaw**, and a **bond**. You also have **attributes**, a **background**, some **skills**, a **feat**, and some **equipment**. You improve with **experience points**.
 
 ## Character Description
 
@@ -69,7 +69,7 @@ d20|Trait
 
 d6|Motivation
 :--|---
-1|I seek wealth to pay off their family's debts.
+1|I seek wealth to pay off my family's debts.
 2|I strive for perfection in function and form.
 3|I want to visit every city at least once.
 4|I seek revenge for the death of my sibling.
@@ -94,7 +94,7 @@ d6|Bond
 5|One of my companions and I share a dark past.
 6|One of my companions and I are concocting a plot.
 
-**Example character:** *Jane is a charming young woman with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time.*
+**Example character:** *Jane is a charming young woman with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time. She plans on stealing from one of her companions.*
 
 ## Attributes
 
@@ -106,11 +106,11 @@ You have three attributes:
 
 Roll on the following table for each attribute and assign dice. Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8. An attribute's value ranges from d4 to d12.
 
-d8|Attribute Die
+d4|Attribute Die
 :--|:--
-1-2|d4
-3-6|d6
-7-8|d8
+1|d4
+2-3|d6
+4|d8
 
 You have a point pool (or PP) for each attribute consisting of as many points as the attribute's die.
 
@@ -133,7 +133,7 @@ d10|Background|Skill
 9|cutpurse|skullduggery
 10|tracker|survival
 
-**Example character:** *Jane rolled the cutpurse background so she gains the skullduggery skill at d6.*
+**Example character:** *Jane rolled the cutpurse background and gains the skullduggery skill at d6.*
 
 ## Skills
 
@@ -165,15 +165,16 @@ Roll or choose one feat.
 
 d10|Feat
 :--|---
-1| **Berserk:** When you hit and deal harm, you may make additional tests to deal harm until you fail
-2| **Counterspell:** You may force a WIL contest to prevent someone from casting a spell
-3| **Expertise:** You may spend 1 INT to reroll a skill die
+1| **Berserk:** When you hit and deal harm, you may make additional tests to deal harm until you fail.
+2| **Counterspell:** You may force a WIL contest to prevent someone from casting a spell.
+3| **Expertise:** You may spend 1 INT to reroll a skill die.
 4| **Jack of all Trades:** You may spend 1 INT to roll a d4 with any skill, increasing INT spent to increase the die.
-5| **Powerful Strike:** When you hit and deal harm, spend 1 BOD to deal double harm
-6| **Protect:** You may take the BOD harm that someone nearby would have taken instead of them
-7| **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm
-8| **Spellcasting:** You may cast spells and you gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead
-9| **Spellshield:** You may take harm to WIL instead of BOD or INT
+5| **Powerful Strike:** When you hit and deal harm, spend 1 BOD to deal double harm.
+6| **Protect:** You may take the BOD harm that someone nearby would have taken instead of them.
+7| **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
+8| **Spellcasting:** You may cast spells and you gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead.
+9| **Spellshield:** You may take harm to WIL instead of BOD or INT.
+10|
 
 **Example character:** *Jane rolled and got sneak attack as her feat.*
 
@@ -181,33 +182,38 @@ d10|Feat
 
 Each spell costs WIL. If a spell is aimed at an unwilling target, they may force a contest to reduce the effects. A spell's effects are multiplied by multiplying the points spent.
 
-Spell|Cost
-:--|--:
-darkness|1
-detect magic|1
-feather fall|1
-fireball (2 BOD harm x 3 adjacent targets)|3
-heal (2 BOD healing)|1
-illusion (1 sense)|1
-invisibility|2
-levitate|2
-light|1
-magic missile (2 BOD harm)|1
-mending|1
-misty step|2
-read mind|2
-spiritual weapon (2 WIL harm)|2
-stupefy (2 INT harm)|2
+d20|Spell|Cost
+:--|---|--:
+1|darkness|1
+2|detect magic|1
+3|feather fall|1
+4|fireball (2 BOD harm x 3 adjacent targets)|3
+5|heal (2 BOD healing)|1
+6|illusion (1 sense)|1
+7|invisibility|2
+8|levitate|2
+9|light|1
+10|magic missile (2 BOD harm)|1
+11|mending|1
+12|misty step|2
+13|read mind|2
+14|spiritual weapon (2 WIL harm)|2
+15|stupefy (2 INT harm)|2
+16|
+17|
+18|
+19|
+20|
 
 ## Equipment
 
-You have 4+BOD equipment slots. Roll or choose an equipment package, or spend 100 coin on the tables below.
+You have 4+BOD equipment slots. Roll or choose an equipment bundle, or spend 100 coin on the tables below.
 
 Unless otherwise noted, items use one slot and harm is dealt to BOD.
 
 Armor grants armor points (or AP). Instead of taking harm to your BOD, you may choose to take it to your AP. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
 
-d6|Equipment Package
+d6|Equipment Bundle
 :--|---
 1|light armor (2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 coin
 2|light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 coin
@@ -283,16 +289,16 @@ Roll|XP Result
 12-19|Or gain a new feat
 20|Choose one and reroll
 
-**Example Character:**
+## Example Character
 
 *Jane is a charming cutpurse with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time. She plans on stealing from one of her companions.*
 
-*BOD: d6 -- 6/6 PP (2/2 AP) | INT: d8 -- 8/8 PP | WIL: d4 -- 4/4 PP*
+**BOD:** d6 -- 6/6 PP (2/2 AP) | **INT:** d8 -- 8/8 PP | **WIL:** d4 -- 4/4 PP
 
-*Skullduggery: d6, Discernment: d8, Persuasion: d4, Ranged: d4*
+**Skullduggery:** d6, **Discernment:** d8, **Persuasion:** d4, **Ranged:** d4
 
-*Sneak Attack: Deal double harm when attacking an enemy who is engaged with someone else or who is unaware of your presence*
+**Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
 
-*Equipment (5/10 slots): light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 coin*
+**Equipment (5/10 slots):** light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 coin
 
-*XP: 0 (roll on 4, 6, 8, 10, 12, and 20)*
+**XP:** 0 (roll on 4, 6, 8, 10, 12, and 20)
