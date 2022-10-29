@@ -253,12 +253,32 @@ The Mistguard fled, making all haste to Quelbea's protected glade. blighted vine
 
 The Mistguard caught up with the Fallionese caravan and continued through the western plains of Yondar, traveling for ten days before reaching the area surrounding the Mirror Lake. They were attacked by bulettes, which they handily dispatched. They suspiciously ran into Sig again, who once again invited them to join the Order of the Third Moon. The Mistguard were slightly more receptive, accepting his magical feather and agreeing to meet with the group in Pandara. The Mistguard found and bathed in a sacred pool, angering a group of Yondarian herdsfolk who were hunting bulettes. Impressed by the Mistguard's defeat of the beasts, all was forgiven, and the Fallionese caravan joined the herdsfolk. All but Jane, who continued on with the Mistguard and the Shadow Steppers for a time.
 
-The Mistguard and Jane reached the fishing village of Turtle's Rest, where they found suspicious, slippery, oddly fishlike residence. They cornered one named Jawad and, after healing the man and lifting his curse, convinced him to tell them what was going on. The Aboleth of the Mirror Lake had cursed and enthralled the people of the town. The Mistguard determined to free the town. They requisitioned riding turtles from Jawad and sent Jane back to circle around the lake with the Shadow Steppers. But before she left, Ravyn tossed her the magical two-faced coin. Jane, determined to resurect her daughter, threw the coin into the mirror lake. Despite everyone trying to intercept the coin, it splashed into the water. Jane's daughter, Sybella walked out of the lake just in time to watch her mother drop dead. The Mistguard sent Sybella to join the Shadow Steppers, who had renamed themselves the Mist Steppers, and headed out into the lake.
+The Mistguard and Jane reached the fishing village of Turtle's Rest, where they found suspicious, slippery, oddly fishlike residence. They cornered one named Jawad and, after healing the man and lifting his curse, convinced him to tell them what was going on. The Aboleth of the Mirror Lake had cursed and enthralled the people of the town. The Mistguard determined to free the town. They requisitioned riding turtles from Jawad and sent Jane back to circle around the lake with the Shadow Steppers. But before she left, Ravyn tossed her the magical two-faced coin. Jane, determined to resurrect her daughter, threw the coin into the mirror lake. Despite everyone trying to intercept the coin, it splashed into the water. Jane's daughter, Sybella walked out of the lake just in time to watch her mother drop dead. The Mistguard sent Sybella to join the Shadow Steppers, who had renamed themselves the Mist Steppers, and headed out into the lake.
 
 Once on the water, the Aboleth pried at their minds, but all resisted. In the middle of the lake, Illgiem taunted the creature, prompting it to emerge from its watery depths and attack.
 
 ### Chapter 10: Curses and Hard Truths
 
 **Minalday, the 19th of Falling, in the 371st year of the Alliance**
+
+The Mistguard defeated and banished the abolith by removing the magical rings that tethered it to the material plane. Davos, Illgiem, and Ravyn put on the rings only to discover they were cursed. They returned to the village Turtle's Rest to discover that the curse there had been lifted. They caught up with Hugo and the Mist Steppers and continued on around the Mirror Lake until they reached the city of Pandara. There, they parted ways with the Mist Steppers and went to an inn called the Thirsty Monk.
+
+They met a man named Janryc, who was drinking alone and despondent. They learned that he had been a companion to Merla, Bree's mother, up until very recently. They had been exploring the recently emerged tower to the east when Merla and the others sprung a trap. Janryc had fled and considers the rest dead. He gave bree her mother's battered satchel and journal, and told her that Potter Jones was her real father.
+
+The next morning, Davos awoke to the horror of a missing finger and a tiny slithering aboleth in his bed.
+
+The next day, the Mistguard went about the business they had in town.
+
+Ravyn visited the monk Harol in the Monastery of the Blind Fist. There she met a boy named Crow who had also lost his sight at the hands of the same sorceress, but who had gained powers from the encounter. Harol suspects Ravyn may be able to unlock powers herself. He gives her a bracelet of polished turquoise beads to use as an arcane focus. She and Crow met up with Bree went to a poison shop, where Bree put the fear of the gods in he proprietor.
+
+Illgiem visited the Temple of Sune. There he met an old friend, Isilynor, a fellow paladin. Isilynor shared his mission with Illgiem, to infiltrate the Order of the Third Moon on behalf of Sune to discover what they're up to and how they're blocking the goddess.
+
+Davos visited the local wizard college where he met with the headmaster and old acquaintance, Lingenhall. He shared is work on the Book of Moot and Moog and requisitioned a lab where he could inspect the abolith, and destroy it. He also visited the Library of Pandara and discovered scraps of Zalabor's journal, which gave more clues pointing to the east, towards the wizard's long-buried but recently emerged tower.
+
+On his way back to the Thirsty Monk, he was attacked by the Cult of the Red Dawn. He sent Orin for help while he held them off. The rest of the Mistguard arrived just in time and together they emerged victorious.
+
+### Chapter 11:
+
+**Falliday, the 25th of Falling, in the 371st year of the Alliance**
 
 <h2 id="part3">Part III: Cataclysm</h2>

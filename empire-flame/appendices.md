@@ -62,6 +62,10 @@ Billy was a farmer in the Mistfields around the town of Mistcrown. He served tem
 
 Birtha was an old witch who lived in a hut in the forest just north of Bafeld.
 
+### Crow
+
+Crow, who's real name was Matep, was a tiefling who was blinded by the same sorceress who blinded Ravyn.
+
 ### Cuthbeorht
 
 Cuthbeorht was an apprentice blacksmith in the town of Mistcrown. He aided Bertio in preparing the Endoranian army's weapons for the Battle of Mistcrown.
@@ -88,13 +92,29 @@ Frytha was a young girl and member of Hugo's thieving guild.
 
 Garakas was a barbed devil who had jammed open a doorway between the hells and the mortal realm. The Mistguard defeated him and destroyed his hellish tower.
 
+### Harol Hamezir
+
+Monk of the Blind Fist.
+
+### Hawada Mustafa
+
+Proprietor of the Thirst Monk in Pandara.
+
 ### Hugo
 
 Hugo was a young boy and former member of the Black Court in Mistcrown who later went on to form his own thieving guild after being kicked out of the Black Court for attempted murder. He would come to be known as the Shadow Walker.
 
+### Isilynor Aejre
+
+A paladin of the goddess Sune.
+
 ### Jane Ceray
 
 A Fallionese woman who sacrificed her life at the Mirror Lake to bring her daughter back.
+
+### Janryc
+
+Former member of Merla's crew.
 
 ### Jawad
 
@@ -103,6 +123,10 @@ An old man from Turtle's Rest in Yondar, cursed by the Aboleth, freed by the Mis
 ### Lilly
 
 Lilly was a giant from the Mistcloak Mountains. Her family was tricked and murdered by Nishanesti's Sinless.
+
+### Lingenhall
+
+A wizard who was the headmaster of the wizard's college in Pandara.
 
 ### Mukhtar
 
