@@ -6,7 +6,7 @@ link: '/fell'
 
 # Creating a Character
 
-You are a player character (or PC), an adventurer in a world full of magic and danger.
+You are a player character (or PC), a scoundrel or sellsword navigating a corrupted land.
 
 You have a **name**, a **style**, some **traits**, a **motivation**, a **flaw**, and a **bond**. You also have **attributes**, a **background**, some **skills**, a **feat**, and some **equipment**. You improve with **experience points**.
 
