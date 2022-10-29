@@ -15,77 +15,57 @@ Whenever you attempt to do something that you could reasonably accomplish but th
 Roll|Result
 :--|:--
 1-3|Miss
-4-6|Weak Hit
-7-9|Hit
-10-12|Strong Hit
+4-5|Weak Hit
+6-12|Hit
 
-The test passes if you roll at least one **hit** of any kind. (Rarely, especially difficult tests might require two or more hits.)
+The test passes if you roll at least one **hit**. (Rarely, especially difficult tests might require two or more hits.)
 
-If a die is a **weak hit**, there is also an unforeseen consequence. If a die is a **strong hit**, there is also an unanticipated benefit.
+If your highest die is a **weak hit**, you only partially succeed or there is an unforeseen consequence.
 
-If none of the dice hit, the test fails. You may choose to accept extra trouble in exchange for passing a failed test.
+If none of the dice hit, the test fails. But you may choose to accept extra trouble in exchange for passing a failed test.
 
 ### Contests
 
-When you test against someone, you each collect dice as normal and roll. Whoever has the most hits wins. In a tie, strong hits beat hits beat weak hits, higher numbers beat lower, then bigger dice beat smaller.
+When you test against someone, you each collect dice as normal and roll. Whoever has the most hits wins. In a tie, hits beat weak hits, higher numbers beat lower, then bigger dice beat smaller.
 
 ### Help
 
 When someone else makes a test, you may roll a relevant skill die and add your hit to their test.
 
-### Modifying Tests
-
-When you roll a test, you may modify it by spending points from the relevant attribute's pool. Spend 2 points to increase a weak hit to a hit or a hit to a strong hit, 4 to turn a miss into a hit, or 6 to add an additional hit to your roll.
-
 ## Hirelings
 
-You can employ hirelings to carry your burdens and assist you in your endeavors. Hirelings have a d4 in every attribute and a d4 in one skill. When performing a relevant test, you may add your hireling's skill die to your roll.
+You can employ hirelings to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD), 4 hit points (or HP) and d4 in one skill. When performing a relevant test, you may add your hireling's skill die to your roll.
 
-Hirelings cost 5 coin per day. If not paid upfront, roll a WIL test on the table below whenever asking a hireling to do something dangerous to determine their reaction.
-
-Roll|Hireling
-:--|:--
-1-3|Flee
-4-6|Refuse
-7-9|Hesitate
-10-12|Cooperate
+Hirelings cost 5 coin per day. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
 
 ## Reactions
 
-When you encounter a nonplayer character (NPC) who's disposition towards you is not obvious, roll a WIL test on the table below to determine their reaction.
+When you encounter a nonplayer character (NPC) who's disposition towards you is not obvious, roll on the table below to determine their reaction.
 
-Roll|Reaction
+d6|Reaction
 :--|:--
-1-3|Hostile
-4-6|Wary
-7-9|Friendly
-10-12|Helpful
+1-2|Hostile
+3-4|Wary
+5|Friendly
+6|Helpful
 
 ## Combat
 
-Combat involves a series of **rounds** made up of **turns**. A round lasts long enough for everyone to make a test and traverse a room--about six seconds. Each side acts as a group, taking their turns together.
+Combat involves a series of **rounds** made up of **turns**. A round lasts long enough for everyone to make a test and traverse a room--about six seconds.
+
+Each side acts as a group, taking their turns together. If it isn't obvious, roll a contest to determine which side takes their turns first.
 
 During your turn, you may move and make a test, often an attack. Attacking is a contest. Whoever wins deals their hits as harm.
 
-If it isn't obvious, make an INT test on the initiative table to determine which side takes their turns first.
-
-Roll|Initiative
-:--|:--
-1-3|Enemies go twice
-4-6|Enemies begin
-7-9|PCs begin
-10-12|PCs go twice
-
 ## Morale
 
-When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies PP by half, roll a WIL test on the morale table to see what the surviving enemies do.
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a contest. If you win, roll on the morale table to see what the surviving enemies do.
 
-Roll|Morale
+d6|Morale
 :--|:--
-1-3|Fight
-4-6|Retreat
-7-9|Flee
-10-12|Surender
+1-2|Retreat
+3-4|Flee
+5-6|Surender
 
 ## Harm, Healing, and Death
 
