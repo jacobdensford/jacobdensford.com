@@ -18,6 +18,8 @@
   --accent-color-2: #ffffff;
   --accent-color-3: #C15300;
   --accent-color-4: #ffffff;
+  --title-transform: uppercase;
+  --title-font-size: 3.7rem;
   --title-font: 'alte_haas_grotesk', sans-serif;
   --heading-font: 'alte_haas_grotesk', sans-serif;
   --main-font: 'cmu_typewriter_text', Courier, 'Courier New', monospace;
