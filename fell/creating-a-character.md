@@ -6,7 +6,7 @@ link: '/fell'
 
 # Creating a Character
 
-You are a player character (or PC), a scoundrel or sellsword in a corrupted land.
+You are a player character (or PC), a knave, wretch, and scoundrel in a corrupted land.
 
 You have a **name**, a **style**, three **traits**, a **motivation**, a **flaw**, and at least one **bond**. You also have three **attributes**, a **background**, four **skills**, a **feat**, and some **equipment**. You improve with **experience points**.
 
