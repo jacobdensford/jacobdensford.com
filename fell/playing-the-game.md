@@ -22,7 +22,7 @@ The test passes if you roll at least one **hit**. (Rarely, especially difficult 
 
 If your highest die is a **weak hit**, you only partially succeed or there is an unforeseen consequence.
 
-If none of the dice hit, the test fails. But you may choose to accept extra trouble in exchange for passing a failed test.
+If none of the dice hit, the test fails. You may choose to accept extra trouble in exchange for passing a failed test.
 
 ### Contests
 
@@ -34,7 +34,7 @@ When someone else makes a test, you may roll a relevant skill die and add your h
 
 ## Hirelings
 
-Hirelings are **nonplayer characters** (or NPCs). You can employ them to carry your burdens and assist you in your endeavors. Hirelings have d4 **hit die** (or HD), 4 **hit points** (or HP) and d4 in one skill. When performing a relevant test, you may add your hireling's skill die to your roll.
+Hirelings are **nonplayer characters** (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 **hit die** (or HD), 4 **hit points** (or HP) and d4 in one skill. When performing a relevant test, you may add your hireling's skill die to your roll.
 
 Hirelings cost 5 coin per day. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
 
@@ -53,7 +53,7 @@ d6|Reaction
 
 Combat involves a series of **rounds** made up of **turns**. A round lasts long enough for everyone to make a test and traverse a room--about six seconds.
 
-Each side acts as a group, taking their turns together. If it isn't obvious, roll a contest to determine which side takes their turns first.
+Each side acts as a group, taking their turns together. When it isn't obvious, roll a contest to determine which side takes their turns first.
 
 During your turn, you may move and make a test, often an attack. Attacking is a contest. Whoever wins deals their hits as harm.
 
@@ -73,7 +73,7 @@ Each attribute has a point pool (or PP) that is the size of its die. Harm subtra
 
 When a pool is depleted, reduce the attribute's die by one and refill the now smaller pool. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
 
-When an attribute is reduced below d4, roll on the death table. Regardless of the outcome, tests can no longer be made using this attribute, and its PP is zero.
+When an attribute is reduced below d4, roll on the death table. Regardless of the outcome, tests can no longer be made using that attribute and its PP is zero.
 
 d4|Death Result
 :--|---
