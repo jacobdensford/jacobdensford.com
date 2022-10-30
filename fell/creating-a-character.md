@@ -104,7 +104,7 @@ You have three attributes:
 - **Intellect (INT):** Aim, cunning, intelligence, perception
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
-Roll on the following table three times to assign a die to each attribute.
+Roll on the following table three times to assign **attribute dice** (or AD).
 
 d8|Attribute Die
 :--|:--
@@ -112,9 +112,9 @@ d8|Attribute Die
 5-6|d6
 7-8|d8
 
-An attribute's value ranges from d4 to d12. You have a point pool (or PP) for each attribute consisting of as many points as the attribute's die.
+An attribute's value ranges from d4 to d12. You have **attribute points** (or AP) for each attribute consisting of as many points as the attribute's die.
 
-**Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She has a PP of 6 in BOD, 8 in INT, and 4 in WIL.*
+**Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She has a AP of 6 in BOD, 8 in INT, and 4 in WIL.*
 
 ## Backgrounds
 
@@ -137,7 +137,7 @@ d10|Background|Skill
 
 ## Skills
 
-There are ten skills. Once gained, a skill's value ranges from d4 to d12. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill.
+There are ten skills. Once gained, a skill's value ranges from d4 to d12. Roll on the skill die table and then the skill table three times to assign **skill dice** (or SD).
 
 d6|Skill Die
 :--|:--
@@ -209,20 +209,20 @@ d20|Spell|Cost
 
 ## Equipment
 
-You have 4+BOD equipment slots. Roll for an equipment bundle.
+You have 4+BOD **equipment slots** (or slots). Roll for an equipment bundle.
 
 Unless otherwise noted, items use one slot and harm is dealt to BOD.
 
-Armor grants armor points (or AP). Instead of taking harm to your BOD, you may choose to take it to your AP. Once out of AP, the armor is broken and must be repaired before granting this benefit again.
+Armor grants **protection points** (or PP). Instead of taking harm to your BOD, you may choose to take it to your PP. Once out of PP, the armor is broken and must be repaired before granting this benefit again.
 
 d6|Equipment Bundle
 :--|---
-1|light armor (2 AP, 2 slots), shield (1 AP), longsword (2 harm), 5 coin
-2|light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 coin
+1|light armor (2 PP, 2 slots), shield (1 PP), longsword (2 harm), 5 coin
+2|light armor (2 PP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks (5), 10 coin
 3|staff (1 harm), lantern, lantern oil (4 hours), chalk, 80 coin
-4|light armor (2 AP, 2 slots), shield (1 AP), mace (2 harm), 5 coin
-5|light armor (2 AP, 2 slots), longbow (2 harm), arrows (20 uses), 5 coin
-6|shield (1 AP), greatsword (3 harm, 2 slots), bedroll, 30 coin
+4|light armor (2 PP, 2 slots), shield (1 PP), mace (2 harm), 5 coin
+5|light armor (2 PP, 2 slots), longbow (2 harm), arrows (20 uses), 5 coin
+6|shield (1 PP), greatsword (3 harm, 2 slots), bedroll, 30 coin
 
 Equipment|Cost
 :--|:--
@@ -234,7 +234,7 @@ flint and steel|4
 grappling hook|12
 lantern|7
 lantern oil (4 hours)|5
-lockpicks|5
+lockpicks (5 uses)|5
 rope (50 feet)|6
 tent|12
 torch|2
@@ -245,7 +245,8 @@ Service|Cost
 :--|:--
 good meal|2
 pint of ale|1
-repair armor (1 AP)|15
+repair armor (1 PP)|15
+silver weapon|20
 warm bed|3
 
 Weapon|Cost
@@ -269,10 +270,10 @@ warhammer (2 harm)|30
 
 Armor|Cost
 :--|:--
-shield (1 AP)|20
-light (2 AP, 2 slots)|50
-medium (3 AP, 3 slots)|100
-heavy (4 AP, 4 slots)|200
+shield (1 PP)|20
+light (2 PP, 2 slots)|50
+medium (3 PP, 3 slots)|100
+heavy (4 PP, 4 slots)|200
 
 **Example character:** *Jane rolled a 2 and gained light armor, a dagger, a shortbow with arrows, lockpicks, and 10 coin.*
 
@@ -295,12 +296,12 @@ Roll|XP Result
 
 *Jane is a charming cutpurse with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time. She plans on stealing from one of her companions.*
 
-**BOD:** d6 -- 6/6 PP (2/2 AP) | **INT:** d8 -- 8/8 PP | **WIL:** d4 -- 4/4 PP
+**BOD:** d6 -- 6/6 AP (2/2 PP) | **INT:** d8 -- 8/8 AP | **WIL:** d4 -- 4/4 AP
 
 **Skullduggery:** d6, **Discernment:** d8, **Persuasion:** d4, **Ranged:** d4
 
 **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
 
-**Equipment (5/10 slots):** light armor (2 AP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks, 10 coin
+**Equipment (5/10 slots):** light armor (2 PP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks (5), 10 coin
 
 **XP:** 0 (roll on 4, 6, 8, 10, 12, and 20)

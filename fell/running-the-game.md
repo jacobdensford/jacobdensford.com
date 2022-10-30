@@ -10,4 +10,4 @@ The facilitator plays the corrupted land and its inhabitants.
 
 ## Nonplayer Characters
 
-Instead of attributes and point pools, most nonplayer characters (or NPCs) have a hit die (or HD) and hit points (or HP) equal to their hit die number. Roll their HD for every test and reduce their HP for any harm.
+Instead of AD and AP, most nonplayer characters (or NPCs) have a **hit die** (or HD) and **hit points** (or HP). Use their HD and HP for everything that would normally use ADs and APs.

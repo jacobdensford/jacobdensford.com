@@ -34,9 +34,9 @@ When someone else makes a test, you may roll a relevant skill die and add your h
 
 ## Hirelings
 
-Hirelings are **nonplayer characters** (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 **hit die** (or HD), 4 **hit points** (or HP) and d4 in one skill. When performing a relevant test, you may add your hireling's skill die to your roll.
+Hirelings are **nonplayer characters** (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 **hit die** (or HD) with 4 **hit points** (or HP), d4 in one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's skill die to your roll.
 
-Hirelings cost 5 coin per day. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
+Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or SD, or an additional skill. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
 
 ## Reactions
 
@@ -69,11 +69,11 @@ d6|Morale
 
 ## Harm, Healing, and Death
 
-Each attribute has a point pool (or PP) that is the size of its die. Harm subtracts points and healing refills them.
+Each attribute has **attribute points** (or AP) equal to the size of its **attribute die** (or AD). Harm subtracts points and healing refills them.
 
-When a pool is depleted, reduce the attribute's die by one and refill the now smaller pool. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
+When an attributes AP is depleted, reduce its AD by one and refill its now lessened AP. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
 
-When an attribute is reduced below d4, roll on the death table. Regardless of the outcome, tests can no longer be made using that attribute and its PP is zero.
+When an attribute is reduced below d4, roll on the death table. Regardless of the outcome, tests can no longer be made using that attribute and it has no AP.
 
 d4|Death Result
 :--|---
@@ -82,4 +82,4 @@ d4|Death Result
 3|Dead in 1d6 hours unless treated
 4|Dead in 1d8 days unless treated
 
-Whenever you take about an hour to rest and eat or drink, you may heal a point pool by succeeding on a test using its attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced attribute die to normal requires a week of comfortable rest with adequate food and drink.
+Whenever you take about an hour to rest and eat or drink, you may recover AP by succeeding on a test with the corresponding attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced AD to normal requires a week of comfortable rest with adequate food and drink.
