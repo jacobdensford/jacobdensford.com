@@ -12,7 +12,7 @@ You have a **name**, a **style**, three **traits**, a **motivation**, a **flaw**
 
 ## Character Description
 
-Roll for your name, style, traits, motivation, flaw, and bonds.
+Roll for your name, style, three traits, motivation, flaw, and at least one bond.
 
 d12|Name
 :--|:--

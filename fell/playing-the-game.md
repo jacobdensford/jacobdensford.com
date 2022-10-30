@@ -6,7 +6,7 @@ link: '/fell'
 
 # Playing the Game
 
-Most of the time, you will simply say what you do in response to the world described by the facilitator. Sometimes, you will roll dice.
+Most of the time, you will simply say what you do in response to the corrupted land and its inhabitants described by the facilitator. Sometimes, you will roll dice.
 
 ## Tests
 
@@ -22,7 +22,7 @@ The test passes if you roll at least one **hit**. (Rarely, especially difficult 
 
 If your highest die is a **weak hit**, you only partially succeed or there is an unforeseen consequence.
 
-If none of the dice hit, the test fails. You may choose to accept extra trouble in exchange for passing a failed test.
+If none of the dice hit, the test fails. You may choose to **push**, accepting extra trouble in exchange for passing a failed test.
 
 ### Contests
 
