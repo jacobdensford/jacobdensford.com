@@ -6,13 +6,13 @@ link: '/fell'
 
 # Creating a Character
 
-You are a player character (or PC), a scoundrel or sellsword navigating a corrupted land.
+You are a player character (or PC), a scoundrel or sellsword in a corrupted land.
 
-You have a **name**, a **style**, some **traits**, a **motivation**, a **flaw**, and a **bond**. You also have **attributes**, a **background**, some **skills**, a **feat**, and some **equipment**. You improve with **experience points**.
+You have a **name**, a **style**, three **traits**, a **motivation**, a **flaw**, and at least one **bond**. You also have three **attributes**, a **background**, four **skills**, a **feat**, and some **equipment**. You improve with **experience points**.
 
 ## Character Description
 
-Roll, choose, or write your own name, style, traits, motivation, flaw, and bond.
+Roll for your name, style, traits, motivation, flaw, and bonds.
 
 d12|Name
 :--|:--
@@ -104,21 +104,21 @@ You have three attributes:
 - **Intellect (INT):** Aim, cunning, intelligence, perception
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
-Roll on the following table for each attribute and assign dice. Alternatively, assign a d6 to each attribute, or assign an array of d4, d6, and d8. An attribute's value ranges from d4 to d12.
+Roll on the following table three times to assign a die to each attribute.
 
-d4|Attribute Die
+d8|Attribute Die
 :--|:--
-1|d4
-2-3|d6
-4|d8
+1-4|d4
+5-6|d6
+7-8|d8
 
-You have a point pool (or PP) for each attribute consisting of as many points as the attribute's die.
+An attribute's value ranges from d4 to d12. You have a point pool (or PP) for each attribute consisting of as many points as the attribute's die.
 
 **Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She has a PP of 6 in BOD, 8 in INT, and 4 in WIL.*
 
 ## Backgrounds
 
-Roll, choose, or write your own background and gain an associated skill at d6.
+Roll for your background and gain the associated skill at d6.
 
 d10|Background|Skill
 :--|:--|:--
@@ -137,12 +137,12 @@ d10|Background|Skill
 
 ## Skills
 
-There are ten skills. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill. Alternatively, assign a d4 to three skills. Once gained, a skill's value ranges from d4 to d12.
+There are ten skills. Once gained, a skill's value ranges from d4 to d12. Roll on the skill die table and then the skill table three times, assigning each skill die to the rolled skill.
 
-d4|Skill Die
+d6|Skill Die
 :--|:--
-1-3|d4
-4|d6
+1-4|d4
+5-6|d6
 
 d10|Skill
 :--|:--
@@ -161,7 +161,7 @@ d10|Skill
 
 ## Feats
 
-Roll or choose one feat.
+Roll for your feat.
 
 d10|Feat
 :--|---
@@ -171,43 +171,45 @@ d10|Feat
 4| **Jack of all Trades:** You may spend 1 INT to roll a d4 with any skill, increasing INT spent to increase the die.
 5| **Powerful Strike:** When you hit and deal harm, spend 1 BOD to deal double harm.
 6| **Protect:** You may take the BOD harm that someone nearby would have taken instead of them.
-7| **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
-8| **Spellcasting:** You may cast spells and you gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead.
-9| **Spellshield:** You may take harm to WIL instead of BOD or INT.
-10|
+7| **Reckless Attack** You may spent 1 BOD to roll an additional BOD die when you attack, taking double harm if you miss.
+8| **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
+9| **Spellcasting:** You may cast spells and you gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead.
+10| **Spellshield:** You may take harm to WIL instead of BOD.
 
 **Example character:** *Jane rolled and got sneak attack as her feat.*
 
 ## Spells
 
-Each spell costs WIL. If a spell is aimed at an unwilling target, they may force a contest to reduce the effects. A spell's effects are multiplied by multiplying the points spent.
+Spells cost WIL to cast and start at level 1, with the level and effect increasing by multiplying the cost. If a spell is aimed at an unwilling target, they may force a contest to reduce the effects. For the purposes of these spells, an object is anything that can be held in one hand, a creature is anything about the size of a human, and a room is about thirty by thirty square feet.
+
+When you gain a spell, roll to determine which one.
 
 d20|Spell|Cost
 :--|---|--:
-1|darkness|1
-2|detect magic|1
-3|feather fall|1
-4|fireball (2 BOD harm x 3 adjacent targets)|3
-5|heal (2 BOD healing)|1
-6|illusion (1 sense)|1
-7|invisibility|2
-8|levitate|2
-9|light|1
-10|magic missile (2 BOD harm)|1
-11|mending|1
-12|misty step|2
-13|read mind|2
-14|spiritual weapon (2 WIL harm)|2
-15|stupefy (2 INT harm)|2
-16|
-17|
-18|
-19|
-20|
+1| **Adhere:** Stick one object to any surface for 1 hour.|1
+2| **Animate:** An object comes to life and obeys for commands for 1 minute|1
+3| **Befuddle:** Deal 2 INT harm.|1
+4| **Darkness:** Magical darkness fills the room for one minute.|1
+5| **Detect Magic:** Sense the location of magic within the room.|1
+6| **Far Sight:** See to a distance of 30 miles as if standing there.|1
+7| **Feather Fall:** One falling creature lands gently.|1
+8| **Fireball:** Ball of flame that deals 2 BOD harm to each of 3 adjacent creatures.|3
+9| **Heal:** Heal 2 BOD.|1
+10| **Illusion:** Create an illusion affecting one sense.|1
+11| **Invisibility:** One creature becomes invisible for one minute.|2
+12| **Levitate:** One creature floats twenty feet off the ground for one minute.|2
+13| **Light:** Magical light fills the room for one minute.|1
+14| **Magic Missile:** Bursts of magical energy deal 2 BOD harm.|1
+15| **Mending:** One object is restored to pristine condition.|1
+16| **Misty Step:** One creature vanishes in a puff of mist and reappears instantly on the other side of the room.|2
+17| **Read Mind:** Detect the surface thoughts of one creature for one minute.|2
+18| **Scry:** Roll a WIL test and replace any other single test result with yours in the next day.|2
+19| **Spiritual Weapon:** Deal 2 WIL harm.|2
+20| **Stupefy:** Deal 2 INT harm.|2
 
 ## Equipment
 
-You have 4+BOD equipment slots. Roll or choose an equipment bundle, or spend 100 coin on the tables below.
+You have 4+BOD equipment slots. Roll for an equipment bundle.
 
 Unless otherwise noted, items use one slot and harm is dealt to BOD.
 
@@ -276,7 +278,7 @@ heavy (4 AP, 4 slots)|200
 
 ## Character Advancement
 
-You gain experience points (or XP) whenever you allow your style, motivation, flaw, or bond to put you in a tight spot.
+You gain experience points (or XP) whenever you allow your style, motivation, flaw, or bonds to put you in a tight spot.
 
 Add your earned XP to your XP track. At each die number (4, 6, 8, 10, 12, and 20), you may roll that die on the XP table and reduce your XP to the next die down.
 
