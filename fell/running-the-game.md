@@ -6,7 +6,7 @@ link: '/fell'
 
 # Running the Game
 
-The facilitator plays the corrupted land and its inhabitants.
+The **facilitator** plays the corrupted land and its inhabitants, bringing life to the dangers that harry the **player characters**.
 
 ## Nonplayer Characters
 

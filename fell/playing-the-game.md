@@ -71,7 +71,7 @@ d6|Morale
 
 Each attribute has **attribute points** (or AP) equal to the size of its **attribute die** (or AD). Harm subtracts points and healing recovers them.
 
-When an attributes AP is depleted, reduce its AD by one and refill its now lessened AP. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
+When an attributes AP is depleted, reduce its AD by one and refill its now lessened AP. Each time your attribute is reduced in such a way, gain a **wound**--a lasting mark or sign of your struggle.
 
 When an attribute is reduced below d4, roll on the death table. Regardless of the outcome, tests can no longer be made using that attribute and it has no AP.
 
