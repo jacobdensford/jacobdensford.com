@@ -6,9 +6,9 @@ link: '/fell'
 
 # Creating a Character
 
-You are a player character (or PC), a knave, wretch, and scoundrel in a corrupted land.
+You are a **player character** (or PC), a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger.
 
-You have a **name**, a **style**, three **traits**, a **motivation**, a **flaw**, and at least one **bond**. You also have three **attributes**, a **background**, four **skills**, a **feat**, and some **equipment**. You improve with **experience points**.
+You start with a **name**, a **style**, three **traits**, a **motivation**, a **flaw**, at least one **bond**, three **attributes**, a **background**, four **skills**, a **feat**, and some **equipment**. You improve using **experience points**.
 
 ## Character Description
 
@@ -104,7 +104,11 @@ You have three attributes:
 - **Intellect (INT):** Aim, cunning, intelligence, perception
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
-Roll on the following table three times to assign **attribute dice** (or AD).
+Each has an **attribute die** (or AD) ranging from d4 to d12.
+
+You also have **attribute points** (or AP) for each attribute--as many points as the highest number on the attribute's die.
+
+Roll on the following table three times to assign attribute dice and gain attribute points.
 
 d8|Attribute Die
 :--|:--
@@ -112,9 +116,7 @@ d8|Attribute Die
 5-6|d6
 7-8|d8
 
-An attribute's value ranges from d4 to d12. You have **attribute points** (or AP) for each attribute consisting of as many points as the attribute's die.
-
-**Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She has a AP of 6 in BOD, 8 in INT, and 4 in WIL.*
+**Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She gains 6 AP in BOD, 8 in INT, and 4 in WIL.*
 
 ## Backgrounds
 
@@ -133,16 +135,11 @@ d10|Background|Skill
 9|cutpurse|skullduggery
 10|tracker|survival
 
-**Example character:** *Jane rolled the cutpurse background and gains the skullduggery skill at d6.*
+**Example character:** *Jane rolls the cutpurse background and gains the skullduggery skill at d6.*
 
 ## Skills
 
-There are ten skills. Once gained, a skill's value ranges from d4 to d12. Roll on the skill die table and then the skill table three times to assign **skill dice** (or SD).
-
-d6|Skill Die
-:--|:--
-1-4|d4
-5-6|d6
+There are ten skills. Once gained, a **skill's die** (or SD) ranges from d4 to d12. Roll on the skill and skill die tables three times to gain skills and assign skill dice.
 
 d10|Skill
 :--|:--
@@ -157,7 +154,12 @@ d10|Skill
 9|skullduggery
 10|survival
 
-**Example character:** *Jane rolled and put her d4 in persuasion, d4 in ranged, and d6 in discernment.*
+d6|Skill Die
+:--|:--
+1-4|d4
+5-6|d6
+
+**Example character:** *Jane rolls and gains d4 in persuasion, d4 in ranged, and d6 in discernment.*
 
 ## Feats
 
@@ -176,18 +178,22 @@ d10|Feat
 9| **Spellcasting:** You may cast spells and you gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead.
 10| **Spellshield:** You may take harm to WIL instead of BOD.
 
-**Example character:** *Jane rolled and got sneak attack as her feat.*
+**Example character:** *Jane rolls and gains sneak attack as her feat.*
 
 ## Spells
 
-Spells cost WIL to cast and start at level 1, with the level and effect increasing by multiplying the cost. If a spell is aimed at an unwilling target, they may force a contest to reduce the effects. For the purposes of these spells, an object is anything that can be held in one hand, a creature is anything about the size of a human, and a room is about thirty by thirty square feet.
+Spells cost WIL to cast. A spell's effects are multiplied by multiplying the cost.
+
+If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
+
+For the purpose of spells, an object is anything that can be held in one hand, a creature is anything about the size of a human, and a room is about thirty by thirty square feet.
 
 When you gain a spell, roll to determine which one.
 
 d20|Spell|Cost
 :--|---|--:
 1| **Adhere:** Stick one object to any surface for 1 hour.|1
-2| **Animate:** An object comes to life and obeys for commands for 1 minute|1
+2| **Animate:** An object comes to life and obeys for commands for 1 minute.|1
 3| **Befuddle:** Deal 2 INT harm.|1
 4| **Darkness:** Magical darkness fills the room for one minute.|1
 5| **Detect Magic:** Sense the location of magic within the room.|1
@@ -275,7 +281,7 @@ light (2 PP, 2 slots)|50
 medium (3 PP, 3 slots)|100
 heavy (4 PP, 4 slots)|200
 
-**Example character:** *Jane rolled a 2 and gained light armor, a dagger, a shortbow with arrows, lockpicks, and 10 coin.*
+**Example character:** *Jane rolls and gains light armor, a dagger, a shortbow with arrows, lockpicks, and 10 coin.*
 
 ## Character Advancement
 

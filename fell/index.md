@@ -6,7 +6,13 @@ link: '/fell'
 
 ![a painting of a swampy landscape](/images/fell-main.jpg)
 
-Fell is a tabletop roleplaying game for one facilitator and at least one other player. Players act as knaves, wretches, and scoundrels in a corrupted land. The facilitator plays that land and its other inhabitants.
+**Fell** is a [tabletop roleplaying game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) for at least two **players**.
+
+One player is the **facilitator**, playing the world and its inhabitants.
+
+The rest are **player characters**, acting as knaves, wretches, and scoundrels seeking fortune in a corrupted land filled with danger.
+
+To play, you will need these rules, at least one set of [polyhedral dice](https://en.wikipedia.org/wiki/Dice#Polyhedral_dice), paper, and pencils.
 
 ## Principles of Play
 
