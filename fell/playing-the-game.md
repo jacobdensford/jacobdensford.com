@@ -69,7 +69,7 @@ d6|Morale
 
 ## Harm, Healing, and Death
 
-Each attribute has **attribute points** (or AP) equal to the size of its **attribute die** (or AD). Harm subtracts points and healing refills them.
+Each attribute has **attribute points** (or AP) equal to the size of its **attribute die** (or AD). Harm subtracts points and healing recovers them.
 
 When an attributes AP is depleted, reduce its AD by one and refill its now lessened AP. Each time your attribute is reduced in such a way, gain a wound--a lasting mark or sign of your struggle.
 
