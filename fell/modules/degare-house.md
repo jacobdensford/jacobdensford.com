@@ -6,8 +6,6 @@ link: '/fell'
 
 # Degaré House
 
-Coming soon.
-
 ## Dramatis Personae
 
 - **Anastasia Degaré:** Oldest Degaré sister

@@ -6,7 +6,7 @@ link: '/fell'
 
 # Creating a Character
 
-You are a **player character** (or PC), a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger.
+You are a **player character** (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger.
 
 You start with a **name**, a **style**, three **traits**, a **motivation**, a **flaw**, at least one **bond**, three **attributes**, a **background**, four **skills**, a **feat**, and some **equipment**. You improve using **experience points**.
 
@@ -135,7 +135,7 @@ d10|Background|Skill
 9|cutpurse|skullduggery
 10|tracker|survival
 
-**Example character:** *Jane rolls the cutpurse background and gains the skullduggery skill at d6.*
+**Example character:** *Jane rolls the cutpurse background and gains d6 in skullduggery.*
 
 ## Skills
 
@@ -226,10 +226,10 @@ Armor grants **protection points** (or PP). Instead of taking harm to your BOD, 
 d6|Equipment Bundle
 :--|---
 1|light armor (2 PP, 2 slots), shield (1 PP), longsword (2 harm), 5 coin
-2|light armor (2 PP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks (5), 10 coin
-3|staff (1 harm), lantern, lantern oil (4 hours), chalk, 80 coin
+2|light armor (2 PP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows, lockpicks, 10 coin
+3|staff (1 harm), lantern, lantern oil, chalk, 80 coin
 4|light armor (2 PP, 2 slots), shield (1 PP), mace (2 harm), 5 coin
-5|light armor (2 PP, 2 slots), longbow (2 harm), arrows (20 uses), 5 coin
+5|light armor (2 PP, 2 slots), longbow (2 harm), arrows, 5 coin
 6|shield (1 PP), greatsword (3 harm, 2 slots), bedroll, 30 coin
 
 Equipment|Cost
