@@ -139,7 +139,9 @@ d10|Background|Skill
 
 ## Skills
 
-There are ten skills. Once gained, a **skill's die** (or SD) ranges from d4 to d12. Roll on the skill and skill die tables three times to gain skills and assign skill dice.
+There are ten skills. Once gained, a **skill's die** (or SD) ranges from d4 to d12.
+
+Roll on the skill and skill die tables three times to gain skills and assign skill dice.
 
 d10|Skill
 :--|:--
@@ -233,19 +235,19 @@ d6|Equipment Bundle
 Equipment|Cost
 :--|:--
 bedroll|4
-calrops (1 harm)|7
+caltrops (1 harm)|7
 chalk|1
 crowbar|8
 flint and steel|4
 grappling hook|12
 lantern|7
-lantern oil (4 hours)|5
-lockpicks (5 uses)|5
-rope (50 feet)|6
+lantern oil|5
+lockpicks|5
+rope|6
 tent|12
 torch|2
-travel rations (5 days)|10
-waterskin (5 days)|5
+travel rations|10
+waterskin|5
 
 Service|Cost
 :--|:--
@@ -257,9 +259,9 @@ warm bed|3
 
 Weapon|Cost
 :--|:--
-arrows (20 uses)|10
+arrows|10
 battle axe (3 harm, 2 slots)|35
-bolts (10 uses)|15
+bolts|15
 club (1 harm)|10
 crossbow (3 harm, 2 slots)|40
 dagger (1 harm)|10
@@ -285,9 +287,11 @@ heavy (4 PP, 4 slots)|200
 
 ## Character Advancement
 
-You gain experience points (or XP) whenever you allow your style, motivation, flaw, or bonds to put you in a tight spot.
+You gain experience points (or XP) whenever you fail a **test** or allow your style, motivation, flaw, or bonds to put you in a tight spot.
 
-Add your earned XP to your XP track. At each die number (4, 6, 8, 10, 12, and 20), you may roll that die on the XP table and reduce your XP to the next die down.
+When your XP reaches the highest number on a die, you gain that die as an **experience die** (or XD) ranging from d4 to d20.
+
+You may spend your experience die by rolling it on the XP table or adding it to a test, then reduce your XP to the next die down.
 
 Roll|XP Result
 :--|---
@@ -297,6 +301,8 @@ Roll|XP Result
 8-11|Or increase an attribute die
 12-19|Or gain a new feat
 20|Choose one and reroll
+
+**Example Character:** *Jane fails another test and gains an experience point, bringing her XP up to 4, which means she gains a d4 experience die.*
 
 ## Example Character
 
@@ -308,6 +314,6 @@ Roll|XP Result
 
 **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
 
-**Equipment (5/10 slots):** light armor (2 PP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows (20), lockpicks (5), 10 coin
+**Equipment (5/10 slots):** light armor (2 PP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows, lockpicks, 10 coin
 
-**XP:** 0 (roll on 4, 6, 8, 10, 12, and 20)
+**XP:** 4 (d4)
