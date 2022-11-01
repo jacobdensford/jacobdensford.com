@@ -5,5 +5,3 @@ link: '/fell'
 ---
 
 # Downloads
-
-Coming soon.

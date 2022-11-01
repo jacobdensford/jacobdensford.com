@@ -77,9 +77,9 @@ d6|Morale
 
 Each attribute has **attribute points** (or AP) equal to the size of its **attribute die** (or AD). Harm subtracts points and healing recovers them.
 
-When an attributes AP is depleted, reduce its AD by one and refill its now lessened AP. Each time your attribute is reduced in such a way, gain a **wound**--a lasting mark or sign of your struggle.
+When an attribute's points are depleted, reduce its die by one and gain the new die's points. Each time your attribute is reduced in such a way, gain a **wound**--a lasting mark or sign of your struggle.
 
-When an attribute is reduced below d4, roll on the death table. Regardless of the outcome, tests can no longer be made using that attribute and it has no AP.
+When an attribute is reduced below d4, roll on the death table. Regardless of the outcome, tests can no longer be made using that attribute and it always has zero points.
 
 d4|Death Result
 :--|---
@@ -88,4 +88,4 @@ d4|Death Result
 3|Dead in 1d6 hours unless treated
 4|Dead in 1d8 days unless treated
 
-Whenever you take about an hour to rest and eat or drink, you may recover AP by succeeding on a test with the corresponding attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced AD to normal requires a week of comfortable rest with adequate food and drink.
+Whenever you take about an hour to rest and eat or drink, you may recover points by succeeding on a test with the corresponding attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced die to normal requires a week of comfortable rest with adequate food and drink.

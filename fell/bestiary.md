@@ -22,14 +22,14 @@ Flames (2 harm)
 
 *Appears to be a simple chest but isn't.*  
 **HD:** d8 | **HP:** 8  
-Psudopod (1 harm), Bite (2 harm)
+Pseudopod (1 harm), Bite (2 harm)
 
 ## P - T
 
 ### Skeleton
 
 *Old, rattling bones spring to life.*  
-**HD:** d4 | **HP:*** 4  
+**HD:** d4 | **HP:** 4  
 Shortsword (1 harm)
 
 ## U - Z
@@ -37,7 +37,7 @@ Shortsword (1 harm)
 ### Undead
 
 *Tattered clothes and decayed flesh cling to this reanimated corpse.*  
-**HD:** d6 | **HP:*** 6  
+**HD:** d6 | **HP:** 6  
 Bite (1 harm)
 
 ### Will-o'-the-Wisp
