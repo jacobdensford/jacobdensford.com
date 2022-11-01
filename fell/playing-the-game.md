@@ -10,7 +10,11 @@ Most of the time, you will simply say what you do in response to the corrupted l
 
 ## Tests
 
-Whenever you attempt to do something that you could reasonably accomplish but the outcome is uncertain, roll a **test**. Collect dice: one from your relevant attribute and one, if any, from a relevant skill. Roll, counting each die's result individually.
+Whenever you attempt to do something that you could reasonably accomplish but the outcome is uncertain, roll a **test**.
+
+Collect dice: an attribute die from your relevant attribute, a skill die if you have a relevant skill, and an experience die if you're spending experience points.
+
+Roll, comparing each die individually to the table below.
 
 Roll|Result
 :--|:--
@@ -20,9 +24,11 @@ Roll|Result
 
 The test passes if you roll at least one **hit**. (Rarely, especially difficult tests might require two or more hits.)
 
-If your highest die is a **weak hit**, you only partially succeed or there is an unforeseen consequence.
+If your highest die is a **weak hit**, you only partially succeed or there are unforeseen consequences.
 
-If none of the dice hit, the test fails. You may choose to **push**, accepting extra trouble in exchange for passing a failed test.
+If none of the dice hit, the test fails. Gain an experience point.
+
+You may choose to **push**, accepting extra trouble in exchange for passing a failed test.
 
 ### Contests
 
