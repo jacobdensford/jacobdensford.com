@@ -6,7 +6,7 @@ tags:
   - games
   - reviews
 url: /posts/budget-cuts/
-layout: ppp.njk
+layout: post.njk
 date: 2021-05-12
 ---
 

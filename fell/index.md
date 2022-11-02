@@ -18,6 +18,8 @@ To play, you will need these rules, at least one set of [polyhedral dice](https:
 
 - **Rullings over rules**
 - **Fiction over mechanics**
+- **Death is Inevitable**
+- **Keep it Weird**
 
 <footer>
 

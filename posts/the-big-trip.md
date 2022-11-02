@@ -5,7 +5,7 @@ date: 2021-09-07
 tags:
   - posts
   - travel
-layout: ppp.njk
+layout: post.njk
 subtitle: On the road. Again.
 ---
 

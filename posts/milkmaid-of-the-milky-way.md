@@ -6,7 +6,7 @@ tags:
   - games
   - reviews
 url: /posts/milkmaid-of-the-milky-way/
-layout: ppp.njk
+layout: post.njk
 date: 2021-07-05
 ---
 
