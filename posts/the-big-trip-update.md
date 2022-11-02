@@ -5,7 +5,7 @@ date: 2021-11-08
 tags:
   - posts
   - travel
-layout: ppp.njk
+layout: post.njk
 subtitle: What have I been doing? Where have I been?
 ---
 

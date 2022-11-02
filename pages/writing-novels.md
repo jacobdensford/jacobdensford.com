@@ -1,14 +1,17 @@
 ---
 title: "Writing Novels"
-subtitle: "My method and order for writing a novel, as well as some tools and resources. It's all theoretical, though. I have yet to actually finish a novel."
 tags:
   - pages
   - writing
   - tools
 url: /pages/writing-novels/
-layout: ppp.njk
+layout: main.njk
 date: 2022-09-27
 ---
+
+# Writing Novels
+
+This is my method and order for writing a novel, as well as some tools and resources. It's all theoretical, though. I have yet to actually finish a novel.
 
 ## Planning (Month 1)
 

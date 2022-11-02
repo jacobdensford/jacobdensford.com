@@ -1,15 +1,16 @@
 ---
 title: "Links"
-subtitle: "A constantly evolving collection of links to things I find interesting."
 tags:
   - pages
   - links
 url: /pages/links/
-layout: ppp.njk
+layout: main.njk
 date: 2022-05-04 10:52:00 -4
 ---
 
-Welcome to hyperlink chaos. (I might decide to keep this more organized eventually.)
+# Links
+
+Welcome to hyperlink chaos. Here is a constantly evolving collection of links to things I find interesting. (I might decide to keep this more organized eventually.)
 
 - [https://www.mailta.pe/](https://www.mailta.pe/)
 - [https://grimgrains.com/](https://grimgrains.com/)

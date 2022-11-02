@@ -1,14 +1,15 @@
 ---
 title: "Books"
-subtitle: "What I'm reading, what I've read, recommendations."
 tags:
   - pages
   - books
   - recommendations
 url: /pages/books/
-layout: ppp.njk
+layout: main.njk
 date: 2022-10-14
 ---
+
+# Books
 
 This page is a response to me being dissatisfied with Goodreads and the like. I want a place to track the books I've read and show my recommendations, and I want it to be my own place. So, here it is: my own book place. Up first is what I'm currently reading, followed by the books I've read recently and recommend, and then my favorite books of all time. (I won't be posting about books I read and didn't like or books I didn't even finish. No need for all that negativity.)
 

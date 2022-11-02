@@ -30,7 +30,7 @@ link: '/fell'
 
 ## Degaré House
 
-![Map of the Degaré Forest](/images/degare-house-map.jpg)
+![Map of the Degaré House](/images/degare-house-map.jpg)
 
 ### 1. Foyer
 

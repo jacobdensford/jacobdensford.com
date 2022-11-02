@@ -6,7 +6,7 @@ tags:
   - games
   - reviews
 url: /posts/cayne/
-layout: ppp.njk
+layout: post.njk
 date: 2020-05-23
 ---
 

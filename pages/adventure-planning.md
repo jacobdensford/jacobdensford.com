@@ -1,15 +1,16 @@
 ---
 title: "Adventure Planning"
-subtitle: "My method and order for planning and running adventures for tabletop roleplaying games, as well as tools and resources for doing so."
 tags:
   - pages
   - games
   - tabletop
   - tools
 url: /pages/adventure-planning/
-layout: ppp.njk
+layout: main.njk
 date: 2022-09-30
 ---
+
+# Adventure Planning
 
 ## Heroes First
 

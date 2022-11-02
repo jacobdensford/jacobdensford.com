@@ -1,15 +1,16 @@
 ---
 title: "Movies and Shows"
-subtitle: "What I'm watching, what I've watched, recommendations."
 tags:
   - pages
   - movies
   - shows
   - recommendations
 url: /pages/movies-shows/
-layout: ppp.njk
+layout: main.njk
 date: 2022-10-14
 ---
+
+# Movies and Shows
 
 ## *Predator*
 

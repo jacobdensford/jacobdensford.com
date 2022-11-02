@@ -6,7 +6,7 @@ tags:
   - games
   - reviews
 url: /posts/old-mans-journey/
-layout: ppp.njk
+layout: post.njk
 date: 2020-06-20
 ---
 

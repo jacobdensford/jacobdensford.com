@@ -1,14 +1,15 @@
 ---
 title: "Video Games"
-subtitle: "What I'm playing, what I've played, recommendations."
 tags:
   - pages
   - games
   - recommendations
 url: /pages/video-games/
-layout: ppp.njk
+layout: main.njk
 date: 2022-10-14
 ---
+
+# Video Games
 
 ## Currently playing *Disco Elysium* and *Scorn*
 

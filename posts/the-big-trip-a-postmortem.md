@@ -5,7 +5,7 @@ date: 2022-03-22
 tags:
   - posts
   - travel
-layout: ppp.njk
+layout: post.njk
 subtitle: An ending. A beginning.
 ---
 

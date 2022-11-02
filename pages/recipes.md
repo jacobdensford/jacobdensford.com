@@ -1,13 +1,15 @@
 ---
 title: "Recipes"
-subtitle: "Food I make again and again."
+
 tags:
   - pages
   - food
 url: /pages/recipes/
-layout: ppp.njk
+layout: main.njk
 date: 2022-04-28 13:45:00 -4
 ---
+
+# Recipes
 
 Here are some recipes I came up with. Most are a combination of other recipes, mixed together in a way I enjoy. I'll try to give citations wherever I remember them.
 
