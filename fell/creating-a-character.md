@@ -6,7 +6,9 @@ link: '/fell'
 
 # Creating a Character
 
-You are a **player character** (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger.
+You are a **player character** (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger. Or perhaps you're the last light in an ever darkening world. The choice is yours.
+
+//Rewrite the above paragraph (and the similar part on the home page) to better reflect the player's choice to be a money grubbing scumbag or a hero where very few likeminded folk remain.//
 
 You start with a **name**, a **style**, three **traits**, a **motivation**, a **flaw**, at least one **bond**, three **attributes**, a **background**, four **skills**, a **feat**, and some **equipment**. You improve using **experience points**.
 
@@ -130,7 +132,7 @@ d10|Background|Skill
 4|scholar|lore
 5|soldier|melee
 6|bard|performance
-7|politician|persuasion
+7|politician|speechcraft
 8|hunter|ranged
 9|cutpurse|skullduggery
 10|tracker|survival
@@ -151,7 +153,7 @@ d10|Skill
 4|lore
 5|melee
 6|performance
-7|persuasion
+7|speechcraft
 8|ranged
 9|skullduggery
 10|survival

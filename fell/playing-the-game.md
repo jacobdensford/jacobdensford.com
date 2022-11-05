@@ -26,9 +26,17 @@ The test passes if you roll at least one **hit**. (Rarely, especially difficult 
 
 If your highest die is a **weak hit**, you only partially succeed or there are unforeseen consequences.
 
-If none of the dice hit, the test fails. Gain an experience point.
+If none of the dice hit, the test fails.
 
-You may choose to **push**, accepting extra trouble in exchange for passing a failed test.
+### Pushing
+
+You may choose to **push**, accepting extra trouble in exchange for passing a failed test. You will be told what that trouble will be before making your final decision.
+
+### Advantage and Disadvantage
+
+When a situation grants you **advantage**, you may reroll one miss during a test.
+
+When a situation imposes **disadvantage**, you must reroll one hit during a test.
 
 ### Contests
 
@@ -46,14 +54,14 @@ Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a
 
 ## Reactions
 
-When you encounter an NPC who's disposition towards you is not obvious, roll on the table below to determine their reaction.
+When you encounter an NPC who's disposition towards you is not obvious, roll your WIL attribute die on the table below to determine their reaction.
 
-d6|Reaction
+Roll|Reaction
 :--|:--
-1-2|Hostile
-3-4|Wary
-5|Friendly
-6|Helpful
+1-3|Hostile
+4-5|Wary
+6-7|Friendly
+8-12|Helpful
 
 ## Combat
 
@@ -65,27 +73,33 @@ During your turn, you may move and make a test, often an attack. Attacking is a 
 
 ## Morale
 
-When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a contest. If you win, roll on the morale table to see what the surviving enemies do.
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a contest. If you win, roll your WILL attribute die on the morale table to see what the surviving enemies do.
 
-d6|Morale
+Roll|Morale
 :--|:--
-1-2|Retreat
-3-4|Flee
-5-6|Surender
+1-3|Retreat
+4-5|Flee
+6-7|Surender Conditionally
+8-12|Surender Unconditionally
 
 ## Harm, Healing, and Death
 
 Each attribute has **attribute points** (or AP) equal to the size of its **attribute die** (or AD). Harm subtracts points and healing recovers them.
 
-When an attribute's points are depleted, reduce its die by one and gain the new die's points. Each time your attribute is reduced in such a way, gain a **wound**--a lasting mark or sign of your struggle.
+When an attribute's points are depleted, roll the attribute's die on the death table, reduce its die by one, and gain the new die's points.
 
-When an attribute is reduced below d4, roll on the death table. Regardless of the outcome, tests can no longer be made using that attribute and it always has zero points.
+On every die but the last, instead of rolling, you may gain a **wound**--a lasting mark or sign of your struggle.
 
-d4|Death Result
+Once reduced below a d4, regardless of the outcome, tests can no longer be made using that attribute and it always has zero points.
+
+Roll|Death Result
 :--|---
 1|Dead
 2|Dead in 1d4 rounds unless treated
 3|Dead in 1d6 hours unless treated
-4|Dead in 1d8 days unless treated
+4|Unconsious for 1d6 hours unless treated
+5|Unconsious for 1d4 rounds unless treated
+6-7|Disadvantage on all tests with the rolled attribute for 1d4 rounds
+8-12|Unaffected
 
 Whenever you take about an hour to rest and eat or drink, you may recover points by succeeding on a test with the corresponding attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced die to normal requires a week of comfortable rest with adequate food and drink.
