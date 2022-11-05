@@ -38,17 +38,17 @@ image: url("/images/efimage.png")
 *Long, brown grasses sprout from the rocky ground and waves in the cold wind.*
 
 - **Bree's** departure
-- - **Lucan** caught up with **Merla** as she was returning to the tower.
-- - Once she learned her daughter was there, she couldn't be dissuaded from immediately returning.
-- - Wants to take her and return to Mistcrown, or maybe take her on a treasure hunt.
+  - **Lucan** caught up with **Merla** as she was returning to the tower.
+  - Once she learned her daughter was there, she couldn't be dissuaded from immediately returning.
+  - Wants to take her and return to Mistcrown, or maybe take her on a treasure hunt.
 - Feather
 - The storm only grows worse after Balasar's passing--hard to navigate
 - 2 days to reach Void Lake
 - A dark figure on the horizon (Amastacia Trueblood)
-- - will eventually attack, alone at first, but brings in cultists (x4) and hellhounds (x2) once she gets to half HP, then she flees.
-- - Hopes to capture the Mistguard
-- - If captured, she takes them to Aelmore, where she has set up an estate.
-- - Order of the Third moon might rescue
+  - will eventually attack, alone at first, but brings in cultists (x4) and hellhounds (x2) once she gets to half HP, then she flees.
+  - Hopes to capture the Mistguard
+  - If captured, she takes them to Aelmore, where she has set up an estate.
+  - Order of the Third moon might rescue
 
 ## Void Lake
 
@@ -70,10 +70,10 @@ image: url("/images/efimage.png")
 - Sig introduces the Mistguard.
 - Others are there.
 - Each obelisk is covered in faintly glowing runes and casts a different spell when activated
-- - *Zone of Truth:* Must speak true, DC20 CHA save
-- - *Something like that hut spell*
-- - *No sound escapes the zone spell*
-- - *Magic is dampened spell*
+  - *Zone of Truth:* Must speak true, DC20 CHA save
+  - *Something like that hut spell*
+  - *No sound escapes the zone spell*
+  - *Magic is dampened spell*
 - There is to be a banquet in Aelmore, the conquered capital city of Endoran.
-- - It is suspected that Wendimu, Nishanesti's sister, will be there, who is said to wear a necklace bearing a shard of glowing gemstone
-- - Believed to be the final shard of the jewel of creation, the only thing believed to be able to stop the coming cataclysm
+  - It is suspected that Wendimu, Nishanesti's sister, will be there, who is said to wear a necklace bearing a shard of glowing gemstone
+  - Believed to be the final shard of the jewel of creation, the only thing believed to be able to stop the coming cataclysm
