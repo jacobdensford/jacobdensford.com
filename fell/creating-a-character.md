@@ -6,15 +6,13 @@ link: '/fell'
 
 # Creating a Character
 
-You are a **player character** (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger. Or perhaps you're the last light in an ever darkening world. The choice is yours.
+You are a **player character** (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger. Or perhaps you're a hero--the last light in an ever darkening world. The choice is yours.
 
-//Rewrite the above paragraph (and the similar part on the home page) to better reflect the player's choice to be a money grubbing scumbag or a hero where very few likeminded folk remain.//
-
-You start with a **name**, a **style**, three **traits**, a **motivation**, a **flaw**, at least one **bond**, three **attributes**, a **background**, four **skills**, a **feat**, and some **equipment**. You improve using **experience points**.
+You start with a **name**, a **style**, three **traits**, a **drive**, a **flaw**, at least one **bond**, three **attributes**, a **background**, four **skills**, a **feat**, and some **equipment**. You improve using **experience points**.
 
 ## Character Description
 
-Roll for your name, style, three traits, motivation, flaw, and at least one bond.
+Roll for your name, style, three traits, drive, flaw, and at least one bond.
 
 d12|Name
 :--|:--
@@ -69,7 +67,7 @@ d20|Trait
 19|diminutavely short
 20|excedingly tall
 
-d6|Motivation
+d6|Drive
 :--|---
 1|I seek wealth to pay off my family's debts.
 2|I strive for perfection in function and form.
@@ -153,9 +151,9 @@ d10|Skill
 4|lore
 5|melee
 6|performance
-7|speechcraft
-8|ranged
-9|skullduggery
+7|ranged
+8|skullduggery
+9|speechcraft
 10|survival
 
 d6|Skill Die
@@ -163,7 +161,7 @@ d6|Skill Die
 1-4|d4
 5-6|d6
 
-**Example character:** *Jane rolls and gains d4 in persuasion, d4 in ranged, and d6 in discernment.*
+**Example character:** *Jane rolls and gains d4 in speechcraft, d4 in ranged, and d6 in discernment.*
 
 ## Feats
 
@@ -289,7 +287,7 @@ heavy (4 PP, 4 slots)|200
 
 ## Character Advancement
 
-You gain experience points (or XP) whenever you fail a **test** or allow your style, motivation, flaw, or bonds to put you in a tight spot.
+You gain experience points (or XP) whenever you allow your styles, drives, flaws, or bonds to put you in a tight spot.
 
 When your XP reaches the highest number on a die, you gain that die as an **experience die** (or XD) ranging from d4 to d20.
 
@@ -312,7 +310,7 @@ Roll|XP Result
 
 **BOD:** d6 -- 6/6 AP (2/2 PP) | **INT:** d8 -- 8/8 AP | **WIL:** d4 -- 4/4 AP
 
-**Skullduggery:** d6, **Discernment:** d8, **Persuasion:** d4, **Ranged:** d4
+**Discernment:** d6, **Ranged:** d4, **Skullduggery:** d6, **Speechcraft:** d4
 
 **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
 

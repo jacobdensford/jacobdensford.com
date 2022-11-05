@@ -12,6 +12,7 @@ image: url("/images/efimage.png")
     <li><a href="#expendable">Expendable Equipment</a></li>
     <li><a href="#inspiration">Inspiration</a></li>
     <li><a href="#restroleplay">Rest Roleplay</a></li>
+    <li><a href="#saves">Saving Throws</a></li>
     <li><a href="#skillchecks">Skill Checks</a></li>
   </ul>
 
@@ -107,6 +108,10 @@ During short or long rests, at least one character should roleplay a scene. Thin
 6|A recent journey or discovery
 7|The potential repercussions of what you've done
 8|What you think might happen in the future
+
+<h2 id="saves">Saving Throws</h2>
+
+If an effect grants you a bonus to AC, be it numerical or advantage, that same bonus is applied to Dexterity saving throws.
 
 <h2 id="skillchecks">Skill Checks</h2>
 

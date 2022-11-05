@@ -277,8 +277,14 @@ Davos visited the local wizard college where he met with the headmaster and old 
 
 On his way back to the Thirsty Monk, he was attacked by the Cult of the Red Dawn. He sent Orin for help while he held them off. The rest of the Mistguard arrived just in time and together they emerged victorious.
 
-### Chapter 11:
+### Chapter 11: Return of the Wizard
 
 **Falliday, the 25th of Falling, in the 371st year of the Alliance**
+
+The Mistguard headed out into the Yondar Steppes, seeking Zalabor's tower. First, they had to cross the Void Lake. BLABLABLA. In the steppes, they were attacked by a pair of chimera. Emerging victorious, they continued on until they found the wizard's tower. It was jutting part of the way up out of the ground, and the only way in was the top. They scaled the tower and entered through its balcony. Once inside, they avoided traps and ventured down, through the tower and into the dungeons.
+
+### Chapter 12:
+
+**Minalday, the 29th of Falling, in the 371st year of the Alliance**
 
 <h2 id="part3">Part III: Cataclysm</h2>

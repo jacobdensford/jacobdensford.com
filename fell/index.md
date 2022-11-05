@@ -10,7 +10,7 @@ link: '/fell'
 
 One player is the **facilitator**, playing the world and its inhabitants.
 
-The rest are **player characters**, acting as knaves, wretches, and scoundrels seeking fortune in a corrupted land filled with danger.
+The rest are **player characters**, acting as knaves, wretches, or even heroes seeking fortune in a corrupted land filled with danger.
 
 To play, you will need these rules, at least one set of [polyhedral dice](https://en.wikipedia.org/wiki/Dice#Polyhedral_dice), paper, and pencils.
 
