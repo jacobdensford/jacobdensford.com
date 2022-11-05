@@ -20,6 +20,8 @@ Refamiliarize yourself with the heroes, what they've done, and what they plan to
 
 Brainstorm about a page worth of notes. Where might the heroes go next? What might they find? Who might they meet? What challenges could they face?
 
+Make a list of other potential scenes, six to twelve of them, that could logically follow the first. Keep these brief and vague. None of them should be longer than a sentence or two. You're not planning a story. You're just trying to anticipate what directions the players might go in.
+
 ## Questions
 
 Prepare a few questions to ask the heroes, at least one for each, to get their roleplaying minds working.
@@ -28,13 +30,9 @@ Prepare a few questions to ask the heroes, at least one for each, to get their r
 
 Start strong with an adventure hook that is introduced in a compelling way. This will be the most outlined scene in the adventure because you are in control of how the session starts. Decide on the location and list some complications, discoveries, moments, NPCs, etc.
 
-## Scenes
-
-Make a list of other potential scenes, six to twelve of them, that could logically follow the first. Keep these brief and vague. None of them should be longer than a sentence or two. You're not planning a story. You're just trying to anticipate what directions the players might go in.
-
 ## Locations
 
-Come up with a list of locations implied by your scenes and a few extras, at least six and up to twelve in total. Each location should have an evocative name and a few moments, discoveries, and complications tied to it. They may also have NPCs tied to them, though NPCs tend to move around and show up just where they're needed...
+Come up with a list of locations implied by your brainstorm scenes, at least six and up to twelve in total. Each location should have an evocative name and a few moments, discoveries, and complications tied to it. They may also have NPCs tied to them, though NPCs tend to move around and show up just where they're needed...
 
 ## Complications, Discoveries, and Moments
 

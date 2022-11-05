@@ -30,7 +30,7 @@ If none of the dice hit, the test fails.
 
 ### Pushing
 
-You may choose to **push**, accepting extra trouble in exchange for passing a failed test. You will be told what that trouble will be before making your final decision.
+You may choose to **push**, accepting extra trouble in exchange for passing a failed test. You will be told what that trouble will be before deciding to push.
 
 ### Advantage and Disadvantage
 
@@ -100,6 +100,7 @@ Roll|Death Result
 4|Unconsious for 1d6 hours unless treated
 5|Unconsious for 1d4 rounds unless treated
 6-7|Disadvantage on all tests with the rolled attribute for 1d4 rounds
-8-12|Unaffected
+8-11|Unaffected
+12|The attribute's die is not reduced and its points are restored
 
 Whenever you take about an hour to rest and eat or drink, you may recover points by succeeding on a test with the corresponding attribute. When you rest for the night on a full stomach, the test automatically succeeds. Returning a reduced die to normal requires a week of comfortable rest with adequate food and drink.
