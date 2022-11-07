@@ -252,10 +252,11 @@ waterskin|5
 Service|Cost
 :--|:--
 good meal|2
+hireling (per day)|5
 pint of ale|1
-repair armor (1 PP)|15
+repair armor (per PP)|15
 silver weapon|20
-warm bed|3
+warm bed (per night)|3
 
 Weapon|Cost
 :--|:--

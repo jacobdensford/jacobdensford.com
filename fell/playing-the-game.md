@@ -34,17 +34,17 @@ You may choose to **push**, accepting extra trouble in exchange for passing a fa
 
 ### Advantage and Disadvantage
 
-When a situation grants you **advantage**, you may reroll one miss during a test.
+When a situation grants you **advantage**, you may roll your dice one step higher.
 
-When a situation imposes **disadvantage**, you must reroll one hit during a test.
-
-### Contests
-
-When you test against someone, you each collect dice as normal and roll. Whoever has the most hits wins. In a tie, hits beat weak hits, higher numbers beat lower, then bigger dice beat smaller.
+When a situation imposes **disadvantage**, you must roll your dice one step lower.
 
 ### Help
 
 When someone else makes a test, you may roll a relevant skill die and add your hit to their test.
+
+### Contests
+
+When you test against someone, you each collect dice as normal and roll. Whoever has the most hits wins. In a tie, hits beat weak hits, higher numbers beat lower, then bigger dice beat smaller.
 
 ## Hirelings
 
@@ -61,7 +61,10 @@ Roll|Reaction
 1-3|Hostile
 4-5|Wary
 6-7|Friendly
-8-12|Helpful
+8-11|Helpful
+12|Allied
+
+If you have leverage, you can modify an NPC's reaction by rolling a contest, improving their disposition with every hit.
 
 ## Combat
 
@@ -86,9 +89,7 @@ Roll|Morale
 
 Each attribute has **attribute points** (or AP) equal to the size of its **attribute die** (or AD). Harm subtracts points and healing recovers them.
 
-When an attribute's points are depleted, roll the attribute's die on the death table, reduce its die by one, and gain the new die's points.
-
-On every die but the last, instead of rolling, you may gain a **wound**--a lasting mark or sign of your struggle.
+When an attribute's points are depleted, roll the attribute's die on the death table, reduce its die by one step, and gain the new die's points.
 
 Once reduced below a d4, regardless of the outcome, tests can no longer be made using that attribute and it always has zero points.
 
