@@ -6,7 +6,7 @@ link: '/fell'
 
 ![a painting of a swampy landscape](/images/fell-main.jpg)
 
-*Fell* is a [tabletop roleplaying game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) for at least two *players*.
+*Fell* is a [tabletop roleplaying game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) for at least two players.
 
 One player is the *facilitator*, playing the world and its inhabitants.
 

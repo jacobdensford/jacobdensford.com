@@ -12,7 +12,7 @@ You start with a *name*, a *style*, three *traits*, a *drive*, a *flaw*, at leas
 
 ## Character Description
 
-Roll for your name, style, three traits, drive, flaw, and at least one bond.
+Roll for your *name*, *style*, three *traits*, *drive*, *flaw*, and at least one *bond*.
 
 d12|Name
 :--|:--
@@ -98,7 +98,7 @@ d6|Bond
 
 ## Attributes
 
-You have three attributes:
+You have three *attributes*:
 
 - **Body (BOD):** Constitution, grit, reflexes, strength
 - **Intellect (INT):** Aim, cunning, intelligence, perception
@@ -106,47 +106,43 @@ You have three attributes:
 
 Each has *attribute points* and a corresponding *attribute die*.
 
-Roll 4d4 for each attribute to determine your attribute points and attribute die.
+Roll 4d4 for each attribute to determine your attribute points and attribute die. An attribute's die is //
 
 **Example character:** *Jane rolls and gains 6 attribute points in BOD, 8 in INT, and 4 in WIL; granting her a d6 attribute die in BOD, d8 in INT, and d4 in WIL.*
 
 ## Backgrounds
 
-Roll for your background and gain the associated skill at d6.
+Roll for your *background* and gain the associated skill at d6.
 
-d10|Background|Skill
+d8|Background|Skill
 :--|:--|:--
 1|farmer|athletics
 2|blacksmith|defense
 3|priest|discernment
 4|scholar|lore
-5|soldier|melee
-6|bard|performance
-7|politician|speechcraft
-8|hunter|ranged
-9|cutpurse|skullduggery
-10|tracker|survival
+5|bard|performance
+6|politician|speechcraft
+7|cutpurse|skullduggery
+8|tracker|survival
 
 **Example character:** *Jane rolls the cutpurse background and gains d6 in skullduggery.*
 
 ## Skills
 
-There are ten skills. Once gained, a *skill's die* (or SD) ranges from d4 to d12.
+There are ten *skills*. Once gained, a *skill's die* (or SD) ranges from d4 to d12.
 
 Roll on the skill and skill die tables three times to gain skills and assign skill dice.
 
-d10|Skill
+d8|Skill
 :--|:--
 1|athletics
 2|defense
 3|discernment
 4|lore
-5|melee
-6|performance
-7|ranged
-8|skullduggery
-9|speechcraft
-10|survival
+5|performance
+6|skullduggery
+7|speechcraft
+8|survival
 
 d6|Skill Die
 :--|:--
@@ -157,7 +153,7 @@ d6|Skill Die
 
 ## Feats
 
-Roll for your feat.
+Roll for your *feat*.
 
 d10|Feat
 :--|---
@@ -176,7 +172,7 @@ d10|Feat
 
 ## Spells
 
-Spells cost WIL to cast and grant a d4 *spell die*. A spell's effects are multiplied and its die is increased by multiplying the cost.
+*Spells* cost WIL to cast and grant a d4 *spell die* or (SD). A spell's effects are multiplied and its die is increased by multiplying the cost.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
@@ -210,6 +206,8 @@ d20|Spell|Cost
 ## Equipment
 
 You have 4+BOD *equipment slots* (or slots). Roll for an equipment bundle.
+
+Weapons grant a *steel die* (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll.
 
 Armor grants *protection* from harm in the form of *protection points* (or PP). Instead of taking harm to your attribute, you may choose to take it to your protection. Once out of PP, the armor is broken and must be repaired before granting this benefit again.
 
@@ -254,21 +252,21 @@ warm bed (per night)|3
 Weapon|Cost
 :--|:--
 arrows|10
-battle axe (3 harm, 2 slots)|35
+battle axe (d8, 3 harm, 2 slots)|35
 bolts|15
-club (1 harm)|10
-crossbow (3 harm, 2 slots)|40
-dagger (1 harm)|10
-flail (3 harm, 2 slots)|35
-greatsword (3 harm, 2 slots)|45
-handaxe (1 harm)|15
-longbow (2 harm)|25
-longsword (2 harm)|30
-mace (2 harm)|25
-shortsword (1 harm)|20
-shortbow (1 harm)|15
-staff (1 harm)|5
-warhammer (2 harm)|30
+club (d4, 1 harm)|10
+crossbow (d8, 3 harm, 2 slots)|40
+dagger (d4, 1 harm)|10
+flail (d8, 3 harm, 2 slots)|35
+greatsword (d8, 3 harm, 2 slots)|45
+handaxe (d4, 1 harm)|15
+longbow (d6, 2 harm)|25
+longsword (d6, 2 harm)|30
+mace (d6, 2 harm)|25
+shortsword (d4, 1 harm)|20
+shortbow (d4, 1 harm)|15
+staff (d4, 1 harm)|5
+warhammer (d8, 2 harm)|30
 
 Armor|Cost
 :--|:--
@@ -281,7 +279,7 @@ heavy (4 PP, 4 slots)|200
 
 ## Character Advancement
 
-You gain experience points (or XP) whenever you allow your styles, drives, flaws, or bonds to put you in a tight spot.
+You gain *experience points* (or XP) whenever you allow your styles, drives, flaws, or bonds to put you in a tight spot.
 
 When your XP reaches the highest number on a die, you gain that die as an *experience die* (or XD) ranging from d4 to d20.
 
@@ -296,7 +294,7 @@ Roll|XP Result
 12-19|Or gain a new feat
 20|Choose one and reroll
 
-**Example Character:** *Jane fails another test and gains an experience point, bringing her XP up to 4, which means she gains a d4 experience die.*
+**Example Character:** *Jane gains an experience point, bringing her XP up to 4, which means she gains a d4 experience die.*
 
 ## Example Character
 
@@ -308,6 +306,6 @@ Roll|XP Result
 
 **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
 
-**Equipment (5/10 slots):** light armor (2 PP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows, lockpicks, 10 coin
+**Equipment (5/10 slots):** light armor (2 PP, 2 slots), dagger (d4, 1 harm), shortbow (d4, 1 harm), arrows, lockpicks, 10 coin
 
 **XP:** 4/20 (d4)

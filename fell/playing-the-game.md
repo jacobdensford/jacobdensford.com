@@ -12,7 +12,7 @@ Most of the time, you will simply say what you do in response to the corrupted l
 
 Whenever you attempt to do something that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn what could go wrong and roll a *test*.
 
-Collect dice: an attribute die from your relevant attribute, a skill die if you have a relevant skill, and an experience die if you're spending experience points.
+Collect dice: An attribute die from your relevant attribute and an applicable steel, skill, or spell die if you have one. If you're spending experience points, you may also roll your experience die.
 
 Roll, comparing each die individually to the table below.
 
@@ -38,7 +38,7 @@ When a situation imposes *disadvantage*, you must roll your dice one step lower.
 
 ### Help
 
-When someone else makes a test, you may roll a relevant skill die and add your hit to their test.
+When someone else makes a test, you may roll a relevant steel, skill, or spell die and add your hit to their test.
 
 ### Group Tests
 
