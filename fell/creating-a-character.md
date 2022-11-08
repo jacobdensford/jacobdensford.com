@@ -6,9 +6,9 @@ link: '/fell'
 
 # Creating a Character
 
-You are a **player character** (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger. Or perhaps you're a hero--the last light in an ever darkening world. The choice is yours.
+You are a *player character* (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger. Or perhaps you're a hero--the last light in an ever darkening world. The choice is yours.
 
-You start with a **name**, a **style**, three **traits**, a **drive**, a **flaw**, at least one **bond**, three **attributes**, a **background**, four **skills**, a **feat**, and some **equipment**. You improve using **experience points**.
+You start with a *name*, a *style*, three *traits*, a *drive*, a *flaw*, at least one *bond*, three *attributes*, a *background*, four *skills*, a *feat*, and some *equipment*. You improve using *experience*.
 
 ## Character Description
 
@@ -104,19 +104,11 @@ You have three attributes:
 - **Intellect (INT):** Aim, cunning, intelligence, perception
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
-Each has an **attribute die** (or AD) ranging from d4 to d12.
+Each has *attribute points* and a corresponding *attribute die*.
 
-You also have **attribute points** (or AP) for each attribute--as many points as the highest number on the attribute's die.
+Roll 4d4 for each attribute to determine your attribute points and attribute die.
 
-Roll on the following table three times to assign attribute dice and gain attribute points.
-
-d8|Attribute Die
-:--|:--
-1-4|d4
-5-6|d6
-7-8|d8
-
-**Example character:** *Jane rolls and gets a d6 in BOD, a d8 in INT, and a d4 in WIL. She gains 6 AP in BOD, 8 in INT, and 4 in WIL.*
+**Example character:** *Jane rolls and gains 6 attribute points in BOD, 8 in INT, and 4 in WIL; granting her a d6 attribute die in BOD, d8 in INT, and d4 in WIL.*
 
 ## Backgrounds
 
@@ -139,7 +131,7 @@ d10|Background|Skill
 
 ## Skills
 
-There are ten skills. Once gained, a **skill's die** (or SD) ranges from d4 to d12.
+There are ten skills. Once gained, a *skill's die* (or SD) ranges from d4 to d12.
 
 Roll on the skill and skill die tables three times to gain skills and assign skill dice.
 
@@ -184,7 +176,7 @@ d10|Feat
 
 ## Spells
 
-Spells cost WIL to cast. A spell's effects are multiplied by multiplying the cost.
+Spells cost WIL to cast and grant a d4 *spell die*. A spell's effects are multiplied and its die is increased by multiplying the cost.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
@@ -217,11 +209,11 @@ d20|Spell|Cost
 
 ## Equipment
 
-You have 4+BOD **equipment slots** (or slots). Roll for an equipment bundle.
+You have 4+BOD *equipment slots* (or slots). Roll for an equipment bundle.
 
-Unless otherwise noted, items use one slot and harm is dealt to BOD.
+Armor grants *protection* from harm in the form of *protection points* (or PP). Instead of taking harm to your attribute, you may choose to take it to your protection. Once out of PP, the armor is broken and must be repaired before granting this benefit again.
 
-Armor grants **protection points** (or PP). Instead of taking harm to your BOD, you may choose to take it to your PP. Once out of PP, the armor is broken and must be repaired before granting this benefit again.
+Unless otherwise noted, items use one slot, harm is dealt to BOD, and protection only applies to BOD.
 
 d6|Equipment Bundle
 :--|---
@@ -240,6 +232,7 @@ chalk|1
 crowbar|8
 flint and steel|4
 grappling hook|12
+hammer|3
 lantern|7
 lantern oil|5
 lockpicks|5
@@ -290,7 +283,7 @@ heavy (4 PP, 4 slots)|200
 
 You gain experience points (or XP) whenever you allow your styles, drives, flaws, or bonds to put you in a tight spot.
 
-When your XP reaches the highest number on a die, you gain that die as an **experience die** (or XD) ranging from d4 to d20.
+When your XP reaches the highest number on a die, you gain that die as an *experience die* (or XD) ranging from d4 to d20.
 
 You may spend your experience die by rolling it on the XP table or adding it to a test, then reduce your XP to the next die down.
 
@@ -299,7 +292,7 @@ Roll|XP Result
 1|Gain nothing and lose d8 XP
 2-3|Gain nothing and lose d4 XP
 4-7|Increase a skill die or gain a new skill at d4
-8-11|Or increase an attribute die
+8-11|Or increase an attribute's maximum points by 1
 12-19|Or gain a new feat
 20|Choose one and reroll
 
@@ -309,7 +302,7 @@ Roll|XP Result
 
 *Jane is a charming cutpurse with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time. She plans on stealing from one of her companions.*
 
-**BOD:** d6 -- 6/6 AP (2/2 PP) | **INT:** d8 -- 8/8 AP | **WIL:** d4 -- 4/4 AP
+**BOD:** 6/6 (d6) -- *Protection:* 2/2 | **INT:** 8/8 (d8) | **WIL:** 4/4 (d4)
 
 **Discernment:** d6, **Ranged:** d4, **Skullduggery:** d6, **Speechcraft:** d4
 
@@ -317,4 +310,4 @@ Roll|XP Result
 
 **Equipment (5/10 slots):** light armor (2 PP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows, lockpicks, 10 coin
 
-**XP:** 4 (d4)
+**XP:** 4/20 (d4)
