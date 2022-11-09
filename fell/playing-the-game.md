@@ -12,7 +12,7 @@ Most of the time, you will simply say what you do in response to the corrupted l
 
 Whenever you attempt a task that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn how hard it will be and what could go wrong, then roll a test.
 
-Collect dice: An attribute die from your relevant attribute and an applicable steel, skill, or spell die if you have one.
+Collect dice: An ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
 
 Roll, comparing each die individually to the difficulty number (or DN). A die that meets or exceeds the difficulty number counts as a hit.
 
@@ -26,11 +26,11 @@ DN|Difficulty
 10|Extremely hard
 12|Nearly impossible
 
-If you roll the highest number on a die, roll it again, counting each roll individually.
+If you roll the highest number on a die, you may reroll it with the next die up.
 
 The test passes if you roll at least one hit.
 
-If none of the dice hit, the test fails. You might still succeed at your task, but there will be trouble.
+If none of the dice hit, the test fails. You might still succeed at the task, but there will be trouble.
 
 ### Advantage and Disadvantage
 
@@ -58,7 +58,7 @@ Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a
 
 ## Reactions
 
-When you encounter an NPC who's disposition towards you is not obvious, roll your WIL attribute die on the table below to determine their reaction.
+When you encounter an NPC who's disposition towards you is not obvious, roll your WIL ability die on the table below to determine their reaction.
 
 Roll|Reaction
 :--|:--
@@ -66,8 +66,7 @@ Roll|Reaction
 4-5|Wary
 6-7|Indifferent
 8-9|Friendly
-10-11|Helpful
-12|Allied
+10-12|Helpful
 
 If you have leverage, you can modify an NPC's reaction by rolling a contest, improving their disposition with every hit.
 
@@ -81,7 +80,7 @@ During your turn, you may move and make a test, often an attack. Attacking is a 
 
 ## Morale
 
-When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a contest. If you win, roll your WILL attribute die on the morale table to see what the surviving enemies do.
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a contest. If you win, roll your WILL ability die on the morale table to see what the surviving enemies do.
 
 Roll|Morale
 :--|:--
@@ -90,19 +89,19 @@ Roll|Morale
 6-7|Surender Conditionally
 8-12|Surender Unconditionally
 
-## Deprived and Fatigued
+## Deprivation and Fatigue
 
-When you are deprived of a crucial need--be it food, water, warmth, or sleep--you cannot regain attribute points.
+When you are deprived of a crucial need (such as food, water, warmth, or sleep), you cannot regain ability points.
 
 When you are deprived for longer than a day, you become fatigued and must make all tests with disadvantage. Each additional day you are deprived makes the disadvantage worse.
 
 ## Harm and Death
 
-Harm subtracts points from an attribute.
+Harm subtracts points from an ability.
 
-When an attribute's points are reduced below the highest face on its die, reduce the die. Once reduced below a d4, tests can no longer be made using the attribute.
+When an ability's points are reduced below the highest face on its die, reduce the die. Once reduced below a d4, tests can no longer be made using the ability.
 
-When an attribute's points are reduced to 0, roll on the death table.
+When an ability's points are reduced to 0, roll on the death table.
 
 Roll|Death Result
 :--|---
@@ -113,8 +112,8 @@ Roll|Death Result
 
 ## Healing and Rest
 
-Healing recovers attribute points.
+Healing recovers ability points.
 
-When an attribute's points are increased to the highest face on a die, increase its die.
+When an ability's points are increased to the highest face on a die, increase its die.
 
-Whenever you take a few minutes to rest and eat or drink, you may recover points up to the next die. When you rest for the night on a full stomach, you may recover all your points.
+Whenever you take a few minutes to rest and eat or drink, leaving yourself exposed, you may recover points up to the next die. When you rest for the night on a full stomach, you may recover all your points.

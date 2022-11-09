@@ -6,7 +6,7 @@ link: '/fell'
 
 # Creating a Character
 
-You are a player character (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger. Or perhaps you're a hero--the last light in an ever darkening world. The choice is yours.
+You are a player character (or PC)--a knave, wretch, or even a hero--seeking fortune in a corrupted land filled with danger.
 
 ## Character Description
 
@@ -94,17 +94,17 @@ d6|Bond
 
 **Example character:** *Jane is a charming young woman with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time. She plans on stealing from one of her companions.*
 
-## Attributes
+## Abilities
 
-You have three attributes:
+You have three abilities:
 
 - **Body (BOD):** Constitution, grit, reflexes, strength
 - **Intellect (INT):** Aim, cunning, intelligence, perception
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
-Each has attribute points (or AP) and a corresponding attribute die (or AD).
+Each has ability points (or AP) and a corresponding ability die (or AD).
 
-Roll 4d4 for each attribute to determine your attribute points and attribute die.
+Roll 4d4 for each ability to determine your ability points and ability die.
 
 AP|AD
 :--|:--
@@ -116,7 +116,7 @@ AP|AD
 12-19|d12
 20|d20
 
-**Example character:** *Jane rolls and gains 7 attribute points in BOD, 8 in INT, and 4 in WIL; granting her a d6 attribute die in BOD, d8 in INT, and d4 in WIL.*
+**Example character:** *Jane rolls and gains 7 ability points in BOD, 8 in INT, and 4 in WIL; granting her a d6 ability die in BOD, d8 in INT, and d4 in WIL.*
 
 ## Backgrounds
 
@@ -139,9 +139,9 @@ d8|Background|Skill
 
 There are eight skills.
 
-You have a skill die (or SD) equal to your INT attribute die.
+You have a skill die (or SD) equal to your INT ability die.
 
-Roll on the skill table three times to gain skills.
+Roll on the skill table to gain a skill.
 
 d8|Skill
 :--|:--
@@ -154,42 +154,17 @@ d8|Skill
 7|speechcraft
 8|survival
 
-**Example character:** *Jane rolls and gains speechcraft, lore, and discernment. Her skill die is d8*
+**Example character:** *Jane rolls and gains speechcraft. Her skill die is d8*
 
 ## Spells
 
-Spells cost WIL to cast and grant a d4 spell die or (SD). A spell's effects are multiplied and its die is increased by multiplying the cost.
+Spells cost WIL to cast and grant a spell die (or SD)--d4 for 4 WIL, d6 for 6, etc.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
 For the purpose of spells, an object is anything that can be held in one hand, a creature is anything about the size of a human, and a room is about thirty by thirty square feet.
 
-When you gain a spell, roll to determine which one.
-
-d100|Spell|Cost
-:--|---|--:
-1| **Adhere:** Stick one object to any surface for 1 hour.|1
-2| **Animate:** An object comes to life and obeys for commands for 1 minute.|1
-3| **Befuddle:** Deal 2 INT harm.|1
-4| **Counterspell:** Contest another spell being cast to negate it.|1
-4| **Darkness:** Magical darkness fills the room for one minute.|1
-5| **Detect Magic:** Sense the location of magic within the room.|1
-6| **Far Sight:** See to a distance of 30 miles as if standing there.|1
-7| **Feather Fall:** One falling creature lands gently.|1
-8| **Fireball:** Ball of flame that deals 2 blast BOD harm.|3
-9| **Heal:** Heal 2 BOD.|1
-10| **Illusion:** Create an illusion affecting one sense.|1
-11| **Invisibility:** One creature becomes invisible for one minute.|2
-12| **Levitate:** One creature floats twenty feet off the ground for one minute.|2
-13| **Light:** Magical light fills the room for one minute.|1
-14| **Magic Missile:** Bursts of magical energy deal 2 BOD harm.|1
-15| **Mending:** One object is restored to pristine condition.|1
-16| **Misty Step:** One creature vanishes in a puff of mist and reappears instantly on the other side of the room.|2
-17| **Read Mind:** Detect the surface thoughts of one creature for one minute.|2
-18| **Shield:** Take BOD harm to INT.|1
-18| **Scry:** Roll a WIL test and replace any other single test result with yours in the next day.|2
-19| **Spiritual Weapon:** Deal 2 WIL harm.|2
-20| **Stupefy:** Deal 2 INT harm.|2
+When you gain a spell, roll on the spell list in *[Cairn](https://yochaigal.itch.io/cairn)*, *[Knave](https://questingbeast.itch.io/knave)*, or similar to determine which one.
 
 ## Equipment
 
@@ -197,11 +172,11 @@ You have 4+BOD equipment slots (or slots). Roll for an equipment bundle.
 
 Weapons grant a steel die (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll.
 
-Armor grants protection from harm in the form of protection points (or PP). Instead of taking harm to your attribute, you may choose to take it to your protection. Once out of PP, the armor is broken and must be repaired before granting this benefit again.
+Armor grants protection from harm in the form of protection points (or PP). Instead of taking harm to your ability, you may choose to take it to your protection. Once out of PP, the armor is broken and must be repaired before granting this benefit again.
 
-Bulky equipment uses 2 slots.
+Bulky equipment uses 2 slots and generally requires two hands to carry or wield.
 
-Blast harm applies to multiple targets in close proximity.
+Blast harm applies to multiple targets in close proximity. If unsure how many targets are affected, roll the weapon's steel die.
 
 Unless otherwise noted, items use one slot, harm is dealt to one target's BOD, and protection only applies to BOD.
 
@@ -276,7 +251,7 @@ You gain experience points (or XP) whenever you allow your styles, drives, flaws
 
 When your XP reaches the highest number on a die, you gain that die as an experience die (or XD).
 
-You may spend your experience points by rolling a test against one of your attributes with your experience die. If you succeed, increase that attribute by one point. Regardless, reduce your XP by the number rolled.
+You may spend your experience points by rolling a test against one of your abilities with your experience die. If you succeed, increase that ability by one point. Regardless, reduce your XP by the die rolled.
 
 **Example Character:** *Jane gains an experience point, bringing her XP up to 4, which means she gains a d4 experience die. She rolls that die against her WIL and gets a 4, increasing her WIL from 4 to 5 and reducing her XP to zero.*
 
@@ -286,7 +261,7 @@ You may spend your experience points by rolling a test against one of your attri
 
 **BOD:** 7/7 (d6) -- *Protection:* 2/2 | **INT:** 8/8 (d8) | **WIL:** 5/5 (d4)
 
-**Skills (d8):** Discernment, Lore, Skullduggery, Speechcraft
+**Skills (d8):** Skullduggery, Speechcraft
 
 **Equipment (5/10 slots):** light armor (2 protection, bulky), dagger (d4, 1 harm), shortbow (d4, 1 harm), arrows, lockpicks, 10 coin
 
