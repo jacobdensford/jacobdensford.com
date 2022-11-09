@@ -6,13 +6,11 @@ link: '/fell'
 
 # Creating a Character
 
-You are a *player character* (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger. Or perhaps you're a hero--the last light in an ever darkening world. The choice is yours.
-
-You start with a *name*, a *style*, three *traits*, a *drive*, a *flaw*, at least one *bond*, three *attributes*, a *background*, four *skills*, a *feat*, and some *equipment*. You improve using *experience*.
+You are a player character (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger. Or perhaps you're a hero--the last light in an ever darkening world. The choice is yours.
 
 ## Character Description
 
-Roll for your *name*, *style*, three *traits*, *drive*, *flaw*, and at least one *bond*.
+Roll for your name, style, three traits, drive, flaw, and at least one bond.
 
 d12|Name
 :--|:--
@@ -98,81 +96,69 @@ d6|Bond
 
 ## Attributes
 
-You have three *attributes*:
+You have three attributes:
 
 - **Body (BOD):** Constitution, grit, reflexes, strength
 - **Intellect (INT):** Aim, cunning, intelligence, perception
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
-Each has *attribute points* and a corresponding *attribute die*.
+Each has attribute points (or AP) and a corresponding attribute die (or AD).
 
-Roll 4d4 for each attribute to determine your attribute points and attribute die. An attribute's die is //
+Roll 4d4 for each attribute to determine your attribute points and attribute die.
 
-**Example character:** *Jane rolls and gains 6 attribute points in BOD, 8 in INT, and 4 in WIL; granting her a d6 attribute die in BOD, d8 in INT, and d4 in WIL.*
+AP|AD
+:--|:--
+0-3|d0
+4-5|d4
+6-7|d6
+8-9|d8
+10-11|d10
+12-19|d12
+20|d20
+
+**Example character:** *Jane rolls and gains 7 attribute points in BOD, 8 in INT, and 4 in WIL; granting her a d6 attribute die in BOD, d8 in INT, and d4 in WIL.*
 
 ## Backgrounds
 
-Roll for your *background* and gain the associated skill at d6.
+Roll for your background and gain the associated skill.
 
 d8|Background|Skill
 :--|:--|:--
 1|farmer|athletics
-2|blacksmith|defense
-3|priest|discernment
-4|scholar|lore
-5|bard|performance
+2|priest|discernment
+3|scholar|lore
+4|bard|performance
+5|blacksmith|repair
 6|politician|speechcraft
 7|cutpurse|skullduggery
-8|tracker|survival
+8|hunter|survival
 
-**Example character:** *Jane rolls the cutpurse background and gains d6 in skullduggery.*
+**Example character:** *Jane rolls the cutpurse background and gains skullduggery.*
 
 ## Skills
 
-There are ten *skills*. Once gained, a *skill's die* (or SD) ranges from d4 to d12.
+There are eight skills.
 
-Roll on the skill and skill die tables three times to gain skills and assign skill dice.
+You have a skill die (or SD) equal to your INT attribute die.
+
+Roll on the skill table three times to gain skills.
 
 d8|Skill
 :--|:--
 1|athletics
-2|defense
-3|discernment
-4|lore
-5|performance
+2|discernment
+3|lore
+4|performance
+5|repair
 6|skullduggery
 7|speechcraft
 8|survival
 
-d6|Skill Die
-:--|:--
-1-4|d4
-5-6|d6
-
-**Example character:** *Jane rolls and gains d4 in speechcraft, d4 in ranged, and d6 in discernment.*
-
-## Feats
-
-Roll for your *feat*.
-
-d10|Feat
-:--|---
-1| **Berserk:** When you hit and deal harm, you may make additional tests to deal harm until you fail.
-2| **Counterspell:** You may force a WIL contest to prevent someone from casting a spell.
-3| **Expertise:** You may spend 1 INT to reroll a skill die.
-4| **Jack of all Trades:** You may spend 1 INT to roll a d4 with any skill, increasing INT spent to increase the die.
-5| **Powerful Strike:** When you hit and deal harm, spend 1 BOD to deal double harm.
-6| **Protect:** You may take the BOD harm that someone nearby would have taken instead of them.
-7| **Reckless Attack** You may spent 1 BOD to roll an additional BOD die when you attack, taking double harm if you miss.
-8| **Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
-9| **Spellcasting:** You may cast spells and you gain one spell--whenever taking the "gain feat" option from the XP table, you may gain another spell instead.
-10| **Spellshield:** You may take harm to WIL instead of BOD.
-
-**Example character:** *Jane rolls and gains sneak attack as her feat.*
+**Example character:** *Jane rolls and gains speechcraft, lore, and discernment. Her skill die is d8*
 
 ## Spells
 
-*Spells* cost WIL to cast and grant a d4 *spell die* or (SD). A spell's effects are multiplied and its die is increased by multiplying the cost.
+Spells cost WIL to cast and grant a d4 spell die or (SD). A spell's effects are multiplied and its die is increased by multiplying the cost.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
@@ -180,16 +166,17 @@ For the purpose of spells, an object is anything that can be held in one hand, a
 
 When you gain a spell, roll to determine which one.
 
-d20|Spell|Cost
+d100|Spell|Cost
 :--|---|--:
 1| **Adhere:** Stick one object to any surface for 1 hour.|1
 2| **Animate:** An object comes to life and obeys for commands for 1 minute.|1
 3| **Befuddle:** Deal 2 INT harm.|1
+4| **Counterspell:** Contest another spell being cast to negate it.|1
 4| **Darkness:** Magical darkness fills the room for one minute.|1
 5| **Detect Magic:** Sense the location of magic within the room.|1
 6| **Far Sight:** See to a distance of 30 miles as if standing there.|1
 7| **Feather Fall:** One falling creature lands gently.|1
-8| **Fireball:** Ball of flame that deals 2 BOD harm to each of 3 adjacent creatures.|3
+8| **Fireball:** Ball of flame that deals 2 blast BOD harm.|3
 9| **Heal:** Heal 2 BOD.|1
 10| **Illusion:** Create an illusion affecting one sense.|1
 11| **Invisibility:** One creature becomes invisible for one minute.|2
@@ -199,28 +186,33 @@ d20|Spell|Cost
 15| **Mending:** One object is restored to pristine condition.|1
 16| **Misty Step:** One creature vanishes in a puff of mist and reappears instantly on the other side of the room.|2
 17| **Read Mind:** Detect the surface thoughts of one creature for one minute.|2
+18| **Shield:** Take BOD harm to INT.|1
 18| **Scry:** Roll a WIL test and replace any other single test result with yours in the next day.|2
 19| **Spiritual Weapon:** Deal 2 WIL harm.|2
 20| **Stupefy:** Deal 2 INT harm.|2
 
 ## Equipment
 
-You have 4+BOD *equipment slots* (or slots). Roll for an equipment bundle.
+You have 4+BOD equipment slots (or slots). Roll for an equipment bundle.
 
-Weapons grant a *steel die* (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll.
+Weapons grant a steel die (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll.
 
-Armor grants *protection* from harm in the form of *protection points* (or PP). Instead of taking harm to your attribute, you may choose to take it to your protection. Once out of PP, the armor is broken and must be repaired before granting this benefit again.
+Armor grants protection from harm in the form of protection points (or PP). Instead of taking harm to your attribute, you may choose to take it to your protection. Once out of PP, the armor is broken and must be repaired before granting this benefit again.
 
-Unless otherwise noted, items use one slot, harm is dealt to BOD, and protection only applies to BOD.
+Bulky equipment uses 2 slots.
+
+Blast harm applies to multiple targets in close proximity.
+
+Unless otherwise noted, items use one slot, harm is dealt to one target's BOD, and protection only applies to BOD.
 
 d6|Equipment Bundle
 :--|---
-1|light armor (2 PP, 2 slots), shield (1 PP), longsword (2 harm), 5 coin
-2|light armor (2 PP, 2 slots), dagger (1 harm), shortbow (1 harm), arrows, lockpicks, 10 coin
-3|staff (1 harm), lantern, lantern oil, chalk, 80 coin
-4|light armor (2 PP, 2 slots), shield (1 PP), mace (2 harm), 5 coin
-5|light armor (2 PP, 2 slots), longbow (2 harm), arrows, 5 coin
-6|shield (1 PP), greatsword (3 harm, 2 slots), bedroll, 30 coin
+1|light armor (2 protection), shield (1 protection), longsword (d6, 2 harm), 5 coin
+2|light armor (2 protection), dagger (d4, 1 harm), shortbow (d4, 1 harm), arrows, lockpicks, 10 coin
+3|staff (d4, 1 harm), lantern, lantern oil, chalk, 80 coin
+4|light armor (2 protection), shield (1 protection), mace (d6, 2 harm), 5 coin
+5|light armor (2 protection), longbow (d6, 2 harm), arrows, 5 coin
+6|shield (1 protection), greatsword (d8, 3 harm, bulky), bedroll, 30 coin
 
 Equipment|Cost
 :--|:--
@@ -252,13 +244,14 @@ warm bed (per night)|3
 Weapon|Cost
 :--|:--
 arrows|10
-battle axe (d8, 3 harm, 2 slots)|35
+battle axe (d8, 3 harm, bulky)|35
 bolts|15
 club (d4, 1 harm)|10
-crossbow (d8, 3 harm, 2 slots)|40
+crossbow (d8, 3 harm, bulky)|40
 dagger (d4, 1 harm)|10
-flail (d8, 3 harm, 2 slots)|35
-greatsword (d8, 3 harm, 2 slots)|45
+firebomb (d6, 2 harm, blast)|15
+flail (d8, 3 harm, bulky)|35
+greatsword (d8, 3 harm, bulky)|45
 handaxe (d4, 1 harm)|15
 longbow (d6, 2 harm)|25
 longsword (d6, 2 harm)|30
@@ -270,42 +263,31 @@ warhammer (d8, 2 harm)|30
 
 Armor|Cost
 :--|:--
-shield (1 PP)|20
-light (2 PP, 2 slots)|50
-medium (3 PP, 3 slots)|100
-heavy (4 PP, 4 slots)|200
+shield (1 protection)|20
+light (2 protection)|50
+medium (3 protection, bulky)|100
+heavy (4 protection, bulky)|200
 
 **Example character:** *Jane rolls and gains light armor, a dagger, a shortbow with arrows, lockpicks, and 10 coin.*
 
 ## Character Advancement
 
-You gain *experience points* (or XP) whenever you allow your styles, drives, flaws, or bonds to put you in a tight spot.
+You gain experience points (or XP) whenever you allow your styles, drives, flaws, or bonds to put you in a tight spot.
 
-When your XP reaches the highest number on a die, you gain that die as an *experience die* (or XD) ranging from d4 to d20.
+When your XP reaches the highest number on a die, you gain that die as an experience die (or XD).
 
-You may spend your experience die by rolling it on the XP table or adding it to a test, then reduce your XP to the next die down.
+You may spend your experience points by rolling a test against one of your attributes with your experience die. If you succeed, increase that attribute by one point. Regardless, reduce your XP by the number rolled.
 
-Roll|XP Result
-:--|---
-1|Gain nothing and lose d8 XP
-2-3|Gain nothing and lose d4 XP
-4-7|Increase a skill die or gain a new skill at d4
-8-11|Or increase an attribute's maximum points by 1
-12-19|Or gain a new feat
-20|Choose one and reroll
-
-**Example Character:** *Jane gains an experience point, bringing her XP up to 4, which means she gains a d4 experience die.*
+**Example Character:** *Jane gains an experience point, bringing her XP up to 4, which means she gains a d4 experience die. She rolls that die against her WIL and gets a 4, increasing her WIL from 4 to 5 and reducing her XP to zero.*
 
 ## Example Character
 
 *Jane is a charming cutpurse with messy hair, windburnt skin, and darting eyes. She seeks wealth to pay off her family's debts. She will never trust again after what happened last time. She plans on stealing from one of her companions.*
 
-**BOD:** 6/6 (d6) -- *Protection:* 2/2 | **INT:** 8/8 (d8) | **WIL:** 4/4 (d4)
+**BOD:** 7/7 (d6) -- *Protection:* 2/2 | **INT:** 8/8 (d8) | **WIL:** 5/5 (d4)
 
-**Discernment:** d6, **Ranged:** d4, **Skullduggery:** d6, **Speechcraft:** d4
+**Skills (d8):** Discernment, Lore, Skullduggery, Speechcraft
 
-**Sneak Attack:** When you hit and deal harm to someone engaged with someone else or who is unaware of your presence, you may deal double harm.
+**Equipment (5/10 slots):** light armor (2 protection, bulky), dagger (d4, 1 harm), shortbow (d4, 1 harm), arrows, lockpicks, 10 coin
 
-**Equipment (5/10 slots):** light armor (2 PP, 2 slots), dagger (d4, 1 harm), shortbow (d4, 1 harm), arrows, lockpicks, 10 coin
-
-**XP:** 4/20 (d4)
+**XP:** 0/20 (d0)
