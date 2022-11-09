@@ -10,49 +10,51 @@ Most of the time, you will simply say what you do in response to the corrupted l
 
 ## Tests
 
-Whenever you attempt to do something that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn what could go wrong and roll a *test*.
+Whenever you attempt a task that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn how hard it will be and what could go wrong, then roll a test.
 
-Collect dice: An attribute die from your relevant attribute and an applicable steel, skill, or spell die if you have one. If you're spending experience points, you may also roll your experience die.
+Collect dice: An attribute die from your relevant attribute and an applicable steel, skill, or spell die if you have one.
 
-Roll, comparing each die individually to the table below.
+Roll, comparing each die individually to the difficulty number (or DN). A die that meets or exceeds the difficulty number counts as a hit.
 
-Roll|Result
+DN|Difficulty
 :--|:--
-1-3|Miss
-4-5|Weak Hit
-6+|Hit
+0|Very easy
+2|Easy
+4|Moderate
+6|Hard
+8|Very hard
+10|Extremely hard
+12|Nearly impossible
 
-The test passes if you roll at least one *hit*. (Rarely, especially difficult tests might require two or more hits.)
+If you roll the highest number on a die, roll it again, counting each roll individually.
 
-If your highest die is a *weak hit*, you only partially succeed or there are unforeseen consequences.
+The test passes if you roll at least one hit.
 
-If none of the dice hit, the test fails and there is trouble.
-
-You may choose to accept extra trouble in exchange for passing a failed test. You will be told what that trouble will be before deciding.
+If none of the dice hit, the test fails. You might still succeed at your task, but there will be trouble.
 
 ### Advantage and Disadvantage
 
-When a situation grants you *advantage*, you may roll your dice one step higher.
+When a situation grants you advantage, you may roll your dice one step higher.
 
-When a situation imposes *disadvantage*, you must roll your dice one step lower.
+When a situation imposes disadvantage, you must roll your dice one step lower.
 
 ### Help
 
 When someone else makes a test, you may roll a relevant steel, skill, or spell die and add your hit to their test.
 
-### Group Tests
-
-When it makes sense to perform a test as a group, everyone rolls as normal and combines their results.
-
 ### Contests
 
-When you test against someone, you each collect dice as normal and roll. Whoever has the most hits wins. In a tie, hits beat weak hits, higher numbers beat lower, then bigger dice beat smaller.
+When you test against someone, you each collect dice as normal and roll. Compare dice individually, highest to lowest. Higher numbers beat lower and count as hits. In a tie, bigger dice beat smaller.
+
+### Extended Tests
+
+Some tests require more time and effort, and thus require more than one hit to accomplish.
 
 ## Hirelings
 
-Hirelings are *nonplayer characters* (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 *hit die* (or HD) with 4 *hit points* (or HP), d4 in one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's skill die to your roll.
+Hirelings are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD) with 4 hit points (or HP), one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's skill die to your roll.
 
-Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or SD, or an additional skill. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
+Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or an additional skill. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
 
 ## Reactions
 
@@ -71,7 +73,7 @@ If you have leverage, you can modify an NPC's reaction by rolling a contest, imp
 
 ## Combat
 
-Combat involves a series of *rounds* made up of *turns*. A round lasts long enough for everyone to make a test and traverse a room--about six seconds.
+Combat involves a series of rounds made up of turns. A round lasts long enough for everyone to make a test and traverse a room--about six seconds.
 
 Each side acts as a group, taking their turns together. When it isn't obvious, roll a contest to determine which side takes their turns first.
 
@@ -90,13 +92,13 @@ Roll|Morale
 
 ## Deprived and Fatigued
 
-When you are *deprived* of a crucial need--be it food, water, warmth, or sleep--you cannot regain attribute points.
+When you are deprived of a crucial need--be it food, water, warmth, or sleep--you cannot regain attribute points.
 
-When you are deprived for longer than a day, you become *fatigued* and must make all tests with disadvantage.
+When you are deprived for longer than a day, you become fatigued and must make all tests with disadvantage. Each additional day you are deprived makes the disadvantage worse.
 
 ## Harm and Death
 
-*Harm* subtracts points from an attribute.
+Harm subtracts points from an attribute.
 
 When an attribute's points are reduced below the highest face on its die, reduce the die. Once reduced below a d4, tests can no longer be made using the attribute.
 
@@ -111,8 +113,8 @@ Roll|Death Result
 
 ## Healing and Rest
 
-*Healing* recovers attribute points.
+Healing recovers attribute points.
 
 When an attribute's points are increased to the highest face on a die, increase its die.
 
-Whenever you take a few minutes to *rest* and eat or drink, you may recover points by succeeding on a test with the corresponding attribute. When you rest for the night on a full stomach, the test automatically succeeds.
+Whenever you take a few minutes to rest and eat or drink, you may recover points up to the next die. When you rest for the night on a full stomach, you may recover all your points.
