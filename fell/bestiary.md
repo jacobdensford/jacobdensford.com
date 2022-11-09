@@ -12,7 +12,7 @@ link: '/fell'
 
 ### Flaming Skull
 
-*A floating skull with a flickering green flame within.*  
+*A floating skull with a flickering green flame within.*
 **HD:** d8 | **HP:** 8  
 Flames (2 harm)
 
