@@ -27,6 +27,6 @@ To play, you will need these rules, at least one set of [polyhedral dice](https:
 
 <hr/>
 
-Fell v0.1. Written by [Jacob Densford](https://jacobdensford.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Fell v0.1. Written by [Jacob Densford](https://jacobdensford.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Names, traits, and spells from *[Cairn](https://cairnrpg.com/)* by *[Yochai Gal](https://newschoolrevolution.com/)*.
 
 </footer>
