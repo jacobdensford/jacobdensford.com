@@ -99,11 +99,11 @@ When you are deprived for longer than a day, you become fatigued and must make a
 
 Harm subtracts points from an ability.
 
-When an ability's points are reduced below the highest face on its die, reduce the die. Once reduced below a d4, tests can no longer be made using the ability.
+In rare cases, extreme harm reduces an ability's die.
 
-When an ability's points are reduced to 0, roll on the death table.
+When an ability's points are reduced to 0 or its die reduced below a d4, roll on the death table.
 
-Roll|Death Result
+d4|Death
 :--|---
 1|Dead
 2|Dead in 1d4 rounds unless treated
@@ -114,6 +114,6 @@ Roll|Death Result
 
 Healing recovers ability points.
 
-When an ability's points are increased to the highest face on a die, increase its die.
+Whenever you take a few minutes to rest and eat or drink, leaving yourself exposed, you may roll an ability die and recover that many points. When you rest for the night on a full stomach, you may recover all your points.
 
-Whenever you take a few minutes to rest and eat or drink, leaving yourself exposed, you may recover points up to the next die. When you rest for the night on a full stomach, you may recover all your points.
+After a full week of comfortable rest and hearty meals, you may restore a reduced ability die to normal.

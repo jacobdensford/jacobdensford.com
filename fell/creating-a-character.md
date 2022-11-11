@@ -200,50 +200,44 @@ You have three abilities:
 - **Intellect (INT):** Aim, cunning, intelligence, perception
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
-Each has ability points (or AP) and a corresponding ability die (or AD).
+Each has an ability die (or AD) ranging from d4 to d12.
 
-Roll 4d4 for each ability to determine your ability points and ability die.
+Each also has ability points (or AP) equal to the highest number on the ability's die.
 
-AP|AD
+Roll on the following table three times to assign ability dice and gain ability points.
+
+d8|Attribute Die
 :--|:--
-0-3|d0
-4-5|d4
-6-7|d6
-8-9|d8
-10-11|d10
-12-19|d12
-20|d20
+1-4|d4
+5-6|d6
+7-8|d8
 
 ## Backgrounds
 
-Roll your highest ability die on its background table to gain a background and associated skills, equipment, and features.
+Roll on the backgrounds table to gain a background and associated skills and equipment.
 
-BOD Roll|Background
+d20|Background
 :--|---
-1-2| **gravedigger:** *lore*, //
-3-4| **farmer:** *athletics*, //
-5-6| **butcher:** *speechcraft*, //
-7-8| **carpenter:** *skullduggery*, //, //
-9-10| **blacksmith:** *repair*, //, //
-11-12| **hunter:** *survival*, //, //
-
-INT Roll|Background
-:--|---
-1-2| **cutpurse:** *skullduggery*, //
-3-4| **gambler:** *discernment*, //
-5-6| **merchant:** *speechcraft*, //
-7-8| **outlaw:** *survival*, //, 1 skill
-9-10| **bard:** *performance*, //, 2 skills
-11-12| **scholar:** *lore*, //, 3 skills
-
-WIL Roll|Background
-:--|---
-1-2| **noble:** *speechcraft*, //
-3-4| **priest:** *performance*, //
-5-6| **abbot:** *discernment*, //
-7-8| **herbalist:** *survival*, //, 1 spell
-9-10| **alchemist:** *lore*, //, 2 spells
-11-12| **magician:** *skullduggery*, //, 3 spells
+1| **Alchemist:** *lore*, firebomb (d6, 2 harm, blast), bottle, fire oil
+2| **Bard:** *performance*, dagger (d4, 1 harm), musical instrument, face paint
+3| **Blacksmith:** *repair*, hammer (d4, 1 harm), helmet (1 protection), bellows
+4| **Burglar:** *skullduggery*, crowbar (d4, 1 harm), lockpicks, rope (50ft)
+5| **Butcher:** *speechcraft*, cleaver (d4, 1 harm), salt, meat hook
+6| **Carpenter:** *skullduggery*, chisel (d4, 1 harm), nails, hand drill
+7| **Farmer:** *athletics*, pitchfork (d4, 1 harm), cookpot, pouch of seed
+8| **Gambler:** *discernment*, firebomb (d6, 2 harm, blast), cards, dice
+9| **Gravedigger:** *lore*, shovel (d4, 1 harm), lantern, cross necklace
+10| **Herbalist:** *survival*, sheers (d4, 1 harm), mortar & pestle, herbs
+11| **Hunter:** *survival*, sling (d4, 1 harm), knife (d4, 1 harm), rodent trap
+12| **Magician:** *skullduggery*, staff (d4, 1 harm), hourglass, goat
+13| **Mercenary:** *athletics*, club (d4, 1 harm), shield (+1 protection), lucky charm
+14| **Merchant:** *speechcraft*, ornamental sword (d4, 1 harm), ledger, cart
+15| **Miner:** *survival*, pick (d4, 1 harm), lantern, canary
+16| **Noble:** *speechcraft*, family sword (d6, 2 harm), book of genealogy, mirror
+17| **Outlaw:** *survival*, shortsword (d4, 1 harm), shortbow (d4, 1 harm), arrows
+18| **Priest:** *performance*, censer (d4, 1 harm), holy water, incense
+19| **Servant:** *discernment*, stolen dagger (d4, 1 harm), soap, incriminating letters
+20| **Scholar:** *lore*, letter opener (d4, 1 harm), book, quill & ink
 
 ## Skills
 
@@ -251,28 +245,19 @@ You have a skill die (or SD) equal to your INT ability die.
 
 You may roll your skill die whenever you perform a test using one of your skills.
 
-When you gain an undefined skill, roll on the skill table to determine which one.
-
-d8|Skill
-:--|:--
-1|athletics
-2|discernment
-3|lore
-4|performance
-5|repair
-6|skullduggery
-7|speechcraft
-8|survival
-
 ## Spells
 
-You must roll a test to cast a spell. Roll a spell die (or SD) of any size for each casting, and subtract its result from your WIL.
+You must roll a test to cast a spell. Roll a spell die (or SD) of any size as part of the test, subtracting its result from your WIL.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
-For the purpose of spells, an object is anything that can be held in one hand, a creature is anything about the size of a human, and a room is about thirty by thirty square feet.
+Roll your WIL die on the table below to see if you know any spells. If you do, roll on the spell table to determine which ones.
 
-When you gain an undefined spell, roll on the spell table to determine which one.
+WIL|Spells Known
+:--|:--
+1-4|0
+5-6|1
+7-8|2
 
 d100|Spell|Effect
 :--|---|---
@@ -381,9 +366,11 @@ d100|Spell|Effect
 
 You have 4+BOD equipment slots (or slots).
 
+In addition to the equipment granted by your background, you start with three days' rations, a torch, and 3d6 coin.
+
 Weapons grant a steel die (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll.
 
-Armor grants protection from harm in the form of protection points (or PP). Instead of taking harm to your ability, you may choose to take it to your protection. Once out of PP, the armor is broken and must be repaired before granting this benefit again.
+Armor grants protection from harm in the form of protection points (or PP). Instead of taking harm to your ability, you may choose to take it to your protection. Once out of protection, the armor is broken and must be repaired before granting this benefit again.
 
 Bulky equipment uses 2 slots and generally requires two hands to carry or wield.
 
@@ -425,7 +412,6 @@ holy water|25
 horn|10
 hourglass|50
 incense|10
-ink|5
 instrument (musical)|100
 ladder (10ft, bulky)|10
 lamp oil|5
@@ -436,6 +422,7 @@ lockpicks|10
 manacles|10
 metal file|5
 mirror|5
+mortar & pestle|5
 nails|3
 net|10
 oilskin bag|5
@@ -443,7 +430,7 @@ paint|10
 pick|10
 pulley|10
 pole (10ft)|5
-quill|5
+quill & ink|10
 rations (per day)|5
 rodent trap|10
 rope (25ft)|5
@@ -508,31 +495,33 @@ warhammer (d8, 2 harm)|30
 
 Armor|Cost
 :--|:--
-shield (1 protection)|10
-helmet (1 protection)|10
-gambeson (1 protection)|15
+shield (+1 protection)|10
+helmet (+1 protection)|10
+gambeson (+1 protection)|15
 brigandine (1 protection, bulky)|20
 chainmail (2 protection, bulky)|40
 plate (3 protection, bulky)|60
 
 ## Character Advancement
 
-You start at level 1. Each time you return to relative safety after a dangerous encounter, increase your level.
+Each time you return to relative safety after a dangerous encounter, you may roll each ability's die. Increase the die by one if you roll its highest number. Reduce it if you roll its lowest.
 
-When your level reaches the highest number on a die, roll that die against each of your abilities. If you roll equal to or higher than an ability, increase it by 1 to a maximum of 20.
+Instead of increasing your INT die, you may gain a new skill.
+
+Instead of increasing your WIL die, you may gain a new spell.
 
 ## Example Character
 
-**Name:**
+**Name:** Mannog Burl
 
-**Traits:**
+**Traits:** flabby body, soft skin, filthy hair, broken speech, filthy clothing, honorable virtue, vain vice, wise reputation, demoted misfortune
 
-**BOD:** 7/7 (d6) -- *Protection:* 2/2 | **INT:** 8/8 (d8) | **WIL:** 5/5 (d4)
+**BOD:** 4/d4 -- **Protection:** 0/0 | **INT:** 8/d8 | **WIL:** 8/d8
 
-**Skills (d8):** Skullduggery, Speechcraft
+**Background:** Hunter
 
-**Spells:**
+**Skills (d8):** *survival*
 
-**Equipment (5/10 slots):** light armor (2 protection, bulky), dagger (d4, 1 harm), shortbow (d4, 1 harm), arrows, lockpicks, 10 coin
+**Spells:** *Command* (A target obeys a single three-word command that does not cause it harm), *Comprehend* (You become fluent in all languages for a short while)
 
-**XP:** 0/20 (d0)
+**Equipment (5/8 slots):** sling (d4, 1 harm), knife (d4, 1 harm), rodent trap, rations (3 days), torch, 12 coin
