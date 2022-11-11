@@ -6,7 +6,7 @@ link: '/fell'
 
 # Creating a Character
 
-You are a player character (or PC)--a knave, wretch, or even a hero--seeking fortune in a corrupted land filled with danger.
+You are a player character (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger.
 
 ## Name
 
@@ -206,7 +206,7 @@ Each also has ability points (or AP) equal to the highest number on the ability'
 
 Roll on the following table three times to assign ability dice and gain ability points.
 
-d8|Attribute Die
+d8|Ability Die
 :--|:--
 1-4|d4
 5-6|d6
@@ -453,11 +453,13 @@ whistle|2
 wolfsbane|10
 
 Animal|Cost
+:--|:--
 goat|15
 horse|75
 mule|30
 
 Vehicle|Cost
+:--|:--
 carriage|350
 cart|30
 rowboat|100
@@ -522,6 +524,6 @@ Instead of increasing your WIL die, you may gain a new spell.
 
 **Skills (d8):** *survival*
 
-**Spells:** *Command* (A target obeys a single three-word command that does not cause it harm), *Comprehend* (You become fluent in all languages for a short while)
+**Spells:** *Command* (a target obeys a single three-word command that does not cause it harm), *Comprehend* (you become fluent in all languages for a short while)
 
 **Equipment (5/8 slots):** sling (d4, 1 harm), knife (d4, 1 harm), rodent trap, rations (3 days), torch, 12 coin
