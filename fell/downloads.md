@@ -5,3 +5,6 @@ link: '/fell'
 ---
 
 # Downloads
+
+- [Fell](/files/fell.pdf)
+- [Fell - Booklet](/files/fell-booklet-bw.pdf)
