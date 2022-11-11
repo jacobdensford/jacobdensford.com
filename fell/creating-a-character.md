@@ -194,7 +194,7 @@ d10|Misfortune
 
 ## Ability Dice and Points
 
-Roll on the following table for **Body**, **Intellect**, and **Willpower** to assign **ability dice** and gain **ability points**.
+Roll for **Body**, **Intellect**, and **Willpower** to assign **ability dice** and gain **ability points** equal to the highest number on the ability's die.
 
 d8|Ability Die
 :--|:--
@@ -204,7 +204,7 @@ d8|Ability Die
 
 ## Backgrounds
 
-Roll on the backgrounds table to gain a **background** and associated **skills** and **equipment**.
+Roll to gain a **background** and associated **skills** and **equipment**.
 
 d20|Background
 :--|---
@@ -237,7 +237,7 @@ In addition to the equipment granted by your background, you start with three da
 
 You have a **steel die** granted by your weapon, a **skill die** equal to your INT ability die, and you may have a **spell die**.
 
-Roll your WIL die on the table below to see if you know any **spells**. If you do, roll on the spell table in the next section to determine which ones.
+Roll your WIL die to see if you know any **spells**. If you do, roll on the spell table in the next section to determine which ones.
 
 WIL|Spells Known
 :--|:--

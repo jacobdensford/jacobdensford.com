@@ -43,7 +43,7 @@ d8|Skill
 
 If you have any **spells**, you gain a **spell die** (or SD) of any size which you can change as often as you'd like.
 
-You must roll a test to cast a spell. Roll your spell die, subtracting its result from your WIL.
+You must roll a test to cast a spell. You may roll your spell die as part of the test, subtracting its result from your WIL.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
@@ -354,17 +354,23 @@ Roll|Reaction
 8-9|Friendly
 10-12|Helpful
 
+### Leverage
+
 If you have **leverage**, you can modify an NPC's reaction by rolling a contest, improving their disposition with every hit.
 
 ## Combat
 
 **Combat** involves a series of **rounds** made up of **turns**. A round lasts long enough for everyone to make a test and traverse a room--about six seconds.
 
+### Turns
+
 Each side acts as a group, taking their turns together. When it isn't obvious, roll a contest to determine which side takes their turns first.
+
+### Attacking
 
 During your turn, you may move and make a test, often an **attack**. Attacking is a contest. Whoever wins deals each hit as harm.
 
-## Morale
+### Morale
 
 When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a contest. If you win, roll your WILL ability die on the **morale** table to see what the surviving enemies do.
 
