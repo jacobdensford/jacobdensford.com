@@ -12,8 +12,8 @@ link: '/fell'
 
 ### Flaming Skull
 
-*A floating skull with a flickering green flame within.*
-**HD:** d8 | **HP:** 8  
+*A floating skull with a flickering green flame within.*  
+**HIT:** 8/d8  
 Flames (2 harm)
 
 ## K - O
@@ -21,7 +21,7 @@ Flames (2 harm)
 ### Mimic
 
 *Appears to be a simple chest but isn't.*  
-**HD:** d8 | **HP:** 8  
+**HIT:** 8/d8  
 Pseudopod (1 harm), Bite (2 harm)
 
 ## P - T
@@ -29,7 +29,7 @@ Pseudopod (1 harm), Bite (2 harm)
 ### Skeleton
 
 *Old, rattling bones spring to life.*  
-**HD:** d4 | **HP:** 4  
+**HIT:** 4/d4  
 Shortsword (1 harm)
 
 ## U - Z
@@ -37,11 +37,11 @@ Shortsword (1 harm)
 ### Undead
 
 *Tattered clothes and decayed flesh cling to this reanimated corpse.*  
-**HD:** d6 | **HP:** 6  
+**HIT:** 6/d6  
 Bite (1 harm)
 
 ### Will-o'-the-Wisp
 
 *A glowing blue light dancing between the trees.*  
-**HD:** d4 | **HP:** 4  
+**HIT:** 4/d4  
 Dazzle (1 INT harm)
