@@ -41,7 +41,7 @@ d8|Skill
 
 ## Spells
 
-If you have any **spells**, you gain a **spell die** (or SD) of any size which you can change as often as you'd like.
+If you have any **spells**, you gain a **spell die** (or SD) of any size, which you can change as often as you'd like.
 
 You must roll a test to cast a spell. You may roll your spell die as part of the test, subtracting its result from your WIL.
 
