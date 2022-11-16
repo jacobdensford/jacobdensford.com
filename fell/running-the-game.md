@@ -10,15 +10,25 @@ The **facilitator** plays the corrupted land and its inhabitants, bringing life 
 
 ## Nonplayer Characters
 
-**Nonplayer Characters** can be townsfolk, hirelings, monsters, or anything in between.
+**Nonplayer Characters** (or NPCs) can be townsfolk, hirelings, monsters, or anything in between.
 
-Instead of ability dice and ability points, most nonplayer characters (or NPCs) have a **hit die** (or HD) and **hit points** (or HP). Use their HD and HP for everything that would normally use an ability equivalent.
+All NPCs should have a **name**, a flavorful **description**, and a **drive**.
+
+Instead of ability dice and ability points, most NPCs have a **hit die** (or HD) and **hit points** (or HP). Use their HD and HP for everything that would normally use an ability equivalent.
 
 ## Luck
 
 When the way in which the world reacts to the player characters is uncertain, roll a **luck die**--usually a d6. Higher is better for the PCs. Lower is worse.
 
+Roll a luck die:
+
+- When the player characters stop to rest while in a dangerous location
+- When a player character fails a test
+- After each round of dungeon exploration and wilderness navigation
+
 ## Optional Rules
+
+All rules are optional. These, especially so.
 
 ### Customizing Player Characters
 
@@ -64,7 +74,7 @@ Willpower|Wisdom, Charisma, Intelligence
 
 #### Hit Dice and Hit Points
 
-In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD. If they're meant to be an extreme challenge, use a d12. In rare cases, a d20 might even be appropriate. 
+In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD. If they're meant to be an extreme challenge, use a d12. In rare cases, a d20 might even be appropriate.
 
 #### Damage
 
