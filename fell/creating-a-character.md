@@ -58,6 +58,10 @@ d20|Family Name
 19|Weaver
 20|Wolder
 
+## Age
+
+You are 2d20+10 years old.
+
 ## Traits
 
 Roll for each of your **traits**.
@@ -191,10 +195,6 @@ d10|Misfortune
 8|Discredited
 9|Disowned
 10|Exiled
-
-## Age
-
-You are 2d20+10 years old.
 
 ## Ability Dice and Points
 
