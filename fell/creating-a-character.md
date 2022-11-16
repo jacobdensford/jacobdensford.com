@@ -192,6 +192,10 @@ d10|Misfortune
 9|Disowned
 10|Exiled
 
+## Age
+
+You are 2d20+10 years old.
+
 ## Ability Dice and Points
 
 Roll for **Body**, **Intellect**, and **Willpower** to assign **ability dice** and gain **ability points** equal to the highest number on the ability's die.
@@ -248,6 +252,8 @@ WIL|Spells Known
 ## Example Character
 
 **Name:** Mannog Burl
+
+**Age:** 38
 
 **Traits:** flabby body, soft skin, filthy hair, broken speech, filthy clothing, honorable virtue, vain vice, wise reputation, demoted misfortune
 

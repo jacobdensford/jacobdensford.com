@@ -304,7 +304,7 @@ Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a
 
 Whenever you attempt a **task** that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn how hard it will be and what could go wrong, then roll a **test**.
 
-Collect dice: An ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
+Collect one or two dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
 
 Roll, comparing each die individually to the **difficulty number** (or DN). A die that meets or exceeds the difficulty number counts as a **hit**.
 
@@ -342,6 +342,20 @@ When you test against someone, you each collect dice as normal and roll a **cont
 
 Some tests require more time and effort, and thus require more than one hit to accomplish. Learn how many hits the **extended test** will require, collect dice as normal, and roll. You may repeat the roll to add additional hits once you've dealt with any trouble.
 
+## Turns and Rounds
+
+Time is tracked in *turns* and *rounds*. During a round, everyone takes a turn.
+
+Player characters act as a group, taking their turns together.
+
+When it isn't obvious, roll a contest to determine which side takes their turns first.
+
+In combat, a round lasts long enough for everyone to make a test and traverse a room--about six seconds.
+
+When exploring a dungeon, a round lasts long enough for everyone to make a few tests and investigate an area--about six minutes.
+
+When navigating the wilderness, a round lasts long enough to travel eighteen miles at a steady pace--about six hours.
+
 ## Reactions
 
 When you encounter an NPC who's disposition towards you is not obvious, roll your WIL ability die on the table below to determine their **reaction**.
@@ -358,17 +372,9 @@ Roll|Reaction
 
 If you have **leverage**, you can modify an NPC's reaction by rolling a contest, improving their disposition with every hit.
 
-## Combat
+## Attacking
 
-**Combat** involves a series of **rounds** made up of **turns**. A round lasts long enough for everyone to make a test and traverse a room--about six seconds.
-
-### Turns
-
-Each side acts as a group, taking their turns together. When it isn't obvious, roll a contest to determine which side takes their turns first.
-
-### Attacking
-
-During your turn, you may move and make a test, often an **attack**. Attacking is a contest. Whoever wins deals each hit as harm.
+During your combat turn, you may move and make a test, often an **attack**. Attacking is a contest. Whoever wins deals each hit as harm.
 
 ### Morale
 
