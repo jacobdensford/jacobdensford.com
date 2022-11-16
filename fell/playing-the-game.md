@@ -26,6 +26,8 @@ If you have any **skills**, you gain a **skill die** (or SD) equal to your INT a
 
 You may roll your skill die whenever you perform a test using your skills.
 
+You may learn a number of skills equal to the highest number on your INT ability die.
+
 When you gain an undefined skill, roll on the skill table to determine which one.
 
 d8|Skill
@@ -46,6 +48,8 @@ If you have any **spells**, you gain a **spell die** (or SD) of any size, which 
 You must roll a test to cast a spell. You may roll your spell die as part of the test, subtracting its result from your WIL.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
+
+You may learn a number of spells equal to the highest number on your WIL ability die.
 
 When you gain an undefined spell, roll on the spell table to determine which one.
 
@@ -412,9 +416,9 @@ d4|Death
 
 **Healing** recovers ability points.
 
-Whenever you take a few minutes to **rest** and eat or drink, leaving yourself exposed, you may roll an ability die and recover that many points. When you rest for the night on a full stomach, you may recover all your points.
+Whenever you take a few minutes to **rest** and eat or drink, you may roll each ability die and recover that many points in the corresponding ability. When you rest for the night on a full stomach, you may recover all your points.
 
-After a full week of comfortable rest and hearty meals, you may restore a reduced ability die to normal.
+After a full week of comfortable rest and hearty meals, you may restore a reduced ability die by one level.
 
 ## Character Advancement
 
@@ -422,6 +426,6 @@ Each time you return to relative safety after a dangerous encounter, you may att
 
 Roll each ability's die. Increase the die by one if you roll its highest number. Reduce it if you roll its lowest.
 
-Instead of increasing your INT die, you may gain a new skill.
+Instead of increasing your INT die, you may roll it again, gaining or replacing a skill if the result of the roll is equal to or higher than your current number of skills.
 
-Instead of increasing your WIL die, you may gain a new spell.
+Instead of increasing your WIL die, you may roll it again, gaining or replacing a spell if the result of the roll is equal to or higher than your current number of spells.

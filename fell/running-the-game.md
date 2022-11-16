@@ -22,7 +22,7 @@ When the way in which the world reacts to the player characters is uncertain, ro
 
 Roll a luck die:
 
-- When the player characters stop to rest while in a dangerous location
+- When the player characters stop to rest in a dangerous location
 - When a player character fails a test
 - After each round of dungeon exploration and wilderness navigation
 
