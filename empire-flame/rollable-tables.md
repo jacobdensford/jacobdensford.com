@@ -9,6 +9,7 @@ image: url("/images/efimage.png")
 
   <ul>
     <li><a href="#downtime">Downtime Activities</a></li>
+    <li><a href="#rest">Rest Roleplay</a></li>
   </ul>
 
 </nav>
@@ -85,3 +86,40 @@ Roll 1d100 and add the number of days you spend doing the activity and the relev
 61-80|Earn 1d6 x 5 gp in tips for a good performance.
 81-90|Earn 2d6 x 5 gp for a wonderful performance.
 91 or higher|You gained local renown and wrote a new song that will be sung throughout the ages.
+
+<h2 id="rest">Rest Roleplay</h2>
+
+During short or long rests, at least one character should roleplay a scene. Think about where the characters are and what mundane tasks they might be performing during the rest. Consider what might have been weighing on the characters' minds recently. For inspiration, optionally roll on the tables below.
+
+1d4|Who leads the scene?
+:---|---
+1|Bree
+2|Davos
+3|Ilgiem
+4|Ravyn
+
+1d6|Who joins you?
+:---|---
+1|No one
+2-4|One other person (roll on previous table)
+5-6|Everyone
+
+1d6|What are you doing?
+:---|---
+1|Sitting or leaning restfully
+2|Cleaning, repairing, or polishing equipment
+3|Sorting or counting consumable items
+4|Eating or drinking
+5|Lighting the campfire or gathering firewood and kindling
+6|Pacing around restlessly
+
+1d8|What do you think or talk about?
+:---|---
+1|An event from your past; something from your backgrounds, character traits, ideals, flaws, or bonds
+2|An experience from earlier in the campaign
+3|A character you miss or haven't seen in awhile
+4|A recent person you met or social situation you engaged in
+5|A recent battle or challenging encounter
+6|A recent journey or discovery
+7|The potential repercussions of what you've done
+8|What you think might happen in the future

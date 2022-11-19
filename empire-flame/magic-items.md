@@ -55,6 +55,14 @@ At dawn, the staff gains charges equal to your proficiency bonus. Expend one cha
 
 <h2 id="weapons">Weapons</h2>
 
+### Horn of the Unicorn
+
+*Weapon, legendary (requires attunement by a good-aligned character)*
+
+This pearlescent horn radiates goodness and light whenever it is near evil. It deals 1d8 piercing damage plus 1d4 radiant damage with a successful attack. It grants magical resistance (advantage on saving throws against magic). As an action, it can touch a willing creature and heal 1d8 or remove a disease or poison a number of times per day equal to its wielder's proficiency bonus. It can also touch a willing target to cast the teleport spell with a range of a number of miles equal to the wielder's proficiency bonus half the wielder's proficiency bonus times per day.
+
+Before granting any of these benefits, the horns wielder must prove themselves good, righteous, and worthy.
+
 ### Javelin of Giant-friend
 
 *Weapon, rare (requires attunement)*
@@ -101,6 +109,14 @@ This dagger's black hilt is wrapped by a single ivory snake. The snakes mouth is
 
 When a poison is applied to this dagger through the mouth of  the snake, it runs up through the tail and into the grooves of the blade. Poisons applied to the dagger in this way, they last a full day instead of one hour.
 
+### Wendimu's Poison Blade
+
+*Weapon, rare (requires attunement)*
+
+This short sword has a black hilt wrapped in an ivory snake. The snake's mouth opens at the blade's edge, and a narrow rivulet runs the length of the blade's edge.
+
+When a poison is applied to this blade, its effects are increased. Saving throw DC's are increased by the wielder's proficiency bonus and poison does extra of its highest damage dice equal to the wielder's proficiency bonus. Poisons can be applied to the blade as a bonus action and last for two successful attacks instead of one.
+
 <h2 id="wondrous">Wondrous Items</h2>
 
 ### Amulet of Sune
@@ -123,6 +139,12 @@ This slightly soggy burlap sack contains soil from deep below, deeper even than 
 3-4|The shroomling will also have the blood donor's voice.
 5-6|The shroomling will also have the blood donor's recent memories.
 
+### Basilisk Eye
+
+*Wondrous item, uncommon*
+
+When this glassy eye is turned towards a person or creature, they must succeed on a DC12 CON saving throw or be restrained. They then must succeed on DC12 CON saving throw or be turned to stone.
+
 ### Cloak of the Mists
 
 *Wonderous item, uncommon*
@@ -134,6 +156,32 @@ Mist bellows around this grey cloak, lightly obscuring those who wear it. When w
 *Wondrous item, uncommon*
 
 A fine robe, exquisite in every stitch. It changes to the color of whatever its wearer desires. The robe does not decay with age. Anything stored within the robe gains that same property. If the robe is ever damaged or dirtied, it is once again clean and mended by the next dawn. Any items stored within the robe are also mended, as if the *mending* spell was cast on them.
+
+### Heart of the Bahir
+
+*Wondrous item, very rare*
+
+This fist sized blue heart beats with electricity. Though the creature from whom it was harvested is dead, the heart lives on.
+
+When you cast a concentration spell, you may power the spell with the heart. When a spell is cast in this way, you do not have to maintain concertation on it. The spell lasts for its full duration unless the heart is destroyed.
+
+When this heart is clenched in your fist, add 1d6 lightning damage to your unarmed attacks.
+
+A poison may be harvested from the blood of the heart that adds 1d8 lightning damage to a weapon's attack.
+
+When you gain a level and eat a bite of the heart, roll a constitution saving throw. You may unlearn spells and learn new spells whose spell levels add up to your new level. The saving throw DC is equal to 8 + the total level of spells you changed. If you fail the save, reduce your constitution score by 1.
+
+After the sixth bite or harvesting of blood, the heart is dried up and consumed.
+
+### Pouch of Frozen Rainbows
+
+*Wonderour item, rare*
+
+This pouch is made of several colors of felt. When opened multicolored light shines out.
+
+Objects placed in this pouch pass into a pocket dimension where time stands still.
+
+When the drawstring is removed, the pouch can be laid flat on the ground, creating an opening large enough for a person to pass through.
 
 ### Rings of the Aboleth
 
