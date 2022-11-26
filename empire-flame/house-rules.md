@@ -48,6 +48,10 @@ Toxium|Effect
 175|The poison causes the paralyzed condition
 200|The poison causes the unconscious condition
 
+## Equipment Packs
+
+Rather than tracking each individual item in an equipment pack, when you need an item, haven't already used it, and it would make sense for your pack to contain it, roll a check. If the item is included in the pack by default (PHB 151) or if the item is listed in the Adventuring Gear table (PHB 150) and costs 5 gp or less, the DC is 5. If the item is included in one of the other listed packs or if the item is listed in the Adventuring Gear table and costs 25 gp or less, the DC is 10. If the item is listed in the Adventuring Gear table and costs 50 gp or less, the DC is 15. If the item is listed in the Adventuring Gear table and costs 100 gp or less, the DC is 20. For other items that make sense, consult your DM for the DC.
+
 ## Expendable Equipment
 
 Rather than tracking each piece of expendable equipment, a consequence of rolling a natural 1 on a d20 is that you expend your last use of that piece of equipment. This rule applies to anything that is normally purchased in collections of 20 (arrows or crossbow bolts, for example), or that is intentionally purchased in a collection of 20 (20 rations or 20 diamonds as spell components, for example). If using the equipment does not usually trigger a roll, the DM may still call for one to see if you run out.

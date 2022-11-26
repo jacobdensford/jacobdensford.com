@@ -287,4 +287,22 @@ The Mistguard headed out into the Yondar Steppes, seeking Zalabor's tower. First
 
 **Minalday, the 29th of Falling, in the 371st year of the Alliance**
 
+### Episode 13: The Hunt
+
+**Falliday, the 35th day of Falling, in the 371st year of the Alliance**
+
+*The Mistguard must collect hair, teeth, nails, or skin from the four guests to use in their polymorph potions. They must also ensure those guests don't arrive to the banquet, which would cast suspicion on their disguises.Once at the banquet, they must steal Wendimu's necklace, which is rumored to contain a shard of the gemstone of creation.*
+
+### Episode 14: Lightning Heart
+
+**Falliday, the 45th day of Falling, in the 371st year of the Alliance**
+
+*After hearing rumors during their travels of the powers the heart of a behir possesses, the Mistguard continue on to the Three Gem Cavern in the hopes of slaying the beast.*
+
+### Episode 15:
+
+**Falliday, the 1st day of Frosting, in the 372nd year of the Alliance (or the 1st Broken Year)**
+
+*It is just after midnight on the first day of the new year. The Mistguard have stopped to camp about a half-day's ride from Aelmore.*
+
 <h2 id="part3">Part III: Cataclysm</h2>

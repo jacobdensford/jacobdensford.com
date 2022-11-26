@@ -178,6 +178,7 @@ Address potentially sensitive topics that might come up during play, establish l
 - [Astral](https://astraltabletop.com/)
 - [Fantasy Grounds](https://www.fantasygrounds.com/)
 - [Owlbear Rodeo](https://www.owlbear.rodeo/)
+- [Fari App](https://fari.app/)
 
 ## Tools for Online Play
 

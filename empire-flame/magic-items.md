@@ -55,13 +55,21 @@ At dawn, the staff gains charges equal to your proficiency bonus. Expend one cha
 
 <h2 id="weapons">Weapons</h2>
 
+### Atheld Finch's Poisoned Needle Launcher
+
+*Weapon, rare*
+
+An intricate device that attaches to the wrist to be hidden by one's sleeve.
+
+One application of poison for three needles, ten foot range, bonus action to launch, Dex Save DC10 + slight of hand or DEX + PROF--whichever is higher--to dodge.
+
 ### Horn of the Unicorn
 
 *Weapon, legendary (requires attunement by a good-aligned character)*
 
-This pearlescent horn radiates goodness and light whenever it is near evil. It deals 1d8 piercing damage plus 1d4 radiant damage with a successful attack. It grants magical resistance (advantage on saving throws against magic). As an action, it can touch a willing creature and heal 1d8 or remove a disease or poison a number of times per day equal to its wielder's proficiency bonus. It can also touch a willing target to cast the teleport spell with a range of a number of miles equal to the wielder's proficiency bonus half the wielder's proficiency bonus times per day.
+This pearlescent horn radiates goodness and light whenever it is near evil. It is a short sword (1d6 piercing) whose damage type is also radiant. It grants magical resistance (advantage on saving throws against magic). As an action, it can cast *cure wounds* (healing 1d8) or *lesser restoration* (curing a disease or poison) a number of times per day equal to its wielder's proficiency bonus. It can also cast *teleport* once per day, with the limitation that the destination must be within one mile.
 
-Before granting any of these benefits, the horns wielder must prove themselves good, righteous, and worthy.
+Before being able to attune to this weapon, the horns wielder must prove themselves good, righteous, and worthy.
 
 ### Javelin of Giant-friend
 
@@ -125,7 +133,7 @@ When a poison is applied to this blade, its effects are increased. Saving throw 
 
 This ancient, tarnished, silver amulet depicts the face of the goddess Sune. Dirt and moss fill the crevasses of the goddess's face. It glows gently with untapped power.
 
-The barer of this amulet can call on Sune to cast *dispel good and evil*. As an action, beseech Sune to grant you power and roll a d20. The roll's DC is 20 - your proficiency bonus. Once cast, or if you roll below 10 - your proficiency bonus, the amulet dims and won't work again until the next dawn. The amulet can act as a holy symbol and spellcasting focus.
+The barer of this amulet can call on Sune to cast *dispel good and evil*. As an action, beseech Sune to grant you power and roll a d20. The roll's DC is 20 - your proficiency bonus. Once cast, or if you roll below 10 - your proficiency bonus, the amulet dims and won't work again until the next dawn. The amulet's power can only be attempted once per creature until the next dawn. The amulet can act as a holy symbol and spellcasting focus.
 
 ### Bag of Blood-Speckled Shroomlings
 
@@ -151,9 +159,9 @@ When this glassy eye is turned towards a person or creature, they must succeed o
 
 Mist bellows around this grey cloak, lightly obscuring those who wear it. When wearing this cloak, you count as one level more obscured than normal for the purpose of stealth checks. Additionally, your vision can pierce mist, seeing anything heavily obscured as lightly obscured and lightly obscured as if it wasn't obscured at all.
 
-### Color Changing Robe of Preservation
+### Color Changing Robe of Preservation (+1)
 
-*Wondrous item, uncommon*
+*Wondrous item, uncommon (requires attunement)*
 
 A fine robe, exquisite in every stitch. It changes to the color of whatever its wearer desires. The robe does not decay with age. Anything stored within the robe gains that same property. If the robe is ever damaged or dirtied, it is once again clean and mended by the next dawn. Any items stored within the robe are also mended, as if the *mending* spell was cast on them.
 
@@ -163,13 +171,20 @@ A fine robe, exquisite in every stitch. It changes to the color of whatever its 
 
 This fist sized blue heart beats with electricity. Though the creature from whom it was harvested is dead, the heart lives on.
 
-When you cast a concentration spell, you may power the spell with the heart. When a spell is cast in this way, you do not have to maintain concertation on it. The spell lasts for its full duration unless the heart is destroyed.
+When you cast a concentration spell, you may power the spell with the heart a number of times per day equal to your proficiency bonus. When a spell is cast in this way, you do not have to maintain concertation on it. The spell lasts for its full duration unless the heart is destroyed.
 
-When this heart is clenched in your fist, add 1d6 lightning damage to your unarmed attacks.
+When this heart is clenched in your fist, add 1d8 lightning damage to your unarmed attacks a number of times per day equal to your proficiency bonus.
 
-A poison may be harvested from the blood of the heart that adds 1d8 lightning damage to a weapon's attack.
+A poison may be harvested from the blood of the heart that adds 1d8 lightning damage to a weapon's attack. When harvested, you gain a number of uses equal to your proficiency bonus.
 
-When you gain a level and eat a bite of the heart, roll a constitution saving throw. You may unlearn spells and learn new spells whose spell levels add up to your new level. The saving throw DC is equal to 8 + the total level of spells you changed. If you fail the save, reduce your constitution score by 1.
+When you gain a level and eat a bite of the heart, roll a constitution saving throw and choose an option:
+
+- You may unlearn spells and learn new spells. The saving throw DC is equal to 8 + the total level of spells you changed.
+- You may reasign your ability scores. The saving throw DC is equal to 8 + four times the number of points changed.
+- You may change your subclass. The saving throw DC is equal to 8 + the number of levels gained since taking the original subclass.
+- You may change your skills. The saving throw DC is equal to 8 + twice the number of skills changed.
+
+If you fail the save, roll a d6. On a 1, roll on the indefinite madness table (DMG 260). On a 2-5, roll on the long-term madness table (DMG 260). On a 6, roll on the short-term madness table (DMG 259).
 
 After the sixth bite or harvesting of blood, the heart is dried up and consumed.
 
