@@ -25,6 +25,17 @@ Roll a luck die:
 - When the player characters stop to rest in a dangerous location
 - When a player character fails a test
 - After each round of dungeon exploration and wilderness navigation
+- To see if a trap is triggered
+
+## Time
+
+One way to track time while navigating the wilderness, exploring a dungeon or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, lightsources, etc. Then begin again.
+
+During an encounter, one full die represents a minute.
+
+While exploring a dungeon, one full die represents an hour.
+
+When navigating the wilderness, one full die represents six hours.
 
 ## Optional Rules
 
@@ -36,7 +47,7 @@ Instead of rolling on tables, player characters can be created using choice.
 
 For names and traits, player characters may choose or write their own for each.
 
-For ability dice, they may assign a d6 to each or assign a d4 to one, a d6 to one, and a d8 to one.
+For ability dice, they may assign a d4 to one and a d6 to two, or a d4 to two and a d8 to one.
 
 For backgrounds, they may choose or create their own, gaining one skill of their choice and purchasing equipment worth 60 coin.
 
@@ -56,9 +67,16 @@ If a spell causes harm, follow the guidelines in the section on converting OSR m
 
 If a spell requires a save, it's a contest.
 
-### Spell Levels
+If the spell uses levels, consult the table below to see which spell die must be rolled.
 
-If playing with spells that have levels, or spells that are modified by the level at which they are cast, the spell die used for the test must have at least as many faces as the spell's level or the level used.
+Level|Die
+:--|:--
+1|d4
+2|d6
+3|d8
+4|d10
+5|d12
+6|d20
 
 ### Converting OSR Material
 
@@ -74,7 +92,21 @@ Willpower|Wisdom, Charisma, Intelligence
 
 #### Hit Dice and Hit Points
 
-In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD. If they're meant to be an extreme challenge, use a d12. In rare cases, a d20 might even be appropriate.
+In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD. If they're meant to be an extreme challenge, use a d12. In rare cases, a d20 might even be appropriate. Use the table below as a guideline.
+
+OSR HD|Fell HD
+:--|:--
+1|d4
+2|d4
+3|d6
+4|d6
+5|d8
+6|d8
+7|d10
+8|d10
+9|d12
+10|d12
+11+|d20
 
 #### Damage
 
