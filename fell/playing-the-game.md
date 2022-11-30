@@ -12,7 +12,7 @@ Most of the time, you will simply say what you do in response to the corrupted l
 
 Whenever you attempt a **task** that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn how hard it will be and what could go wrong, then roll a **test**.
 
-Collect one or two dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
+Collect dice: an ability die from your relevant ability; any applicable steel, skill, or spell dice; and any bonus dice.
 
 Roll, comparing each die individually to the **difficulty number** (or DN). A die that meets or exceeds the difficulty number counts as a **hit**.
 
@@ -40,13 +40,15 @@ When a situation grants you **advantage,** you may roll your dice one step highe
 
 When a situation imposes **disadvantage**, you must roll your dice one step lower.
 
+Advantages and disadvantages stack and cancel each other out one for one.
+
 ### Help
 
-When someone else makes a test, you may roll a relevant steel, skill, or spell die and add your hit to their test as **help**.
+When someone else makes a test, you may roll relevant steel, skill, spell, or bonus dice and add any hits to their test as **help**.
 
 ### Contests
 
-When you test against someone, you each collect dice as normal and roll a **contest**. Compare dice individually, highest to lowest. Higher numbers beat lower and count as hits. In a tie, bigger dice beat smaller.
+When you test against someone, you each collect dice as normal and roll a **contest**. Compare dice individually, highest to lowest. Higher numbers beat lower and count as hits. In a tie, bigger dice beat smaller. Uncontested dice hit.
 
 ### Extended Tests
 
@@ -84,7 +86,9 @@ If you have **leverage**, you can modify an NPC's reaction by rolling a contest,
 
 ## Attacking
 
-During your encounter turn, you may move and make a test, often an **attack**. Attacking is a contest. Whoever wins deals each hit as harm. Often, it requires the player characters acting together (helping) to have any hope of harming an enemy.
+During your encounter turn, you may move and make a test, often an **attack**. Attacking is a contest. Whoever wins deals each hit as harm.
+
+Most of the time, it is advantagous to attack together against a single opponent. In such a case, one player character leads the contest, rolling as normal. Everyone else helps. Hits deal the leading PC's harm. Misses deal harm to the leading PC first.
 
 ### Morale
 

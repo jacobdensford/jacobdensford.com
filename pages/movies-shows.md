@@ -7,10 +7,22 @@ tags:
   - recommendations
 url: /pages/movies-shows/
 layout: main.njk
-date: 2022-10-14
+date: 2022-11-29
 ---
 
 # Movies and Shows
+
+## *Alien vs. Predator*
+
+Not a great movie, but I kind of enjoyed it. It would make a really good dungeon for a tabletop roleplaying game.
+
+If you managed to watch the last one, you'll probably make it through this one. **I don't recommend it.**
+
+## *Predator 2*
+
+Very campy. Mostly bad. Also good.
+
+If that's the kind of thing you're into, you might like it. **I don't recommend it.**
 
 ## *Predator*
 
@@ -25,3 +37,11 @@ I decided I would take the Fall to watch through some horror science fiction ser
 It was pretty good! It was nice to see them spend some time on character. I picked up on a few callbacks to the original movie, which were fun. At least, I think I did. Haven't watched it since I was nine or ten. (It was the fist rated R movie I ever saw. Got in big trouble, too.)
 
 I watched this movie on the 11th of August, 2022. **I recommend it.**
+
+### To Watch
+
+- AVP 2
+- Predators
+- The Predator
+- Alien Franchise
+- The Thing
