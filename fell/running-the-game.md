@@ -71,12 +71,12 @@ If the spell uses levels, consult the table below to see which spell die must be
 
 Level|Die
 :--|:--
-1|d4
-2|d6
-3|d8
-4|d10
-5|d12
-6|d20
+1|d2
+2|d4
+3|d6
+4|d8
+5|d10
+6|d12
 
 ### Converting OSR Material
 

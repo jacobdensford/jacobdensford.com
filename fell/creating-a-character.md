@@ -272,6 +272,8 @@ In addition to the equipment granted by your background, you start with three da
 
 Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll.
 
+Small weapons can be wielded in your off hand, granting their steel die as a **bonus die** (or BD).
+
 **Harm** reduces your target's ability points.
 
 **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield.
@@ -410,7 +412,7 @@ plate (3 protection, bulky)|60
 
 ## Hirelings
 
-**Hirelings** are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD) with 4 hit points (or HP), one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's skill die to your roll.
+**Hirelings** are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD) with 4 hit points (or HP), one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's dice to your roll.
 
 Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or an additional skill. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
 
