@@ -99,6 +99,11 @@ table {
   width: 100%;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+  background-color: lightgray;
 }
 
 footer {

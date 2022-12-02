@@ -70,7 +70,7 @@ If a spell requires a save, it's a contest.
 If the spell uses levels, consult the table below to see which spell die must be rolled.
 
 Level|Die
-:--|:--
+:--|--:
 1|d2
 2|d4
 3|d6
@@ -85,7 +85,7 @@ Level|Die
 Each of the three abilities in *Fell* roughly corresponds to three OSR abilities, but it's not an exact conversion.
 
 Fell|OSR
-:--|---
+:--|--:
 Body|Strength, Constitution, Dexterity
 Intellect|Intelligence, Dexterity, Wisdom
 Willpower|Wisdom, Charisma, Intelligence
@@ -95,7 +95,7 @@ Willpower|Wisdom, Charisma, Intelligence
 In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD. If they're meant to be an extreme challenge, use a d12. In rare cases, a d20 might even be appropriate. Use the table below as a guideline.
 
 OSR HD|Fell HD
-:--|:--
+:--|--:
 1|d4
 2|d4
 3|d6
@@ -113,7 +113,7 @@ OSR HD|Fell HD
 Typically, use the damage die as the steel die. On a hit, apply harm according to the following table.
 
 Die|Harm
-:--|:--
+:--|--:
 1d4|1
 1d6|2
 1d8|3
@@ -125,7 +125,7 @@ Die|Harm
 Convert a tasks difficulty class (or DC) to a difficulty number (or DN) using the table below.
 
 DC|DN
-:--|:--
+:--|--:
 0-4|0
 5-9|2
 10-14|4
