@@ -17,7 +17,7 @@ Collect dice: an ability die from your relevant ability; any applicable steel, s
 Roll, comparing each die individually to the **difficulty number** (or DN). A die that meets or exceeds the difficulty number counts as a **hit**.
 
 DN|Difficulty
-:--|:--
+:--|--:
 0|Very easy
 2|Easy
 4|Moderate
@@ -73,7 +73,7 @@ When navigating the wilderness, a round lasts long enough to travel three miles 
 When you encounter an NPC who's disposition towards you is not obvious, roll your WIL ability die on the table below to determine their **reaction**.
 
 Roll|Reaction
-:--|:--
+:--|--:
 1-3|Hostile
 4-5|Wary
 6-7|Indifferent
@@ -95,7 +95,7 @@ Most of the time, it is advantagous to attack together against a single opponent
 When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a contest. If you win, roll your WILL ability die on the **morale** table to see what the surviving enemies do.
 
 Roll|Morale
-:--|:--
+:--|--:
 1-3|Retreat
 4-5|Flee
 6-7|Surender Conditionally
@@ -116,7 +116,7 @@ In rare cases, extreme harm reduces an ability's die.
 When an ability's points are reduced to 0 or its die reduced below a d4, roll on the **death** table.
 
 d4|Death
-:--|---
+:--|--:
 1|Dead
 2|Dead in 1d4 rounds unless treated
 3|Dead in 1d4 hours unless treated

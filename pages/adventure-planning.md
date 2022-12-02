@@ -139,6 +139,7 @@ Address potentially sensitive topics that might come up during play, establish l
   - [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
   - [Dungeon Scrawl by ProbableTrain](https://app.dungeonscrawl.com/)
   - [Printable Graph Paper of All Kinds](https://incompetech.com/graphpaper/)
+  - [Gridzzly | Make your own grid paper](http://www.gridzzly.com/)
   - [Fantastic Maps - Tips and Tricks](http://www.fantasticmaps.com/category/tips-and-tricks/)
   - [Dungeondraft](https://dungeondraft.net/)
 
@@ -188,6 +189,7 @@ Address potentially sensitive topics that might come up during play, establish l
 ## Online Shared Dice Rollers
 
 - [dddice](https://dddice.com/)
+- [Roll With Me](https://rollwithme.xyz/)
 
 ## Publishers and Stores
 
