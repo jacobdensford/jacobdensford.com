@@ -249,9 +249,7 @@ If you have any **skills**, you gain a **skill die** (or SD) equal to your INT a
 
 You may roll your skill die whenever you perform a test using your skills.
 
-You may learn a number of skills equal to the highest number on your INT ability die.
-
-When you gain an undefined skill, roll on the skill table to determine which one.
+Later, you may learn a total number of skills equal to the highest number on your INT ability die. When you gain an undefined skill, roll on the skill table to determine which one.
 
 d8|Skill
 :--|--:
@@ -276,7 +274,7 @@ Small weapons can be wielded in your off hand, granting their steel die as a **b
 
 **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield.
 
-**Blast** harm applies to multiple targets in close proximity. If unsure how many targets are affected, roll the weapon's steel die.
+**Blast** harm may be split among multiple targets in close proximity. If unsure how many targets are affected, roll the weapon's steel die.
 
 Armor grants **protection**, reducing the amount of harm taken from an attack.
 
@@ -412,7 +410,7 @@ plate (3 protection, bulky)|60
 
 **Hirelings** are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD) with 4 hit points (or HP), one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's die to your roll.
 
-Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or an additional skill. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
+Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or an additional skill. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
 
 ## Spells
 
@@ -426,13 +424,11 @@ Roll|Spells Known
 
 If you have any **spells**, you gain a **spell die** (or SD) of any size, which you can change as often as you'd like.
 
-You must roll a test using your spell die to cast a spell. If you fail the test, subtract the result of your spell die from your WIL.
+You must roll a test using your spell die to cast a spell. Subtract the result of your spell die from your WIL.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
-You may learn a number of spells equal to the highest number on your WIL ability die.
-
-When you gain an undefined spell, roll on the spell table to determine which one.
+Later, you may learn a total number of spells equal to the highest number on your WIL ability die. When you gain an undefined spell, roll on the spell table to determine which one.
 
 d100|Spell|Effect
 :--|---|---

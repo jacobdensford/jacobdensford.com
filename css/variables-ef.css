@@ -5,12 +5,41 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'averia_serif_libre';
+    src: url('/fonts/averiaseriflibre-light-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'averia_serif_libre';
+    src: url('/fonts/averiaseriflibre-italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'averia_serif_libre';
+    src: url('/fonts/averiaseriflibre-bolditalic-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'averia_serif_libre';
+    src: url('/fonts/averiaseriflibre-bold-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
 :root {
   --background-color: #ffffff;
   --title-color: #e40712;
   --title-hover-color: #e40712;
   --nav-color: #000000;
   --nav-hover-color: #e40712;
+  --nav-font: 'alte_haas_grotesk', sans-serif;
   --text-color: #000000;
   --link-color: #000000;
   --link-hover-color: #e40712;
@@ -22,7 +51,7 @@
   --title-font-size: 3.7rem;
   --title-font: 'breathe_fire_iiiregular', sans-serif;
   --heading-font: 'alte_haas_grotesk', sans-serif;
-  --main-font: 'cmu_typewriter_text', Courier, 'Courier New', monospace;
+  --main-font: 'averia_serif_libre', Courier, 'Courier New', monospace;
   --letter-font: 'breathe_fire_iiiregular', sans-serif;
   --cirlce-background-image: none;
   --circle-font-size: 3.5rem;

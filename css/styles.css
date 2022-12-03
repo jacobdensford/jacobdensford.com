@@ -20,7 +20,7 @@
 }
 
 @font-face {
-    font-family: 'cmu_typewriter_text_bold';
+    font-family: 'cmu_typewriter_text';
     src: url('/fonts/cmuntb-webfont.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
@@ -139,7 +139,7 @@ nav > ul {
 }
 
 nav > ul {
-  font-family: sans-serif;
+  font-family: var(--nav-font);
   list-style-type: none;
   list-style-position: inside;
   text-transform: uppercase;
