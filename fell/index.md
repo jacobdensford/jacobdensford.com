@@ -10,7 +10,7 @@ link: '/fell'
 
 One player is the facilitator, playing the world and its inhabitants. They adjudicate the rules and describe the situations the player characters find themselves in.
 
-The rest are player characters, acting as knaves, wretches, or scoundrels seeking fortune in a corrupted land filled with danger. They ask questions and interact with the environment.
+The rest are player characters, acting as knaves, wretches, and scoundrels seeking fortune in a corrupted land filled with danger. They ask questions and interact with the environment.
 
 The facilitator tells the player characters what happens and when to roll dice.
 
@@ -29,6 +29,6 @@ To play, you will need these rules, at least one set of [polyhedral dice](https:
 
 <hr/>
 
-Fell v0.1. Written by [Jacob Densford](https://jacobdensford.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Names, traits, and spells from *[Cairn](https://cairnrpg.com/)* by *[Yochai Gal](https://newschoolrevolution.com/)*.
+Fell v0.2. Written by [Jacob Densford](https://jacobdensford.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Names, traits, and spells from *[Cairn](https://cairnrpg.com/)* by *[Yochai Gal](https://newschoolrevolution.com/)*.
 
 </footer>
