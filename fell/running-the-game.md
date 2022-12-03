@@ -29,7 +29,7 @@ Roll a luck die:
 
 ## Time
 
-One way to track time while navigating the wilderness, exploring a dungeon or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, lightsources, etc. Then begin again.
+One way to track time while navigating the wilderness, exploring a dungeon or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
 
 During an encounter, one full die represents a minute.
 
@@ -92,7 +92,7 @@ Willpower|Wisdom, Charisma, Intelligence
 
 #### Hit Dice and Hit Points
 
-In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD. If they're meant to be an extreme challenge, use a d12. In rare cases, a d20 might even be appropriate. Use the table below as a guideline.
+In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD (or even a d2). If they're meant to be an extreme challenge, use a d12 (or even a d20). Use the table below as a guideline.
 
 OSR HD|Fell HD
 :--|--:
@@ -110,26 +110,4 @@ OSR HD|Fell HD
 
 #### Damage
 
-Typically, use the damage die as the steel die. On a hit, apply harm according to the following table.
-
-Die|Harm
-:--|--:
-1d4|1
-1d6|2
-1d8|3
-1d10|4
-1d12|5
-
-#### Difficulty Class
-
-Convert a tasks difficulty class (or DC) to a difficulty number (or DN) using the table below.
-
-DC|DN
-:--|--:
-0-4|0
-5-9|2
-10-14|4
-15-19|6
-20-24|8
-25-29|10
-30+|12
+Typically, use the damage die as the steel die.

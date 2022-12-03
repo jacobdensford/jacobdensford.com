@@ -12,7 +12,7 @@ You are a **player character** (or PC)--a knave, wretch, or scoundrel seeking fo
 
 Roll for your given and family **name**.
 
-d20|Given Name|
+d20|Given Name
 :--|--:
 1|Agune
 2|Arwel
@@ -94,11 +94,11 @@ d10|Skin
 
 d10|Hair
 :--|--:
-1| Bald
-2| Braided
-3| Curly
-4| Filthy
-5| Frizzy
+1|Bald
+2|Braided
+3|Curly
+4|Filthy
+5|Frizzy
 6|Long
 7|Luxurious
 8|Oily
@@ -208,7 +208,7 @@ Each has an **ability die** (or AD) ranging from d4 to d12.
 
 Each also has **ability points** (or AP) equal to the highest number on the ability's die.
 
-Roll for **Body**, **Intellect**, and **Willpower** to assign **ability dice** and gain **ability points** equal to the highest number on the ability's die.
+Roll for each ability to assign dice and gain points.
 
 d8|Ability Die
 :--|--:
@@ -222,26 +222,26 @@ Roll to gain a **background** and associated **skills** and **equipment**.
 
 d20|Background
 :--|---
-1| **Alchemist:** *lore*, firebomb (d6, 2 harm, blast), bottle, fire oil
-2| **Bard:** *performance*, dagger (d4, 1 harm), musical instrument, face paint
-3| **Blacksmith:** *repair*, hammer (d4, 1 harm), helmet (1 protection), bellows
-4| **Burglar:** *skullduggery*, crowbar (d4, 1 harm), lockpicks, rope (50ft)
-5| **Butcher:** *speechcraft*, cleaver (d4, 1 harm), salt, meat hook
-6| **Carpenter:** *skullduggery*, chisel (d4, 1 harm), nails, hand drill
-7| **Farmer:** *athletics*, pitchfork (d4, 1 harm), cookpot, pouch of seed
-8| **Gambler:** *discernment*, firebomb (d6, 2 harm, blast), cards, dice
-9| **Gravedigger:** *lore*, shovel (d4, 1 harm), lantern, cross necklace
-10| **Herbalist:** *survival*, sheers (d4, 1 harm), mortar & pestle, herbs
-11| **Hunter:** *survival*, sling (d4, 1 harm), knife (d4, 1 harm), rodent trap
-12| **Magician:** *skullduggery*, staff (d4, 1 harm), hourglass, goat
-13| **Mercenary:** *athletics*, club (d4, 1 harm), shield (+1 protection), lucky charm
-14| **Merchant:** *speechcraft*, ornamental sword (d4, 1 harm), ledger, cart
-15| **Miner:** *survival*, pick (d4, 1 harm), lantern, canary
-16| **Noble:** *speechcraft*, family sword (d6, 2 harm), book of genealogy, mirror
-17| **Outlaw:** *survival*, shortsword (d4, 1 harm), shortbow (d4, 1 harm), arrows
-18| **Priest:** *performance*, censer (d4, 1 harm), holy water, incense
-19| **Servant:** *discernment*, stolen dagger (d4, 1 harm), soap, incriminating letters
-20| **Scholar:** *lore*, letter opener (d4, 1 harm), book, quill & ink
+1| **Alchemist:** *lore*, firebomb (d6, blast), bottle, fire oil
+2| **Bard:** *performance*, dagger (d4), musical instrument, face paint
+3| **Blacksmith:** *repair*, hammer (d4), helmet (1 protection), bellows
+4| **Burglar:** *skullduggery*, crowbar (d4), lockpicks, rope (50ft)
+5| **Butcher:** *speechcraft*, cleaver (d4), salt, meat hook
+6| **Carpenter:** *skullduggery*, chisel (d4), nails, hand drill
+7| **Farmer:** *athletics*, pitchfork (d4), cookpot, pouch of seed
+8| **Gambler:** *discernment*, firebomb (d6, blast), cards, dice
+9| **Gravedigger:** *lore*, shovel (d4), lantern, cross necklace
+10| **Herbalist:** *survival*, sheers (d4), mortar & pestle, herbs
+11| **Hunter:** *survival*, sling (d4), knife (d4), rodent trap
+12| **Magician:** *skullduggery*, staff (d4), hourglass, goat
+13| **Mercenary:** *athletics*, club (d4), shield (+1 protection), lucky charm
+14| **Merchant:** *speechcraft*, ornamental sword (d4), ledger, cart
+15| **Miner:** *survival*, pick (d4), lantern, canary
+16| **Noble:** *speechcraft*, family sword (d6), book of genealogy, mirror
+17| **Outlaw:** *survival*, shortsword (d4), shortbow (d4), arrows
+18| **Priest:** *performance*, censer (d4), holy water, incense
+19| **Servant:** *discernment*, stolen dagger (d4), soap, incriminating letters
+20| **Scholar:** *lore*, letter opener (d4), book, quill & ink
 
 ## Skills
 
@@ -249,7 +249,7 @@ If you have any **skills**, you gain a **skill die** (or SD) equal to your INT a
 
 You may roll your skill die whenever you perform a test using your skills.
 
-You may know a number of skills equal to half the highest number on your INT ability die.
+You may learn a number of skills equal to the highest number on your INT ability die.
 
 When you gain an undefined skill, roll on the skill table to determine which one.
 
@@ -274,13 +274,13 @@ Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, y
 
 Small weapons can be wielded in your off hand, granting their steel die as a **bonus die** (or BD).
 
-**Harm** reduces your target's ability points.
-
 **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield.
 
 **Blast** harm applies to multiple targets in close proximity. If unsure how many targets are affected, roll the weapon's steel die.
 
-Armor grants **protection** from harm in the form of **protection points** (or PP). Instead of taking harm to your ability, you may choose to take it to your protection. Once out of protection, the armor is broken and must be repaired before granting this benefit again.
+Armor grants **protection**, reducing the amount of harm taken from an attack.
+
+One hundred coins takes up one slot. Fewer coins than that fit in your pockets and don't use a slot.
 
 Unless otherwise noted, items use one slot, harm is dealt to one target's BOD, and protection only applies to BOD.
 
@@ -295,7 +295,7 @@ book|50
 bottle|2
 bucket|5
 caltrops|10
-candle|1
+candle (6 hours)|1
 cards|5
 chain (10ft)|10
 chalk|1
@@ -320,8 +320,7 @@ hourglass|50
 incense|10
 instrument (musical)|100
 ladder (10ft, bulky)|10
-lamp oil|5
-lantern|10
+lantern (3 hours)|10
 lantern oil|5
 lens|10
 lockpicks|10
@@ -337,7 +336,7 @@ pick|10
 pulley|10
 pole (10ft)|5
 quill & ink|10
-rations (per day)|5
+rations (three days)|5
 rodent trap|10
 rope (25ft)|5
 sack|5
@@ -351,8 +350,7 @@ spyglass|40
 tar|10
 tent (bulky)|15
 tinderbox|5
-torch|1
-travel rations|10
+torch (1 hour)|1
 twine (300ft)|5
 waterskin|5
 whistle|2
@@ -376,43 +374,43 @@ Service|Cost
 good meal|3
 hireling (per day)|5
 pint of ale|1
-repair armor (per PP)|15
+repair armor (per protection)|15
 silver weapon|20
 warm bed (per night)|3
 
 Weapon|Cost
 :--|--:
-arrows|10
-battle axe (d8, 3 harm, bulky)|35
-bolts|15
-club (d4, 1 harm)|10
-crossbow (d8, 3 harm, bulky)|40
-dagger (d4, 1 harm)|10
-firebomb (d6, 2 harm, blast)|15
-flail (d8, 3 harm, bulky)|35
-greatsword (d8, 3 harm, bulky)|45
-handaxe (d4, 1 harm)|15
-longbow (d6, 2 harm, bulky)|25
-longsword (d6, 2 harm)|30
-mace (d6, 2 harm)|25
-shortsword (d4, 1 harm)|20
-shortbow (d4, 1 harm)|15
-sling (d4, 1 harm)|5
-staff (d4, 1 harm)|5
-warhammer (d8, 2 harm)|30
+arrows (20)|10
+battle axe (d8, bulky)|35
+bolts (20)|15
+club (d4)|10
+crossbow (d8, bulky)|40
+dagger (d4)|10
+firebomb (d6, blast)|15
+flail (d8 bulky)|35
+greatsword (d8, bulky)|45
+handaxe (d4)|15
+longbow (d6, bulky)|25
+longsword (d6)|30
+mace (d6)|25
+shortsword (d4)|20
+shortbow (d4)|15
+sling (d4)|5
+staff (d4)|5
+warhammer (d8)|30
 
 Armor|Cost
 :--|--:
 shield (+1 protection)|10
 helmet (+1 protection)|10
-gambeson (+1 protection)|15
+gambeson (+1 protection, bulky)|15
 brigandine (1 protection, bulky)|20
 chainmail (2 protection, bulky)|40
 plate (3 protection, bulky)|60
 
 ## Hirelings
 
-**Hirelings** are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD) with 4 hit points (or HP), one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's dice to your roll.
+**Hirelings** are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD) with 4 hit points (or HP), one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's die to your roll.
 
 Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or an additional skill. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
 
@@ -428,7 +426,7 @@ Roll|Spells Known
 
 If you have any **spells**, you gain a **spell die** (or SD) of any size, which you can change as often as you'd like.
 
-You must roll a test to cast a spell. You may roll your spell die as part of the test, subtracting its result from your WIL.
+You must roll a test using your spell die to cast a spell. If you fail the test, subtract the result of your spell die from your WIL.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
@@ -522,7 +520,7 @@ d100|Spell|Effect
 82   | Spider Climb      | You can climb surfaces like a spider.
 83   | Summon Cube       | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes.
 84   | Swarm             | You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks.
-85   | Telekinesis       | You may mentally 1 move item under 60lbs.
+85   | Telekinesis       | You may mentally move 1 item under 60lbs.
 86   | Telepathy         | Two creatures can hear each other's thoughts, no matter how far apart.
 87   | Teleport          | An object or person you can see is transported from one place to another in a 50ft radius.
 88   | Target Lure       | An object you touch becomes the target of any nearby spell.
@@ -547,7 +545,7 @@ d100|Spell|Effect
 
 **Traits:** flabby body, soft skin, filthy hair, broken speech, filthy clothing, honorable virtue, vain vice, wise reputation, demoted misfortune
 
-**BOD:** 4/d4 -- **Protection:** 0/0 | **INT:** 8/d8 | **WIL:** 8/d8
+**BOD:** 4/d4 -- **Protection:** 0 | **INT:** 8/d8 | **WIL:** 8/d8
 
 **Background:** Hunter
 
@@ -555,4 +553,4 @@ d100|Spell|Effect
 
 **Spells:** *Command* (a target obeys a single three-word command that does not cause it harm), *Comprehend* (you become fluent in all languages for a short while)
 
-**Equipment (5/8 slots):** sling (d4, 1 harm), knife (d4, 1 harm), rodent trap, rations (3 days), torch, 12 coin
+**Equipment (5/8 slots):** sling (d4), knife (d4), rodent trap, rations (3 days), torch, 12 coin
