@@ -29,7 +29,7 @@ Roll a luck die:
 
 ## Time
 
-One way to track time while navigating the wilderness, exploring a dungeon or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
+One way to track time while navigating the wilderness, exploring a dungeon, or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
 
 During an encounter, one full die represents a minute.
 

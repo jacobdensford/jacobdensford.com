@@ -14,7 +14,7 @@ link: '/fell'
 
 *A floating skull with a flickering green flame within.*  
 **HIT:** 8/d8  
-Flames (2 harm)
+Flames (d6)
 
 ## K - O
 
@@ -22,7 +22,7 @@ Flames (2 harm)
 
 *Appears to be a simple chest but isn't.*  
 **HIT:** 8/d8  
-Pseudopod (1 harm), Bite (2 harm)
+Pseudopod (d4), Bite (d6)
 
 ## P - T
 
@@ -30,7 +30,7 @@ Pseudopod (1 harm), Bite (2 harm)
 
 *Old, rattling bones spring to life.*  
 **HIT:** 4/d4  
-Shortsword (1 harm)
+Shortsword (d4)
 
 ## U - Z
 
@@ -38,10 +38,10 @@ Shortsword (1 harm)
 
 *Tattered clothes and decayed flesh cling to this reanimated corpse.*  
 **HIT:** 6/d6  
-Bite (1 harm)
+Bite (d4)
 
 ### Will-o'-the-Wisp
 
 *A glowing blue light dancing between the trees.*  
 **HIT:** 4/d4  
-Dazzle (1 INT harm)
+Dazzle (d4, INT)

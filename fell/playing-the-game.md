@@ -38,7 +38,7 @@ If none of the dice hit, the test fails. You might still succeed at the task, bu
 
 When a situation grants you **advantage,** you may roll your dice one step higher.
 
-When a situation imposes **disadvantage**, you must roll your dice one step lower.
+When a situation imposes **disadvantage**, you must roll your dice one step lower. If this would reduce a die below d4, you simply cannot roll it.
 
 Advantages and disadvantages stack and cancel each other out one for one.
 
@@ -62,9 +62,9 @@ Player characters act as a group, taking their turns together.
 
 When it isn't obvious and multiple sides are involved, roll a contest to determine which side takes their turns first.
 
-During an encounter, a round lasts long enough for everyone to make a test and traverse a room--about ten seconds.
+During an encounter, a round lasts long enough for everyone to perform a task and traverse a room--about ten seconds.
 
-When exploring a dungeon, a round lasts long enough for everyone to make a few tests and investigate an area--about ten minutes.
+When exploring a dungeon, a round lasts long enough for everyone to perform a few tasks and investigate an area--about ten minutes.
 
 When navigating the wilderness, a round lasts long enough to travel three miles at a steady pace--about one hour.
 
@@ -92,7 +92,7 @@ Most of the time, it is advantageous to attack together against a single opponen
 
 ### Morale
 
-When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a contest. If you win, roll your WILL ability die on the **morale** table to see what the surviving enemies do.
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a WIL contest. If you win, roll your WILL ability die on the **morale** table to see what the surviving enemies do.
 
 Roll|Morale
 :--|--:
@@ -124,7 +124,7 @@ d4|Death
 3|Dead in 1d4 hours unless treated
 4|Dead in 1d4 days unless treated
 
-When an ability's die would be reduced below d4, you die.
+When an ability's die would be reduced below d4 from harm, you die.
 
 ## Healing and Rest
 
