@@ -12,6 +12,8 @@ date: 2022-09-30
 
 # Adventure Planning
 
+This style of adventure and campaign planning is specifically for an epic fantasy style of game, where the player characters are the heroes and the center of an ongoing narrative. It helps facilitate a story game style of play. But with small adjustments, I think it could also work for a more OSR-like approach.
+
 ## Heroes First
 
 Refamiliarize yourself with the heroes, what they've done, and what they plan to do before you start planning the adventure. Note their unique abilities. Be aware of their personality traits, ideals, bonds, and flaws. Keep their goals in mind. Review any notes you took during the previous session, especially any that pertain to the heroes. Build an adventure that's uniquely designed with the heroes in mind.
@@ -120,7 +122,7 @@ Address potentially sensitive topics that might come up during play, establish l
 ## Session One and Beyond
 
 - Start the session by asking the players what happened last time, filling in any relevant missing details.
-- Run the adventure fast and loose. Be a fan of the heroes. Present them with a challenging world. Play to find out what happens.
+- Run the adventure fast and loose. Be a fan of the heroes. But don't pull your punches. Present them with a challenging world. Play to find out what happens.
 - End the session by asking for and gracefully accepting feedback. Do [Roses & Thorns (and Buds)](https://gnomestew.com/roses-thorns-and-buds/) or [Stars & Wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes).
 - Establish in-between session expectations.
 - Schedule next session.
@@ -168,18 +170,18 @@ Address potentially sensitive topics that might come up during play, establish l
 
 ## Homebrewed Content for Indie TRPGS
 
-- [Ex Libris | Mostly Mork Borg](https://exlibrisrpg.com/)
+- [Ex Libris | Mork Borg, Death in Space, more coming soon](https://exlibrisrpg.com/)
 
 ## Virtual Tabletops
 
 - [One More Multiverse - Virtual Tabletop](https://multiverse.com/)
-- [Foundry Virtual Tabletop]([https://foundryvtt.com/](https://foundryvtt.com/))
+- [Foundry Virtual Tabletop](https://foundryvtt.com/)
 - [Menyr Virtual Tabletop (and more)](https://menyr.nogstudio.com/)
 - [Roll20 Online Virtual Tabletop](https://roll20.net/)
-- [Astral](https://astraltabletop.com/)
 - [Fantasy Grounds](https://www.fantasygrounds.com/)
 - [Owlbear Rodeo](https://www.owlbear.rodeo/)
 - [Fari App](https://fari.app/)
+- [Role](https://www.playrole.com/)
 
 ## Tools for Online Play
 
