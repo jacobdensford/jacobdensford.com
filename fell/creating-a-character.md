@@ -385,7 +385,7 @@ club (d4)|10
 crossbow (d8, bulky)|40
 dagger (d4)|10
 firebomb (d6, blast)|15
-flail (d8 bulky)|35
+flail (d8, bulky)|35
 greatsword (d8, bulky)|45
 handaxe (d4)|15
 longbow (d6, bulky)|25
@@ -395,7 +395,7 @@ shortsword (d4)|20
 shortbow (d4)|15
 sling (d4)|5
 staff (d4)|5
-warhammer (d8)|30
+warhammer (d8, bulky)|30
 
 Armor|Cost
 :--|--:

@@ -178,6 +178,8 @@ Tewondros was the brother of Nishanesti.
 
 ### Wendimu
 
+![Wendimu](/images/wendimu.jpg)
+
 Wendimu was the sister of Nishanesti.
 
 ### Zalabor the Multicolored

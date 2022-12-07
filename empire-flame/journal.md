@@ -299,10 +299,16 @@ The Mistguard headed out into the Yondar Steppes, seeking Zalabor's tower. First
 
 *After hearing rumors during their travels of the powers the heart of a behir possesses, the Mistguard continue on to the Three Gem Cavern in the hopes of slaying the beast.*
 
-### Episode 15:
+### Episode 15: Plumbing Problems
 
 **Falliday, the 1st day of Frosting, in the 372nd year of the Alliance (or the 1st Broken Year)**
 
 *It is just after midnight on the first day of the new year. The Mistguard have stopped to camp about a half-day's ride from Aelmore.*
+
+### Episode 16: Gathering Storm
+
+**Endday, the 2nd day of Frosting, in the 372nd year of the Alliance (or the 1st Broken Year)**
+
+*The Mistguard seek to return to Pandara. But first, there is a hydra to defeat.*
 
 <h2 id="part3">Part III: Cataclysm</h2>

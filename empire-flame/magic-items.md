@@ -9,6 +9,7 @@ image: url("/images/efimage.png")
 
   <ul>
     <li><a href="#potions">Potions</a></li>
+    <li><a href="#rings">Rings</a></li>
     <li><a href="#staffs">Staffs</a></li>
     <li><a href="#weapons">Weapons</a></li>
     <li><a href="#wondrous">Wondrous Items</a></li>
@@ -23,6 +24,7 @@ image: url("/images/efimage.png")
 <h2 id="potions">Potions</h2>
 
 ### Myconid Essence
+*Potion, uncommon*
 
 The corked vial swirls with glittering gold particles. One whiff creates one of the following effects:
 
@@ -39,9 +41,29 @@ The corked vial swirls with glittering gold particles. One whiff creates one of 
 9|The creature immediately casts the *detect thoughts* spell, requireing no components. Constitution is the spellcasting ability for this spell.
 10|Magical mists pour out of the creature's eyes and ears, acting as a *fog cloud* spell for 1 hour that is centered on the creature and moves with it.
 
-### Potion of Giant Strength
+<h2 id="rings">Rings</h2>
 
-When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
+### Rings of the Aboleth
+
+*Ring, rare (requires attunement by a spellcaster)*
+
+These inky black rings are slimy and cold to the touch.
+
+Ring 1: As an action, touch or make a melee attack against a charmed creature, deal 3d6 psychic damage, and gain that number of temporary hit points. HP gained in this way dissipates at dawn.
+
+~~Ring 2: At dawn, the ring gains charges equal to your proficiency bonus. As an action, you can expend a charge to cast *charm person* (using the caster's spell save DC).~~
+
+Ring 3: At dawn, the ring gains charges equal to your proficiency bonus. As an action, you can expend a charge to cast *sending*.
+
+**Curse:** Each dawn, make a DC 10 Wisdom saving throw. Failing the save causes the finger which bears the ring to fall off and transform into a tiny aboleth that doubles in size each hour until it is full size. Once worn, these rings can not be removed without dispelling their curse.
+
+### Zalabor's Rings of Resistance
+
+*Ring, rare (requires attunement)*
+
+These gaudy, begemmed rings glisten with prismatic light. Each grants resistance to a different kind of damage.
+
+Rings Collected: Ring of Poison Resistance, Ring of Fire Resistance, Ring of Lightning Resistance
 
 <h2 id="staffs">Staffs</h2>
 
@@ -101,7 +123,7 @@ This weapon, from hilt to blade-tip, is blacker than night and wreathed in dark 
 
 When this blade is drawn, its barer must make a DC 10 Wisdom saving throw or be charmed by the blade and forced to attack and draw blood from the closest living being. Each time this blade draws blood, it gets larger, its damage increases, and its sway on its barer grows stronger. For the purposes of proficiency and attack rolls the blade is a dagger, even after growing. It strengthens as follows: 1d6, 1d8, 1d10, 1d12. Beyond that point, it needs two hands to wield and has reach, increasing in damage as follows: 2d6, 2d8, 2d10, 2d12, 3d6, 3d8, 3d10, 3d12, 4d6, etc. The blade requires a Wisdom saving throw to stop attacking and avoid being charmed. The save's DC increases by 1 for each successful attack after being drawn. After succeeding on the save, the blade's size and strength diminishes by one step per round.
 
-### Tewodros' Dagger
+### Tewodros' Dagger (x2)
 
 *Weapon, rare (requires attunement)*
 
@@ -109,7 +131,7 @@ Black smoke curls around this dagger, obscuring it from view.
 
 As an bonus action, you can cause the dagger's smoke to bellow around you, acting as a *fog cloud* spell, heavily obscuring a 20-foot-radius sphere which is centered on you and moves with you. Dispelling the smoke requires another bonus action.
 
-### Wendimu's Dagger
+### Wendimu's Dagger (x2)
 
 *Weapon, rare (requires attunement)*
 
@@ -159,12 +181,6 @@ When this glassy eye is turned towards a person or creature, they must succeed o
 
 Mist bellows around this grey cloak, lightly obscuring those who wear it. When wearing this cloak, you count as one level more obscured than normal for the purpose of stealth checks. Additionally, your vision can pierce mist, seeing anything heavily obscured as lightly obscured and lightly obscured as if it wasn't obscured at all.
 
-### Color Changing Robe of Preservation (+1)
-
-*Wondrous item, uncommon (requires attunement)*
-
-A fine robe, exquisite in every stitch. It changes to the color of whatever its wearer desires. The robe does not decay with age. Anything stored within the robe gains that same property. If the robe is ever damaged or dirtied, it is once again clean and mended by the next dawn. Any items stored within the robe are also mended, as if the *mending* spell was cast on them.
-
 ### Heart of the Bahir
 
 *Wondrous item, very rare*
@@ -188,35 +204,17 @@ If you fail the save, roll a d6. On a 1, roll on the indefinite madness table (D
 
 After the sixth bite or harvesting of blood, the heart is dried up and consumed.
 
-### Pouch of Frozen Rainbows
-
-*Wonderour item, rare*
-
-This pouch is made of several colors of felt. When opened multicolored light shines out.
-
-Objects placed in this pouch pass into a pocket dimension where time stands still.
-
-When the drawstring is removed, the pouch can be laid flat on the ground, creating an opening large enough for a person to pass through.
-
-### Rings of the Aboleth
-
-*Wondrous item, rare (requires attunement by a spellcaster)*
-
-These inky black rings are slimy and cold to the touch.
-
-Ring 1: As an action, touch or make a melee attack against a charmed creature, deal 3d6 psychic damage, and gain that number of temporary hit points. HP gained in this way dissipates at dawn.
-
-Ring 2: At dawn, the ring gains charges equal to your proficiency bonus. As an action, you can expend a charge to cast *charm person* (using the caster's spell save DC).
-
-Ring 3: At dawn, the ring gains charges equal to your proficiency bonus. As an action, you can expend a charge to cast *sending*.
-
-**Curse:** Each dawn, make a DC 10 Wisdom saving throw. Failing the save causes the finger which bears the ring to fall off and transform into a tiny aboleth that doubles in size each hour until it is full size. Once worn, these rings can not be removed without dispelling their curse.
-
 ### Vainglorious Boots
 
 *Wondrous item, rare (requires attunement)*
 
 These gaudy boots shimmer like diamonds as they spew purple smoke. Once per day, you must pay these boots a complement and roll a DC 10 Charisma check. On a success, the boots are flattered—add 20 feet to your movement (walking) speed and gain advantage on Dexterity (Performance) checks and Dexterity saving throws, but also disadvantage on Dexterity (Stealth) checks. On a failure, you still gain the benefits, but you must succeed on a DC 15 Charisma saving throw or be charmed by the Vainglorious Boots for 1d12 hours. While charmed, the wearer will be forced to use the boot's powers to put themselves in harms way by acting in a vain or boastful manner. If the wearer takes damage, they can repeat the saving throw, ending the effect early on a success.
+
+### Zalabor's Color Changing Robe of Preservation, +1
+
+*Wondrous item, uncommon (requires attunement)*
+
+A fine robe, exquisite in every stitch. It changes to the color of whatever its wearer desires. The robe does not decay with age. Anything stored within the robe gains that same property. If the robe is ever damaged or dirtied, it is once again clean and mended by the next dawn. Any items stored within the robe are also mended, as if the *mending* spell was cast on them.
 
 ### Zalabor's Pouch of Costly Components
 
@@ -225,3 +223,13 @@ These gaudy boots shimmer like diamonds as they spew purple smoke. Once per day,
 This pouch is made of many colorful panels of silken fabric stitched together with golden thread.
 
 When you cast a spell and reach into the pouch looking for components, roll a number of d6s equal to your highest unused spell slot. If your highest roll is a 1-2, the pouch is found to be empty and will remain so until the next day at dawn; 3-4, you find the components you need, after which the pouch will remain empty until the next day at dawn; 5-6, you find the component you need and believe there are likely more components remaining inside.
+
+### Zalabor's Pouch of Frozen Rainbows
+
+*Wonderour item, rare*
+
+This pouch is made of several colors of felt. When opened multicolored light shines out.
+
+Objects placed in this pouch pass into a pocket dimension where time stands still.
+
+When the drawstring is removed, the pouch can be laid flat on the ground, creating an opening large enough for a person to pass through.
