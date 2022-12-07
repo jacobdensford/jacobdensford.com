@@ -50,7 +50,7 @@ Toxium|Effect
 
 ## Equipment Packs
 
-Rather than tracking each individual item in an equipment pack, when you need an item, haven't already used it, and it would make sense for your pack to contain it, roll a check. If the item is included in the pack by default (PHB 151) or if the item is listed in the Adventuring Gear table (PHB 150) and costs 5 gp or less, the DC is 5. If the item is included in one of the other listed packs or if the item is listed in the Adventuring Gear table and costs 25 gp or less, the DC is 10. If the item is listed in the Adventuring Gear table and costs 50 gp or less, the DC is 15. If the item is listed in the Adventuring Gear table and costs 100 gp or less, the DC is 20. For other items that make sense, consult your DM for the DC.
+Rather than tracking each individual item in an equipment pack, when you need an item, haven't already used it, and it would make sense for your pack to contain it, roll a check. If the item is included in the pack by default (PHB 151) or if the item is listed in the Adventuring Gear table (PHB 150) and costs 5 gp or less, the DC is 10. If the item is included in one of the other listed packs or if the item is listed in the Adventuring Gear table and costs 25 gp or less, the DC is 15. If the item is listed in the Adventuring Gear table and costs 50 gp or less, the DC is 20. If the item is listed in the Adventuring Gear table and costs 100 gp or less, the DC is 25. For other items that make sense, consult your DM for the DC.
 
 ## Expendable Equipment
 
@@ -58,7 +58,7 @@ Rather than tracking each piece of expendable equipment, a consequence of rollin
 
 ## Inspiration
 
-Inspiration can be spent either before or after rolling to gain advantage on an attack role, save, or ability check.
+Inspiration can be spent to turn disadvantage into advantage or to reroll an attack role, save, or ability check.
 
 Inspiration can be handed out at any time at the DM's discretion. However, certain situations always grant inspiration:
 
@@ -74,6 +74,17 @@ Rather than tracking experience points, leveling up happens after completing a n
 
 When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's multiclass abilities or for gaining a feat.
 
+## Luck
+
+When the way in which the world reacts to the player characters is uncertain, the DM may roll a **luck die**--usually a d6. Higher is better for the PCs. Lower is worse.
+
+Some examples of when a luck die might be rolled:
+
+- When the player characters stop to rest in a dangerous location
+- When a player character fails a test
+- After each round of dungeon exploration and wilderness navigation
+- To see if a trap is triggered
+
 ## Magical Items
 
 Once held, it is obvious if an item is magical or not. An item's magical properties can only be identified through experimentation or the use of a spell.
@@ -82,14 +93,14 @@ Characters can attune to a number of magical items equal to their proficiency bo
 
 ## Saving Throws
 
-If an effect grants you a bonus to AC, be it numerical or advantage, that same bonus is applied to Dexterity saving throws.
+If an effect grants a bonus to AC, be it numerical or advantage, that same bonus is applied to Dexterity saving throws.
 
 ## Skill and Ability Checks
 
-Checks are only made when the thing is possible to do and there is a risk of failure. If something would have a DC of 5 or lower, no check is needed. The character can simply accomplish the task. Also, if 5 plus the character's relevant modifiers (ability and proficiency bonuses) would meet or exceed the DC, the task is automatically successful without a roll. Conversely, if something would have a DC higher than 30, no check is made. The task is impossible for the character to accomplish.
+Checks are only made when the task is possible to do and the outcome is uncertain and potentially dangerous. If something would have a DC of 5 or lower, no check is needed. The character can simply accomplish the task. Also, if 5 plus the character's relevant modifiers (ability and proficiency bonuses) would meet or exceed the DC, the task is automatically successful without a roll. Conversely, if something would have a DC higher than 30, no check is made. The task is impossible for the character to accomplish.
 
 Rolling a 1 is always a failure and rolling a 20 is always a success, even if the modified roll would not have failed or succeeded numerically when compared to the DC of the task. For example, a roll of 20 + 2 WIS + 2 proficiency would still succeed on a DC 25 task even though the roll only adds up to 24. Failing or succeeding a roll in such a way introduces new complications or advantages.
 
 Failing a roll doesn't always mean failing a check. At the DM's discretion, a failed roll can still accomplish a given task, provided some other complication or danger is introduced. For example, a roll to pick a lock might fail to meet the DC of the task, but the character could still manage to pick the lock. In such a case, it may have taken so long that a roving monster stumbled upon the party in the process, introducing a new danger. Players can request this compromise from the DM after a failed role, but the DM is under no obligation to offer it.
 
-Passive checks are not used. Instead, the DM will call for a roll when a check wouldn't automatically succeed or fail.
+Passive checks are not used. Instead, the DM will call for a roll when a check wouldn't automatically succeed or fail. In rare cases, the DM may make such rolls on the player character's behalf in private.
