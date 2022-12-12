@@ -12,7 +12,7 @@ Most of the time, you will use your wits and simply say what you do in response 
 
 Whenever you attempt a **task** that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn how hard it will be and what could go wrong, then roll a **test**.
 
-Collect up to three dice: an ability die from your relevant ability; an applicable steel, skill, or spell die; and a bonus die if you have one for the given task.
+Collect dice: an ability die from your relevant ability; applicable steel, skill, and spell dice; and bonus dice if you have any for the given task.
 
 Roll, comparing each die individually to the **difficulty number** (or DN). A die that meets or exceeds the difficulty number counts as a **hit**.
 
@@ -44,7 +44,7 @@ Advantages and disadvantages stack and cancel each other out one for one.
 
 ### Help
 
-When someone else makes a test and it makes sense for you to do so, you may **help**. Roll a steel, skill, or spell die. If you hit, add your hit to their test. If you miss and they fail their test, trouble is coming for you as well.
+When someone else makes a test and it makes sense for you to do so, you may **help**. Roll applicable steel, skill, spell, and bonus dice. Add your hits to their test. If you miss and they fail their test, trouble is coming for you as well.
 
 ### Contests
 
@@ -82,13 +82,11 @@ Roll|Reaction
 
 ### Leverage
 
-If you have **leverage**, you can modify an NPC's reaction by rolling a contest, improving their disposition with every hit.
+If you have **leverage**, you can modify an NPC's reaction by rolling a WIL contest, improving their disposition with every hit.
 
 ## Attacking
 
-An **attack** is a special kind of contest that no one really wins. For each hit, deal your die's result as harm. For each miss, take your opponent's die's result as harm.
-
-Most of the time, it is advantageous to attack together against a single opponent. In such a case, one player character leads the contest, rolling as normal. Everyone else helps, counting it as their action. Misses deal harm to whoever's die missed. Uncontested misses deal harm to whoever leads the contest.
+**Attacking** is a contest. Whoever wins deals their steel die as harm.
 
 ### Morale
 

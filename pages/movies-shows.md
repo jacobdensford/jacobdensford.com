@@ -7,10 +7,14 @@ tags:
   - recommendations
 url: /pages/movies-shows/
 layout: main.njk
-date: 2022-11-29
+date: 2022-12-11
 ---
 
 # Movies and Shows
+
+## Cowboy Bebop
+
+Everything I ever wanted. I don't know how it took me so long to finally watch this show. **I strongly recommend it.**
 
 ## *Alien vs. Predator*
 
