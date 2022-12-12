@@ -6,6 +6,7 @@ title: Home
 <div class="h-card">
   <a class="u-url" href="https://jacobdensford.com/" rel="me"/>
   <a href="https://post.lurk.org/@jacobdensford" rel="me"/>
+  <a href="https://dice.camp/@cobb" rel="me"/>
   <a href="https://github.com/jacobdensford" rel="me"/>
   <a class="u-logo u-photo" href="/images/icon-full.png" rel="me"/>
   <a class="u-email" href="mailto:contact@jacobdensford.com" rel="me"></a>
