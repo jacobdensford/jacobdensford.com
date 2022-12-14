@@ -86,7 +86,7 @@ If you have **leverage**, you can modify an NPC's reaction by rolling a WIL cont
 
 ## Attacking
 
-**Attacking** is a contest. Whoever wins deals their steel die as harm.
+To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm.
 
 ### Morale
 
