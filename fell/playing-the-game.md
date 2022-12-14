@@ -26,8 +26,6 @@ DN|Difficulty
 10|Extremely hard
 12|Nearly impossible
 
-If you roll the highest number on a die, you may reroll it with the next die up.
-
 The test passes if you roll at least one hit.
 
 If none of the dice hit, the test fails. You might still succeed at the task, but there will be trouble.
@@ -44,7 +42,7 @@ Advantages and disadvantages stack and cancel each other out one for one.
 
 ### Help
 
-When someone else makes a test and it makes sense for you to do so, you may **help**. Roll an applicable steel, skill, or spell die. If you hit, add it to their test. If you miss and they fail their test, trouble is coming for you as well.
+When someone else makes a test and it makes sense for you to do so, you may **help**. Roll an applicable steel, skill, or spell die and add it to their test. If they fail their test, trouble is coming for you as well.
 
 ### Contests
 
