@@ -58,7 +58,7 @@ Time is tracked in *turns* and *rounds*. During a round, everyone takes a turn.
 
 Player characters act as a group, taking their turns together.
 
-When it isn't obvious and multiple sides are involved, roll a contest to determine which side takes their turns first.
+When it isn't obvious and multiple sides are involved, roll an INT contest to determine which side takes their turns first.
 
 During an encounter, a round lasts long enough for everyone to perform a task and traverse a room--about ten seconds.
 
@@ -134,7 +134,7 @@ After a full week of comfortable rest and hearty meals, you may restore a reduce
 
 Each time you return to relative safety bearing treasure gained through peril, you may attempt to **advance**.
 
-Roll each ability's die. Increase the die by one if you roll its highest number. Reduce it if you roll its lowest.
+Roll each ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number. Reduce it, to a minimum of d4, if you roll its lowest.
 
 Instead of increasing your INT die, you may roll it again, gaining a skill if the result of the roll is higher than your current number of skills.
 
