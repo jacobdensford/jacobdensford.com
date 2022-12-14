@@ -12,7 +12,7 @@ Most of the time, you will use your wits and simply say what you do in response 
 
 Whenever you attempt a **task** that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn how hard it will be and what could go wrong, then roll a **test**.
 
-Collect dice: an ability die from your relevant ability; applicable steel, skill, and spell dice; and bonus dice if you have any for the given task.
+Collect dice: an ability die from your relevant ability; an applicable steel, skill, or spell die if you have one; and any bonus dice that apply to the given task.
 
 Roll, comparing each die individually to the **difficulty number** (or DN). A die that meets or exceeds the difficulty number counts as a **hit**.
 
@@ -44,11 +44,11 @@ Advantages and disadvantages stack and cancel each other out one for one.
 
 ### Help
 
-When someone else makes a test and it makes sense for you to do so, you may **help**. Roll applicable steel, skill, spell, and bonus dice. Add your hits to their test. If you miss and they fail their test, trouble is coming for you as well.
+When someone else makes a test and it makes sense for you to do so, you may **help**. Roll an applicable steel, skill, or spell die. If you hit, add it to their test. If you miss and they fail their test, trouble is coming for you as well.
 
 ### Contests
 
-When you test against someone, you each collect dice as normal and roll a **contest**. Compare dice individually, highest to lowest. Higher numbers beat lower and count as hits. In a tie, bigger dice beat smaller. Uncontested dice hit. Whoever has the most hits wins the contest.
+When you test against someone, you each collect dice as normal and roll a **contest**. Compare dice individually, highest to lowest. Higher numbers beat lower and count as hits. In a tie, bigger dice beat smaller. Uncontested dice hit. Whoever has the most hits wins the contest. In a tie, the situation remains unchanged.
 
 ### Extended Tests
 
@@ -86,7 +86,7 @@ If you have **leverage**, you can modify an NPC's reaction by rolling a WIL cont
 
 ## Attacking
 
-To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm.
+To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm. If you have an applicable bonus die, roll it as well and keep whichever die is higher.
 
 ### Morale
 
