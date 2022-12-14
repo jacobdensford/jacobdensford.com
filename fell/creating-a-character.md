@@ -400,11 +400,9 @@ warhammer (d8, bulky)|30
 Armor|Cost
 :--|--:
 shield (+1 protection)|10
-helmet (+1 protection)|10
-gambeson (+1 protection, bulky)|15
 brigandine (1 protection, bulky)|20
 chainmail (2 protection, bulky)|40
-plate (3 protection, bulky)|60
+plate (3 protection, bulky)|80
 
 ## Hirelings
 

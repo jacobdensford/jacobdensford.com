@@ -110,4 +110,4 @@ OSR HD|Fell HD
 
 #### Damage
 
-Typically, use the damage die as the steel die. If the damage would be significantly more than a d12, add a bonus die.
+Typically, use the damage die as the steel die. If the damage would be significantly more than a d12, roll twice and take the higher result.
