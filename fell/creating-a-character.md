@@ -274,7 +274,7 @@ Small weapons can be wielded in your off hand, granting their steel die as a **b
 
 **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield.
 
-**Blast** harm may be split among multiple targets in close proximity. If unsure how many targets are affected, roll the weapon's steel die.
+**Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's steel die.
 
 Armor grants **protection**, reducing the amount of harm taken from an attack.
 
