@@ -86,6 +86,8 @@ If you have **leverage**, you can modify an NPC's reaction by rolling a WIL cont
 
 To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm.
 
+When more than one person attacks a single target, roll all steel dice and use the highest result.
+
 ### Morale
 
 When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a WIL contest. If you win, roll your WILL ability die on the **morale** table to see what the surviving enemies do.
