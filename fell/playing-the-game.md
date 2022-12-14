@@ -12,7 +12,7 @@ Most of the time, you will use your wits and simply say what you do in response 
 
 Whenever you attempt a **task** that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn how hard it will be and what could go wrong, then roll a **test**.
 
-Collect dice: an ability die from your relevant ability; an applicable steel, skill, or spell die if you have one; and any bonus dice that apply to the given task.
+Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
 
 Roll, comparing each die individually to the **difficulty number** (or DN). A die that meets or exceeds the difficulty number counts as a **hit**.
 
@@ -84,7 +84,7 @@ If you have **leverage**, you can modify an NPC's reaction by rolling a WIL cont
 
 ## Attacking
 
-To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm. If you have an applicable bonus die, roll it as well and keep whichever die is higher.
+To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm.
 
 ### Morale
 

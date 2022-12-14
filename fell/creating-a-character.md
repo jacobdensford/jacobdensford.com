@@ -268,9 +268,9 @@ You have 4+BOD **equipment slots** (or slots).
 
 In addition to the equipment granted by your background, you start with three days' rations, a torch, and 3d6 coin.
 
-Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll.
+Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll. Whenever you attack with a weapon, this is how much damage you do.
 
-Small weapons can be wielded in your off hand, granting their steel die as a **bonus die** (or BD).
+Small weapons can be wielded in your off hand. Roll both steel dice and keep the higher result.
 
 **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield.
 
