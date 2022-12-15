@@ -23,7 +23,7 @@ To play, you will need these rules, at least one set of [polyhedral dice](https:
 - **Fighting is deadly**
 - **Keep it weird**
 
-*Fell v0.2. Written by [Jacob Densford](https://jacobdensford.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Names, traits, and spells from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/).*
+*Fell v0.3. Written by [Jacob Densford](https://jacobdensford.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Names, traits, and spells from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/).*
 
 # The Fell
 
@@ -272,11 +272,9 @@ d20|Background
 
 If you have any **skills**, you gain a **skill die** (or SD) equal to your INT ability die.
 
-You may roll your skill die whenever you perform a test using your skills.
+You may roll your skill die whenever you perform a test using one of your skills.
 
-You may learn a number of skills equal to the highest number on your INT ability die.
-
-When you gain an undefined skill, roll on the skill table to determine which one.
+Later, you may learn a total number of skills equal to the highest number on your INT ability die. When you gain an undefined skill, roll on the skill table to determine which one.
 
 d8|Skill
 :--|--:
@@ -293,15 +291,15 @@ d8|Skill
 
 You have 4+BOD **equipment slots** (or slots).
 
-In addition to the equipment granted by your background, you start with three days' rations, a torch, and 3d6 coin.
+In addition to the equipment granted by your background, you start with three days' rations (1 slot), a torch, and 3d6 coin.
 
-Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll.
+Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll. Whenever you attack with a weapon, this is how much damage you do.
 
-Small weapons can be wielded in your off hand, granting their steel die as a **bonus die** (or BD).
+Small weapons can be wielded in your off hand. Roll both steel dice and keep the higher result.
 
 **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield.
 
-**Blast** harm applies to multiple targets in close proximity. If unsure how many targets are affected, roll the weapon's steel die.
+**Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's steel die.
 
 Armor grants **protection**, reducing the amount of harm taken from an attack.
 
@@ -412,7 +410,7 @@ club (d4)|10
 crossbow (d8, bulky)|40
 dagger (d4)|10
 firebomb (d6, blast)|15
-flail (d8 bulky)|35
+flail (d8, bulky)|35
 greatsword (d8, bulky)|45
 handaxe (d4)|15
 longbow (d6, bulky)|25
@@ -422,22 +420,20 @@ shortsword (d4)|20
 shortbow (d4)|15
 sling (d4)|5
 staff (d4)|5
-warhammer (d8)|30
+warhammer (d8, bulky)|30
 
 Armor|Cost
 :--|--:
 shield (+1 protection)|10
-helmet (+1 protection)|10
-gambeson (+1 protection, bulky)|15
 brigandine (1 protection, bulky)|20
 chainmail (2 protection, bulky)|40
-plate (3 protection, bulky)|60
+plate (3 protection, bulky)|80
 
 ## Hirelings
 
 **Hirelings** are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD) with 4 hit points (or HP), one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's die to your roll.
 
-Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or an additional skill. If not paid upfront, you must roll a contest whenever asking a hireling to do something dangerous.
+Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or an additional skill. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
 
 ## Spells
 
@@ -451,13 +447,11 @@ Roll|Spells Known
 
 If you have any **spells**, you gain a **spell die** (or SD) of any size, which you can change as often as you'd like.
 
-You must roll a test using your spell die to cast a spell. If you fail the test, subtract the result of your spell die from your WIL.
+You must roll a WIL test using your spell die to cast a spell. Take the result of your spell die as WIL harm if it is higher than the result of your ability die.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
-You may learn a number of spells equal to the highest number on your WIL ability die.
-
-When you gain an undefined spell, roll on the spell table to determine which one.
+Later, you may learn a total number of spells equal to the highest number on your WIL ability die. When you gain an undefined spell, roll on the spell table to determine which one.
 
 d100|Spell|Effect
 :--|---|---
@@ -588,7 +582,7 @@ Most of the time, you will use your wits and simply say what you do in response 
 
 Whenever you attempt a **task** that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn how hard it will be and what could go wrong, then roll a **test**.
 
-Collect up to three dice: an ability die from your relevant ability; an applicable steel, skill, or spell die; and a bonus die if you have one for the given task.
+Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
 
 Roll, comparing each die individually to the **difficulty number** (or DN). A die that meets or exceeds the difficulty number counts as a **hit**.
 
@@ -602,8 +596,6 @@ DN|Difficulty
 10|Extremely hard
 12|Nearly impossible
 
-If you roll the highest number on a die, you may reroll it with the next die up.
-
 The test passes if you roll at least one hit.
 
 If none of the dice hit, the test fails. You might still succeed at the task, but there will be trouble.
@@ -614,17 +606,17 @@ If none of the dice hit, the test fails. You might still succeed at the task, bu
 
 When a situation grants you **advantage,** you may roll your dice one step higher.
 
-When a situation imposes **disadvantage**, you must roll your dice one step lower.
+When a situation imposes **disadvantage**, you must roll your dice one step lower. If this would reduce a die below d4, you simply cannot roll it.
 
 Advantages and disadvantages stack and cancel each other out one for one.
 
 ### Help
 
-When someone else makes a test and it makes sense for you to do so, you may **help**. Roll a steel, skill, or spell die. If you hit, add your hit to their test. If you miss and they fail their test, trouble is coming for you as well.
+When someone else makes a test and it makes sense for you to do so, you may **help**. Roll an applicable steel, skill, or spell die and add it to their test. If they fail their test, trouble is coming for you as well.
 
 ### Contests
 
-When you test against someone, you each collect dice as normal and roll a **contest**. Compare dice individually, highest to lowest. Higher numbers beat lower and count as hits. In a tie, bigger dice beat smaller. Uncontested dice hit. Whoever has the most hits wins the contest.
+When you test against someone, you each collect dice as normal and roll a **contest**. Compare dice individually, highest to lowest. Higher numbers beat lower and count as hits. In a tie, bigger dice beat smaller. Uncontested dice hit. Whoever has the most hits wins the contest. In a tie, the situation remains unchanged.
 
 ### Extended Tests
 
@@ -636,11 +628,11 @@ Time is tracked in *turns* and *rounds*. During a round, everyone takes a turn.
 
 Player characters act as a group, taking their turns together.
 
-When it isn't obvious and multiple sides are involved, roll a contest to determine which side takes their turns first.
+When it isn't obvious and multiple sides are involved, roll an INT contest to determine which side takes their turns first.
 
-During an encounter, a round lasts long enough for everyone to make a test and traverse a room--about ten seconds.
+During an encounter, a round lasts long enough for everyone to perform a task and traverse a room--about ten seconds.
 
-When exploring a dungeon, a round lasts long enough for everyone to make a few tests and investigate an area--about ten minutes.
+When exploring a dungeon, a round lasts long enough for everyone to perform a few tasks and investigate an area--about ten minutes.
 
 When navigating the wilderness, a round lasts long enough to travel three miles at a steady pace--about one hour.
 
@@ -658,17 +650,17 @@ Roll|Reaction
 
 ### Leverage
 
-If you have **leverage**, you can modify an NPC's reaction by rolling a contest, improving their disposition with every hit.
+If you have **leverage**, you can modify an NPC's reaction by rolling a WIL contest, improving their disposition with every hit.
 
 ## Attacking
 
-An **attack** is a special kind of contest that no one really wins. For each hit, deal your die's result as harm. For each miss, take your opponent's die's result as harm.
+To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm.
 
-Most of the time, it is advantageous to attack together against a single opponent. In such a case, one player character leads the contest, rolling as normal. Everyone else helps, counting it as their action. Misses deal harm to whoever's die missed. Uncontested misses deal harm to whoever leads the contest.
+When more than one person attacks a single target, roll all steel dice and use the highest result.
 
 ### Morale
 
-When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a contest. If you win, roll your WILL ability die on the **morale** table to see what the surviving enemies do.
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a WIL contest. If you win, roll your WILL ability die on the **morale** table to see what the surviving enemies do.
 
 Roll|Morale
 :--|--:
@@ -700,7 +692,7 @@ d4|Death
 3|Dead in 1d4 hours unless treated
 4|Dead in 1d4 days unless treated
 
-When an ability's die would be reduced below d4, you die.
+When an ability's die would be reduced below d4 from harm, you die.
 
 ## Healing and Rest
 
@@ -714,7 +706,7 @@ After a full week of comfortable rest and hearty meals, you may restore a reduce
 
 Each time you return to relative safety bearing treasure gained through peril, you may attempt to **advance**.
 
-Roll each ability's die. Increase the die by one if you roll its highest number. Reduce it if you roll its lowest.
+Roll each ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number. Reduce it, to a minimum of d4, if you roll its lowest.
 
 Instead of increasing your INT die, you may roll it again, gaining a skill if the result of the roll is higher than your current number of skills.
 
@@ -745,7 +737,7 @@ Roll a luck die:
 
 ## Time
 
-One way to track time while navigating the wilderness, exploring a dungeon or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
+One way to track time while navigating the wilderness, exploring a dungeon, or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
 
 During an encounter, one full die represents a minute.
 
@@ -826,7 +818,7 @@ OSR HD|Fell HD
 
 #### Damage
 
-Typically, use the damage die as the steel die.
+Typically, use the damage die as the steel die. Sometimes, step the die one down if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.
 
 # Bestiary
 
@@ -838,7 +830,7 @@ Typically, use the damage die as the steel die.
 
 *A floating skull with a flickering green flame within.*  
 **HIT:** 8/d8  
-Flames (2 harm)
+Flames (d6)
 
 ## K - O
 
@@ -846,7 +838,7 @@ Flames (2 harm)
 
 *Appears to be a simple chest but isn't.*  
 **HIT:** 8/d8  
-Pseudopod (1 harm), Bite (2 harm)
+Pseudopod (d4), Bite (d6)
 
 ## P - T
 
@@ -854,7 +846,7 @@ Pseudopod (1 harm), Bite (2 harm)
 
 *Old, rattling bones spring to life.*  
 **HIT:** 4/d4  
-Shortsword (1 harm)
+Shortsword (d4)
 
 ## U - Z
 
@@ -862,10 +854,10 @@ Shortsword (1 harm)
 
 *Tattered clothes and decayed flesh cling to this reanimated corpse.*  
 **HIT:** 6/d6  
-Bite (1 harm)
+Bite (d4)
 
 ### Will-o'-the-Wisp
 
 *A glowing blue light dancing between the trees.*  
 **HIT:** 4/d4  
-Dazzle (1 INT harm)
+Dazzle (d4, INT)
