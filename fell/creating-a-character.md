@@ -247,7 +247,7 @@ d20|Background
 
 If you have any **skills**, you gain a **skill die** (or SD) equal to your INT ability die.
 
-You may roll your skill die whenever you perform a test using your skills.
+You may roll your skill die whenever you perform a test using one of your skills.
 
 Later, you may learn a total number of skills equal to the highest number on your INT ability die. When you gain an undefined skill, roll on the skill table to determine which one.
 
@@ -422,7 +422,7 @@ Roll|Spells Known
 
 If you have any **spells**, you gain a **spell die** (or SD) of any size, which you can change as often as you'd like.
 
-You must roll a test using your spell die to cast a spell. Subtract the result of your spell die from your WIL.
+You must roll a WIL test using your spell die to cast a spell. Take the result of your spell die as WIL harm if it is higher than the result of your ability die.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
