@@ -196,6 +196,12 @@ d10|Misfortune
 9|Disowned
 10|Exiled
 
+## Hit Points
+
+**Hit points** (or HP) represents your ability to avoid critical harm.
+
+Roll a d8 and gain that many hit points.
+
 ## Abilities
 
 You have three **abilities**:
@@ -204,7 +210,7 @@ You have three **abilities**:
 - **Intellect (INT):** Aim, cunning, intelligence, perception
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
-Each has an **ability die** (or AD) ranging from d4 to d12.
+Each has an **ability die** (or AD).
 
 Each also has **ability points** (or AP) equal to the highest number on the ability's die.
 
@@ -245,11 +251,18 @@ d20|Background
 
 ## Skills
 
-If you have any **skills**, you gain a **skill die** (or SD) equal to your INT ability die.
+Roll your INT die to see if you know any additional **skills**.
+
+Roll|Additional Skills
+:--|--:
+1-6|0
+7-8|1
+
+You have a **skill die** (or SD) equal to your INT ability die.
 
 You may roll your skill die whenever you perform a test using one of your skills.
 
-Later, you may learn a total number of skills equal to the highest number on your INT ability die. When you gain an undefined skill, roll on the skill table to determine which one.
+When you gain an undefined skill, roll on the skill table to determine which one.
 
 d8|Skill
 :--|--:
@@ -268,19 +281,17 @@ You have 4+BOD **equipment slots** (or slots).
 
 In addition to the equipment granted by your background, you start with three days' rations, a torch, and 3d6 coin.
 
+Most equipment uses 1 slot. **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield. Very small equipment can be bundled together and still only use 1 slot.
+
+One hundred coins takes up one slot. Fewer coins than that fit in your pockets and don't use a slot.
+
 Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll. Whenever you attack with a weapon, this is how much damage you do.
 
 Small weapons can be wielded in your off hand. Roll both steel dice and keep the higher result.
 
-**Bulky** equipment uses 2 slots and generally requires two hands to carry or wield.
-
 **Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's steel die.
 
-Armor grants **protection**, reducing the amount of harm taken from an attack.
-
-One hundred coins takes up one slot. Fewer coins than that fit in your pockets and don't use a slot.
-
-Unless otherwise noted, items use one slot, harm is dealt to one target's BOD, and protection only applies to BOD.
+Armor grants **protection**, reducing the amount of harm taken from an attack to hit points and BOD ability points.
 
 Equipment|Cost
 :--|--:
@@ -412,7 +423,7 @@ Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a
 
 ## Spells
 
-Roll your WIL die to see if you know any **spells**. If you do, roll on the spell table to determine which ones.
+Roll your WIL die to see if you know any **spells**.
 
 Roll|Spells Known
 :--|--:
@@ -422,11 +433,11 @@ Roll|Spells Known
 
 If you have any **spells**, you gain a **spell die** (or SD) of any size, which you can change as often as you'd like.
 
-You must roll a WIL test using your spell die to cast a spell. Take the result of your spell die as WIL harm if it is higher than the result of your ability die.
+You must roll a WIL test using your spell die to cast a spell. Take the result of your spell die as harm (first to hit points, then to WIL ability points) if it is higher than the result of your ability die.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
-Later, you may learn a total number of spells equal to the highest number on your WIL ability die. When you gain an undefined spell, roll on the spell table to determine which one.
+When you gain an undefined spell, roll on the spell table to determine which one.
 
 d100|Spell|Effect
 :--|---|---
@@ -539,7 +550,9 @@ d100|Spell|Effect
 
 **Traits:** flabby body, soft skin, filthy hair, broken speech, filthy clothing, honorable virtue, vain vice, wise reputation, demoted misfortune
 
-**BOD:** 4/d4 -- **Protection:** 0 | **INT:** 8/d8 | **WIL:** 8/d8
+**HP:** 5/5 -- **Protection:** 0
+
+**BOD:** 4/d4 | **INT:** 8/d8 | **WIL:** 8/d8
 
 **Background:** Hunter
 

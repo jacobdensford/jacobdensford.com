@@ -12,9 +12,11 @@ date: 2022-12-11
 
 # Movies and Shows
 
-## Cowboy Bebop
+## *Cowboy Bebop*
 
-Everything I ever wanted. I don't know how it took me so long to finally watch this show. **I strongly recommend it.**
+Everything I ever wanted. I don't know how it took me so long to finally watch this show. The vibes are emaculate. **I strongly recommend it.**
+
+(I also watched the live-action Netflix adaptation, which I really enjoyed.)
 
 ## *Alien vs. Predator*
 

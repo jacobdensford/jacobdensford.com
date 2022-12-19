@@ -14,13 +14,13 @@ Whenever you attempt a **task** that you could reasonably accomplish but the out
 
 Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
 
-Roll, comparing each die individually to the **difficulty number** (or DN). A die that meets or exceeds the difficulty number counts as a **hit**.
+Roll, comparing each die individually to the **difficulty number** (or DN), which is usually 4. A die that meets or exceeds the difficulty number counts as a **hit**.
 
 DN|Difficulty
 :--|--:
 0|Very easy
 2|Easy
-4|Moderate
+4|Normal
 6|Hard
 8|Very hard
 10|Extremely hard
@@ -39,6 +39,8 @@ When a situation grants you **advantage,** you may roll your dice one step highe
 When a situation imposes **disadvantage**, you must roll your dice one step lower. If this would reduce a die below d4, you simply cannot roll it.
 
 Advantages and disadvantages stack and cancel each other out one for one.
+
+**You should almost always seek to gain an advantage.**
 
 ### Help
 
@@ -84,9 +86,13 @@ If you have **leverage**, you can modify an NPC's reaction by rolling a WIL cont
 
 ## Attacking
 
-To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm.
+To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm--first to hit points, then to BOD ability points.
 
-When more than one person attacks a single target, roll all steel dice and use the highest result.
+When more than one person attacks a single target or when attacking with multiple weapons, roll all steel dice and use the highest result.
+
+### Critical Harm
+
+When you take harm to your ability points, roll a test. The difficulty number is equal to the amount of harm taken. If you fail, you must roll on the death table.
 
 ### Morale
 
@@ -101,7 +107,7 @@ Roll|Morale
 
 ## Deprivation and Fatigue
 
-When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain ability points.
+When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain hit points or ability points, nor can you restore ability dice.
 
 When you are deprived for longer than a day, you become **fatigued** and must make all tests with disadvantage. Each additional day you are deprived makes the disadvantage worse.
 
@@ -109,35 +115,35 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 ## Harm and Death
 
-**Harm** subtracts points from an ability.
+**Harm** subtracts from hit points and then ability points.
 
 In rare cases, extreme harm reduces an ability's die.
 
-When an ability's points are reduced to 0, roll on the **death** table.
+When you fail a critical harm test, roll that ability's die on the **death** table.
 
-d4|Death
+Roll|Death
 :--|--:
 1|Dead
 2|Dead in 1d4 rounds unless treated
 3|Dead in 1d4 hours unless treated
-4|Dead in 1d4 days unless treated
+4+|Hurt but still fighting
 
-When an ability's die would be reduced below d4 from harm, you die.
+When an ability's points reach zero or an ability's die would be reduced below d4, you die.
 
 ## Healing and Rest
 
-**Healing** recovers ability points.
+**Healing** recovers hit points and ability points and restores ability dice.
 
-Whenever you take a few minutes to **rest** and eat or drink, you may roll each ability die and recover that many points in the corresponding ability. When you comfortably rest for the night on a full stomach, you may recover all your points.
-
-After a full week of comfortable rest and hearty meals, you may restore a reduced ability die by one level.
+Whenever you take a few minutes to **rest** and eat or drink, recover all your hit points. When you comfortably rest for the night on a full stomach, recover all your hit points and ability points. After a full week of comfortable rest and hearty meals, restore all your reduced ability dice.
 
 ## Character Advancement
 
 Each time you return to relative safety bearing treasure gained through peril, you may attempt to **advance**.
 
-Roll each ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number. Reduce it, to a minimum of d4, if you roll its lowest.
+Roll a d12. Increase your hit points by one, to a maximum of 12, if the roll is higher than your current hit points.
 
-Instead of increasing your INT die, you may roll it again, gaining a skill if the result of the roll is higher than your current number of skills.
+Roll one ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number.
 
-Instead of increasing your WIL die, you may roll it again, gaining a spell if the result of the roll is higher than your current number of spells.
+Instead of increasing your INT die, you may gain a skill if the result of the roll was higher than your current number of skills.
+
+Instead of increasing your WIL die, you may gain a spell if the result of the roll was higher than your current number of spells.
