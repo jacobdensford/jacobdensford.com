@@ -221,6 +221,12 @@ d10|Misfortune
 9|Disowned
 10|Exiled
 
+## Hit Points
+
+**Hit points** (or HP) represents your ability to avoid critical harm.
+
+Roll a d8 and gain that many hit points.
+
 ## Abilities
 
 You have three **abilities**:
@@ -229,7 +235,7 @@ You have three **abilities**:
 - **Intellect (INT):** Aim, cunning, intelligence, perception
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
-Each has an **ability die** (or AD) ranging from d4 to d12.
+Each has an **ability die** (or AD).
 
 Each also has **ability points** (or AP) equal to the highest number on the ability's die.
 
@@ -270,11 +276,18 @@ d20|Background
 
 ## Skills
 
-If you have any **skills**, you gain a **skill die** (or SD) equal to your INT ability die.
+Roll your INT die to see if you know any additional **skills**.
+
+Roll|Additional Skills
+:--|--:
+1-6|0
+7-8|1
+
+You have a **skill die** (or SD) equal to your INT ability die.
 
 You may roll your skill die whenever you perform a test using one of your skills.
 
-Later, you may learn a total number of skills equal to the highest number on your INT ability die. When you gain an undefined skill, roll on the skill table to determine which one.
+When you gain an undefined skill, roll on the skill table to determine which one.
 
 d8|Skill
 :--|--:
@@ -291,21 +304,19 @@ d8|Skill
 
 You have 4+BOD **equipment slots** (or slots).
 
-In addition to the equipment granted by your background, you start with three days' rations (1 slot), a torch, and 3d6 coin.
+In addition to the equipment granted by your background, you start with three days' rations, a torch, and 3d6 coin.
+
+Most equipment uses 1 slot. **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield. Very small equipment can be bundled together and still only use 1 slot.
+
+One hundred coins takes up one slot. Fewer coins than that fit in your pockets and don't use a slot.
 
 Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll. Whenever you attack with a weapon, this is how much damage you do.
 
 Small weapons can be wielded in your off hand. Roll both steel dice and keep the higher result.
 
-**Bulky** equipment uses 2 slots and generally requires two hands to carry or wield.
-
 **Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's steel die.
 
-Armor grants **protection**, reducing the amount of harm taken from an attack.
-
-One hundred coins takes up one slot. Fewer coins than that fit in your pockets and don't use a slot.
-
-Unless otherwise noted, items use one slot, harm is dealt to one target's BOD, and protection only applies to BOD.
+Armor grants **protection**, reducing the amount of harm taken from an attack to hit points and BOD ability points.
 
 Equipment|Cost
 :--|--:
@@ -437,7 +448,7 @@ Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a
 
 ## Spells
 
-Roll your WIL die to see if you know any **spells**. If you do, roll on the spell table to determine which ones.
+Roll your WIL die to see if you know any **spells**.
 
 Roll|Spells Known
 :--|--:
@@ -447,11 +458,11 @@ Roll|Spells Known
 
 If you have any **spells**, you gain a **spell die** (or SD) of any size, which you can change as often as you'd like.
 
-You must roll a WIL test using your spell die to cast a spell. Take the result of your spell die as WIL harm if it is higher than the result of your ability die.
+You must roll a WIL test using your spell die to cast a spell. Take the result of your spell die as harm (first to hit points, then to WIL ability points) if it is higher than the result of your ability die.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
-Later, you may learn a total number of spells equal to the highest number on your WIL ability die. When you gain an undefined spell, roll on the spell table to determine which one.
+When you gain an undefined spell, roll on the spell table to determine which one.
 
 d100|Spell|Effect
 :--|---|---
@@ -564,7 +575,9 @@ d100|Spell|Effect
 
 **Traits:** flabby body, soft skin, filthy hair, broken speech, filthy clothing, honorable virtue, vain vice, wise reputation, demoted misfortune
 
-**BOD:** 4/d4 -- **Protection:** 0 | **INT:** 8/d8 | **WIL:** 8/d8
+**HP:** 5/5 -- **Protection:** 0
+
+**BOD:** 4/d4 | **INT:** 8/d8 | **WIL:** 8/d8
 
 **Background:** Hunter
 
@@ -584,13 +597,13 @@ Whenever you attempt a **task** that you could reasonably accomplish but the out
 
 Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
 
-Roll, comparing each die individually to the **difficulty number** (or DN). A die that meets or exceeds the difficulty number counts as a **hit**.
+Roll, comparing each die individually to the **difficulty number** (or DN), which is usually 4. A die that meets or exceeds the difficulty number counts as a **hit**.
 
 DN|Difficulty
 :--|--:
 0|Very easy
 2|Easy
-4|Moderate
+4|Normal
 6|Hard
 8|Very hard
 10|Extremely hard
@@ -609,6 +622,8 @@ When a situation grants you **advantage,** you may roll your dice one step highe
 When a situation imposes **disadvantage**, you must roll your dice one step lower. If this would reduce a die below d4, you simply cannot roll it.
 
 Advantages and disadvantages stack and cancel each other out one for one.
+
+**You should almost always seek to gain an advantage.**
 
 ### Help
 
@@ -654,9 +669,13 @@ If you have **leverage**, you can modify an NPC's reaction by rolling a WIL cont
 
 ## Attacking
 
-To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm.
+To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm--first to hit points, then to BOD ability points.
 
-When more than one person attacks a single target, roll all steel dice and use the highest result.
+When more than one person attacks a single target or when attacking with multiple weapons, roll all steel dice and use the highest result.
+
+### Critical Harm
+
+When you take harm to your ability points, roll a test. The difficulty number is equal to the amount of harm taken. If you fail, you must roll on the death table.
 
 ### Morale
 
@@ -671,7 +690,7 @@ Roll|Morale
 
 ## Deprivation and Fatigue
 
-When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain ability points.
+When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain hit points or ability points, nor can you restore ability dice.
 
 When you are deprived for longer than a day, you become **fatigued** and must make all tests with disadvantage. Each additional day you are deprived makes the disadvantage worse.
 
@@ -679,38 +698,38 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 ## Harm and Death
 
-**Harm** subtracts points from an ability.
+**Harm** subtracts from hit points and then ability points.
 
 In rare cases, extreme harm reduces an ability's die.
 
-When an ability's points are reduced to 0, roll on the **death** table.
+When you fail a critical harm test, roll that ability's die on the **death** table.
 
-d4|Death
+Roll|Death
 :--|--:
 1|Dead
 2|Dead in 1d4 rounds unless treated
 3|Dead in 1d4 hours unless treated
-4|Dead in 1d4 days unless treated
+4+|Hurt but still fighting
 
-When an ability's die would be reduced below d4 from harm, you die.
+When an ability's points reach zero or an ability's die would be reduced below d4, you die.
 
 ## Healing and Rest
 
-**Healing** recovers ability points.
+**Healing** recovers hit points and ability points and restores ability dice.
 
-Whenever you take a few minutes to **rest** and eat or drink, you may roll each ability die and recover that many points in the corresponding ability. When you comfortably rest for the night on a full stomach, you may recover all your points.
-
-After a full week of comfortable rest and hearty meals, you may restore a reduced ability die by one level.
+Whenever you take a few minutes to **rest** and eat or drink, you recover all your hit points. When you comfortably rest for the night on a full stomach, you recover all your hit points and ability points. After a full week of comfortable rest and hearty meals, you may restore all reduced ability dice.
 
 ## Character Advancement
 
 Each time you return to relative safety bearing treasure gained through peril, you may attempt to **advance**.
 
-Roll each ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number. Reduce it, to a minimum of d4, if you roll its lowest.
+Roll a d12. Increase your hit points by one, to a maximum of 12, if the roll is higher than your current hit points.
 
-Instead of increasing your INT die, you may roll it again, gaining a skill if the result of the roll is higher than your current number of skills.
+Roll one ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number.
 
-Instead of increasing your WIL die, you may roll it again, gaining a spell if the result of the roll is higher than your current number of spells.
+Instead of increasing your INT die, you may gain a skill if the result of the roll was higher than your current number of skills.
+
+Instead of increasing your WIL die, you may gain a spell if the result of the roll was higher than your current number of spells.
 
 # Running the Game
 
@@ -722,7 +741,7 @@ The **facilitator** plays the corrupted land and its inhabitants, bringing life 
 
 All NPCs should have a **name**, a flavorful **description**, and a **drive**.
 
-Instead of ability dice and ability points, most NPCs have a **hit die** (or HD) and **hit points** (or HP). Use their HD and HP for everything that would normally use an ability equivalent.
+Instead of ability dice and ability points, most NPCs have a **hit die** (or HD) and only **hit points** (or HP). Use their HD and HP for everything that would normally use an ability equivalent. When they reach zero HP, they die.
 
 ## Luck
 
@@ -757,6 +776,8 @@ For names and traits, player characters may choose or write their own for each.
 
 For ability dice, they may assign a d4 to one and a d6 to two, or a d4 to two and a d8 to one.
 
+For ability points, they may start with 5.
+
 For backgrounds, they may choose or create their own, gaining one skill of their choice and purchasing equipment worth 60 coin.
 
 If their WIL is d8, they may gain one spell of their choice.
@@ -775,16 +796,7 @@ If a spell causes harm, follow the guidelines in the section on converting OSR m
 
 If a spell requires a save, it's a contest.
 
-If the spell uses levels, consult the table below to see which spell die must be rolled.
-
-Level|Die
-:--|--:
-1|d2
-2|d4
-3|d6
-4|d8
-5|d10
-6|d12
+If the spell uses levels, the spell's level is the difficulty number for the test that must be rolled to cast the spell.
 
 ### Converting OSR Material
 
@@ -818,7 +830,7 @@ OSR HD|Fell HD
 
 #### Damage
 
-Typically, use the damage die as the steel die. Sometimes, step the die one down if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.
+Typically, use the damage die as the steel die. Sometimes, step the die down one if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.
 
 # Bestiary
 

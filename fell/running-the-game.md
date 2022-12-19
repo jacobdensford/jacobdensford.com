@@ -14,7 +14,7 @@ The **facilitator** plays the corrupted land and its inhabitants, bringing life 
 
 All NPCs should have a **name**, a flavorful **description**, and a **drive**.
 
-Instead of ability dice and ability points, most NPCs have a **hit die** (or HD) and **hit points** (or HP). Use their HD and HP for everything that would normally use an ability equivalent.
+Instead of ability dice and ability points, most NPCs have a **hit die** (or HD) and only **hit points** (or HP). Use their HD and HP for everything that would normally use an ability equivalent. When they reach zero HP, they die.
 
 ## Luck
 
@@ -49,6 +49,8 @@ For names and traits, player characters may choose or write their own for each.
 
 For ability dice, they may assign a d4 to one and a d6 to two, or a d4 to two and a d8 to one.
 
+For ability points, they may start with 5.
+
 For backgrounds, they may choose or create their own, gaining one skill of their choice and purchasing equipment worth 60 coin.
 
 If their WIL is d8, they may gain one spell of their choice.
@@ -67,16 +69,7 @@ If a spell causes harm, follow the guidelines in the section on converting OSR m
 
 If a spell requires a save, it's a contest.
 
-If the spell uses levels, consult the table below to see which spell die must be rolled.
-
-Level|Die
-:--|--:
-1|d2
-2|d4
-3|d6
-4|d8
-5|d10
-6|d12
+If the spell uses levels, the spell's level is the difficulty number for the test that must be rolled to cast the spell.
 
 ### Converting OSR Material
 
@@ -110,4 +103,4 @@ OSR HD|Fell HD
 
 #### Damage
 
-Typically, use the damage die as the steel die. Sometimes, step the die one down if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.
+Typically, use the damage die as the steel die. Sometimes, step the die down one if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.

@@ -17,6 +17,12 @@ This page is a response to me being dissatisfied with Goodreads and the like. I 
 
 Just started reading this. It picks up only a few days after *Way of Kings*. Exciting!
 
+## *Sea of Tranquility* by Emily St John Mandel
+
+Took a break from all the Brando Sando to read some more from Emily St John Mandel. I think I liked this book even more than her last book I read, *Station Eleven*. It was some elevated science fiction, for sure. All the seperate pieces came together perfectly in the end.
+
+I read this book in December, 2022. **I strongly recommend it.**
+
 ## *The Way of Kings* by Brandon Sanderson
 
 With every new Brandon Sanderson stand-alone I read or series I start, it seems I have a new favorite of his books. At this point, I really can't choose. This book was less of a complete story than *The Final Empire* or the stand-alones (obviously), which makes it harder to judge on its own. Still, a great start to what I expect will be a compelling series. There was a lot of world building in the first fifth or so of the book, which was a bit of a slog at times. But most of it paid off. And, judging by his other books, will continue to pay off as the series progresses. I'm into it.
