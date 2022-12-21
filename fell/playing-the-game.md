@@ -40,8 +40,6 @@ When a situation imposes **disadvantage**, you must roll your dice one step lowe
 
 Advantages and disadvantages stack and cancel each other out one for one.
 
-**You should almost always seek to gain an advantage.**
-
 ### Help
 
 When someone else makes a test and it makes sense for you to do so, you may **help**. Roll an applicable steel, skill, or spell die and add it to their test. If they fail their test, trouble is coming for you as well.
@@ -56,7 +54,7 @@ Some tests require more time and effort, and thus require more than one hit to a
 
 ## Turns and Rounds
 
-Time is tracked in *turns* and *rounds*. During a round, everyone takes a turn.
+Time is tracked in **turns** and **rounds**. During a round, everyone takes a turn.
 
 Player characters act as a group, taking their turns together.
 
