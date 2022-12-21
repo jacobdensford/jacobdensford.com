@@ -49,7 +49,7 @@ For names and traits, player characters may choose or write their own for each.
 
 For ability dice, they may assign a d4 to one and a d6 to two, or a d4 to two and a d8 to one.
 
-For ability points, they may start with 5.
+For hit points, they may start with 5.
 
 For backgrounds, they may choose or create their own, gaining one skill of their choice and purchasing equipment worth 60 coin.
 
@@ -57,7 +57,7 @@ If their WIL is d8, they may gain one spell of their choice.
 
 ### Alternative Spell Lists
 
-Most OSR-compatible spell lists work with *Fell*.
+Most OSR-compatible spell lists should work with *Fell*.
 
 Some examples include:
 

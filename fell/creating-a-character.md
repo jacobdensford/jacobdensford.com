@@ -218,9 +218,9 @@ Roll for each ability to assign dice and gain points.
 
 d8|Ability Die
 :--|--:
-1-4|d4
-5-6|d6
-7-8|d8
+1-4|4/d4
+5-6|6/d6
+7-8|8/d8
 
 ## Backgrounds
 
@@ -279,19 +279,19 @@ d8|Skill
 
 You have 4+BOD **equipment slots** (or slots).
 
-In addition to the equipment granted by your background, you start with three days' rations, a torch, and 3d6 coin.
+In addition to the equipment granted by your background, you start with **three days' rations, a torch, and 3d6 coin**.
 
 Most equipment uses 1 slot. **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield. Very small equipment can be bundled together and still only use 1 slot.
 
-One hundred coins takes up one slot. Fewer coins than that fit in your pockets and don't use a slot.
+One hundred coins takes up 1 slot. Fewer coins than that fit in your pockets and don't use a slot.
 
-Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll. Whenever you attack with a weapon, this is how much damage you do.
+Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll. Whenever you attack with a weapon, this is how much harm you do.
 
 Small weapons can be wielded in your off hand. Roll both steel dice and keep the higher result.
 
 **Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's steel die.
 
-Armor grants **protection**, reducing the amount of harm taken from an attack to hit points and BOD ability points.
+Armor grants **protection**, reducing the amount of harm taken from an attack. Protection can never be increased beyond 3.
 
 Equipment|Cost
 :--|--:
@@ -413,7 +413,6 @@ Armor|Cost
 shield (+1 protection)|10
 brigandine (1 protection, bulky)|20
 chainmail (2 protection, bulky)|40
-plate (3 protection, bulky)|80
 
 ## Hirelings
 
