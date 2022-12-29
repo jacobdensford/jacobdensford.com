@@ -33,9 +33,9 @@ One way to track time while navigating the wilderness, exploring a dungeon, or d
 
 During an encounter, one full die represents a minute.
 
-While exploring a dungeon, one full die represents an hour.
+While exploring, one full die represents an hour.
 
-When navigating the wilderness, one full die represents six hours.
+When traveling, one full die represents six hours.
 
 ## Optional Rules
 
