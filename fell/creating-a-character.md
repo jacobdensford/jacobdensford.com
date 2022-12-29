@@ -196,12 +196,6 @@ d10|Misfortune
 9|Disowned
 10|Exiled
 
-## Hit Points
-
-**Hit points** (or HP) represents your ability to avoid critical harm.
-
-Roll a d8 and gain that many hit points.
-
 ## Abilities
 
 You have three **abilities**:
@@ -221,6 +215,12 @@ d8|Ability Die
 1-4|4/d4
 5-6|6/d6
 7-8|8/d8
+
+## Hit Points
+
+**Hit points** (or HP) represents your ability to avoid critical harm.
+
+Roll all of your ability dice and gain as many hit points as your highest roll.
 
 ## Backgrounds
 

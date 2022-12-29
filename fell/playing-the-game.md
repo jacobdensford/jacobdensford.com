@@ -20,7 +20,7 @@ DN|Difficulty
 :--|--:
 0|Very easy
 2|Easy
-4|Normal
+**4** | **Normal**
 6|Hard
 8|Very hard
 10|Extremely hard
@@ -34,9 +34,9 @@ If none of the dice hit, the test fails. You might still succeed at the task, bu
 
 ### Advantage and Disadvantage
 
-When a situation grants you **advantage,** you may roll your dice one step higher.
+When a situation grants you **advantage,** you may roll your dice one step higher. If this would increase a die above d12, it counts as a hit.
 
-When a situation imposes **disadvantage**, you must roll your dice one step lower. If this would reduce a die below d4, you simply cannot roll it.
+When a situation imposes **disadvantage**, you must roll your dice one step lower. If this would reduce a die below d4, it counts as a miss.
 
 Advantages and disadvantages stack and cancel each other out one for one.
 
@@ -123,8 +123,8 @@ Roll|Death
 :--|--:
 1|Dead
 2|Dead in 1d4 rounds unless treated
-3|Dead in 1d4 hours unless treated
-4+|Hurt but still fighting
+3|Unconcious for 1d4 hours or until treated
+4+|Hurt but still standing
 
 When an ability's points reach zero or an ability's die would be reduced below d4, you die.
 
@@ -136,11 +136,11 @@ Whenever you take a few minutes to **rest**, roll your highest ability die and r
 
 ## Character Advancement
 
-Each time you return to relative safety bearing treasure gained through peril, you may attempt to **advance**.
+Each time you return to relative safety bearing plunder gained through peril, you may attempt to **advance**.
 
-Roll your highest ability die. Increase your hit points by one, to a maximum of 12, if the roll is higher than your current hit points.
+Roll all your ability dice.
 
-Roll any one ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number.
+For each die that rolls its highest number, increase the ability's die by one step and gain one hit point.
 
 Instead of increasing your INT die, you may gain a skill if the result of the roll was higher than your current number of skills.
 
