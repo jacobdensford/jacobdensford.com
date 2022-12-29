@@ -56,15 +56,15 @@ Some tests require more time and effort, and thus require more than one hit to a
 
 Time is tracked in **turns** and **rounds**. During a round, everyone takes a turn.
 
-Player characters act as a group, taking their turns together.
+During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room--about ten seconds.
 
-When it isn't obvious and multiple sides are involved, roll an INT contest to determine which side takes their turns first.
+Player characters act first and as a group, taking their turns together.
 
-During an encounter, a round lasts long enough for everyone to perform a task and traverse a room--about ten seconds.
+When surprised, roll an INT contest to determine if you can act during the first round.
 
-When exploring a dungeon, a round lasts long enough for everyone to perform a few tasks and investigate an area--about ten minutes.
+When **exploring**, a round lasts long enough for everyone to perform a few tasks and investigate an area, or to rest--about ten minutes.
 
-When navigating the wilderness, a round lasts long enough to travel three miles at a steady pace--about one hour.
+While **traveling**, a round lasts long enough to traverse three miles of easy terrain at a steady pace--about one hour.
 
 ## Reactions
 
@@ -132,15 +132,15 @@ When an ability's points reach zero or an ability's die would be reduced below d
 
 **Healing** recovers hit points and ability points and restores ability dice.
 
-Whenever you take a few minutes to **rest** and eat or drink, recover all your hit points. When you comfortably rest for the night on a full stomach, recover all your hit points and ability points. After a full week of comfortable rest and hearty meals, restore all your reduced ability dice.
+Whenever you take a few minutes to **rest**, roll your highest ability die and recover that many hit points. When you rest for the night, recover all your hit points and ability points. After a full week of rest and appropriate care, restore all your reduced ability dice.
 
 ## Character Advancement
 
 Each time you return to relative safety bearing treasure gained through peril, you may attempt to **advance**.
 
-Roll a d12. Increase your hit points by one, to a maximum of 12, if the roll is higher than your current hit points.
+Roll your highest ability die. Increase your hit points by one, to a maximum of 12, if the roll is higher than your current hit points.
 
-Roll one ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number.
+Roll any one ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number.
 
 Instead of increasing your INT die, you may gain a skill if the result of the roll was higher than your current number of skills.
 
