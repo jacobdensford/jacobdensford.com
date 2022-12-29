@@ -62,9 +62,9 @@ Player characters act first and as a group, taking their turns together.
 
 When surprised, roll an INT contest to determine if you can act during the first round.
 
-When **exploring**, a round lasts long enough for everyone to perform a few tasks and investigate an area, or to rest--about ten minutes.
+While **exploring**, a round lasts long enough for everyone to perform a few tasks and investigate an area, or to rest--about ten minutes.
 
-While **traveling**, a round lasts long enough to traverse three miles of easy terrain at a steady pace--about one hour.
+When **traveling**, a round lasts long enough to traverse three miles of easy terrain at a steady pace--about one hour.
 
 ## Reactions
 
