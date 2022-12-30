@@ -64,7 +64,7 @@ You are 2d20+10 years old.
 
 ## Traits
 
-Roll for each of your **traits**.
+Roll for your **traits**.
 
 d10|Physique
 :--|--:
@@ -200,8 +200,8 @@ d10|Misfortune
 
 You have three **abilities**:
 
-- **Body (BOD):** Constitution, grit, reflexes, strength
-- **Intellect (INT):** Aim, cunning, intelligence, perception
+- **Body (BOD):** Constitution, grit, strength, reflexes
+- **Intellect (INT):** Aim, cunning, intelligence, quick thinking
 - **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
 
 Each has an **ability die** (or AD).
@@ -283,7 +283,7 @@ In addition to the equipment granted by your background, you start with **three 
 
 Most equipment uses 1 slot. **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield. Very small equipment can be bundled together and still only use 1 slot.
 
-One hundred coins takes up 1 slot. Fewer coins than that fit in your pockets and don't use a slot.
+One hundred coins takes up 1 slot. Fewer coins fit in your pockets and don't use a slot.
 
 Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll. Whenever you attack with a weapon, this is how much harm you do.
 

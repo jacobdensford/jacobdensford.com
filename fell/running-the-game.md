@@ -29,7 +29,7 @@ Roll a luck die:
 
 ## Time
 
-One way to track time while navigating the wilderness, exploring a dungeon, or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
+One way to track time while traveling, exploring, or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
 
 During an encounter, one full die represents a minute.
 
@@ -47,7 +47,7 @@ Instead of rolling on tables, player characters can be created using choice.
 
 For names and traits, player characters may choose or write their own for each.
 
-For ability dice, they may assign a d4 to one and a d6 to two, or a d4 to two and a d8 to one.
+For ability dice, they may assign d6 to each. They may lower one to d4 to gain a d8.
 
 For hit points, they may start with 5.
 
