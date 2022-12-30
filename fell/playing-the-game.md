@@ -6,7 +6,7 @@ link: '/fell'
 
 # Playing the Game
 
-Most of the time, you will use your wits and simply say what you do in response to the corrupted land and its inhabitants described by the facilitator. Sometimes, rolling dice is unavoidable.
+Most of the time, you simply say what you do in response to the corrupted land and its inhabitants described by the facilitator. Sometimes, rolling dice is unavoidable.
 
 ## Tests
 
@@ -42,11 +42,11 @@ Advantages and disadvantages stack and cancel each other out one for one.
 
 ### Help
 
-When someone else makes a test and it makes sense for you to do so, you may **help**. Roll an applicable steel, skill, or spell die and add it to their test. If they fail their test, trouble is coming for you as well.
+When someone else attempts a test and it makes sense for you to do so, you may **help**. Roll an applicable steel, skill, or spell die and add it to their test. If they fail their test, trouble is coming for you as well.
 
 ### Contests
 
-When you test against someone, you each collect dice as normal and roll a **contest**. Compare dice individually, highest to lowest. Higher numbers beat lower and count as hits. In a tie, bigger dice beat smaller. Uncontested dice hit. Whoever has the most hits wins the contest. In a tie, the situation remains unchanged.
+When you test against someone, you each collect dice as normal and roll a **contest**. Whoever has the highest single die roll wins. In a tie, a bigger die beats a smaller one.
 
 ### Extended Tests
 
@@ -80,7 +80,7 @@ Roll|Reaction
 
 ### Leverage
 
-If you have **leverage**, you can modify an NPC's reaction by rolling a WIL contest, improving their disposition with every hit.
+If you have **leverage** and apply it, you may modify an NPC's reaction by rolling a WIL contest, improving their disposition with every hit.
 
 ## Attacking
 
@@ -90,7 +90,7 @@ When more than one person attacks a single target or when attacking with multipl
 
 ### Critical Harm
 
-When you take harm to your ability points, roll a test. The difficulty number is equal to the amount of harm taken. If you fail, you must roll on the death table.
+When you take harm to your ability points, it is **critical harm**. Roll a test with that ability's die. The difficulty number is equal to the amount of harm taken. If you fail, you must roll on the death table.
 
 ### Morale
 
@@ -123,7 +123,7 @@ Roll|Death
 :--|--:
 1|Dead
 2|Dead in 1d4 rounds unless treated
-3|Unconcious for 1d4 hours or until treated
+3|Unconcious for 1d4 hours unlessed revived
 4+|Hurt but still standing
 
 When an ability's points reach zero or an ability's die would be reduced below d4, you die.
@@ -140,7 +140,9 @@ Each time you return to relative safety bearing plunder gained through peril, yo
 
 Roll all your ability dice.
 
-For each die that rolls its highest number, increase the ability's die by one step and gain one hit point.
+For each die that rolls higher than your current hit points, gain one hit point.
+
+For each die that rolls its highest number, increase the ability's die by one step.
 
 Instead of increasing your INT die, you may gain a skill if the result of the roll was higher than your current number of skills.
 
