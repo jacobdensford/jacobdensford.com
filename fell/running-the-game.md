@@ -14,7 +14,7 @@ The **facilitator** plays the corrupted land and its inhabitants, bringing life 
 
 All NPCs should have a **name**, a flavorful **description**, and a **drive**.
 
-Instead of ability dice and ability points, most NPCs have a **hit die** (or HD) and only **hit points** (or HP). Use their HD and HP for everything that would normally use an ability equivalent. When they reach zero HP, they die.
+NPCs can have ability dice and points, hit points, and most other things that player characters have.
 
 ## Luck
 
@@ -37,6 +37,24 @@ While exploring, one full die represents an hour.
 
 When traveling, one full die represents six hours.
 
+## Difficulty
+
+When the standard difficulty number of four doesn't suffice, which it usually should, consult the difficulty table below for guidance.
+
+DN|Difficulty
+:--|--:
+0|Very easy
+2|Easy
+**4** | **Normal**
+6|Hard
+8|Very hard
+10|Extremely hard
+12|Nearly impossible
+
+## Extended Tests
+
+Some tests require more time and effort, and thus require more than one hit to accomplish. Tell how many hits the **extended test** will require, then player characters roll as normal. They may repeat the roll to add additional hits once they've dealt with any trouble.
+
 ## Optional Rules
 
 All rules are optional. These, especially so.
@@ -49,7 +67,7 @@ For names and traits, player characters may choose or write their own for each.
 
 For ability dice, they may assign d6 to each. They may lower one to d4 to gain a d8.
 
-For hit points, they may start with 5.
+For hit points, they may start with 4.
 
 For backgrounds, they may choose or create their own, gaining one skill of their choice and purchasing equipment worth 60 coin.
 
@@ -83,23 +101,23 @@ Body|Strength, Constitution, Dexterity
 Intellect|Intelligence, Dexterity, Wisdom
 Willpower|Wisdom, Charisma, Intelligence
 
-#### Hit Dice and Hit Points
+#### Ability Dice and Hit Points
 
 In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD (or even a d2). If they're meant to be an extreme challenge, use a d12 (or even a d20). Use the table below as a guideline.
 
-OSR HD|Fell HD
+OSR HD|Fell AD and HP
 :--|--:
-1|d4
-2|d4
-3|d6
-4|d6
-5|d8
-6|d8
-7|d10
-8|d10
-9|d12
-10|d12
-11+|d20
+1|d4 2
+2|d4 3
+3|d6 4
+4|d6 5
+5|d8 6
+6|d8 7
+7|d10 8
+8|d10 9
+9|d12 10
+10|d12 11
+11+|d12 12+
 
 #### Damage
 

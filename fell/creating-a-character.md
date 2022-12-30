@@ -60,7 +60,7 @@ d20|Family Name
 
 ## Age
 
-You are 2d20+10 years old.
+Roll 2d20+10 for your **age**.
 
 ## Traits
 
@@ -220,7 +220,7 @@ d8|Ability Die
 
 **Hit points** (or HP) represents your ability to avoid critical harm.
 
-Roll all of your ability dice and gain as many hit points as your highest roll.
+Roll all your ability dice and gain as many hit points as your highest single die result.
 
 ## Backgrounds
 
@@ -416,9 +416,9 @@ chainmail (2 protection, bulky)|40
 
 ## Hirelings
 
-**Hirelings** are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD) with 4 hit points (or HP), one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's die to your roll.
+**Hirelings** are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 in each ability, 3 hit points, one skill, and 8 equipment slots. When performing a relevant test, your hirelings may help just as another player character would.
 
-Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or an additional skill. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
+Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher ability die (granting relevant benefits) or an additional skill. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
 
 ## Spells
 
@@ -432,7 +432,7 @@ Roll|Spells Known
 
 If you have any **spells**, you gain a **spell die** (or SD) of any size, which you can change as often as you'd like.
 
-You must roll a WIL test using your spell die to cast a spell. Take the result of your spell die as harm (first to hit points, then to WIL ability points) if it is higher than the result of your ability die.
+You must roll a WIL test using your spell die to cast a spell. If the result of your spell die is higher than the result of your ability die, take the difference as harm (first to hit points, then to WIL ability points).
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
 
