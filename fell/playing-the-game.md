@@ -18,6 +18,12 @@ Roll, comparing your highest single die result to the **difficulty number** (or 
 
 **Tests are always dangerous and should be avoided whenever possible.**
 
+### Dice Ladder
+
+When a rule, ability, or the game master instructs you to roll your dice a number of steps higher or lower, move up or down the rungs of the **dice ladder**:
+
+**d4 -> d6 -> d8 -> d10 -> d12**
+
 ### Advantage and Disadvantage
 
 When a situation grants you **advantage,** you may roll your dice one step higher.
