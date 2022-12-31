@@ -6,11 +6,11 @@ link: '/fell/full-game'
 
 *Fell* is a [tabletop roleplaying game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) for at least two players.
 
-One player is the facilitator, playing the world and its inhabitants. They adjudicate the rules and describe the situations the player characters find themselves in.
+One player is the referee, playing the world and its inhabitants. They adjudicate the rules, make rulings, and describe the situations the player characters find themselves in.
 
-The rest are player characters, acting as knaves, wretches, and scoundrels seeking fortune in a corrupted land filled with danger. They ask questions and interact with the environment.
+The rest are player characters (PCs); acting as knaves, wretches, and scoundrels seeking fortune in a corrupted land filled with danger. They ask questions and interact with the environment.
 
-The facilitator tells the player characters what happens and when to roll dice.
+The referee tells the player characters what happens and when to roll dice.
 
 To play, you will need these rules, at least one set of [polyhedral dice](https://en.wikipedia.org/wiki/Dice#Polyhedral_dice) (d4, d6, d8, d10, d12, and d20), paper, and pencils.
 
@@ -23,7 +23,7 @@ To play, you will need these rules, at least one set of [polyhedral dice](https:
 - **Fighting is deadly**
 - **Keep it weird**
 
-*Fell v0.3. Written by [Jacob Densford](https://jacobdensford.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Names, traits, and spells from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/).*
+*Fell v0.4. Written by [Jacob Densford](https://jacobdensford.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Inspired by [Into the Odd](https://freeleaguepublishing.com/en/games/into-the-odd/) by [Chris McDowall](https://www.bastionland.com/), [Knave](https://questingbeast.itch.io/knave) by [Ben Milton](http://questingblog.com/), [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/), and [Trophy](https://trophyrpg.com/) by [Jesse Ross](https://jesseross.com/), among many other games.*
 
 # The Fell
 
@@ -31,11 +31,513 @@ The Fell is a seemingly endless highland expanse covered in fallow fields, twist
 
 # Creating a Character
 
-You are a **player character** (or PC)--a knave, wretch, or scoundrel seeking fortune in a corrupted land filled with danger.
+Give yourself a **[name](/fell/tables/#names)**.
 
-## Name
+Roll 2d20+10 for your **age**.
 
-Roll for your given and family **name**.
+Optionally, roll or choose some **[traits](/fell/tables/#traits)**.
+
+You have three **abilities**:
+
+- **Body (BOD):** constitution, grit, strength, reflexes
+- **Intellect (INT):** aim, cunning, intelligence, quick thinking
+- **Willpower (WIL):** force of will, leadership, magical potential, persuasiveness
+
+Roll d8 for each **ability** in order to assign **ability dice** (AD) and gain **ability points** (AP) equal to each die's highest face. (Or assign d6 to each, optionally lowering one to d4 to gain a d8.)
+
+d8|Ability Die
+:--|--:
+1-4|d4
+5-6|d6
+7-8|d8
+
+Roll your ability dice and keep the highest single die result. Gain that many **hit points** (HP), representing your ability to avoid critical harm. (Or start with 4 HP.)
+
+Roll or choose a **background** and gain the associated **skill** and **equipment**.
+
+d20|Background
+:--|---
+1| **Alchemist:** *lore*, firebomb (d6, blast), bottle, fire oil
+2| **Bard:** *performance*, dagger (d4), musical instrument, face paint
+3| **Blacksmith:** *repair*, hammer (d4), brigandine (1 protection), bellows
+4| **Burglar:** *skullduggery*, crowbar (d4), lockpicks, rope (50ft)
+5| **Butcher:** *speechcraft*, cleaver (d4), salt, meat hook
+6| **Carpenter:** *skullduggery*, chisel (d4), nails, hand drill
+7| **Farmer:** *athletics*, pitchfork (d4), cookpot, pouch of seed
+8| **Gambler:** *discernment*, firebomb (d6, blast), cards, dice
+9| **Gravedigger:** *lore*, shovel (d4), lantern, cross necklace
+10| **Herbalist:** *survival*, sheers (d4), mortar & pestle, herbs
+11| **Hunter:** *survival*, sling (d4), knife (d4), rodent trap
+12| **Magician:** *skullduggery*, staff (d4), hourglass, goat
+13| **Mercenary:** *athletics*, club (d4), shield (+1 protection), lucky charm
+14| **Merchant:** *speechcraft*, ornamental sword (d4), ledger, cart
+15| **Miner:** *survival*, pick (d4), lantern, canary
+16| **Noble:** *speechcraft*, family sword (d6), book of genealogy, mirror
+17| **Outlaw:** *survival*, shortsword (d4), shortbow (d4), arrows
+18| **Priest:** *performance*, censer (d4), holy water, incense
+19| **Servant:** *discernment*, stolen dagger (d4), soap, incriminating letters
+20| **Scholar:** *lore*, letter opener (d4), book, quill & ink
+
+If you have any armor, gain its **protection**.
+
+You also start with **three days' rations, a torch (1 hour), and 3d6 coin** which you may spend on additional [equipment](/fell/playing-the-game/#equipment).
+
+You have 4+BOD **equipment slots**.
+
+You have a **steel die** granted by your weapon and a **skill die** equal to your INT.
+
+If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)**, and gain a **spell die** of any size that you can change as often as you like.
+
+## Example Character
+
+**Name:** Mannog Burl
+
+**Age:** 38
+
+**HP:** 5/5 — **Protection:** 0
+
+**BOD:** 4/d4 | **INT:** 6/d6 | **WIL:** 8/d8
+
+**Steel:** d4 | **Skill:** d6 | **Spell:** d?
+
+**Background:** Hunter
+
+**Skills:** *survival*
+
+**Spells:** *Comprehend* (you become fluent in all languages for a short while)
+
+**Equipment (5/8 slots):** sling (d4), knife (d4), rodent trap, rations (3 days), torch (1 hour), 12 coin
+
+# Playing the Game
+
+## Tasks and Tests
+
+Most of the time, you simply say what you do in response to the corrupted land and its inhabitants described by the referee. Any action you take is a **task**. With some tasks, rolling dice is unavoidable.
+
+Whenever you attempt a task you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
+
+Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
+
+Roll, comparing your highest single die result to the **difficulty number** (DN), which is usually **4**. If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble.
+
+**Tests are always dangerous and should be avoided whenever possible.**
+
+## Advantage and Disadvantage
+
+When a situation grants you **advantage,** you may roll your dice one step higher. When a situation imposes **disadvantage**, you must roll your dice one step lower. Advantages and disadvantages stack and cancel each other out one for one.
+
+## Dice Ladder
+
+When a rule or the referee instructs you to roll your dice a number of steps higher or lower, move up or down the rungs of the **dice ladder**:
+
+**d4 → d6 → d8 → d10 → d12**
+
+If a die would be lowered below a d4, you cannot roll it. If it would be raised above a d12, add a bonus die that begins at the bottom of the ladder.
+
+## Help
+
+When someone else attempts a task and it makes sense for you to do so, you may **help**. If it's a test, roll an applicable steel, skill, or spell die to be included. If they fail, trouble is coming for you as well.
+
+## Contests
+
+When you attempt a task and someone else opposes you, it's a **contest**. You each collect dice as normal for a test, then roll. Whoever has the highest single die result wins. In a tie, a die higher up the ladder beats a lower one.
+
+## Turns and Rounds
+
+Time is tracked in **turns** and **rounds**. During a round, everyone takes a turn.
+
+During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room—about ten seconds. Player characters act first and as a group, taking their turns together. When surprised, roll an INT contest to determine if you can act during the first round.
+
+While **exploring**, a round lasts long enough for everyone to perform a few tasks and investigate an area, or to rest—about ten minutes.
+
+When **traveling**, a round lasts long enough to traverse three miles of easy terrain at a steady pace—about one hour.
+
+## Hirelings
+
+**Hirelings** are nonplayer characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like player characters with two exceptions: they have d4 in each ability and must roll for HP. When performing a relevant task, your hirelings may help just as another player character would.
+
+Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher ability die. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
+
+You may employ a number of hirelings equal to your WIL.
+
+## Spells
+
+To cast a **spell**, either one you've learned or from a scroll, you must roll a WIL test using your spell die.
+
+Whenever using your spell die, if its result is higher than the result of the test's ability die, take the difference as harm, first to HP, then to WIL. If WIL harm is taken in this way and a scroll was used, the scroll is destroyed.
+
+If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
+
+It takes a week and components worth 100 coin to learn a new spell from a scroll or wizened teacher. You can know a number of spells equal to your WIL.
+
+## Reactions
+
+When you encounter an NPC whose disposition towards you is not obvious, roll your WIL on the table below to determine their **reaction**.
+
+Roll|Reaction
+:--|--:
+1-3|Hostile
+4-5|Wary
+6-7|Indifferent
+8-9|Friendly
+10-12|Helpful
+
+## Leverage
+
+If you have **leverage** and apply it, you may improve an NPC's reaction by winning a WIL contest.
+
+## Attacking
+
+Attacking is a task for which you do not have to make a test. To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm—first to hit points, then to BOD.
+
+When more than one person attacks a single target or when attacking with multiple weapons, roll all steel dice and use the highest single die result.
+
+## Critical Harm
+
+When you take harm to your ability points, it is **critical harm**. Roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, you must roll on the death table.
+
+## Blast
+
+**Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's steel die.
+
+## Morale
+
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a WIL contest. If you win, roll your WILL on the **morale** table to see what the surviving enemies do.
+
+Roll|Morale
+:--|--:
+1-3|Hesitate
+4-5|Retreat
+6-7|Flee
+8-9|Surender Conditionally
+10-12|Surender Unconditionally
+
+## Deprivation and Fatigue
+
+When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain hit points or ability points, nor can you restore ability dice.
+
+When you are deprived for longer than a day, you become **fatigued** and must make all tests with disadvantage. Each additional day you are deprived makes the disadvantage worse.
+
+You may remove one level of fatigue for each night of comfortable rest on a full stomach.
+
+## Harm and Death
+
+**Harm** subtracts from hit points, then ability points.
+
+In some cases, critical harm may reduce an ability's die.
+
+When you fail a critical harm test, roll that ability on the **death** table.
+
+Roll|Death
+:--|--:
+1-3|Dead
+4-5|Dead in d4 rounds unless treated
+6-7|Unconcious for d4 hours unless revived
+8-9|Hurt but still standing
+10-12|Recover d4 HP
+
+When an ability's points reach zero or an ability's die would be lowered below d4, you die.
+
+## Healing and Rest
+
+**Healing** recovers hit points and ability points, and restores ability dice.
+
+Whenever you take several minutes to **rest**, recover all your hit points. When you rest for the night, recover all your ability points. After a full week of rest and appropriate care, restore all your reduced ability dice.
+
+## Advancement
+
+Each time you return to relative safety bearing significant plunder gained through deadly peril, you may attempt to **advance**.
+
+Roll all your ability dice.
+
+For each die that rolls higher than your current hit points, gain one hit point.
+
+For each die that rolls its highest number, increase that ability's die by one step.
+
+<h2 id="equipment">Equipment</h2>
+
+Most items use 1 equipment slot. **Bulky** items use 2 slots and generally require two hands to carry or wield. Small equipment can be bundled together to only use 1 slot. For example, three days' rations only uses one slot. 100 coins uses 1 slot; fewer coins fit in your pockets and don't use a slot.
+
+Equipment|Cost
+:--|--:
+air bladder|5
+bear trap|15
+bedroll|5
+bellows|10
+blanket|2
+book|50
+bottle|2
+bucket|5
+caltrops|10
+candle (6 hours)|1
+cards|5
+chain (10ft)|10
+chalk|1
+chisel|5
+cookpot|5
+crowbar|10
+dice|2
+face paint|10
+fire oil|10
+fishing rod|10
+flint and steel|5
+furs|10
+glass marbles|5
+glue|5
+grappling hook|25
+grease|10
+hammer|5
+hand drill|10
+holy water|25
+horn|10
+hourglass|50
+incense|10
+instrument (musical)|100
+ladder (10ft, bulky)|10
+lantern (3 hours)|10
+lantern oil|5
+lens|10
+lockpicks|10
+manacles|10
+metal file|5
+mirror|5
+mortar & pestle|5
+nails|3
+net|10
+oilskin bag|5
+paint|10
+pick|10
+pulley|10
+pole (10ft)|5
+quill & ink|10
+rations (three days)|5
+rodent trap|10
+rope (25ft)|5
+sack|5
+salt|2
+saw|5
+soap|1
+spike|1
+spiked boots|5
+sponge|1
+spyglass|40
+tar|10
+tent (bulky)|15
+tinderbox|5
+torch (1 hour)|1
+twine (300ft)|5
+waterskin|5
+whistle|2
+wolfsbane|10
+
+Animals|Cost
+:--|--:
+goat|15
+horse|75
+mule|30
+
+Vehicles|Cost
+:--|--:
+carriage|350
+cart|30
+rowboat|100
+wagon|200
+
+Services|Cost
+:--|--:
+good meal|3
+hireling (per day)|5
+pint of ale|1
+repair armor (per protection)|15
+silver weapon|20
+warm bed (per night)|3
+
+Weapons|Cost
+:--|--:
+arrows (20)|10
+battle axe (d8, bulky)|35
+bolts (20)|15
+club (d4)|10
+crossbow (d8, bulky)|40
+dagger (d4)|10
+firebomb (d6, blast)|15
+flail (d8, bulky)|35
+greatsword (d8, bulky)|45
+handaxe (d4)|15
+longbow (d6, bulky)|25
+longsword (d6)|30
+mace (d6)|25
+shortsword (d4)|20
+shortbow (d4)|15
+sling (d4)|5
+staff (d4)|5
+warhammer (d8, bulky)|30
+
+Armor|Cost
+:--|--:
+shield (+1 protection)|10
+brigandine (1 protection, bulky)|20
+chainmail (2 protection, bulky)|40
+
+# Running the Game
+
+## Luck
+
+When the way in which the world reacts to the player characters is uncertain, roll a **luck die**--usually a d6. Higher is better for the PCs. Lower is worse.
+
+Roll a luck die:
+
+- When the player characters stop to rest in a dangerous location
+- When a player character fails a test
+- If a player character makes a loud noise in a dungeon
+- After each round of dungeon exploration and wilderness navigation
+- To see if a trap is triggered
+
+## Time
+
+One way to track time while traveling, exploring, or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
+
+During an encounter, one full die represents a minute.
+
+While exploring, one full die represents an hour.
+
+When traveling, one full die represents six hours.
+
+## Difficulty
+
+When the standard difficulty number of 4 doesn't suffice, which it usually should, consult the difficulty table below for guidance.
+
+DN|Difficulty
+:--|--:
+0|Very easy
+2|Easy
+**4** | **Normal**
+6|Hard
+8|Very hard
+10|Extremely hard
+12|Nearly impossible
+
+## Extended Tests
+
+Some tests require more time and effort, and thus require more than one passed test to accomplish. Tell how many the **extended test** will require, then player characters roll as normal. They may repeat the roll to add additional passes once they've dealt with any trouble.
+
+## Protection
+
+Protection should never, or very rarely, be increased beyond 3.
+
+## Nonplayer Characters
+
+**Nonplayer Characters** (or NPCs) can be townsfolk, hirelings, monsters, or anything in between.
+
+All NPCs should have a **name**, a flavorful **description**, and a **drive**.
+
+NPCs default to having d4 in each ability and 3 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP. If they're competent, give them d6s and 5 HP. If they're particularly strong, smart, or magical; raise that ability's die to d8, or even higher, and bump their HP up by 1 or 2. If what they're good at is more specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP.
+
+## Optional Rules
+
+All rules are optional. These, especially so.
+
+### Customizing Backgrounds
+
+Players may create their own backgrounds, gaining one skill of their choice and purchasing equipment worth 60 coin.
+
+### Longer Dice Ladder
+
+If you have access to wacky dice or a digital dice roller, you may want to add some extra rungs to the dice ladder. For example, if using dice from [DCC](https://goodman-games.com/dungeon-crawl-classics-rpg/), the ladder would look like this:
+
+**d3 → d4 → d5 → d6 → d7 → d8 → d10 → d12 → etc**
+
+## Converting OSR Material
+
+### Abilities
+
+Each of the three abilities in *Fell* roughly corresponds to three OSR abilities, but it's not an exact conversion.
+
+Fell|OSR
+:--|--:
+Body|Strength, Constitution, Dexterity
+Intellect|Intelligence, Dexterity, Wisdom
+Willpower|Wisdom, Charisma, Intelligence
+
+### Ability Dice and Hit Points
+
+Use the table below for guidance.
+
+OSR HD|Fell AD and HP
+:--|--:
+1|d4 2HP
+2|d4 3HP
+3|d6 4HP
+4|d6 5HP
+5|d8 6HP
+6|d8 7HP
+7|d10 8HP
+8|d10 9HP
+9|d12 10HP
+10|d12 11HP
+11+|d12+ 12HP+
+
+### Damage
+
+Typically, use the damage die as the steel die. Sometimes, step the die down one if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.
+
+### Alternative Spell Lists
+
+Most OSR-compatible spell lists should work with *Fell*, such as the [Magic-User Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User_Spells) and [Cleric Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Cleric_Spells) from [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page).
+
+If a spell causes harm, follow the damage guidelines above.
+
+If a spell requires a save, it's a contest.
+
+If the spell uses levels, the spell's level is the difficulty number for the test that must be rolled to cast the spell.
+
+# Bestiary
+
+## A - E
+
+## F - J
+
+### Flaming Skull
+
+*A floating skull with a flickering green flame within.*  
+8**HP**, 0**P**, d4**BOD**, d6**INT**, d8**WIL**  
+Flames (d6)
+
+## K - O
+
+### Mimic
+
+*Appears to be a simple chest but isn't.*  
+6**HP**, 1**P**, d8**BOD**, d4**INT**, d4**WIL**  
+Pseudopod (d4), Bite (d6)
+
+## P - T
+
+### Skeleton
+
+*Old, rattling bones spring to life.*  
+3**HP**, 0**P**, d4**BOD**, d4**INT**, d4**WIL**  
+Shortsword (d4)
+
+## U - Z
+
+### Undead
+
+*Tattered clothes and decayed flesh cling to this reanimated corpse.*  
+5**HP**, 1**P**, d6**BOD**, d6**INT**, d4**WIL**  
+Bite (d4)
+
+### Will-o'-the-Wisp
+
+*A glowing blue light dancing between the trees.*  
+2**HP**, 0**P**, d4**BOD**, d4**INT**, d8**WIL**  
+Dazzle (d4, INT)
+
+# Tables
+
+<h2 id="names">Names</h2>
+
+Names from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/).
 
 d20|Given Name
 :--|--:
@@ -83,13 +585,9 @@ d20|Family Name
 19|Weaver
 20|Wolder
 
-## Age
+<h2 id="traits">Traits</h2>
 
-You are 2d20+10 years old.
-
-## Traits
-
-Roll for each of your **traits**.
+Traits from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/).
 
 d10|Physique
 :--|--:
@@ -221,248 +719,9 @@ d10|Misfortune
 9|Disowned
 10|Exiled
 
-## Hit Points
+<h2 id="spells">Spells</h2>
 
-**Hit points** (or HP) represents your ability to avoid critical harm.
-
-Roll a d8 and gain that many hit points.
-
-## Abilities
-
-You have three **abilities**:
-
-- **Body (BOD):** Constitution, grit, reflexes, strength
-- **Intellect (INT):** Aim, cunning, intelligence, perception
-- **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
-
-Each has an **ability die** (or AD).
-
-Each also has **ability points** (or AP) equal to the highest number on the ability's die.
-
-Roll for each ability to assign dice and gain points.
-
-d8|Ability Die
-:--|--:
-1-4|d4
-5-6|d6
-7-8|d8
-
-## Backgrounds
-
-Roll to gain a **background** and associated **skills** and **equipment**.
-
-d20|Background
-:--|---
-1| **Alchemist:** *lore*, firebomb (d6, blast), bottle, fire oil
-2| **Bard:** *performance*, dagger (d4), musical instrument, face paint
-3| **Blacksmith:** *repair*, hammer (d4), helmet (1 protection), bellows
-4| **Burglar:** *skullduggery*, crowbar (d4), lockpicks, rope (50ft)
-5| **Butcher:** *speechcraft*, cleaver (d4), salt, meat hook
-6| **Carpenter:** *skullduggery*, chisel (d4), nails, hand drill
-7| **Farmer:** *athletics*, pitchfork (d4), cookpot, pouch of seed
-8| **Gambler:** *discernment*, firebomb (d6, blast), cards, dice
-9| **Gravedigger:** *lore*, shovel (d4), lantern, cross necklace
-10| **Herbalist:** *survival*, sheers (d4), mortar & pestle, herbs
-11| **Hunter:** *survival*, sling (d4), knife (d4), rodent trap
-12| **Magician:** *skullduggery*, staff (d4), hourglass, goat
-13| **Mercenary:** *athletics*, club (d4), shield (+1 protection), lucky charm
-14| **Merchant:** *speechcraft*, ornamental sword (d4), ledger, cart
-15| **Miner:** *survival*, pick (d4), lantern, canary
-16| **Noble:** *speechcraft*, family sword (d6), book of genealogy, mirror
-17| **Outlaw:** *survival*, shortsword (d4), shortbow (d4), arrows
-18| **Priest:** *performance*, censer (d4), holy water, incense
-19| **Servant:** *discernment*, stolen dagger (d4), soap, incriminating letters
-20| **Scholar:** *lore*, letter opener (d4), book, quill & ink
-
-## Skills
-
-Roll your INT die to see if you know any additional **skills**.
-
-Roll|Additional Skills
-:--|--:
-1-6|0
-7-8|1
-
-You have a **skill die** (or SD) equal to your INT ability die.
-
-You may roll your skill die whenever you perform a test using one of your skills.
-
-When you gain an undefined skill, roll on the skill table to determine which one.
-
-d8|Skill
-:--|--:
-1|athletics
-2|discernment
-3|lore
-4|performance
-5|repair
-6|skullduggery
-7|speechcraft
-8|survival
-
-## Equipment
-
-You have 4+BOD **equipment slots** (or slots).
-
-In addition to the equipment granted by your background, you start with three days' rations, a torch, and 3d6 coin.
-
-Most equipment uses 1 slot. **Bulky** equipment uses 2 slots and generally requires two hands to carry or wield. Very small equipment can be bundled together and still only use 1 slot.
-
-One hundred coins takes up one slot. Fewer coins than that fit in your pockets and don't use a slot.
-
-Weapons grant a **steel die** (or SD). Whenever you make a test with a weapon, you may add its steel die to your roll. Whenever you attack with a weapon, this is how much damage you do.
-
-Small weapons can be wielded in your off hand. Roll both steel dice and keep the higher result.
-
-**Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's steel die.
-
-Armor grants **protection**, reducing the amount of harm taken from an attack to hit points and BOD ability points.
-
-Equipment|Cost
-:--|--:
-air bladder|5
-bear trap|15
-bedroll|5
-bellows|10
-blanket|2
-book|50
-bottle|2
-bucket|5
-caltrops|10
-candle (6 hours)|1
-cards|5
-chain (10ft)|10
-chalk|1
-chisel|5
-cookpot|5
-crowbar|10
-dice|2
-face paint|10
-fire oil|10
-fishing rod|10
-flint and steel|5
-furs|10
-glass marbles|5
-glue|5
-grappling hook|25
-grease|10
-hammer|5
-hand drill|10
-holy water|25
-horn|10
-hourglass|50
-incense|10
-instrument (musical)|100
-ladder (10ft, bulky)|10
-lantern (3 hours)|10
-lantern oil|5
-lens|10
-lockpicks|10
-manacles|10
-metal file|5
-mirror|5
-mortar & pestle|5
-nails|3
-net|10
-oilskin bag|5
-paint|10
-pick|10
-pulley|10
-pole (10ft)|5
-quill & ink|10
-rations (three days)|5
-rodent trap|10
-rope (25ft)|5
-sack|5
-salt|2
-saw|5
-soap|1
-spike|1
-spiked boots|5
-sponge|1
-spyglass|40
-tar|10
-tent (bulky)|15
-tinderbox|5
-torch (1 hour)|1
-twine (300ft)|5
-waterskin|5
-whistle|2
-wolfsbane|10
-
-Animal|Cost
-:--|--:
-goat|15
-horse|75
-mule|30
-
-Vehicle|Cost
-:--|--:
-carriage|350
-cart|30
-rowboat|100
-wagon|200
-
-Service|Cost
-:--|--:
-good meal|3
-hireling (per day)|5
-pint of ale|1
-repair armor (per protection)|15
-silver weapon|20
-warm bed (per night)|3
-
-Weapon|Cost
-:--|--:
-arrows (20)|10
-battle axe (d8, bulky)|35
-bolts (20)|15
-club (d4)|10
-crossbow (d8, bulky)|40
-dagger (d4)|10
-firebomb (d6, blast)|15
-flail (d8, bulky)|35
-greatsword (d8, bulky)|45
-handaxe (d4)|15
-longbow (d6, bulky)|25
-longsword (d6)|30
-mace (d6)|25
-shortsword (d4)|20
-shortbow (d4)|15
-sling (d4)|5
-staff (d4)|5
-warhammer (d8, bulky)|30
-
-Armor|Cost
-:--|--:
-shield (+1 protection)|10
-brigandine (1 protection, bulky)|20
-chainmail (2 protection, bulky)|40
-plate (3 protection, bulky)|80
-
-## Hirelings
-
-**Hirelings** are nonplayer characters (or NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings have d4 hit die (or HD) with 4 hit points (or HP), one skill, and 8 equipment slots (4+HD). When performing a relevant test, you may add your hireling's die to your roll.
-
-Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher HD or an additional skill. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
-
-## Spells
-
-Roll your WIL die to see if you know any **spells**.
-
-Roll|Spells Known
-:--|--:
-1-4|0
-5-6|1
-7-8|2
-
-If you have any **spells**, you gain a **spell die** (or SD) of any size, which you can change as often as you'd like.
-
-You must roll a WIL test using your spell die to cast a spell. Take the result of your spell die as harm (first to hit points, then to WIL ability points) if it is higher than the result of your ability die.
-
-If a spell is aimed at an unwilling target, they may force a contest to reduce the effects.
-
-When you gain an undefined spell, roll on the spell table to determine which one.
+Spells from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/).
 
 d100|Spell|Effect
 :--|---|---
@@ -567,309 +826,4 @@ d100|Spell|Effect
 99   | Wizard Mark       | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects.
 100  | X-Ray Vision      | You can see through walls, dirt, clothing, etc.
 
-## Example Character
-
-**Name:** Mannog Burl
-
-**Age:** 38
-
-**Traits:** flabby body, soft skin, filthy hair, broken speech, filthy clothing, honorable virtue, vain vice, wise reputation, demoted misfortune
-
-**HP:** 5/5 -- **Protection:** 0
-
-**BOD:** 4/d4 | **INT:** 8/d8 | **WIL:** 8/d8
-
-**Background:** Hunter
-
-**Skills (d8):** *survival*
-
-**Spells:** *Command* (a target obeys a single three-word command that does not cause it harm), *Comprehend* (you become fluent in all languages for a short while)
-
-**Equipment (5/8 slots):** sling (d4), knife (d4), rodent trap, rations (3 days), torch, 12 coin
-
-# Playing the Game
-
-Most of the time, you will use your wits and simply say what you do in response to the corrupted land and its inhabitants described by the facilitator. Sometimes, rolling dice is unavoidable.
-
-## Tests
-
-Whenever you attempt a **task** that you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn how hard it will be and what could go wrong, then roll a **test**.
-
-Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
-
-Roll, comparing each die individually to the **difficulty number** (or DN), which is usually 4. A die that meets or exceeds the difficulty number counts as a **hit**.
-
-DN|Difficulty
-:--|--:
-0|Very easy
-2|Easy
-4|Normal
-6|Hard
-8|Very hard
-10|Extremely hard
-12|Nearly impossible
-
-The test passes if you roll at least one hit.
-
-If none of the dice hit, the test fails. You might still succeed at the task, but there will be trouble.
-
-**Tests are always dangerous and should be avoided whenever possible.**
-
-### Advantage and Disadvantage
-
-When a situation grants you **advantage,** you may roll your dice one step higher.
-
-When a situation imposes **disadvantage**, you must roll your dice one step lower. If this would reduce a die below d4, you simply cannot roll it.
-
-Advantages and disadvantages stack and cancel each other out one for one.
-
-**You should almost always seek to gain an advantage.**
-
-### Help
-
-When someone else makes a test and it makes sense for you to do so, you may **help**. Roll an applicable steel, skill, or spell die and add it to their test. If they fail their test, trouble is coming for you as well.
-
-### Contests
-
-When you test against someone, you each collect dice as normal and roll a **contest**. Compare dice individually, highest to lowest. Higher numbers beat lower and count as hits. In a tie, bigger dice beat smaller. Uncontested dice hit. Whoever has the most hits wins the contest. In a tie, the situation remains unchanged.
-
-### Extended Tests
-
-Some tests require more time and effort, and thus require more than one hit to accomplish. Learn how many hits the **extended test** will require, collect dice as normal, and roll. You may repeat the roll to add additional hits once you've dealt with any trouble.
-
-## Turns and Rounds
-
-Time is tracked in *turns* and *rounds*. During a round, everyone takes a turn.
-
-Player characters act as a group, taking their turns together.
-
-When it isn't obvious and multiple sides are involved, roll an INT contest to determine which side takes their turns first.
-
-During an encounter, a round lasts long enough for everyone to perform a task and traverse a room--about ten seconds.
-
-When exploring a dungeon, a round lasts long enough for everyone to perform a few tasks and investigate an area--about ten minutes.
-
-When navigating the wilderness, a round lasts long enough to travel three miles at a steady pace--about one hour.
-
-## Reactions
-
-When you encounter an NPC who's disposition towards you is not obvious, roll your WIL ability die on the table below to determine their **reaction**.
-
-Roll|Reaction
-:--|--:
-1-3|Hostile
-4-5|Wary
-6-7|Indifferent
-8-9|Friendly
-10-12|Helpful
-
-### Leverage
-
-If you have **leverage**, you can modify an NPC's reaction by rolling a WIL contest, improving their disposition with every hit.
-
-## Attacking
-
-To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm--first to hit points, then to BOD ability points.
-
-When more than one person attacks a single target or when attacking with multiple weapons, roll all steel dice and use the highest result.
-
-### Critical Harm
-
-When you take harm to your ability points, roll a test. The difficulty number is equal to the amount of harm taken. If you fail, you must roll on the death table.
-
-### Morale
-
-When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a WIL contest. If you win, roll your WILL ability die on the **morale** table to see what the surviving enemies do.
-
-Roll|Morale
-:--|--:
-1-3|Retreat
-4-5|Flee
-6-7|Surender Conditionally
-8-12|Surender Unconditionally
-
-## Deprivation and Fatigue
-
-When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain hit points or ability points, nor can you restore ability dice.
-
-When you are deprived for longer than a day, you become **fatigued** and must make all tests with disadvantage. Each additional day you are deprived makes the disadvantage worse.
-
-You may remove one level of fatigue for each night of comfortable rest on a full stomach.
-
-## Harm and Death
-
-**Harm** subtracts from hit points and then ability points.
-
-In rare cases, extreme harm reduces an ability's die.
-
-When you fail a critical harm test, roll that ability's die on the **death** table.
-
-Roll|Death
-:--|--:
-1|Dead
-2|Dead in 1d4 rounds unless treated
-3|Dead in 1d4 hours unless treated
-4+|Hurt but still fighting
-
-When an ability's points reach zero or an ability's die would be reduced below d4, you die.
-
-## Healing and Rest
-
-**Healing** recovers hit points and ability points and restores ability dice.
-
-Whenever you take a few minutes to **rest** and eat or drink, you recover all your hit points. When you comfortably rest for the night on a full stomach, you recover all your hit points and ability points. After a full week of comfortable rest and hearty meals, you may restore all reduced ability dice.
-
-## Character Advancement
-
-Each time you return to relative safety bearing treasure gained through peril, you may attempt to **advance**.
-
-Roll a d12. Increase your hit points by one, to a maximum of 12, if the roll is higher than your current hit points.
-
-Roll one ability's die. Increase the die by one, to a maximum of d12, if you roll its highest number.
-
-Instead of increasing your INT die, you may gain a skill if the result of the roll was higher than your current number of skills.
-
-Instead of increasing your WIL die, you may gain a spell if the result of the roll was higher than your current number of spells.
-
-# Running the Game
-
-The **facilitator** plays the corrupted land and its inhabitants, bringing life to the dangers that harry the player characters.
-
-## Nonplayer Characters
-
-**Nonplayer Characters** (or NPCs) can be townsfolk, hirelings, monsters, or anything in between.
-
-All NPCs should have a **name**, a flavorful **description**, and a **drive**.
-
-Instead of ability dice and ability points, most NPCs have a **hit die** (or HD) and only **hit points** (or HP). Use their HD and HP for everything that would normally use an ability equivalent. When they reach zero HP, they die.
-
-## Luck
-
-When the way in which the world reacts to the player characters is uncertain, roll a **luck die**--usually a d6. Higher is better for the PCs. Lower is worse.
-
-Roll a luck die:
-
-- When the player characters stop to rest in a dangerous location
-- When a player character fails a test
-- After each round of dungeon exploration and wilderness navigation
-- To see if a trap is triggered
-
-## Time
-
-One way to track time while navigating the wilderness, exploring a dungeon, or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
-
-During an encounter, one full die represents a minute.
-
-While exploring a dungeon, one full die represents an hour.
-
-When navigating the wilderness, one full die represents six hours.
-
-## Optional Rules
-
-All rules are optional. These, especially so.
-
-### Customizing Player Characters
-
-Instead of rolling on tables, player characters can be created using choice.
-
-For names and traits, player characters may choose or write their own for each.
-
-For ability dice, they may assign a d4 to one and a d6 to two, or a d4 to two and a d8 to one.
-
-For ability points, they may start with 5.
-
-For backgrounds, they may choose or create their own, gaining one skill of their choice and purchasing equipment worth 60 coin.
-
-If their WIL is d8, they may gain one spell of their choice.
-
-### Alternative Spell Lists
-
-Most OSR-compatible spell lists work with *Fell*.
-
-Some examples include:
-
-- [More Spellbooks](https://cairnrpg.com/resources/more-spellbooks/) from [Cairn](https://cairnrpg.com/)
-- A list of 100 level-less spells from [Knave](https://questingbeast.itch.io/knave)
-- The [Magic-User Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User_Spells) and [Cleric Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Cleric_Spells) from [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
-
-If a spell causes harm, follow the guidelines in the section on converting OSR material to determine how much.
-
-If a spell requires a save, it's a contest.
-
-If the spell uses levels, the spell's level is the difficulty number for the test that must be rolled to cast the spell.
-
-### Converting OSR Material
-
-#### Abilities
-
-Each of the three abilities in *Fell* roughly corresponds to three OSR abilities, but it's not an exact conversion.
-
-Fell|OSR
-:--|--:
-Body|Strength, Constitution, Dexterity
-Intellect|Intelligence, Dexterity, Wisdom
-Willpower|Wisdom, Charisma, Intelligence
-
-#### Hit Dice and Hit Points
-
-In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD (or even a d2). If they're meant to be an extreme challenge, use a d12 (or even a d20). Use the table below as a guideline.
-
-OSR HD|Fell HD
-:--|--:
-1|d4
-2|d4
-3|d6
-4|d6
-5|d8
-6|d8
-7|d10
-8|d10
-9|d12
-10|d12
-11+|d20
-
-#### Damage
-
-Typically, use the damage die as the steel die. Sometimes, step the die down one if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.
-
-# Bestiary
-
-## A - E
-
-## F - J
-
-### Flaming Skull
-
-*A floating skull with a flickering green flame within.*  
-**HIT:** 8/d8  
-Flames (d6)
-
-## K - O
-
-### Mimic
-
-*Appears to be a simple chest but isn't.*  
-**HIT:** 8/d8  
-Pseudopod (d4), Bite (d6)
-
-## P - T
-
-### Skeleton
-
-*Old, rattling bones spring to life.*  
-**HIT:** 4/d4  
-Shortsword (d4)
-
-## U - Z
-
-### Undead
-
-*Tattered clothes and decayed flesh cling to this reanimated corpse.*  
-**HIT:** 6/d6  
-Bite (d4)
-
-### Will-o'-the-Wisp
-
-*A glowing blue light dancing between the trees.*  
-**HIT:** 4/d4  
-Dazzle (d4, INT)
+*For even more spells use [more spellbooks](https://cairnrpg.com/resources/more-spellbooks/) from [Cairn](https://cairnrpg.com/), the 100 level-less spells from [Knave](https://questingbeast.itch.io/knave), and the arcana from [Into the Odd](https://freeleaguepublishing.com/en/games/into-the-odd/).*

@@ -6,16 +6,6 @@ link: '/fell'
 
 # Running the Game
 
-The **facilitator** plays the corrupted land and its inhabitants, bringing life to the dangers that harry the player characters.
-
-## Nonplayer Characters
-
-**Nonplayer Characters** (or NPCs) can be townsfolk, hirelings, monsters, or anything in between.
-
-All NPCs should have a **name**, a flavorful **description**, and a **drive**.
-
-NPCs can have ability dice and points, hit points, and most other things that player characters have.
-
 ## Luck
 
 When the way in which the world reacts to the player characters is uncertain, roll a **luck die**--usually a d6. Higher is better for the PCs. Lower is worse.
@@ -24,6 +14,7 @@ Roll a luck die:
 
 - When the player characters stop to rest in a dangerous location
 - When a player character fails a test
+- If a player character makes a loud noise in a dungeon
 - After each round of dungeon exploration and wilderness navigation
 - To see if a trap is triggered
 
@@ -39,7 +30,7 @@ When traveling, one full die represents six hours.
 
 ## Difficulty
 
-When the standard difficulty number of four doesn't suffice, which it usually should, consult the difficulty table below for guidance.
+When the standard difficulty number of 4 doesn't suffice, which it usually should, consult the difficulty table below for guidance.
 
 DN|Difficulty
 :--|--:
@@ -53,51 +44,37 @@ DN|Difficulty
 
 ## Extended Tests
 
-Some tests require more time and effort, and thus require more than one hit to accomplish. Tell how many hits the **extended test** will require, then player characters roll as normal. They may repeat the roll to add additional hits once they've dealt with any trouble.
+Some tests require more time and effort, and thus require more than one passed test to accomplish. Tell how many the **extended test** will require, then player characters roll as normal. They may repeat the roll to add additional passes once they've dealt with any trouble.
+
+## Protection
+
+Protection should never, or very rarely, be increased beyond 3.
+
+## Nonplayer Characters
+
+**Nonplayer Characters** (or NPCs) can be townsfolk, hirelings, monsters, or anything in between.
+
+All NPCs should have a **name**, a flavorful **description**, and a **drive**.
+
+NPCs default to having d4 in each ability and 3 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP. If they're competent, give them d6s and 5 HP. If they're particularly strong, smart, or magical; raise that ability's die to d8, or even higher, and bump their HP up by 1 or 2. If what they're good at is more specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP.
 
 ## Optional Rules
 
 All rules are optional. These, especially so.
 
-### Customizing Player Characters
+### Customizing Backgrounds
 
-Instead of rolling on tables, player characters can be created using choice.
-
-For names and traits, player characters may choose or write their own for each.
-
-For ability dice, they may assign d6 to each. They may lower one to d4 to gain a d8.
-
-For hit points, they may start with 4.
-
-For backgrounds, they may choose or create their own, gaining one skill of their choice and purchasing equipment worth 60 coin.
-
-If their WIL is d8, they may gain one spell of their choice.
+Players may create their own backgrounds, gaining one skill of their choice and purchasing equipment worth 60 coin.
 
 ### Longer Dice Ladder
 
 If you have access to wacky dice or a digital dice roller, you may want to add some extra rungs to the dice ladder. For example, if using dice from [DCC](https://goodman-games.com/dungeon-crawl-classics-rpg/), the ladder would look like this:
 
-**d3 -> d4 -> d5 -> d6 -> d7 -> d8 -> d10 -> d12 -> etc**
+**d3 → d4 → d5 → d6 → d7 → d8 → d10 → d12 → etc**
 
-### Alternative Spell Lists
+## Converting OSR Material
 
-Most OSR-compatible spell lists should work with *Fell*.
-
-Some examples include:
-
-- [More Spellbooks](https://cairnrpg.com/resources/more-spellbooks/) from [Cairn](https://cairnrpg.com/)
-- A list of 100 level-less spells from [Knave](https://questingbeast.itch.io/knave)
-- The [Magic-User Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User_Spells) and [Cleric Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Cleric_Spells) from [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
-
-If a spell causes harm, follow the guidelines in the section on converting OSR material to determine how much.
-
-If a spell requires a save, it's a contest.
-
-If the spell uses levels, the spell's level is the difficulty number for the test that must be rolled to cast the spell.
-
-### Converting OSR Material
-
-#### Abilities
+### Abilities
 
 Each of the three abilities in *Fell* roughly corresponds to three OSR abilities, but it's not an exact conversion.
 
@@ -107,24 +84,34 @@ Body|Strength, Constitution, Dexterity
 Intellect|Intelligence, Dexterity, Wisdom
 Willpower|Wisdom, Charisma, Intelligence
 
-#### Ability Dice and Hit Points
+### Ability Dice and Hit Points
 
-In *Fell*, an NPC has one hit die and a number of hit points equal to the die's highest number. If an NPC is meant to be easy to overcome, use a d4 for their HD (or even a d2). If they're meant to be an extreme challenge, use a d12 (or even a d20). Use the table below as a guideline.
+Use the table below for guidance.
 
 OSR HD|Fell AD and HP
 :--|--:
-1|d4 2
-2|d4 3
-3|d6 4
-4|d6 5
-5|d8 6
-6|d8 7
-7|d10 8
-8|d10 9
-9|d12 10
-10|d12 11
-11+|d12 12+
+1|d4 2HP
+2|d4 3HP
+3|d6 4HP
+4|d6 5HP
+5|d8 6HP
+6|d8 7HP
+7|d10 8HP
+8|d10 9HP
+9|d12 10HP
+10|d12 11HP
+11+|d12+ 12HP+
 
-#### Damage
+### Damage
 
 Typically, use the damage die as the steel die. Sometimes, step the die down one if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.
+
+### Alternative Spell Lists
+
+Most OSR-compatible spell lists should work with *Fell*, such as the [Magic-User Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User_Spells) and [Cleric Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Cleric_Spells) from [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page).
+
+If a spell causes harm, follow the damage guidelines above.
+
+If a spell requires a save, it's a contest.
+
+If the spell uses levels, the spell's level is the difficulty number for the test that must be rolled to cast the spell.
