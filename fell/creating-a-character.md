@@ -200,13 +200,11 @@ d10|Misfortune
 
 You have three **abilities**:
 
-- **Body (BOD):** Constitution, grit, strength, reflexes
-- **Intellect (INT):** Aim, cunning, intelligence, quick thinking
-- **Willpower (WIL):** Force of will, leadership, magical potential, persuasiveness
+- **Body (BOD):** constitution, grit, strength, reflexes
+- **Intellect (INT):** aim, cunning, intelligence, quick thinking
+- **Willpower (WIL):** force of will, leadership, magical potential, persuasiveness
 
-Each has an **ability die** (or AD).
-
-Each also has **ability points** (or AP) equal to the highest number on the ability's die.
+Each has an **ability die** (or AD) and **ability points** (or AP) equal to the highest number on the ability's die.
 
 Roll for each ability to assign dice and gain points.
 
@@ -218,7 +216,7 @@ d8|Ability Die
 
 ## Hit Points
 
-**Hit points** (or HP) represents your ability to avoid critical harm.
+**Hit points** (or HP) represent your ability to avoid critical harm.
 
 Roll all your ability dice and gain as many hit points as your highest single die result.
 

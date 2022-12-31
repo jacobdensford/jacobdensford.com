@@ -73,6 +73,12 @@ For backgrounds, they may choose or create their own, gaining one skill of their
 
 If their WIL is d8, they may gain one spell of their choice.
 
+### Longer Dice Ladder
+
+If you have access to wacky dice or a digital dice roller, you may want to add some extra rungs to the dice ladder. For example, if using dice from [DCC](https://goodman-games.com/dungeon-crawl-classics-rpg/), the ladder would look like this:
+
+**d3 -> d4 -> d5 -> d6 -> d7 -> d8 -> d10 -> d12 -> etc**
+
 ### Alternative Spell Lists
 
 Most OSR-compatible spell lists should work with *Fell*.
