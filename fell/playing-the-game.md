@@ -6,57 +6,69 @@ link: '/fell'
 
 # Playing the Game
 
-Most of the time, you simply say what you do in response to the corrupted land and its inhabitants described by the facilitator. Sometimes, rolling dice is unavoidable.
+## Tasks and Tests
 
-## Tests
+Most of the time, you simply say what you do in response to the corrupted land and its inhabitants described by the referee. Any action you take is a **task**. With some tasks, rolling dice is unavoidable.
 
-Whenever you attempt a **task** you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
+Whenever you attempt a task you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
 
 Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
 
-Roll, comparing your highest single die result to the **difficulty number** (or DN), which is usually **4**. If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble.
+Roll, comparing your highest single die result to the **difficulty number** (DN), which is usually **4**. If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble.
 
 **Tests are always dangerous and should be avoided whenever possible.**
 
-### Dice Ladder
+## Advantage and Disadvantage
 
-When a rule, ability, or the game master instructs you to roll your dice a number of steps higher or lower, move up or down the rungs of the **dice ladder**:
+When a situation grants you **advantage,** you may roll your dice one step higher. When a situation imposes **disadvantage**, you must roll your dice one step lower. Advantages and disadvantages stack and cancel each other out one for one.
 
-**d4 -> d6 -> d8 -> d10 -> d12**
+## Dice Ladder
 
-### Advantage and Disadvantage
+When a rule or the referee instructs you to roll your dice a number of steps higher or lower, move up or down the rungs of the **dice ladder**:
 
-When a situation grants you **advantage,** you may roll your dice one step higher.
+**d4 → d6 → d8 → d10 → d12**
 
-When a situation imposes **disadvantage**, you must roll your dice one step lower.
+If a die would be lowered below a d4, you cannot roll it. If it would be raised above a d12, add a bonus die that begins at the bottom of the ladder.
 
-Advantages and disadvantages stack and cancel each other out one for one.
+## Help
 
-### Help
+When someone else attempts a task and it makes sense for you to do so, you may **help**. If it's a test, roll an applicable steel, skill, or spell die to be included. If they fail, trouble is coming for you as well.
 
-When someone else attempts a test and it makes sense for you to do so, you may **help**. Roll an applicable steel, skill, or spell die and add it to their test. If they fail their test, trouble is coming for you as well.
+## Contests
 
-### Contests
-
-When you test against someone, you each collect dice as normal and roll a **contest**. Whoever has the highest single die result wins. In a tie, a bigger die beats a smaller one.
+When you attempt a task and someone else opposes you, it's a **contest**. You each collect dice as normal for a test, then roll. Whoever has the highest single die result wins. In a tie, a die higher up the ladder beats a lower one.
 
 ## Turns and Rounds
 
 Time is tracked in **turns** and **rounds**. During a round, everyone takes a turn.
 
-During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room--about ten seconds.
+During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room—about ten seconds. Player characters act first and as a group, taking their turns together. When surprised, roll an INT contest to determine if you can act during the first round.
 
-Player characters act first and as a group, taking their turns together.
+While **exploring**, a round lasts long enough for everyone to perform a few tasks and investigate an area, or to rest—about ten minutes.
 
-When surprised, roll an INT contest to determine if you can act during the first round.
+When **traveling**, a round lasts long enough to traverse three miles of easy terrain at a steady pace—about one hour.
 
-While **exploring**, a round lasts long enough for everyone to perform a few tasks and investigate an area, or to rest--about ten minutes.
+## Hirelings
 
-When **traveling**, a round lasts long enough to traverse three miles of easy terrain at a steady pace--about one hour.
+**Hirelings** are nonplayer characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like player characters with two exceptions: they have d4 in each ability and must roll for HP. When performing a relevant task, your hirelings may help just as another player character would.
+
+Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher ability die. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
+
+You may employ a number of hirelings equal to your WIL.
+
+## Spells
+
+To cast a **spell**, either one you've learned or from a scroll, you must roll a WIL test using your spell die.
+
+Whenever using your spell die, if its result is higher than the result of the test's ability die, take the difference as harm, first to HP, then to WIL. If WIL harm is taken in this way and a scroll was used, the scroll is destroyed.
+
+If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
+
+It takes a week and components worth 100 coin to learn a new spell from a scroll or wizened teacher. You can know a number of spells equal to your WIL.
 
 ## Reactions
 
-When you encounter an NPC who's disposition towards you is not obvious, roll your WIL ability die on the table below to determine their **reaction**.
+When you encounter an NPC whose disposition towards you is not obvious, roll your WIL on the table below to determine their **reaction**.
 
 Roll|Reaction
 :--|--:
@@ -66,23 +78,27 @@ Roll|Reaction
 8-9|Friendly
 10-12|Helpful
 
-### Leverage
+## Leverage
 
-If you have **leverage** and apply it, you may modify an NPC's reaction by rolling a WIL contest, improving their disposition with every hit.
+If you have **leverage** and apply it, you may improve an NPC's reaction by winning a WIL contest.
 
 ## Attacking
 
-To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm--first to hit points, then to BOD ability points.
+Attacking is a task for which you do not have to make a test. To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm—first to hit points, then to BOD.
 
 When more than one person attacks a single target or when attacking with multiple weapons, roll all steel dice and use the highest single die result.
 
-### Critical Harm
+## Critical Harm
 
-When you take harm to your ability points, it is **critical harm**. Roll a test with that ability's die. The difficulty number is equal to the amount of critical harm taken. If you fail, you must roll on the death table.
+When you take harm to your ability points, it is **critical harm**. Roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, you must roll on the death table.
 
-### Morale
+## Blast
 
-When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a WIL contest. If you win, roll your WILL ability die on the **morale** table to see what the surviving enemies do.
+**Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's steel die.
+
+## Morale
+
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a WIL contest. If you win, roll your WILL on the **morale** table to see what the surviving enemies do.
 
 Roll|Morale
 :--|--:
@@ -106,34 +122,155 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 In some cases, critical harm may reduce an ability's die.
 
-When you fail a critical harm test, roll that ability's die on the **death** table.
+When you fail a critical harm test, roll that ability on the **death** table.
 
 Roll|Death
 :--|--:
 1-3|Dead
-4-5|Dead in 1d4 rounds unless treated
-6-7|Unconcious for 1d4 hours unless revived
+4-5|Dead in d4 rounds unless treated
+6-7|Unconcious for d4 hours unless revived
 8-9|Hurt but still standing
-10-12|Recover d6 HP
+10-12|Recover d4 HP
 
-When an ability's points reach zero or an ability's die would be reduced below d4, you die.
+When an ability's points reach zero or an ability's die would be lowered below d4, you die.
 
 ## Healing and Rest
 
-**Healing** recovers hit points, ability points, and restores ability dice.
+**Healing** recovers hit points and ability points, and restores ability dice.
 
 Whenever you take several minutes to **rest**, recover all your hit points. When you rest for the night, recover all your ability points. After a full week of rest and appropriate care, restore all your reduced ability dice.
 
-## Character Advancement
+## Advancement
 
-Each time you return to relative safety bearing plunder gained through peril, you may attempt to **advance**.
+Each time you return to relative safety bearing significant plunder gained through deadly peril, you may attempt to **advance**.
 
 Roll all your ability dice.
 
 For each die that rolls higher than your current hit points, gain one hit point.
 
-For each die that rolls its highest number, increase the ability's die by one step.
+For each die that rolls its highest number, increase that ability's die by one step.
 
-Instead of increasing your INT die, you may gain a skill if the result of the roll was higher than your current number of skills.
+<h2 id="equipment">Equipment</h2>
 
-Instead of increasing your WIL die, you may gain a spell if the result of the roll was higher than your current number of spells.
+Most items use 1 equipment slot. **Bulky** items use 2 slots and generally require two hands to carry or wield. Small equipment can be bundled together to only use 1 slot. For example, three days' rations only uses one slot. 100 coins uses 1 slot; fewer coins fit in your pockets and don't use a slot.
+
+Equipment|Cost
+:--|--:
+air bladder|5
+bear trap|15
+bedroll|5
+bellows|10
+blanket|2
+book|50
+bottle|2
+bucket|5
+caltrops|10
+candle (6 hours)|1
+cards|5
+chain (10ft)|10
+chalk|1
+chisel|5
+cookpot|5
+crowbar|10
+dice|2
+face paint|10
+fire oil|10
+fishing rod|10
+flint and steel|5
+furs|10
+glass marbles|5
+glue|5
+grappling hook|25
+grease|10
+hammer|5
+hand drill|10
+holy water|25
+horn|10
+hourglass|50
+incense|10
+instrument (musical)|100
+ladder (10ft, bulky)|10
+lantern (3 hours)|10
+lantern oil|5
+lens|10
+lockpicks|10
+manacles|10
+metal file|5
+mirror|5
+mortar & pestle|5
+nails|3
+net|10
+oilskin bag|5
+paint|10
+pick|10
+pulley|10
+pole (10ft)|5
+quill & ink|10
+rations (three days)|5
+rodent trap|10
+rope (25ft)|5
+sack|5
+salt|2
+saw|5
+soap|1
+spike|1
+spiked boots|5
+sponge|1
+spyglass|40
+tar|10
+tent (bulky)|15
+tinderbox|5
+torch (1 hour)|1
+twine (300ft)|5
+waterskin|5
+whistle|2
+wolfsbane|10
+
+Animals|Cost
+:--|--:
+goat|15
+horse|75
+mule|30
+
+Vehicles|Cost
+:--|--:
+carriage|350
+cart|30
+rowboat|100
+wagon|200
+
+Services|Cost
+:--|--:
+good meal|3
+hireling (per day)|5
+pint of ale|1
+repair armor (per protection)|15
+silver weapon|20
+warm bed (per night)|3
+
+Weapons|Cost
+:--|--:
+arrows (20)|10
+battle axe (d8, bulky)|35
+bolts (20)|15
+club (d4)|10
+crossbow (d8, bulky)|40
+dagger (d4)|10
+firebomb (d6, blast)|15
+flail (d8, bulky)|35
+greatsword (d8, bulky)|45
+handaxe (d4)|15
+longbow (d6, bulky)|25
+longsword (d6)|30
+mace (d6)|25
+shortsword (d4)|20
+shortbow (d4)|15
+sling (d4)|5
+staff (d4)|5
+warhammer (d8, bulky)|30
+
+Armor|Cost
+:--|--:
+shield (+1 protection)|10
+brigandine (1 protection, bulky)|20
+chainmail (2 protection, bulky)|40
