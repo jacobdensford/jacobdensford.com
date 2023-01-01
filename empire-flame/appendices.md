@@ -208,6 +208,8 @@ The Kingdom of Ellandon was the richest kingdom in the Alliance of the Five Doma
 
 ### Endoran
 
+![Western Endoran](/images/western-endoran.jpg)
+
 Endoran was the smallest kingdom of the Alliance of the Five Domains. The only landlocked kingdom with few exports, it was ruled by King Edric Almson from the capital city of Aelmore. Because of its lack of exports and seeming insignificance, the locks system that runs the length of the Alliance ends just as it enters the domain, forcing travel and trade to move more slowly across land. Many considered Endoran to be the least important of the five domains. Most Endoranians would have agreed, preferring a quiet life to one of continental significance.
 
 ### Fallion
@@ -240,7 +242,7 @@ The sleepy town of Mistcrown sat atop a hill. The lowland fields surrounding the
 
 Ostoria was the capital city of a kingdom of giants that spanned the continent before the second cataclysm buried it far beneath the ground.
 
-### [Pandara](castle=1&plaza=1&temple=1&walls=1&shantytown=1&coast=0&river=0&gates=2)
+### Pandara
 
 ![Pandara](/images/pandara.png)
 

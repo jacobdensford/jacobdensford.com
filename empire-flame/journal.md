@@ -311,4 +311,10 @@ The Mistguard headed out into the Yondar Steppes, seeking Zalabor's tower. First
 
 *The Mistguard seek to return to Pandara. But first, there is a hydra to defeat.*
 
+### Episode 17: Mother
+
+**Minalday, the 5th day of Frosting, in the 372nd year of the Alliance (or the 1st Broken Year)**
+
+*The Mistguard travels to the Snowcloak mountains, seeking aid from the giants.*
+
 <h2 id="part3">Part III: Cataclysm</h2>

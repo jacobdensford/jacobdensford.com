@@ -67,7 +67,7 @@ Rings Collected: Ring of Poison Resistance, Ring of Fire Resistance, Ring of Lig
 
 <h2 id="staffs">Staffs</h2>
 
-### Zalabor the Multi-colored's Staff
+### Zalabor the Multi-colored's Staff, +1
 
 *Staff, very rare (requires attunement by a wizard)*
 
