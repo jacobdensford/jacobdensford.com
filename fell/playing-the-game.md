@@ -40,7 +40,7 @@ When you attempt a task and someone else opposes you, it's a **contest**. You ea
 
 ## Skills
 
-When you roll a test using a **skill** that you know, include your skill die.
+When you roll a test using a **skill** that you know, include your skill die. If any of your skills overlap, roll with advantage.
 
 Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill. Skills added in this way should be more specific than your starting skill. You can know a number of skills equal to your INT.
 

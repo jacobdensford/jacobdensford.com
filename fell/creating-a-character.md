@@ -8,9 +8,9 @@ link: '/fell'
 
 Give yourself a **[name](/fell/tables/#names)**.
 
-Roll 2d20+10 for your **age**.
+Roll 2d20+10 or choose your **age**.
 
-Optionally, roll or choose some **[traits](/fell/tables/#traits)**.
+(Optionally, roll or choose some **[traits](/fell/tables/#traits)**.)
 
 You have three **abilities**:
 
@@ -61,7 +61,7 @@ You have 4+BOD **equipment slots**.
 
 You have a **steel die** granted by your weapon, which you roll when you attack and to attempt tests with the weapon.
 
-You have a **skill die** equal to your INT, which you include whenever you roll a test with one of your skills.
+You have a **skill die** equal to your INT, which you include whenever you roll a test with your skills.
 
 If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)**, and gain a **spell die** of any size that you can change as often as you like.
 
