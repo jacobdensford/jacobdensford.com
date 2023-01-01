@@ -42,7 +42,7 @@ When you attempt a task and someone else opposes you, it's a **contest**. You ea
 
 Time is tracked in **turns** and **rounds**. During a round, everyone takes a turn.
 
-During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room—about ten seconds. Player characters act first and as a group, taking their turns together. When surprised, roll an INT contest to determine if you can act during the first round.
+During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room—about ten seconds. Protagonist characters act first and as a group, taking their turns together. When surprised, roll an INT contest to determine if you can act during the first round.
 
 While **exploring**, a round lasts long enough for everyone to perform a few tasks and investigate an area, or to rest—about ten minutes.
 
@@ -50,7 +50,7 @@ When **traveling**, a round lasts long enough to traverse three miles of easy te
 
 ## Hirelings
 
-**Hirelings** are nonplayer characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like player characters with two exceptions: they have d4 in each ability and must roll for HP. When performing a relevant task, your hirelings may help just as another player character would.
+**Hirelings** are non-protagonist characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like protagonist characters with two exceptions: they have d4 in each ability and must roll for HP. When performing a relevant task, your hirelings may help just as another protagonist character would.
 
 Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher ability die. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
 
