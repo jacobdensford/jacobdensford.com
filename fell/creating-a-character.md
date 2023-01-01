@@ -18,7 +18,7 @@ You have three **abilities**:
 - **Intellect (INT):** aim, cunning, intelligence, quick thinking
 - **Willpower (WIL):** force of will, leadership, magical potential, persuasiveness
 
-Roll d8 for each **ability** in order to assign **ability dice** (AD) and gain **ability points** (AP) equal to each die's highest face. (Or assign d6 to each, optionally lowering one to d4 to gain a d8.)
+Roll d8 for each **ability** in order to assign **ability dice** (AD) and gain **ability points** (AP) equal to each die's highest face. (Or assign d6 to each, optionally lowering one to d4 to raise one to d8.)
 
 d8|Ability Die
 :--|--:
