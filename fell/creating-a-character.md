@@ -18,7 +18,7 @@ You have three **abilities**:
 - **Intellect (INT):** aim, cunning, intelligence, quick thinking
 - **Willpower (WIL):** force of will, leadership, magical potential, persuasiveness
 
-Roll d8 for each **ability** in order to assign **ability dice** (AD) and gain **ability points** (AP) equal to each die's highest face. (Or assign d6 to each, optionally lowering one to d4 to raise one to d8.)
+Roll d8 for each **ability** to assign **ability dice** (AD) and gain **ability points** (AP) equal to each die's highest face. (Or assign d6 to each, optionally lowering one to d4 to raise one to d8.)
 
 d8|Ability Die
 :--|--:
@@ -59,7 +59,9 @@ You also start with **three days' rations, a torch (1 hour), and 3d6 coin** whic
 
 You have 4+BOD **equipment slots**.
 
-You have a **steel die** granted by your weapon and a **skill die** equal to your INT.
+You have a **steel die** granted by your weapon, which you roll when you attack and to attempt tests with the weapon.
+
+You have a **skill die** equal to your INT, which you include whenever you roll a test with one of your skills.
 
 If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)**, and gain a **spell die** of any size that you can change as often as you like.
 
