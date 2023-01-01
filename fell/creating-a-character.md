@@ -65,6 +65,8 @@ You have a **skill die** equal to your INT, which you include whenever you roll 
 
 If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)**, and gain a **spell die** of any size that you can change as often as you like.
 
+For smaller groups, each PC may start with one or more **hirelings** who have already been paid for their first week of employment.
+
 ## Example Character
 
 **Name:** Mannog Burl

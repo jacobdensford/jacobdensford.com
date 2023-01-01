@@ -9,7 +9,6 @@ image: url("/images/efimage.png")
 
   <ul>
     <li><a href="#bree">Bree</a></li>
-    <li><a href"#chi">Chi</a></li>
     <li><a href="#davos">Davos</a></li>
     <li><a href="#illgiem">Illgiem</a></li>
     <li><a href="#ravyn">Ravyn</a></li>
@@ -63,36 +62,6 @@ Later in life, after becoming one of the four Mistguard, she devoted herself to 
 #### From Items
 
 - **Nishanesti's Dagger** *+1d4 damage x number of other far sea daggers within 100ft*
-
-<h2 id="chi">Chi Hara</h2>
-
-![Chi](/images/chi.jpg)
-
-*/, human, folk hero, monk 7, played by Kelly*
-
-Words.
-
-### Abilities
-
-#### After Long Rest
-
-- **** **
-
-#### From Race
-
-- **** **
-
-#### From Class
-
-- **** **
-
-#### From Background
-
-- **** **
-
-#### From Items
-
-- **** **
 
 <h2 id="davos">Davos Kahn</h2>
 
