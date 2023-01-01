@@ -1,4 +1,4 @@
----
+PC---
 layout: main-f.njk
 title: 'Running the Game'
 link: '/fell'
@@ -8,13 +8,13 @@ link: '/fell'
 
 ## Luck
 
-When the way in which the world reacts to the protagonist characters is uncertain, roll a **luck die**—usually a d6. Higher is better for the PCs. Lower is worse.
+When the way in which the world reacts to the PCs is uncertain, roll a **luck die**—usually a d6. Higher is better for the PCs. Lower is worse.
 
 Roll a luck die:
 
-- When the protagonist characters stop to rest in a dangerous location
-- When a protagonist character fails a test
-- If a protagonist character makes a loud noise in a dungeon
+- When the PCs stop to rest in a dangerous location
+- When a PC fails a test
+- If a PC makes a loud noise in a dungeon
 - After each round of dungeon exploration and wilderness navigation
 - To see if a trap is triggered
 
@@ -44,7 +44,7 @@ DN|Difficulty
 
 ## Extended Tests
 
-Some tests require more time and effort, and thus require more than one passed test to accomplish. Tell how many the **extended test** will require, then protagonist characters roll as normal. They may repeat the roll to add additional passes once they've dealt with any trouble.
+Some tests require more time and effort, and thus require more than one passed test to accomplish. Tell how many the **extended test** will require, then PCs roll as normal. They may repeat the roll to add additional passes once they've dealt with any trouble.
 
 ## Protection
 
@@ -52,7 +52,7 @@ Protection should never, or very rarely, be increased beyond 3.
 
 ## Non-Protagonist Characters
 
-**Non-protagonist characters** (or NPCs) can be townsfolk, hirelings, monsters, or anything in between.
+**Non-protagonist characters** (NPCs) can be townsfolk, hirelings, monsters, or anything in between.
 
 All NPCs should have a **name**, a flavorful **description**, and a **drive**.
 
@@ -64,7 +64,7 @@ All rules are optional. These, especially so.
 
 ### Customizing Backgrounds
 
-protagonists may create their own backgrounds, gaining one skill of their choice and purchasing equipment worth 60 coin.
+PCs may create their own backgrounds, gaining one skill of their choice and purchasing equipment worth 60 coin.
 
 ### Longer Dice Ladder
 
