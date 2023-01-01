@@ -48,7 +48,7 @@ Whenever you roll a test to attempt a task that someone with your background wou
 
 To cast a **spell**, either one you've learned or from a scroll, you must roll a WIL test using your spell die.
 
-Whenever using your spell die, if its result is higher than the result of the test's ability die, take the difference as harm, first to HP, then to WIL. If WIL harm is taken in this way and a scroll was used, the scroll is destroyed.
+Whenever using your spell die, if its result is higher than the result of the test's ability die, take the difference as harm, first to HP, then to WIL. Instead of taking this harm, you may permanently forget the spell or allow the scroll to be destroyed.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
 
@@ -58,7 +58,7 @@ It takes a week and components worth 100 coin to learn a new spell from a scroll
 
 Time is tracked in **turns** and **rounds**. During a round, everyone takes a turn.
 
-During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room—about ten seconds. Protagonist characters act first and as a group, taking their turns together. When surprised, roll an INT contest to determine if you can act during the first round.
+During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room—about ten seconds. PCs act first and as a group, taking their turns together. When surprised, roll an INT contest to determine if you can act during the first round.
 
 While **exploring**, a round lasts long enough for everyone to perform a few tasks and investigate an area, or to rest—about ten minutes.
 
@@ -66,7 +66,7 @@ When **traveling**, a round lasts long enough to traverse three miles of easy te
 
 ## Hirelings
 
-**Hirelings** are non-protagonist characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like protagonist characters with two exceptions: they have d4 in each ability and must roll for HP. When performing a relevant task, your hirelings may help just as another protagonist character would.
+**Hirelings** are non-protagonist characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like PCs with two exceptions: they have d4 in each ability and either roll or start with 3 HP. When performing a relevant task, your hirelings may help just as another PC would.
 
 Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher ability die. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
 
@@ -158,7 +158,7 @@ For each die that rolls its highest number, increase that ability's die by one s
 
 <h2 id="equipment">Equipment</h2>
 
-Most items use 1 equipment slot. **Bulky** items use 2 slots and generally require two hands to carry or wield. Small equipment can be bundled together to only use 1 slot. For example, three days' rations only uses one slot. 100 coins uses 1 slot; fewer coins fit in your pockets and don't use a slot.
+Most items use 1 equipment slot. **Bulky** items use 2 slots and generally require two hands to carry or wield. Small equipment can be bundled together to only use 1 slot. For example, enough rations for three days only use one slot. 100 coins use 1 slot; fewer coins fit in your pockets and don't use a slot.
 
 Equipment|Cost
 :--|--:

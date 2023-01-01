@@ -79,8 +79,8 @@ If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)**, and gai
 
 **Background:** Hunter
 
-**Skills:** *survival*
+**Skills (1/6):** *survival*
 
-**Spells:** *Comprehend* (you become fluent in all languages for a short while)
+**Spells (1/8):** *Comprehend* (you become fluent in all languages for a short while)
 
-**Equipment (5/8 slots):** sling (d4), knife (d4), rodent trap, rations (3 days), torch (1 hour), 12 coin
+**Equipment (5/8):** sling (d4), knife (d4), rodent trap, rations (3 days), torch (1 hour), 12 coin
