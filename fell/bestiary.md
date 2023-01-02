@@ -18,7 +18,7 @@ Unless otherwise noted, HP is assumed to be 4, protection 0, and abilities d6.
 
 *A floating skull with a flickering green flame within.*
 
-8 HP, 0 P, d4 BOD, d8 WIL, flames (d6)
+8 HP, d4 BOD, d8 WIL, flames (d6)
 
 ## K - O
 
