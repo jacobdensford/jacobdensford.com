@@ -8,9 +8,7 @@ link: '/fell'
 
 ## Tasks and Tests
 
-Most of the time, you simply say what you do in response to the corrupted land and its inhabitants described by the referee. Any action you take is a **task**. With some tasks, rolling dice is unavoidable.
-
-Whenever you attempt a task you could reasonably accomplish but the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
+Most of the time, you simply say what you do. But whenever you attempt a **task** where the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
 
 Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
 
@@ -90,7 +88,7 @@ If you have **leverage** and apply it, you may improve an NPC's reaction by winn
 
 ## Attacking
 
-Attacking is a task for which you do not have to make a test. To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm—first to hit points, then to BOD.
+Attacking is a task that does not require a test. To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm—first to hit points, then to BOD.
 
 When more than one person attacks a single target or when attacking with multiple weapons, roll all steel dice and use the highest single die result.
 
@@ -158,7 +156,11 @@ For each die that rolls its highest number, increase that ability's die by one s
 
 <h2 id="equipment">Equipment</h2>
 
-Most items use 1 equipment slot. **Bulky** items use 2 slots and generally require two hands to carry or wield. Small equipment can be bundled together to only use 1 slot. For example, enough rations for three days only use one slot. 100 coins use 1 slot; fewer coins fit in your pockets and don't use a slot.
+You have 4+BOD equipment slots. When carrying more than that, you have disadvantage. You can never carry more than twice your slots.
+
+Most items use 1 slot. **Bulky** items use 2 slots and generally require two hands to carry or wield.
+
+Small equipment can be bundled together to only use 1 slot. For example, enough rations for three days only use one slot. 100 coins use 1 slot; fewer coins fit in your pockets and don't use a slot.
 
 Equipment|Cost
 :--|--:
