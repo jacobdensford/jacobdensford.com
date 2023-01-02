@@ -142,7 +142,9 @@ Roll all your ability dice.
 
 For each die that rolls higher than your current hit points, gain one hit point.
 
-For each die that rolls its highest number, increase that ability's die by one step.
+For each die that rolls its highest number, gain one hit point and increase that ability's die by one step.
+
+Once your hit points reach 20 and your ability dice are d12s, retire to safety. Or keep seeking fortune and become a legend.
 
 <h2 id="equipment">Equipment</h2>
 
