@@ -53,19 +53,19 @@ d20|Background
 19| **Servant:** *discernment*, stolen dagger (d4), soap, incriminating letters
 20| **Scholar:** *lore*, letter opener (d4), book, quill & ink
 
-If you have any armor, gain its **protection**.
+If you have any armor, gain its **protection** (P).
 
 You also start with **three days' rations, a torch (1 hour), and 3d6 coin** which you may spend on additional [equipment](/fell/playing-the-game/#equipment).
 
 You have 4+BOD **equipment slots**.
 
-You have a **steel die** granted by your weapon, which you roll when you attack and to attempt tests with the weapon.
+You have a **steel die** granted by your weapon, which you roll when you attack and include whenever you roll a test with the weapon.
 
 You have a **skill die** equal to your INT, which you include whenever you roll a test with your skills.
 
-If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)**, and gain a **spell die** of any size that you can change as often as you like.
+If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)** and gain an undefined **spell die**, which you include whenever you roll a test to cast a spell.
 
-For smaller groups, each PC may start with one or more **hirelings** who have already been paid for their first week of employment.
+For smaller groups, each PC may start with one or more **hirelings**. They have already been paid for their first week of employment.
 
 ## Example Character
 
@@ -73,7 +73,7 @@ For smaller groups, each PC may start with one or more **hirelings** who have al
 
 **Age:** 38
 
-**HP:** 5/5 — **Protection:** 0
+**HP:** 5/5 — **P:** 0
 
 **BOD:** 4/d4 | **INT:** 6/d6 | **WIL:** 8/d8
 
