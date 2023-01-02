@@ -40,13 +40,13 @@ When you attempt a task and someone else opposes you, it's a **contest**. You ea
 
 When you roll a test using a **skill** that you know, include your skill die. If any of your skills overlap, roll with advantage.
 
-Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill. Skills added in this way should be more specific than your starting skill. You can know a number of skills equal to your INT.
+Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill. You can know a number of skills equal to your INT.
 
 ## Spells
 
 To cast a **spell**, either one you've learned or from a scroll, you must roll a WIL test using your spell die.
 
-Whenever using your spell die, if its result is higher than the result of the test's ability die, take the difference as harm, first to HP, then to WIL. Instead of taking this harm, you may permanently forget the spell or allow the scroll to be destroyed.
+Whenever using your spell die, if its result is higher than the result of the test's ability die, take the difference as harm, first to hit points, then to WIL. Instead of taking this harm, you may permanently forget the spell or allow the scroll to be destroyed.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
 
@@ -64,11 +64,15 @@ When **traveling**, a round lasts long enough to traverse three miles of easy te
 
 ## Hirelings
 
-**Hirelings** are non-protagonist characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like PCs with two exceptions: they have d4 in each ability and either roll or start with 3 HP. When performing a relevant task, your hirelings may help just as another PC would.
+**Hirelings** are non-protagonist characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like PCs with two exceptions: they have d4 in each ability and either roll or start with 3 hit points. When performing a relevant task, your hirelings may help just as another PC would.
 
 Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher ability die. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
 
 You can employ a number of hirelings equal to your WIL.
+
+## Detachments
+
+Groups of similar NPCs acting together are treated as a single **detachment**. Their attacks have advantage against individuals and have blast. Attacks against them made by individuals have disadvantage unless they have blast.
 
 ## Reactions
 
@@ -86,15 +90,11 @@ Roll|Reaction
 
 If you have **leverage** and apply it, you may improve an NPC's reaction by winning a WIL contest.
 
-## Attacking
+## Attacks
 
 Attacking is a task that does not require a test. To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm—first to hit points, then to BOD.
 
 When more than one person attacks a single target or when attacking with multiple weapons, roll all steel dice and use the highest single die result.
-
-## Critical Harm
-
-When you take harm to your ability points, it is **critical harm**. Roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, you must roll on the death table.
 
 ## Blast
 
@@ -102,7 +102,7 @@ When you take harm to your ability points, it is **critical harm**. Roll a test 
 
 ## Morale
 
-When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a WIL contest. If you win, roll your WILL on the **morale** table to see what the surviving enemies do.
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies hit points by half, roll a WIL contest. If you win, roll your WILL on the **morale** table to see what the surviving enemies do.
 
 Roll|Morale
 :--|--:
@@ -122,21 +122,11 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 ## Harm and Death
 
-**Harm** subtracts from hit points, then ability points.
+**Harm** subtracts from hit points. Once out of hit points, harm becomes **critical harm** and subtracts from ability points. Critical harm may also reduce an ability's die or have other effects.
 
-In some cases, critical harm may reduce an ability's die.
+When you take critical harm, roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, you are unconscious and will die in about an hour unless treated.
 
-When you fail a critical harm test, roll that ability on the **death** table.
-
-Roll|Death
-:--|--:
-1-3|Dead
-4-5|Dead in d4 rounds unless treated
-6-7|Unconcious for d4 hours unless revived
-8-9|Hurt but still standing
-10-12|Recover d4 HP
-
-When an ability's points reach zero or an ability's die would be lowered below d4, you die.
+When an ability's points reach zero or an ability's die would be lowered below d4, you are **dead**.
 
 ## Healing and Rest
 
@@ -156,7 +146,7 @@ For each die that rolls its highest number, increase that ability's die by one s
 
 <h2 id="equipment">Equipment</h2>
 
-You have 4+BOD equipment slots. When carrying more than that, you have disadvantage. You can never carry more than twice your slots.
+When carrying more than your equipment slots, you have disadvantage. You can never carry more than twice your slots.
 
 Most items use 1 slot. **Bulky** items use 2 slots and generally require two hands to carry or wield.
 

@@ -58,19 +58,13 @@ All NPCs should have a **name**, a flavorful **description**, and a **drive**.
 
 NPCs default to having d4 in each ability and 3 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP. If they're competent, give them d6s and 5 HP. If they're particularly strong, smart, or magical; raise that ability's die to d8, or even higher, and bump their HP up by 1 or 2. If what they're good at is more specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP.
 
-## Optional Rules
-
-All rules are optional. These, especially so.
-
-### Customizing Backgrounds
-
-PCs may create their own backgrounds, gaining one skill of their choice and purchasing equipment worth 60 coin.
-
-### Longer Dice Ladder
+## Longer Dice Ladder
 
 If you have access to wacky dice or a digital dice roller, you may want to add some extra rungs to the dice ladder. For example, if using dice from [DCC](https://goodman-games.com/dungeon-crawl-classics-rpg/), the ladder would look like this:
 
 **d3 → d4 → d5 → d6 → d7 → d8 → d10 → d12 → etc**
+
+Adding more dice makes PC progression slower but allows for more granularity and customization.
 
 ## Converting OSR Material
 

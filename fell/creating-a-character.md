@@ -8,10 +8,6 @@ link: '/fell'
 
 Give yourself a **[name](/fell/tables/#names)**.
 
-Roll 2d20+10 or choose your **age**.
-
-(Optionally, roll or choose some **[traits](/fell/tables/#traits)**.)
-
 You have three **abilities**:
 
 - **Body (BOD):** constitution, grit, strength, reflexes
@@ -67,11 +63,30 @@ If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)** and gain
 
 For smaller groups, each PC may start with one or more **hirelings**. They have already been paid for their first week of employment.
 
+## Optional Extras
+
+Roll 2d20+10 or choose your **age**.
+
+Roll or choose your alignment.
+
+d4|Alignment
+:--|--:
+1|Chaotic
+2-3|Neutral
+4|Lawful
+
+Roll, choose, or write your own...
+
+- **[Drive](/fell/tables/#drives)** that keeps you going
+- **[Flaw](/fell/tables/#flaws)** that holds you back
+- **[Bond](/fell/tables/#bonds)** with one or more of your companions
+- **[Traits](/fell/tables/#traits)** the world sees
+
+Instead of one of the listed backgrounds, you may create your own. Name it, gain one skill, and purchase [equipment](/fell/playing-the-game/#equipment) worth up to 60 coin.
+
 ## Example Character
 
 **Name:** Mannog Burl
-
-**Age:** 38
 
 **HP:** 5/5 — **P:** 0
 

@@ -56,6 +56,39 @@ d20|Family Name
 19|Weaver
 20|Wolder
 
+<h2 id="drives">Drives</h2>
+
+d6|Drive
+:--|---
+1|I seek wealth to pay off my family's debts.
+2|I strive for perfection in function and form.
+3|I want to visit every city at least once.
+4|I seek revenge for the death of my sibling.
+5|I must complete my holy pilgrimage before returning home.
+6|I carry a secret I must share with the high lord before it's too late.
+
+<h2 id="flaws">Flaws</h2>
+
+d6|Flaw
+:--|---
+1|I can't resist stealing everything that's not nailed down.
+2|I will never trust again after what happened last time.
+3|I can't forgive myself for the mistakes of my past.
+4|I am addicted to a powerful drug.
+5|I am on the run because of a crime I didn't commit.
+6|I can't stand being alone even for a second.
+
+<h2 id="bonds">Bonds</h2>
+
+d6|Bond
+:--|--
+1|One of my companions knows I'm a fraud.
+2|One of my companions knows my dark secret.
+3|I plan on murdering one of my companions.
+4|I plan on stealing from one of my companions.
+5|One of my companions and I share a dark past.
+6|One of my companions and I are concocting a plot.
+
 <h2 id="traits">Traits</h2>
 
 Traits from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/).
