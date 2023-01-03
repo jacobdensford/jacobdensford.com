@@ -85,6 +85,14 @@ An intricate device that attaches to the wrist to be hidden by one's sleeve.
 
 One application of poison for three needles, ten foot range, bonus action to launch, Dex Save DC10 + slight of hand or DEX + PROF--whichever is higher--to dodge.
 
+### Dagger of the Frost Giant, +1
+
+*Weapon, very rare (requires attunement)*
+
+This massive dagger is freezing to the touch. In the hands of a medium sized creature, it's more like a great sword.
+
+For the purposes of proficiency and damage, this weapon is a great sword. If a creature is hit by this weapon, they must make a DC 15 CON save or begin to freeze and become restrained. If they are hit and fail again, they are frozen solid and petrified.
+
 ### Horn of the Unicorn
 
 *Weapon, legendary (requires attunement by a good-aligned character)*
