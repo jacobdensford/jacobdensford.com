@@ -61,8 +61,6 @@ You have a **skill die** equal to your INT, which you include whenever you roll 
 
 If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)** and gain an undefined **spell die**, which you include whenever you roll a test to cast a spell.
 
-For smaller groups, each PC may start with one or more **hirelings**. They have already been paid for their first week of employment.
-
 ## Optional Extras
 
 Roll 2d20+10 or choose your **age**.
@@ -83,6 +81,8 @@ Roll, choose, or write your own...
 - **[Traits](/fell/tables/#traits)** the world sees
 
 Instead of one of the listed backgrounds, you may create your own. Name it, gain one skill, and purchase [equipment](/fell/playing-the-game/#equipment) worth up to 60 coin.
+
+For smaller groups, each PC may start with one or more **hirelings**. They have already been paid for their first week of employment (35 coin).
 
 ## Example Character
 
