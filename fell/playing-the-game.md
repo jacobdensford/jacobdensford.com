@@ -38,7 +38,7 @@ When you attempt a task and someone else opposes you, it's a **contest**. You ea
 
 ## Skills
 
-When you roll a test using a **skill** that you know, include your skill die. If any of your skills overlap, roll with advantage.
+When you roll a test using your **skills**, include your skill die. If any of your skills overlap, roll with advantage.
 
 Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill. You can know a number of skills equal to your INT.
 
@@ -64,9 +64,9 @@ When **traveling**, a round lasts long enough to traverse three miles of easy te
 
 ## Hirelings
 
-**Hirelings** are non-protagonist characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like PCs with two exceptions: they have d4 in each ability and either roll or start with 3 hit points. When performing a relevant task, your hirelings may help just as another PC would.
+**Hirelings** are non-protagonist characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like PCs. When performing a relevant task, your hirelings may help just as another PC would.
 
-Hirelings cost 5 coin per day. You may pay 5 additional coin per day to employ a hireling with a higher ability die. If not paid upfront, you must roll a WIL contest whenever asking a hireling to do something dangerous.
+Hirelings take an equal share of any plunder, minus their upfront fee of 5 coin per day. If this fee is not paid in advance, you must roll a WIL contest whenever asking a hireling to do something dangerous.
 
 You can employ a number of hirelings equal to your WIL.
 
