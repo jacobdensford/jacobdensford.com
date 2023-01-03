@@ -56,6 +56,10 @@ Rather than tracking each individual item in an equipment pack, when you need an
 
 Rather than tracking each piece of expendable equipment, a consequence of rolling a natural 1 on a d20 is that you expend your last use of that piece of equipment. This rule applies to anything that is normally purchased in collections of 20 (arrows or crossbow bolts, for example), or that is intentionally purchased in a collection of 20 (20 rations or 20 diamonds as spell components, for example). If using the equipment does not usually trigger a roll, the DM may still call for one to see if you run out.
 
+## Helping
+
+PC's can only help, granting a fellow PC advantage on a skill check, if they possess a relevant skill.
+
 ## Inspiration
 
 Inspiration can be spent to turn disadvantage into advantage or to reroll an attack role, save, or ability check.
@@ -63,6 +67,7 @@ Inspiration can be spent to turn disadvantage into advantage or to reroll an att
 Inspiration can be handed out at any time at the DM's discretion. However, certain situations always grant inspiration:
 
 - At the start of a session
+- For cashing in a luck coin
 - By acting out personality traits, ideals, bonds, or flaws, especially when such actions put characters in harm's way (call this out to the DM so they know what you're doing)
 - After rolling a critical failure (can be used on any subsequent rolls, but not on the failed roll that just happened)
 - After rolling a critical success a character can grant one of their companions inspiration, but does not gain inspiration themselves
@@ -70,9 +75,9 @@ Inspiration can be handed out at any time at the DM's discretion. However, certa
 
 ## Leveling Up
 
-Rather than tracking experience points, leveling up happens after completing a number of play sessions. One session for 2nd through 4th levels, two sessions for 5th through 10th, three sessions for 11th through 16th, and four sessions for 17th through 20th.
+Rather than tracking experience points, leveling up happens after completing a number of play sessions. One session for 2nd and 3rd levels, two sessions for 4th level, three sessions for 5th through 10th, four sessions for 11th through 16th, and five sessions for 17th through 20th.
 
-When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's multiclass abilities or for gaining a feat.
+When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's multiclass abilities or for gaining a feat. (Other abilities may be improved at the DM's discretion if they are core to the character)
 
 ## Luck
 
@@ -80,16 +85,38 @@ When the way in which the world reacts to the player characters is uncertain, th
 
 Some examples of when a luck die might be rolled:
 
-- When the player characters stop to rest in a dangerous location
-- When a player character fails a test
+- When the PCs stop to rest in a dangerous location
+- When a PC fails a test
+- If a PC makes a loud noise in a dungeon
 - After each round of dungeon exploration and wilderness navigation
 - To see if a trap is triggered
+
+## Luck Coins
+
+**Luck coins** are a meta-currency that allow PCs to gain inspiration.
+
+Luck coins are gained between sessions by completing the following tasks:
+
+- Writing an in-character journal entry
+- Writing a summery of the previous session
+- Updating the oaken table
+- Other tasks at the referee's discretion
+
+Unspent luck coins expire after the following session.
 
 ## Magical Items
 
 Once held, it is obvious if an item is magical or not. An item's magical properties can only be identified through experimentation or the use of a spell.
 
 Characters can attune to a number of magical items equal to their proficiency bonus.
+
+## The Oaken Table
+
+In the middle of the tavern sits an oaken table, upon which past adventurers have carved a map of the surrounding region. The PCs can carve additions into this map. They can also make a rubbing to be carried abroad. The oaken table can be a real object in the world or simply a metaphor.
+
+## Proficiency
+
+If a PC has both a skill and a tool proficiency that apply to a check, they may roll with advantage.
 
 ## Saving Throws
 
@@ -104,3 +131,9 @@ Rolling a 1 is always a failure and rolling a 20 is always a success, even if th
 Failing a roll doesn't always mean failing a check. At the DM's discretion, a failed roll can still accomplish a given task, provided some other complication or danger is introduced. For example, a roll to pick a lock might fail to meet the DC of the task, but the character could still manage to pick the lock. In such a case, it may have taken so long that a roving monster stumbled upon the party in the process, introducing a new danger. Players can request this compromise from the DM after a failed role, but the DM is under no obligation to offer it.
 
 Passive checks are not used. Instead, the DM will call for a roll when a check wouldn't automatically succeed or fail. In rare cases, the DM may make such rolls on the player character's behalf in private.
+
+## Time
+
+When a play session ends in a safe location, it is up to the PCs how much in-game time passes before the next session. They should agree on a duration. In cases where consensus cannot be had, the average is taken.
+
+When a play session ends with the PCs in a dangerous location, time is paused until the next session. Optionally, the PCs may decide to roll to return to safety, turning over to chance their riches and well-being. One of the PCs roll a test, adding +1 for each of the following: they have mapped the way, they have cleared the way, they are well equipped, they are unencumbered. If they succeed, they return to safety unmolested. If they fail, they still return to safety, but at great cost.
