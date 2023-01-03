@@ -157,7 +157,7 @@ The PCs stand before the entrance to a dungeon. Begin play. Let the PCs drive th
 
 #### The Local Region
 
-Begin with a small region of 20x12 one mile hexes. Name it. Name the starting town and place it in the center of the map. Place the starting dungeon within a day's travel from the town. Fill in some hexes. Choose four to six adventures and place them on the map (some good options are [The Blackapple Brugh](https://basicfantasy.org/downloads.html#kh1), [The Hole in the Oak](https://necroticgnome.com/products/the-hole-in-the-oak), [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/product/327744/the-black-wyrm-of-brandonsford), and [Winter's Daughter](https://necroticgnome.com/products/dolmenwood-winters-daughter)).
+Begin with a small region of 20x12 one mile hexes. Name it. Name the starting town and place it in the center of the map. Place the starting dungeon within a day's travel from the town. Fill in some hexes. Choose four to six adventures and place them on the map (some good options are [The Blackapple Brugh](https://basicfantasy.org/downloads.html#kh1), [The Hole in the Oak](https://necroticgnome.com/products/the-hole-in-the-oak) linked with [The Incandescent Grottoes](https://necroticgnome.com/products/the-incandescent-grottoes), [The Black Wyrm of Brandonsford](https://www.drivethrurpg.com/product/327744/the-black-wyrm-of-brandonsford), and [Winter's Daughter](https://necroticgnome.com/products/dolmenwood-winters-daughter)).
 
 Choose or create random tables for generating weather, features, encounters, travel difficulties, etc.
 
