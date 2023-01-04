@@ -40,17 +40,19 @@ When you attempt a task and someone else opposes you, it's a **contest**. You ea
 
 When you roll a test using your **skills**, include your skill die. If any of your skills overlap, roll with advantage.
 
-Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill. You can know a number of skills equal to your INT.
+Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill.
+
+It takes a week and tools worth 100 coin to learn a new skill not from your background. You can know a number of skills equal to your INT.
 
 ## Spells
 
-To cast a **spell**, either one you've learned or from a scroll, you must roll a WIL test using your spell die.
+To cast a **spell**, either one you've learned or from a magical object, you must roll a WIL test using your spell die.
 
-Whenever using your spell die, if its result is higher than the result of the test's ability die, take the difference as harm, first to hit points, then to WIL. Instead of taking this harm, you may permanently forget the spell or allow the scroll to be destroyed.
+Whenever using your spell die, if its result is higher than the result of the test's ability die, take the difference as harm, first to hit points, then to WIL. Instead of taking this harm, you may permanently forget the spell or allow the magical object to be destroyed.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
 
-It takes a week and components worth 100 coin to learn a new spell from a scroll or wizened teacher. You can know a number of spells equal to your WIL.
+It takes a week and components worth 100 coin to learn a new spell. You can know a number of spells equal to your WIL.
 
 ## Turns and Rounds
 
