@@ -100,6 +100,18 @@ OSR HD|Fell AD and HP
 
 Typically, use the damage die as the steel die. Sometimes, step the die down one if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.
 
+### Saving Throws
+
+Saving throws convert to tests with the relevent ability. If the effect being saved against comes from an NPC, it's a contest. What follows is a table giving guidelines for which ability to test with, but use whatever makes the most sense given the circumstance.
+
+OSR Saving Throw|Fell Ability
+:--|--:
+Death or Poison (D)|Body
+Wands (W)|Willpower
+Paralysis or Petrification (P)|Body
+Breath Attacks (B)|Intellect
+Spells, Rods, or Staves (S)|Willpower
+
 ### Alternative Spell Lists
 
 Most OSR-compatible spell lists should work with *Fell*, such as the [Magic-User Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User_Spells) and [Cleric Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Cleric_Spells) from [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page).
