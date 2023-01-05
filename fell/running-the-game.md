@@ -82,19 +82,13 @@ Willpower|Wisdom, Charisma, Intelligence
 
 Use the table below for guidance.
 
-OSR HD|Fell AD and HP
+OSR HD|Fell AD, HP, and P
 :--|--:
-1|d4 2HP
-2|d4 3HP
-3|d6 4HP
-4|d6 5HP
-5|d8 6HP
-6|d8 7HP
-7|d10 8HP
-8|d10 9HP
-9|d12 10HP
-10|d12 11HP
-11+|d12+ 12HP+
+1-2|d4, 2-8HP, 0-1
+3-4|d6, 3-12HP, 0-1
+5-6|d8, 4-16HP, 0-2
+7-8|d10, 5-20HP, 0-2
+9-10|d12, 6-24HP, 0-3
 
 ### Damage
 
