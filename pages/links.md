@@ -5,7 +5,7 @@ tags:
   - links
 url: /pages/links/
 layout: main.njk
-date: 2022-05-04 10:52:00 -4
+date: 2023-01-05
 ---
 
 # Links
@@ -19,3 +19,4 @@ Welcome to hyperlink chaos. Here is a constantly evolving collection of links to
 - [https://tinysubversions.com/stuff/sandwiches](https://tinysubversions.com/stuff/sandwiches)
 - [https://www.bespokesynth.com/](https://www.bespokesynth.com/)
 - [https://learningsynths.ableton.com/](https://learningsynths.ableton.com/)
+- [https://search.marginalia.nu/explore/random](https://search.marginalia.nu/explore/random)

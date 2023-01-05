@@ -219,6 +219,7 @@ More to come.
   - [Gridzzly | Make your own grid paper](http://www.gridzzly.com/)
   - [Fantastic Maps - Tips and Tricks](http://www.fantasticmaps.com/category/tips-and-tricks/)
   - [Dungeondraft](https://dungeondraft.net/)
+  - [mkhexgrid | A fully-configurable hex grid generator](https://www.nomic.net/~uckelman/mkhexgrid/)
 
 ### World Building
 
