@@ -142,11 +142,11 @@ Each time you return to relative safety bearing significant plunder gained throu
 
 Roll all your ability dice.
 
-For each die that rolls higher than your current hit points, gain one hit point.
+For each die that rolls equal to or higher than your current hit points, gain one hit point.
 
 For each die that rolls its highest number, gain one hit point and increase that ability's die by one step.
 
-Once your hit points reach 20 and your ability dice are d12s, retire to safety. Or keep seeking fortune and become a legend.
+Once your hit points reach 24 and your ability dice are d12s, retire to safety. Or keep seeking fortune and become a legend.
 
 <h2 id="equipment">Equipment</h2>
 
