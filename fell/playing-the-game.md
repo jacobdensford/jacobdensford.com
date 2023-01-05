@@ -124,9 +124,9 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 ## Harm and Death
 
-**Harm** subtracts from hit points. Once out of hit points, harm becomes **critical harm** and subtracts from ability points. Critical harm may also reduce an ability's die or have other effects.
+**Harm** subtracts from hit points. Once out of hit points, harm becomes **critical harm** and subtracts from ability points.
 
-When you take critical harm, roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, you are unconscious and will die in about an hour unless treated.
+When you take critical harm, roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, you are subjected to your opponent's critical harm effect. Or, if no effect is given, you are unconscious and may die unless treated.
 
 When an ability's points reach zero or an ability's die would be lowered below d4, you are **dead**.
 
