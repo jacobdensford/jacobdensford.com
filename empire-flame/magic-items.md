@@ -183,6 +183,14 @@ This slightly soggy burlap sack contains soil from deep below, deeper even than 
 
 When this glassy eye is turned towards a person or creature, they must succeed on a DC12 CON saving throw or be restrained. They then must succeed on DC12 CON saving throw or be turned to stone.
 
+### Candles of the Deep (x4)
+
+*Wonderous item, very rare*
+
+These ancient candles glow with an eerie green light.
+
+Lighting one of these candles grants everyone in their glow advantage on skill checks that use Intelligence and Wisdom. Lighting two grants temporary proficiency. Lighting three grants temporary expertise. Lighting four grants automatic success (as long as the DC of the check is 25 or less). To put out the candles requires a DC 15 INT or WIS saving throw, adding 5 to the DC for each candle lit beyond one. Failure traps you, lost in thought within the candles' glow.
+
 ### Cloak of the Mists
 
 *Wonderous item, uncommon*
