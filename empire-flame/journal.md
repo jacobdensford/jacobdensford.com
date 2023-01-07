@@ -317,4 +317,12 @@ The Mistguard headed out into the Yondar Steppes, seeking Zalabor's tower. First
 
 *The Mistguard travels to the Snowcloak mountains, seeking aid from the giants.*
 
+### Episode 18: Mother Continued
+
+**Yonday, the 12th day of Frosting, in the 372nd year of the Alliance (or the 1st Broken Year)**
+
+*The Mistguard tracks the Mother and seeks her den, hoping to find Lilly and earn the giant's help.*
+
 <h2 id="part3">Part III: Cataclysm</h2>
+
+### Chapter 19: Assault on Llinaga
