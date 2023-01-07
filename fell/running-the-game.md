@@ -14,6 +14,7 @@ Roll a luck die:
 
 - When the PCs stop to rest in a dangerous location
 - When a PC fails a test
+- When a PC fails a critical harm test
 - If a PC makes a loud noise in a dungeon
 - After each round of dungeon exploration and wilderness navigation
 - To see if a trap is triggered
@@ -60,7 +61,7 @@ Protection should never, or extremely rarely, be increased beyond 3.
 
 All NPCs should have a **name**, a flavorful **description**, and a **drive**.
 
-NPCs default to having d4 in each ability and 3 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP. If they're competent, give them d6s and 5 HP. If they're particularly strong, smart, or magical; raise that ability's die to d8, or even higher, and bump their HP up by 1 or 2. If what they're good at is more specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP.
+NPCs default to having d4 in each ability and 3 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP. If they're competent, give them d6s and 4 HP. If they're particularly strong, smart, or magical; raise that ability's die to d8, or even higher, and bump their HP up by 1 or 2. If what they're good at is more specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP.
 
 ## Longer Dice Ladder
 

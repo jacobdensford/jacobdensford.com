@@ -51,7 +51,7 @@ d20|Background
 
 If you have any armor, gain its **protection** (P).
 
-You also start with **three days' rations, a torch (1 hour), and 3d6 gold pieces** which you may spend on additional [equipment](/fell/tables/#equipment).
+You also start with **three days' rations, three torches (1 hour each), and 3d6 gold pieces** (GP) which you may spend on additional **[equipment](/fell/tables/#equipment)**.
 
 You have 4+BOD **equipment slots**. Each can hold one regular item or a collection of smaller items.
 
@@ -80,9 +80,9 @@ Roll, choose, or write your own...
 - **[Bond](/fell/tables/#bonds)** with one or more of your companions
 - **[Traits](/fell/tables/#traits)** the world sees
 
-Instead of one of the listed backgrounds, you may create your own. Name it, gain one skill, and purchase [equipment](/fell/playing-the-game/#equipment) worth up to 60 coin.
+Instead of one of the listed backgrounds, you may create your own. Name it, gain one skill, and purchase [equipment](/fell/playing-the-game/#equipment) worth up to 60 GP.
 
-For smaller groups, each PC may start with one or more **hirelings**. They have already been paid for their first week of employment (35 coin).
+For smaller groups, each PC may start with one or more **hirelings**. They have already been paid for their first week of employment (35 GP).
 
 ## Example Character
 
@@ -100,4 +100,4 @@ For smaller groups, each PC may start with one or more **hirelings**. They have 
 
 **Spells (1/8):** *Comprehend* (you become fluent in all languages for a short while)
 
-**Equipment (5/8):** sling (d4), knife (d4), rodent trap, rations (3 days), torch (1 hour), 12 coin
+**Equipment (5/8):** sling (d4), knife (d4), rodent trap, rations (3 days), torch (1 hour), 12 GP

@@ -323,7 +323,7 @@ d100|Spell|Effect
 99   | Wizard Mark       | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects.
 100  | X-Ray Vision      | You can see through walls, dirt, clothing, etc.
 
-*For even more spells use [more spellbooks](https://cairnrpg.com/resources/more-spellbooks/) from [Cairn](https://cairnrpg.com/), the 100 level-less spells from [Knave](https://questingbeast.itch.io/knave), and the arcana from [Into the Odd](https://freeleaguepublishing.com/en/games/into-the-odd/).*
+*For even more spells, use [more spellbooks](https://cairnrpg.com/resources/more-spellbooks/) from [Cairn](https://cairnrpg.com/), the 100 level-less spells from [Knave](https://questingbeast.itch.io/knave), or the arcana from [Into the Odd](https://freeleaguepublishing.com/en/games/into-the-odd/).*
 
 <h2 id="traits">Traits</h2>
 

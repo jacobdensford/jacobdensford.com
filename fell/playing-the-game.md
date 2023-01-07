@@ -8,7 +8,7 @@ link: '/fell'
 
 ## Tasks and Tests
 
-Most of the time, you simply say what you do. But whenever you attempt a **task** where the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
+Most of the time, you simply say what you do and find out what happens. But whenever you attempt a **task** where the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
 
 Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
 
@@ -22,7 +22,7 @@ When a situation grants you **advantage,** you may roll your dice one step highe
 
 ## Dice Ladder
 
-When a rule or the referee instructs you to roll your dice a number of steps higher or lower, move up or down the rungs of the **dice ladder**:
+When a rule or the referee instructs you to raise or lower your dice a number of steps higher or lower, move up or down the rungs of the **dice ladder**:
 
 **d4 → d6 → d8 → d10 → d12**
 
@@ -34,7 +34,7 @@ When someone else attempts a task and it makes sense for you to do so, you may *
 
 ## Contests
 
-When you attempt a task and someone else opposes you, it's a **contest**. You each collect dice as normal for a test, then roll. Whoever has the highest single die result wins. In a tie, a die higher up the ladder beats a lower one.
+When you attempt a task and someone else opposes you, it's a **contest**. You each collect dice as normal for a test, then roll. Whoever has the highest single die result wins. In a tie, a die higher up the ladder beats a lower one, then more dice beat fewer, then compare the next highest dice.
 
 ## Skills
 
@@ -42,7 +42,7 @@ When you roll a test using your **skills**, include your skill die. If any of yo
 
 Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill.
 
-It takes a week and tools worth 100 coin to learn a new skill not from your background. You can know a number of skills equal to your INT.
+It takes a week and tools worth 100 GP to learn a new skill not from your background. You can know a number of skills equal to your INT.
 
 ## Spells
 
@@ -52,7 +52,7 @@ Whenever using your spell die, if its result is higher than the result of the te
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
 
-It takes a week and components worth 100 coin to learn a new spell. You can know a number of spells equal to your WIL.
+It takes a week and components worth 100 GP to learn a new spell. You can know a number of spells equal to your WIL.
 
 ## Equipment and Slots
 
@@ -60,7 +60,7 @@ When carrying more than your equipment slots, you have disadvantage. You can nev
 
 Most items use 1 slot. **Bulky** items use 2 slots and generally require two hands to carry or wield.
 
-Small equipment can be bundled together to only use 1 slot. For example, enough rations for three days only use one slot. 100 coins use 1 slot; fewer coins fit in your pockets and don't use a slot.
+Small equipment can be bundled together to only use 1 slot. For example, three torches or enough rations for three days each only use one slot. 100 coins (CP, SP, or GP) use 1 slot; fewer coins fit in your pockets and don't use a slot.
 
 ## Turns and Rounds
 
@@ -76,7 +76,7 @@ When **traveling**, a round lasts long enough to traverse three miles of easy te
 
 **Hirelings** are non-protagonist characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like PCs. When performing a relevant task, your hirelings may help just as another PC would.
 
-Hirelings take an equal share of any plunder, minus their upfront fee of 5 coin per day. If this fee is not paid in advance, you must roll a WIL contest whenever asking a hireling to do something dangerous.
+Hirelings take an equal share of any plunder, minus their upfront fee of 5 GP per day. If this fee is not paid in advance, you must roll a WIL contest whenever asking a hireling to do something dangerous.
 
 You can employ a number of hirelings equal to your WIL.
 
@@ -108,7 +108,7 @@ When more than one person attacks a single target or when attacking with multipl
 
 ## Protection
 
-**Protection** subtracts from harm to hit points and BOD. Special protection may also subtract harm from INT or WIL.
+**Protection** subtracts from harm to hit points and BOD.
 
 ## Blast
 
@@ -138,7 +138,7 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 **Harm** subtracts from hit points. Once out of hit points, harm becomes **critical harm** and subtracts from ability points.
 
-When you take critical harm, roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, you are subjected to your opponent's critical harm effect. Or, if no effect is given, you are unconscious and may die unless treated.
+When you take critical harm, roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, you are subjected to your opponent's critical harm effect, taken out of the fight, and may die unless treated.
 
 When an ability's points reach zero or an ability's die would be lowered below d4, you are **dead**.
 
@@ -156,6 +156,6 @@ Roll all your ability dice.
 
 For each die that rolls equal to or higher than your current hit points, gain one hit point.
 
-For each die that rolls its highest number, gain one hit point and increase that ability's die by one step.
+For each die that rolls its highest number, gain one hit point and raise that ability's die by one step.
 
 Once your hit points reach 24 and your ability dice are d12s, retire to safety. Or keep seeking fortune and become a legend.
