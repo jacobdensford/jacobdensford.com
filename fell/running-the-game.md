@@ -48,7 +48,7 @@ Some tests require more time and effort, and thus require more than one passed t
 
 ## Protection
 
-Protection should never, or very rarely, be increased beyond 3.
+Protection should never, or extremely rarely, be increased beyond 3.
 
 ## Non-Protagonist Characters
 
@@ -60,11 +60,7 @@ NPCs default to having d4 in each ability and 3 HP. If an NPC is meant to be exc
 
 ## Longer Dice Ladder
 
-If you have access to wacky dice or a digital dice roller, you may want to add some extra rungs to the dice ladder. For example, if using dice from [DCC](https://goodman-games.com/dungeon-crawl-classics-rpg/), the ladder would look like this:
-
-**d3 → d4 → d5 → d6 → d7 → d8 → d10 → d12 → etc**
-
-Adding more dice makes PC progression slower but allows for more granularity and customization.
+If you have access to wacky dice or a digital dice roller, you may want to add some extra rungs to the dice ladder. For example, you could use the extra dice from [DCC](https://goodman-games.com/dungeon-crawl-classics-rpg/). Adding more dice makes PC progression slower but allows for more granularity and customization. But the lowest die should never go below d4 since the default DN is 4.
 
 ## Converting OSR Material
 
@@ -92,7 +88,7 @@ OSR HD|Fell AD, HP, and P
 
 ### Damage
 
-Typically, use the damage die as the steel die. Sometimes, step the die down one if it feels like too much. If the damage would be significantly more than a d12, roll twice and take the higher result.
+Typically, use the damage die as the steel die. If there are multiple dice, only use the highest result. If the damage would be significantly more than a d12, roll multiple dice and take the highest result.
 
 ### Saving Throws
 
