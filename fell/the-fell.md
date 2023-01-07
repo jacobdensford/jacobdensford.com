@@ -6,7 +6,7 @@ link: '/fell'
 
 # The Fell
 
-The Fell is a seemingly endless highland expanse covered in fallow fields, twisted woods, and putrid moors. Cairns and barrows dot the frigid landscape—memorials to heroes long dead and a time forgotten. Seldom trodden paths snake through the Fell, connecting silent villages and desolate towns, and leading down into the lands beyond—into the misty expanse and towards the smoking mountains on the distant horizon.
+The Fell is a seemingly endless highland expanse covered in fallow fields, twisted woods, and putrid moors, with a dormant volcano rising from its heart. Cairns and barrows dot the frigid landscape—memorials to heroes long dead and a time forgotten. Seldom trodden paths snake and shift through the Fell, connecting silent villages and desolate towns, and leading down into the lands beyond—into the misty expanse and towards the smoking mountains on the distant horizon.
 
 ## Time
 

@@ -54,6 +54,14 @@ If a spell is aimed at an unwilling target, they may force a contest to reduce i
 
 It takes a week and components worth 100 coin to learn a new spell. You can know a number of spells equal to your WIL.
 
+## Equipment and Slots
+
+When carrying more than your equipment slots, you have disadvantage. You can never carry more than twice your slots.
+
+Most items use 1 slot. **Bulky** items use 2 slots and generally require two hands to carry or wield.
+
+Small equipment can be bundled together to only use 1 slot. For example, enough rations for three days only use one slot. 100 coins use 1 slot; fewer coins fit in your pockets and don't use a slot.
+
 ## Turns and Rounds
 
 Time is tracked in **turns** and **rounds**. During a round, everyone takes a turn.
@@ -97,6 +105,10 @@ If you have **leverage** and apply it, you may improve an NPC's reaction by winn
 Attacking is a task that does not require a test. To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm—first to hit points, then to BOD.
 
 When more than one person attacks a single target or when attacking with multiple weapons, roll all steel dice and use the highest single die result.
+
+## Protection
+
+**Protection** subtracts from harm to hit points and BOD. Special protection may also subtract harm from INT or WIL.
 
 ## Blast
 
@@ -147,132 +159,3 @@ For each die that rolls equal to or higher than your current hit points, gain on
 For each die that rolls its highest number, gain one hit point and increase that ability's die by one step.
 
 Once your hit points reach 24 and your ability dice are d12s, retire to safety. Or keep seeking fortune and become a legend.
-
-<h2 id="equipment">Equipment</h2>
-
-When carrying more than your equipment slots, you have disadvantage. You can never carry more than twice your slots.
-
-Most items use 1 slot. **Bulky** items use 2 slots and generally require two hands to carry or wield.
-
-Small equipment can be bundled together to only use 1 slot. For example, enough rations for three days only use one slot. 100 coins use 1 slot; fewer coins fit in your pockets and don't use a slot.
-
-Equipment|Cost
-:--|--:
-air bladder|5
-bear trap|15
-bedroll|5
-bellows|10
-blanket|2
-book|50
-bottle|2
-bucket|5
-caltrops|10
-candle (6 hours)|1
-cards|5
-chain (10ft)|10
-chalk|1
-chisel|5
-cookpot|5
-crowbar|10
-dice|2
-face paint|10
-fire oil|10
-fishing rod|10
-flint and steel|5
-furs|10
-glass marbles|5
-glue|5
-grappling hook|25
-grease|10
-hammer|5
-hand drill|10
-holy water|25
-horn|10
-hourglass|50
-incense|10
-instrument (musical)|100
-ladder (10ft, bulky)|10
-lantern (3 hours)|10
-lantern oil|5
-lens|10
-lockpicks|10
-manacles|10
-metal file|5
-mirror|5
-mortar & pestle|5
-nails|3
-net|10
-oilskin bag|5
-paint|10
-pick|10
-pulley|10
-pole (10ft)|5
-quill & ink|10
-rations (three days)|5
-rodent trap|10
-rope (25ft)|5
-sack|5
-salt|2
-saw|5
-soap|1
-spike|1
-spiked boots|5
-sponge|1
-spyglass|40
-tar|10
-tent (bulky)|15
-tinderbox|5
-torch (1 hour)|1
-twine (300ft)|5
-waterskin|5
-whistle|2
-wolfsbane|10
-
-Animals|Cost
-:--|--:
-goat|15
-horse|75
-mule|30
-
-Vehicles|Cost
-:--|--:
-carriage|350
-cart|30
-rowboat|100
-wagon|200
-
-Services|Cost
-:--|--:
-good meal|3
-hireling (per day)|5
-pint of ale|1
-repair armor (per protection)|15
-silver weapon|20
-warm bed (per night)|3
-
-Weapons|Cost
-:--|--:
-arrows (20)|10
-battle axe (d8, bulky)|35
-bolts (20)|15
-club (d4)|10
-crossbow (d8, bulky)|40
-dagger (d4)|10
-firebomb (d6, blast)|15
-flail (d8, bulky)|35
-greatsword (d8, bulky)|45
-handaxe (d4)|15
-longbow (d6, bulky)|25
-longsword (d6)|30
-mace (d6)|25
-shortsword (d4)|20
-shortbow (d4)|15
-sling (d4)|5
-staff (d4)|5
-warhammer (d8, bulky)|30
-
-Armor|Cost
-:--|--:
-shield (+1 protection)|10
-brigandine (1 protection, bulky)|20
-chainmail (2 protection, bulky)|40
