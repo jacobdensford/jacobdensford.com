@@ -42,6 +42,10 @@ DN|Difficulty
 10|Extremely hard
 12|Nearly impossible
 
+## Rounding Down
+
+Unless otherwise specified, always round down.
+
 ## Extended Tests
 
 Some tests require more time and effort, and thus require more than one passed test to accomplish. Tell how many the **extended test** will require, then PCs roll as normal. They may repeat the roll to add additional passes once they've dealt with any trouble.
@@ -110,4 +114,4 @@ If a spell causes harm, follow the damage guidelines above.
 
 If a spell requires a save, it's a contest.
 
-If the spell uses levels, the spell's level is the difficulty number for the test that must be rolled to cast the spell.
+If the spell uses levels, half the spell's level is added to the DN to cast the spell. Optionally, this rule only applies when the spell's level is greater than one fourth the highest face of the caster's WIL.
