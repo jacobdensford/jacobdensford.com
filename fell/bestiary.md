@@ -51,3 +51,5 @@ Unless otherwise noted, HP is assumed to be 4, protection 0, and abilities d6.
 *A glowing blue light dancing between the trees.*
 
 2 HP, d4 BOD, d4 INT, d8 WIL, dazzle (d4, INT)
+
+- **Drive:** to lead into danger
