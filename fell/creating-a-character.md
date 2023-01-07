@@ -14,7 +14,7 @@ You have three **abilities**:
 - **Intellect (INT):** aim, cunning, intelligence, quick thinking
 - **Willpower (WIL):** force of will, leadership, magical potential, persuasiveness
 
-Roll d8 for each **ability** to assign **ability dice** (AD) and gain **ability points** (AP) equal to each die's highest face. (Or assign d6 to each, optionally lowering one to d4 to raise one to d8.)
+Roll d8 for each **ability** to assign **ability dice** (AD) and gain **ability points** (AP) equal to each die's highest face. (Or assign d6 to each, optionally lowering one to d4 and raising one to d8.)
 
 d8|Ability Die
 :--|--:
@@ -51,9 +51,9 @@ d20|Background
 
 If you have any armor, gain its **protection** (P).
 
-You also start with **three days' rations, a torch (1 hour), and 3d6 coin** which you may spend on additional [equipment](/fell/playing-the-game/#equipment).
+You also start with **three days' rations, a torch (1 hour), and 3d6 gold pieces** which you may spend on additional [equipment](/fell/tables/#equipment).
 
-You have 4+BOD **equipment slots**.
+You have 4+BOD **equipment slots**. Each can hold one regular item or a collection of smaller items.
 
 You have a **steel die** granted by your weapon, which you roll when you attack and include whenever you roll a test with the weapon.
 
