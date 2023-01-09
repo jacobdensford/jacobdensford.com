@@ -65,7 +65,7 @@ If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)** and gain
 
 Roll 2d20+10 or choose your **age**.
 
-Roll or choose your alignment.
+Roll or choose your **alignment**.
 
 d4|Alignment
 :--|--:
