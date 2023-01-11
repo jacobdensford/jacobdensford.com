@@ -6,9 +6,9 @@ link: '/fell'
 
 # Bestiary
 
-Beasts and beings in the Fell are either mortal (M), faërie (M), or nether (N).
+Beasts and beings in the Fell are either mortal (M), faërie (F), or nether (N).
 
-Unless otherwise noted, HP is assumed to be 4, armor 0, and each ability d6.
+Unless otherwise noted, HP is assumed to be 5, armor 0, and each ability d6.
 
 ## Black Pudding
 
