@@ -148,6 +148,8 @@ Potter is the leader of the Black Court in Mistcrown.
 
 ### Quelbea
 
+![Quelbea](/images/quelbea.jpg)
+
 Quelbea was a dryad who embodied the northernmost forest in Endoran. After the Mistguard cleansed her forest, she promised they would always have a friend in the woods.
 
 ### Ralxire

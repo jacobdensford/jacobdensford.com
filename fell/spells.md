@@ -1,6 +1,6 @@
 ---
 layout: head-ff.njk
-title: 'Fell'
+title: 'Spells'
 link: '/fell/full-game'
 ---
 <h2 id="spells">Spells</h2>

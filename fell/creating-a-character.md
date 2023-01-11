@@ -6,7 +6,9 @@ link: '/fell'
 
 # Creating a Character
 
-Give yourself a **[name](/fell/tables/#names)**.
+Roll for a **[name](/fell/tables/#names)**.
+
+Roll 2d20+10 for your **age**.
 
 You have three **abilities**:
 
@@ -14,7 +16,7 @@ You have three **abilities**:
 - **Intellect (INT):** aim, cunning, intelligence, quick thinking
 - **Willpower (WIL):** force of will, leadership, magical potential, persuasiveness
 
-Roll d8 for each **ability** to assign **ability dice** (AD) and gain **ability points** (AP) equal to each die's highest face. (Or assign d6 to each, optionally lowering one to d4 and raising one to d8.)
+Roll d8 for each **ability** in order to assign dice.
 
 d8|Ability Die
 :--|--:
@@ -22,25 +24,31 @@ d8|Ability Die
 5-6|d6
 7-8|d8
 
-Roll your ability dice and keep the highest single die result. Gain that many **hit points** (HP), representing your ability to avoid critical harm. (Or start with 4 HP.)
+If your WIL is d8, roll for one **[spell](/fell/tables/#spells)**.
 
-Roll or choose a **background** and gain the associated **skill** and **equipment**.
+Roll a d8 and gain that many **hit points** (HP), representing your ability to avoid critical harm.
+
+Roll for your **[drive](/fell/tables/#drives)** and your **[traits](/fell/tables/#traits)**.
+
+You start with **three days' rations, three torches (1 hour each), and 3d6 gold pieces** (GP).
+
+Roll for a **background** and gain the associated **skill** and additional **equipment**.
 
 d20|Background
 :--|---
 1| **Alchemist:** *lore*, firebomb (d6, blast), bottle, fire oil
 2| **Bard:** *performance*, dagger (d4), musical instrument, face paint
-3| **Blacksmith:** *repair*, hammer (d4), brigandine (1 protection), bellows
-4| **Burglar:** *skullduggery*, crowbar (d4), lockpicks, rope (50ft)
+3| **Blacksmith:** *repair*, hammer (d4), brigandine (1 armor), bellows
+4| **Burglar:** *skulduggery*, crowbar (d4), lockpicks, rope (50ft)
 5| **Butcher:** *speechcraft*, cleaver (d4), salt, meat hook
-6| **Carpenter:** *skullduggery*, chisel (d4), nails, hand drill
+6| **Carpenter:** *skulduggery*, chisel (d4), nails, hand drill
 7| **Farmer:** *athletics*, pitchfork (d4), cookpot, pouch of seed
 8| **Gambler:** *discernment*, firebomb (d6, blast), cards, dice
 9| **Gravedigger:** *lore*, shovel (d4), lantern, cross necklace
 10| **Herbalist:** *survival*, sheers (d4), mortar & pestle, herbs
 11| **Hunter:** *survival*, sling (d4), knife (d4), rodent trap
-12| **Magician:** *skullduggery*, staff (d4), hourglass, goat
-13| **Mercenary:** *athletics*, club (d4), shield (+1 protection), lucky charm
+12| **Magician:** *skulduggery*, staff (d4), hourglass, goat
+13| **Mercenary:** *athletics*, club (d4), shield (+1 armor), lucky charm
 14| **Merchant:** *speechcraft*, ornamental sword (d4), ledger, cart
 15| **Miner:** *survival*, pick (d4), lantern, canary
 16| **Noble:** *speechcraft*, family sword (d6), book of genealogy, mirror
@@ -49,50 +57,13 @@ d20|Background
 19| **Servant:** *discernment*, stolen dagger (d4), soap, incriminating letters
 20| **Scholar:** *lore*, letter opener (d4), book, quill & ink
 
-If you have any armor, gain its **protection** (P).
-
-You also start with **three days' rations, three torches (1 hour each), and 3d6 gold pieces** (GP) which you may spend on additional **[equipment](/fell/tables/#equipment)**.
-
-You have 4+BOD **equipment slots**. Each can hold one regular item or a collection of smaller items.
-
-You have a **steel die** granted by your weapon, which you roll when you attack and include whenever you roll a test with the weapon.
-
-You have a **skill die** equal to your INT, which you include whenever you roll a test with your skills.
-
-If your WIL is d8, roll or choose one **[spell](/fell/tables/#spells)** and gain an undefined **spell die**, which you include whenever you roll a test to cast a spell.
-
-## Optional Extras
-
-Roll 2d20+10 or choose your **age**.
-
-Roll or choose your **alignment**.
-
-d4|Alignment
-:--|--:
-1|Chaotic
-2-3|Neutral
-4|Lawful
-
-Roll, choose, or write your own...
-
-- **[Drive](/fell/tables/#drives)** that keeps you going
-- **[Flaw](/fell/tables/#flaws)** that holds you back
-- **[Bond](/fell/tables/#bonds)** with one or more of your companions
-- **[Traits](/fell/tables/#traits)** the world sees
-
-Instead of one of the listed backgrounds, you may create your own. Name it, gain one skill, and purchase [equipment](/fell/playing-the-game/#equipment) worth up to 60 GP.
-
-For smaller groups, each PC may start with one or more **hirelings**. They have already been paid for their first week of employment (35 GP).
-
 ## Example Character
 
 **Name:** Mannog Burl
 
 **HP:** 5/5 — **P:** 0
 
-**BOD:** 4/d4 | **INT:** 6/d6 | **WIL:** 8/d8
-
-**Steel:** d4 | **Skill:** d6 | **Spell:** d?
+**BOD:** d4 | **INT:** d6 | **WIL:** d8
 
 **Background:** Hunter
 

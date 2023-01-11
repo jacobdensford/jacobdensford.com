@@ -14,4 +14,4 @@ A day in the Fell lasts twenty-four hours. A few times a year, a day has an extr
 
 ## Religion
 
-The Church of All-Saints is the official church of the Fell. Chapels to various saints are scattered about the land. In actuality, many in the Fell—especially the peasantry—practice various local religions, centered around fae-beings or nether-beings. The Church strongly discourages these practices.
+The Church of All-Saints is the official church of the Fell. Chapels to various saints are scattered about the land. In actuality, many in the Fell—especially the peasantry—practice various local religions, centered around faërie-beings or nether-beings. The Church strongly discourages these practices.
