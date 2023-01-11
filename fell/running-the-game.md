@@ -89,11 +89,11 @@ Use the table below for guidance.
 
 OSR HD|Fell AD, HP, and P
 :--|--:
-1-2|d4, 2-8HP, 0-1
+1-2|d4, 1-8HP, 0-1
 3-4|d6, 3-12HP, 0-1
-5-6|d8, 4-16HP, 0-2
-7-8|d10, 5-20HP, 0-2
-9-10|d12, 6-24HP, 0-3
+5-6|d8, 5-16HP, 0-2
+7-8|d10, 7-20HP, 0-2
+9-10|d12, 9-24HP, 0-3
 
 ### Damage
 
