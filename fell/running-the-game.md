@@ -51,9 +51,13 @@ Unless otherwise specified, always round down.
 
 Some tests require more time and effort, and thus require more than one passed test to accomplish. Tell how many the **extended test** will require, then PCs roll as normal. They may repeat the roll to add additional passes once they've dealt with any trouble.
 
-## Protection
+## Granular Results
 
-Protection should never, or extremely rarely, be increased beyond 3.
+Optionally, instead of tests resulting in a binary pass/fail, you can introduce granularity in the level of success or failure. The lower the number on a failure, the worse the outcome. The higher the number on a success, the better the outcome. You may even make 4-5 only partial successes.
+
+## Armor
+
+Armor should never, or extremely rarely, be increased beyond 3.
 
 ## Non-Protagonist Characters
 
@@ -66,6 +70,10 @@ NPCs default to having d4 in each ability and 3 HP. If an NPC is meant to be exc
 ## Longer Dice Ladder
 
 If you have access to wacky dice or a digital dice roller, you may want to add some extra rungs to the dice ladder. For example, you could use the extra dice from [DCC](https://goodman-games.com/dungeon-crawl-classics-rpg/). Adding more dice makes PC progression slower but allows for more granularity and customization. But the lowest die should never go below d4 since the default DN is 4.
+
+## Custom PCs
+
+PCs may start with any name, any age, d6 in each ability (optionally, lowering one to d4 and raising one to d8), a spell of their choice if their WIL is d8, 5 HP, a drive and traits of their choice, a skill of their choice, and equipment worth 60 GP.
 
 ## Converting OSR Material
 
@@ -97,7 +105,7 @@ Typically, use the damage die as the steel die. If there are multiple dice, only
 
 ### Saving Throws
 
-Saving throws convert to tests with the relevent ability. If the effect being saved against comes from an NPC, it's a contest. What follows is a table giving guidelines for which ability to test with, but use whatever makes the most sense given the circumstance.
+Saving throws convert to tests with the relevant ability. If the effect being saved against comes from an NPC, it's a contest. What follows is a table giving guidelines for which ability to test with, but use whatever makes the most sense given the circumstance.
 
 OSR Saving Throw|Fell Ability
 :--|--:

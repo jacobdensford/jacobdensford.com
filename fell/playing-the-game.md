@@ -10,7 +10,7 @@ link: '/fell'
 
 Most of the time, you simply say what you do and find out what happens. But whenever you attempt a **task** where the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
 
-Collect dice: an ability die from your relevant ability and an applicable steel, skill, or spell die if you have one.
+Collect dice: one from your relevant ability and any applicable bonus dice.
 
 Roll, comparing your highest single die result to the **difficulty number** (DN), which is usually **4**. If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble.
 
@@ -38,7 +38,7 @@ When you attempt a task and someone else opposes you, it's a **contest**. You ea
 
 ## Skills
 
-When you roll a test using your **skills**, include your skill die. If any of your skills overlap, roll with advantage.
+When you roll a test using your **skills**, include a bonus die equal to your INT. If any of your skills overlap, roll it with advantage.
 
 Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill.
 
@@ -46,21 +46,23 @@ It takes a week and tools worth 100 GP to learn a new skill not from your backgr
 
 ## Spells
 
-To cast a **spell**, either one you've learned or from a magical object, you must roll a WIL test using your spell die.
+To cast a **spell**, either one you've learned or from a magical object, you must roll a WIL test using a bonus die of any size.
 
-Whenever using your spell die, if its result is higher than the result of the test's ability die, take the difference as harm, first to hit points, then to WIL. Instead of taking this harm, you may permanently forget the spell or allow the magical object to be destroyed.
+Whenever using this bonus die, if its result is higher than the result of the test's ability die, take the difference as harm, first to HP, then to WIL. Instead of taking this harm, you may permanently forget the spell or allow the magical object to be destroyed.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
 
 It takes a week and components worth 100 GP to learn a new spell. You can know a number of spells equal to your WIL.
 
-## Equipment and Slots
+## Burdens
 
-When carrying more than your equipment slots, you have disadvantage. You can never carry more than twice your slots.
+You can carry 4+BOD **burdens**, each being one regular item or a collection of smaller items.
 
-Most items use 1 slot. **Bulky** items use 2 slots and generally require two hands to carry or wield.
+When carrying more than your burdens, you have disadvantage. You can never carry more than twice your burdens.
 
-Small equipment can be bundled together to only use 1 slot. For example, three torches or enough rations for three days each only use one slot. 100 coins (CP, SP, or GP) use 1 slot; fewer coins fit in your pockets and don't use a slot.
+Most items are 1 burden. **Bulky** items count as 2 burdens and generally require two hands to carry or wield.
+
+Small equipment can be bundled together to only use 1 burden. For example, three torches or enough rations for three days each only use 1 burden. 100 coins (CP, SP, or GP) use 1 burden; fewer coins fit in your pockets and don't use any.
 
 ## Turns and Rounds
 
@@ -102,33 +104,33 @@ If you have **leverage** and apply it, you may improve an NPC's reaction by winn
 
 ## Attacks
 
-Attacking is a task that does not require a test. To **attack**, roll your weapon's steal die and subtract your opponents protection. Deal what's left as harm—first to hit points, then to BOD.
+Attacking is a task that does not require a test. To **attack**, roll your weapon's die and subtract your opponents armor. Deal what's left as harm—first to HP, then to BOD.
 
-When more than one person attacks a single target or when attacking with multiple weapons, roll all steel dice and use the highest single die result.
+When more than one person attacks a single target or when attacking with multiple weapons, roll all dice and use the highest single die result.
 
-## Protection
+## Armor
 
-**Protection** subtracts from harm to hit points and BOD.
+**Armor** (A) subtracts from harm to HP.
 
 ## Blast
 
-**Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's steel die.
+**Blast** causes harm to multiple targets in close proximity, rolling separately for each. If unsure how many targets are affected, roll the weapon's die.
 
 ## Morale
 
-When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies hit points by half, roll a WIL contest. If you win, roll your WILL on the **morale** table to see what the surviving enemies do.
+When you defeat an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a WIL contest. If you win, roll your WILL on the **morale** table to see what the surviving enemies do.
 
 Roll|Morale
 :--|--:
 1-3|Hesitate
 4-5|Retreat
 6-7|Flee
-8-9|Surender Conditionally
-10-12|Surender Unconditionally
+8-9|Surrender Conditionally
+10-12|Surrender Unconditionally
 
 ## Deprivation and Fatigue
 
-When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain hit points or ability points, nor can you restore ability dice.
+When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain HP or restore abilities.
 
 When you are deprived for longer than a day, you become **fatigued** and must make all tests with disadvantage. Each additional day you are deprived makes the disadvantage worse.
 
@@ -136,26 +138,26 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 ## Harm and Death
 
-**Harm** subtracts from hit points. Once out of hit points, harm becomes **critical harm** and subtracts from ability points.
+**Harm** subtracts from HP. Once out of HP, harm becomes **critical harm** and reduces abilities.
 
-When you take critical harm, roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, you are subjected to your opponent's critical harm effect, taken out of the fight, and may die unless treated.
+When you take critical harm, roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, reduce your ability: subtract harm from the highest face of your ability die and round down to the next ability die. You’re taken out of the fight and will die without treatment.
 
-When an ability's points reach zero or an ability's die would be lowered below d4, you are **dead**.
+When an ability would be lowered below d4, you are **dead**.
 
 ## Healing and Rest
 
-**Healing** recovers hit points and ability points, and restores ability dice.
+**Healing** recovers HP and restores abilities.
 
-Whenever you take several minutes to **rest**, recover all your hit points. When you rest for the night, recover all your ability points. After a full week of rest and appropriate care, restore all your reduced ability dice.
+Whenever you take several minutes to **rest**, recover all your HP. After a full week of rest and appropriate care, restore all your reduced abilities by one step.
 
 ## Advancement
 
 Each time you return to relative safety bearing significant plunder gained through deadly peril, you may attempt to **advance**.
 
-Roll all your ability dice.
+Roll all your abilities.
 
-For each die that rolls equal to or higher than your current hit points, gain one hit point.
+For each that rolls equal to or higher than your current HP, gain one hit point.
 
-For each die that rolls its highest number, gain one hit point and raise that ability's die by one step.
+For each that rolls its highest number, gain one hit point and raise that ability by one step.
 
-Once your hit points reach 24 and your ability dice are d12s, retire to safety. Or keep seeking fortune and become a legend.
+Once your HP reach 24 and your abilities are d12s, retire to safety. Or keep seeking fortune and become a legend.

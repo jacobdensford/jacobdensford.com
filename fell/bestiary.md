@@ -6,50 +6,78 @@ link: '/fell'
 
 # Bestiary
 
-Creatures, beasts, monsters, and non-protagonist characters that populate the Fell.
+Beasts and beings in the Fell are either mortal (M), faërie (M), or nether (N).
 
-Unless otherwise noted, HP is assumed to be 4, protection 0, and abilities d6.
+Unless otherwise noted, HP is assumed to be 4, armor 0, and each ability d6.
 
-## A - E
+## Black Pudding
 
-## F - J
+*Black, pulsating goop that jerks towards movement.*
 
-### Fae Skull
+M, 8 HP, 2 A, d8 BOD, d4 INT, pseudopod (d6 blast)
+
+Drive: to absorb
+
+## Faërie Skull
 
 *A floating skull with a flickering green flame within.*
 
-8 HP, d4 BOD, d8 WIL, flames (d6)
+F, 8 HP, d4 BOD, d8 WIL, flames (d6)
 
-## K - O
+Drive: to lead astray
 
-### Mime
+## Goblin
+
+*Ears of a bat, nose of a boar, skittering, skattering, chattering, stabbering.*
+
+F, 2 HP, d4 BOD, d4 INT, d4 WIL, dagger (d4)
+
+Drive: to wreak havoc
+
+## Mime
 
 *Appears to be a simple chest but isn't.*
 
-6 HP, 1 P, d8 BOD, d4 INT, d4 WIL, pseudopod (d4), bite (d6)
+F, 6 HP, 1 P, d8 BOD, d4 INT, d4 WIL, pseudopod (d4), bite (d6)
 
-## P - T
+Drive: to consume
 
-### Skeleton
+## Mummy Fragments
+
+*Disembodied hands lurch across the floor.*
+
+N or F, 2 HP, d4 BOD, d4 INT, d4 WIL, choke (d4)
+
+Drive: to strangle
+
+## Skeleton
 
 *Old, rattling bones spring to life.*
 
-3 HP, d4 BOD, d4 INT, d4 WIL, shortsword (d4)
+N or F, 3 HP, d4 BOD, d4 INT, d4 WIL, shortsword (d4)
 
-- Blunt weapons have advantage, piercing weapons disadvantage
+Drive: to welcome more dead
 
-## U - Z
+## Stone Guardian
 
-### Undead
+*s still as a statue… Until it isn’t.*
+
+N or F, 10 HP, 3 A, d10 BOD, d4 INT, slam (d4 blast), sword (d8 blast)
+
+Drive: to let none pass
+
+## Undead
 
 *Tattered clothes and decayed flesh cling to this reanimated corpse.*
 
-5 HP, 1 P, d4 WIL, bite (d4)
+M or F, 5 HP, 1 P, d4 WIL, bite (d4)
 
-### Will-o'-the-Wisp
+Drive: to eat brains
+
+## Will-o'-the-Wisp
 
 *A glowing blue light dancing between the trees.*
 
-2 HP, d4 BOD, d4 INT, d8 WIL, dazzle (d4, INT)
+F, 2 HP, d4 BOD, d4 INT, d8 WIL, dazzle (d4, INT)
 
-- **Drive:** to lead into danger
+Drive: to lead into danger

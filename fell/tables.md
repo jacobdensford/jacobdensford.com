@@ -6,27 +6,32 @@ link: '/fell'
 
 # Tables
 
-<h2 id="bonds">Bonds</h2>
-
-d6|Bond
-:--|--
-1|One of my companions knows I'm a fraud.
-2|One of my companions knows my dark secret.
-3|I plan on murdering one of my companions.
-4|I plan on stealing from one of my companions.
-5|One of my companions and I share a dark past.
-6|One of my companions and I are concocting a plot.
-
 <h2 id="drives">Drives</h2>
+
+I seek wealth...
 
 d6|Drive
 :--|---
-1|I seek wealth to pay off my family's debts.
-2|I strive for perfection in function and form.
-3|I want to visit every city at least once.
-4|I seek revenge for the death of my sibling.
-5|I must complete my holy pilgrimage before returning home.
-6|I carry a secret I must share with the high lord before it's too late.
+1|To gain power and influence over others
+2|To acquire prestige and status among their peers
+3|To secure the safety and well-being of their family and loved ones
+4|To gain access to luxuries and resources not available in their current circumstances
+5|To fund personal quests for knowledge, adventure, or revenge
+6|To acquire magical items or abilities
+7|To establish a stronghold to protect against enemies
+8|To become independent from oppressive rulers or institutions
+9|To gain access to forbidden or ancient knowledge
+10|To create a legacy for future generations
+11|To fund a rebellion or resistance against an unjust regime
+12|To seek redemption for past wrongs
+13|To become a leader or hero
+14|To gain control over valuable resources such as gold mines, trade routes, or fertile land
+15|To pay off debts or obligations
+16|To gain leverage in political or social negotiations
+17|To gain respect or admiration from others
+18|To provide for future generations
+19|To buy freedom (for oneself or others)
+20|To be able to help and support others in need.
 
 <h2 id="equipment">Equipment</h2>
 
@@ -122,7 +127,7 @@ Services|Cost
 good meal|3
 hireling (per day)|5
 pint of ale|1
-repair armor (per protection)|15
+repair armor (per armor)|15
 silver weapon|20
 warm bed (per night)|3
 
@@ -149,22 +154,11 @@ warhammer (d8, bulky)|30
 
 Armor|Cost
 :--|--:
-shield (+1 protection)|10
-brigandine (1 protection, bulky)|20
-chainmail (2 protection, bulky)|40
+shield (+1 armor)|10
+brigandine (1 armor, bulky)|20
+chainmail (2 armor, bulky)|40
 
 *For even more or alternate equipment, use the [equipment list](https://cairnrpg.com/cairn-srd/#equipment-list-prices-in-gold-pieces) from [Cairn](https://cairnrpg.com/) or the [adventuring gear](https://oldschoolessentials.necroticgnome.com/srd/index.php/Adventuring_Gear) from [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page).*
-
-<h2 id="flaws">Flaws</h2>
-
-d6|Flaw
-:--|---
-1|I can't resist stealing everything that's not nailed down.
-2|I will never trust again after what happened last time.
-3|I can't forgive myself for the mistakes of my past.
-4|I am addicted to a powerful drug.
-5|I am on the run because of a crime I didn't commit.
-6|I can't stand being alone even for a second.
 
 <h2 id="names">Names</h2>
 
