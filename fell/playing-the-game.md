@@ -148,7 +148,7 @@ When an ability would be lowered below d4, you are **dead**.
 
 **Healing** recovers HP and restores abilities.
 
-Whenever you take several minutes to **rest**, recover all your HP. After a full week of rest and appropriate care, restore all your reduced abilities by one step.
+Whenever you take several minutes to **rest**, recover all your HP. After a full week of rest and appropriate care, restore a reduced ability by one step.
 
 ## Advancement
 
@@ -156,8 +156,8 @@ Each time you return to relative safety bearing significant plunder gained throu
 
 Roll all your abilities.
 
-For each that rolls equal to or higher than your current HP, gain one hit point.
+For each that rolls equal to or higher than your current HP, gain one HP.
 
-For each that rolls its highest number, gain one hit point and raise that ability by one step.
+For each that rolls its highest number, gain one HP and raise that ability by one step.
 
 Once your HP reach 24 and your abilities are d12s, retire to safety. Or keep seeking fortune and become a legend.

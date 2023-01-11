@@ -12,26 +12,26 @@ I seek wealth...
 
 d6|Drive
 :--|---
-1|To gain power and influence over others
-2|To acquire prestige and status among their peers
-3|To secure the safety and well-being of their family and loved ones
-4|To gain access to luxuries and resources not available in their current circumstances
-5|To fund personal quests for knowledge, adventure, or revenge
-6|To acquire magical items or abilities
-7|To establish a stronghold to protect against enemies
-8|To become independent from oppressive rulers or institutions
-9|To gain access to forbidden or ancient knowledge
-10|To create a legacy for future generations
-11|To fund a rebellion or resistance against an unjust regime
-12|To seek redemption for past wrongs
-13|To become a leader or hero
-14|To gain control over valuable resources such as gold mines, trade routes, or fertile land
-15|To pay off debts or obligations
-16|To gain leverage in political or social negotiations
-17|To gain respect or admiration from others
-18|To provide for future generations
-19|To buy freedom (for oneself or others)
-20|To be able to help and support others in need.
+1|to gain power and influence over others
+2|to acquire prestige and status among their peers
+3|to secure the safety and well-being of their family and loved ones
+4|to gain access to luxuries and resources not available in their current circumstances
+5|to fund personal quests for knowledge, adventure, or revenge
+6|to acquire magical items or abilities
+7|to establish a stronghold to protect against enemies
+8|to become independent from oppressive rulers or institutions
+9|to gain access to forbidden or ancient knowledge
+10|to create a legacy for future generations
+11|to fund a rebellion or resistance against an unjust regime
+12|to seek redemption for past wrongs
+13|to become a leader or hero
+14|to gain control over valuable resources such as gold mines, trade routes, or fertile land
+15|to pay off debts or obligations
+16|to gain leverage in political or social negotiations
+17|to gain respect or admiration from others
+18|to provide for future generations
+19|to buy freedom (for oneself or others)
+20|to be able to help and support others in need.
 
 <h2 id="equipment">Equipment</h2>
 
@@ -139,7 +139,7 @@ bolts (20)|15
 club (d4)|10
 crossbow (d8, bulky)|40
 dagger (d4)|10
-firebomb (d6, blast)|15
+firebomb (d6 blast)|15
 flail (d8, bulky)|35
 greatsword (d8, bulky)|45
 handaxe (d4)|15

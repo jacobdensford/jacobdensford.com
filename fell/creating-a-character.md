@@ -6,7 +6,7 @@ link: '/fell'
 
 # Creating a Character
 
-Roll for a **[name](/fell/tables/#names)**.
+Roll for your **[name](/fell/tables/#names)**.
 
 Roll 2d20+10 for your **age**.
 
@@ -30,20 +30,20 @@ Roll a d8 and gain that many **hit points** (HP), representing your ability to a
 
 Roll for your **[drive](/fell/tables/#drives)** and your **[traits](/fell/tables/#traits)**.
 
-You start with **three days' rations, three torches (1 hour each), and 3d6 gold pieces** (GP).
+You start with **three days' rations**, **three torches** (1 hour each), and **3d6 gold pieces** (GP).
 
 Roll for a **background** and gain the associated **skill** and additional **equipment**.
 
 d20|Background
 :--|---
-1| **Alchemist:** *lore*, firebomb (d6, blast), bottle, fire oil
+1| **Alchemist:** *lore*, firebomb (d6 blast), bottle, fire oil
 2| **Bard:** *performance*, dagger (d4), musical instrument, face paint
 3| **Blacksmith:** *repair*, hammer (d4), brigandine (1 armor), bellows
 4| **Burglar:** *skulduggery*, crowbar (d4), lockpicks, rope (50ft)
 5| **Butcher:** *speechcraft*, cleaver (d4), salt, meat hook
 6| **Carpenter:** *skulduggery*, chisel (d4), nails, hand drill
 7| **Farmer:** *athletics*, pitchfork (d4), cookpot, pouch of seed
-8| **Gambler:** *discernment*, firebomb (d6, blast), cards, dice
+8| **Gambler:** *discernment*, firebomb (d6 blast), cards, dice
 9| **Gravedigger:** *lore*, shovel (d4), lantern, cross necklace
 10| **Herbalist:** *survival*, sheers (d4), mortar & pestle, herbs
 11| **Hunter:** *survival*, sling (d4), knife (d4), rodent trap
