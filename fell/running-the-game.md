@@ -53,7 +53,7 @@ Some tests require more time and effort, and thus require more than one passed t
 
 ## Granular Results
 
-Optionally, instead of tests resulting in a binary pass/fail, you can introduce granularity in the level of success or failure. The lower the number on a failure, the worse the outcome. The higher the number on a success, the better the outcome. You may even make 4-5 only partial successes.
+Optionally, instead of tests resulting in a binary pass/fail, the lower the number on a failure, the worse the outcome. The higher the number on a success, the better the outcome. You may even make 4-5 only partial successes.
 
 ## Armor
 
@@ -61,11 +61,7 @@ Armor should never, or extremely rarely, be increased beyond 3.
 
 ## Non-Protagonist Characters
 
-**Non-protagonist characters** (NPCs) can be townsfolk, hirelings, monsters, or anything in between.
-
-All NPCs should have a **name**, a flavorful **description**, and a **drive**.
-
-NPCs default to having d4 in each ability and 3 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP. If they're competent, give them d6s and 4 HP. If they're particularly strong, smart, or magical; raise that ability's die to d8, or even higher, and bump their HP up by 1 or 2. If what they're good at is more specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP.
+**Non-protagonist characters** (NPCs) should have a name, a flavorful description, and a drive. They default to having d6 in each ability and 5 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP and reduce their abilities. If they're competent, give them more HP and increase their abilities. If they're good at something specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP.
 
 ## Longer Dice Ladder
 
