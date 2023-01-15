@@ -14,7 +14,7 @@ Unless otherwise noted, HP is assumed to be 5, armor 0, and each ability d6.
 
 *Black, pulsating goop that jerks towards movement.*
 
-M, 8 HP, 2 A, d8 BOD, d4 INT, pseudopod (d6 blast)
+M, 8 HP, 2 A, d8 WEIGHT, d4 WIT, pseudopod (d6 blast)
 
 Drive: to absorb
 
@@ -22,15 +22,15 @@ Drive: to absorb
 
 *A floating skull with a flickering green flame within.*
 
-F, 8 HP, d4 BOD, d8 WIL, flames (d6)
+F, 8 HP, d4 WEIGHT, d8 WILL, flames (d6)
 
-Drive: to lead astray
+Drive: to devour souls
 
 ## Goblin
 
 *Ears of a bat, nose of a boar, skittering, skattering, chattering, stabbering.*
 
-F, 2 HP, d4 BOD, d4 INT, d4 WIL, dagger (d4)
+F, 2 HP, d4 WEIGHT, d4 WIT, d4 WILL, dagger (d4)
 
 Drive: to wreak havoc
 
@@ -38,7 +38,7 @@ Drive: to wreak havoc
 
 *Appears to be a simple chest but isn't.*
 
-F, 6 HP, 1 P, d8 BOD, d4 INT, d4 WIL, pseudopod (d4), bite (d6)
+F, 6 HP, 1 P, d8 WEIGHT, d4 WIT, d4 WILL, pseudopod (d4), bite (d6)
 
 Drive: to consume
 
@@ -46,7 +46,7 @@ Drive: to consume
 
 *Disembodied hands lurch across the floor.*
 
-N or F, 2 HP, d4 BOD, d4 INT, d4 WIL, choke (d4)
+N or F, 2 HP, d4 WEIGHT, d4 WIT, d4 WILL, choke (d4)
 
 Drive: to strangle
 
@@ -54,7 +54,7 @@ Drive: to strangle
 
 *Old, rattling bones spring to life.*
 
-N or F, 3 HP, d4 BOD, d4 INT, d4 WIL, shortsword (d4)
+N or F, 3 HP, d4 WEIGHT, d4 WIT, d4 WILL, shortsword (d4)
 
 Drive: to welcome more dead
 
@@ -62,7 +62,7 @@ Drive: to welcome more dead
 
 *s still as a statue… Until it isn’t.*
 
-N or F, 10 HP, 3 A, d10 BOD, d4 INT, slam (d4 blast), sword (d8 blast)
+N or F, 10 HP, 3 A, d10 WEIGHT, d4 WIT, slam (d4 blast), sword (d8 blast)
 
 Drive: to let none pass
 
@@ -70,7 +70,7 @@ Drive: to let none pass
 
 *Tattered clothes and decayed flesh cling to this reanimated corpse.*
 
-M or F, 5 HP, 1 P, d4 WIL, bite (d4)
+M or F, 5 HP, 1 P, d4 WILL, bite (d4)
 
 Drive: to eat brains
 
@@ -78,6 +78,6 @@ Drive: to eat brains
 
 *A glowing blue light dancing between the trees.*
 
-F, 2 HP, d4 BOD, d4 INT, d8 WIL, dazzle (d4, INT)
+F, 2 HP, d4 WEIGHT, d4 WIT, d8 WILL, dazzle (d4, WIT)
 
 Drive: to lead into danger
