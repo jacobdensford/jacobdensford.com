@@ -10,15 +10,15 @@ link: '/fell'
 
 I seek wealth...
 
-d6|Drive
+d20|Drive
 :--|---
 1|to gain power and influence over others
-2|to acquire prestige and status among their peers
-3|to secure the safety and well-being of their family and loved ones
-4|to gain access to luxuries and resources not available in their current circumstances
-5|to fund personal quests for knowledge, adventure, or revenge
+2|to acquire prestige and status among my peers
+3|to secure the safety and well-being of my family and loved ones
+4|to gain access to luxuries and resources not available in my current circumstances
+5|to fund a personal quest for knowledge, adventure, or revenge
 6|to acquire magical items or abilities
-7|to establish a stronghold to protect against enemies
+7|to establish a stronghold to protect against my enemies
 8|to become independent from oppressive rulers or institutions
 9|to gain access to forbidden or ancient knowledge
 10|to create a legacy for future generations
@@ -30,133 +30,66 @@ d6|Drive
 16|to gain leverage in political or social negotiations
 17|to gain respect or admiration from others
 18|to provide for future generations
-19|to buy freedom (for oneself or others)
-20|to be able to help and support others in need.
+19|to buy freedom (for myself or others)
+20|to be able to help and support others in need
 
 <h2 id="equipment">Equipment</h2>
 
-Prices listed in gold pieces.
+### Tools (1 GP)
 
-Equipment|Cost
-:--|--:
-air bladder|5
-bear trap|15
-bedroll|5
-bellows|10
-blanket|2
-book|50
-bottle|2
-bucket|5
-caltrops|10
-candle (6 hours)|1
-cards|5
-chain (10ft)|10
-chalk|1
-chisel|5
-cookpot|5
-crowbar|10
-dice|2
-face paint|10
-fire oil|10
-fishing rod|10
-flint and steel|5
-furs|10
-glass marbles|5
-glue|5
-grappling hook|25
-grease|10
-hammer|5
-hand drill|10
-holy water|25
-horn|10
-hourglass|50
-incense|10
-instrument (musical)|100
-ladder (10ft, bulky)|10
-lantern (3 hours)|10
-lantern oil|5
-lens|10
-lockpicks|10
-manacles|10
-metal file|5
-mirror|5
-mortar & pestle|5
-nails|3
-net|10
-oilskin bag|5
-paint|10
-pick|10
-pulley|10
-pole (10ft)|5
-quill & ink|10
-rations (three days)|5
-rodent trap|10
-rope (25ft)|5
-sack|5
-salt|2
-saw|5
-soap|1
-spike|1
-spiked boots|5
-sponge|1
-spyglass|40
-tar|10
-tent (bulky)|15
-tinderbox|5
-torch (1 hour)|1
-twine (300ft)|5
-waterskin|5
-whistle|2
-wolfsbane|10
+Air bladder, animal trap, bellows, crowbar, flint & steel, glue, grappling hook, lantern & oil (3 hours), lockpicks, manacles, rope (25 feet), sack, saw, shovel, spikes, torch (1 hour), etc.
 
-Animals|Cost
-:--|--:
-goat|15
-horse|75
-mule|30
+### Luxuries (10 GP)
 
-Vehicles|Cost
-:--|--:
-carriage|350
-cart|30
-rowboat|100
-wagon|200
+Book, face paint, fire oil, glass bottle, holy water, hourglass, incense, jewelry, mirror, musical instrument, quill & ink, salt, spyglass, etc.
 
-Services|Cost
-:--|--:
-good meal|3
-hireling (per day)|5
-pint of ale|1
-repair armor (per armor)|15
-silver weapon|20
-warm bed (per night)|3
+### Rations (1 GP per day)
 
-Weapons|Cost
-:--|--:
-arrows (20)|10
-battle axe (d8, bulky)|35
-bolts (20)|15
-club (d4)|10
-crossbow (d8, bulky)|40
-dagger (d4)|10
-firebomb (d6 blast)|15
-flail (d8, bulky)|35
-greatsword (d8, bulky)|45
-handaxe (d4)|15
-longbow (d6, bulky)|25
-longsword (d6)|30
-mace (d6)|25
-shortsword (d4)|20
-shortbow (d4)|15
-sling (d4)|5
-staff (d4)|5
-warhammer (d8, bulky)|30
+Jerky, dried fruit, hardtack, nuts, etc.
 
-Armor|Cost
-:--|--:
-shield (+1 armor)|10
-brigandine (1 armor, bulky)|20
-chainmail (2 armor, bulky)|40
+### Animals
+
+Goat (15 GP), horse (75 GP), mule (30 GP)
+
+### Vehicles
+
+Carriage (350 GP), cart (30 GP), rowboat (100 GP), wagon (200 GP)
+
+### Services
+
+Good meal (1 GP), pint of ale (1 GP), armor repair (10 GP per armor), silvered weapon (20 GP), warm bed (5 GP per week)
+
+### Hirelings (cost per day)
+
+Untrained (1 GP), novice (5 GP), professional (10 GP), expert (20 GP), veteran (40 GP), master (80 GP)
+
+### Crude Weapons (1 GP, d4, bulky)
+
+Bow, club, staff, pitchfork, etc.
+
+### Hand Weapons (5 GP, d4)
+
+Dagger, sling, hand axe, etc.
+
+### Simple Weapons (10 GP, d6)
+
+Javelin, lance, mace, shortsword, shortbow, etc.
+
+### Battle Weapons (20 GP, d8, bulky)
+
+Battle axe, crossbow, flail, greatsword, longbow, warhammer, etc.
+
+### Crude Armor (20 GP, 1 armor, bulky)
+
+Rough helm & shield, brigandine, ceremonial, etc.
+
+### Great Armor (40 GP, 2 armor, bulky)
+
+Mail, plate, scale, etc.
+
+### Shield (10 GP, +1 armor, bulky)
+
+Heater, kite, targe, etc.
 
 *For even more or alternate equipment, use the [equipment list](https://cairnrpg.com/cairn-srd/#equipment-list-prices-in-gold-pieces) from [Cairn](https://cairnrpg.com/) or the [adventuring gear](https://oldschoolessentials.necroticgnome.com/srd/index.php/Adventuring_Gear) from [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page).*
 
