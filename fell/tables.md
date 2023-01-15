@@ -35,59 +35,59 @@ d20|Drive
 
 <h2 id="equipment">Equipment</h2>
 
-### Tools (1 GP)
+### Tools (1 C)
 
 Air bladder, animal trap, bellows, crowbar, flint & steel, glue, grappling hook, lantern & oil (3 hours), lockpicks, manacles, rope (25 feet), sack, saw, shovel, spikes, torch (1 hour), etc.
 
-### Luxuries (10 GP)
+### Luxuries (10 C)
 
 Book, face paint, fire oil, glass bottle, holy water, hourglass, incense, jewelry, mirror, musical instrument, quill & ink, salt, spyglass, etc.
 
-### Rations (1 GP per day)
+### Rations (1 C per day)
 
 Jerky, dried fruit, hardtack, nuts, etc.
 
 ### Animals
 
-Goat (15 GP), horse (75 GP), mule (30 GP)
+Goat (15 C), horse (75 C), mule (30 C)
 
 ### Vehicles
 
-Carriage (350 GP), cart (30 GP), rowboat (100 GP), wagon (200 GP)
+Carriage (350 C), cart (30 C), rowboat (100 C), wagon (200 C)
 
 ### Services
 
-Good meal (1 GP), pint of ale (1 GP), armor repair (10 GP per armor), silvered weapon (20 GP), warm bed (5 GP per week)
+Good meal (1 C), pint of ale (1 C), armor repair (10 C/armor), silvered weapon (20 C), warm bed (5 C/week)
 
 ### Hirelings (cost per day)
 
-Untrained (1 GP), novice (5 GP), professional (10 GP), expert (20 GP), veteran (40 GP), master (80 GP)
+Untrained (1 C), novice (5 C), professional (10 C), expert (20 C), veteran (40 C), master (80 C)
 
-### Crude Weapons (1 GP, d4, bulky)
+### Crude Weapons (1 C, d4, bulky)
 
 Bow, club, staff, pitchfork, etc.
 
-### Hand Weapons (5 GP, d4)
+### Hand Weapons (5 C, d4)
 
 Dagger, sling, hand axe, etc.
 
-### Simple Weapons (10 GP, d6)
+### Simple Weapons (10 C, d6)
 
 Javelin, lance, mace, shortsword, shortbow, etc.
 
-### Battle Weapons (20 GP, d8, bulky)
+### Battle Weapons (20 C, d8, bulky)
 
 Battle axe, crossbow, flail, greatsword, longbow, warhammer, etc.
 
-### Crude Armor (20 GP, 1 armor, bulky)
+### Crude Armor (20 C, 1 armor, bulky)
 
 Rough helm & shield, brigandine, ceremonial, etc.
 
-### Great Armor (40 GP, 2 armor, bulky)
+### Great Armor (40 C, 2 armor, bulky)
 
 Mail, plate, scale, etc.
 
-### Shield (10 GP, +1 armor, bulky)
+### Shield (10 C, +1 armor, bulky)
 
 Heater, kite, targe, etc.
 

@@ -10,7 +10,7 @@ Roll for your **[name](/fell/tables/#names)**.
 
 Roll for a **background** and gain the associated **skill** and **[equipment](/fell/tables/#equipment)**.
 
-Roll d8 to determine your starting **hit protection** (HP).
+Roll d8 to determine your starting **hit protection** (HP), a representation of your ability to avoid critical harm.
 
 You have three **abilities**:
 
@@ -28,7 +28,7 @@ d8|Ability Die
 
 If your Will is d8, roll for one **[spell](/fell/tables/#spells)**.
 
-In addition to the equipment from your background, you start with **three days' rations**, **three torches** (1 hour each), and **3d6 gold pieces** (GP).
+In addition to the equipment from your background, you start with **three days' rations**, **three torches** (1 hour each), and **3d6 coin** (C).
 
 Roll 2d20+10 for your **age**.
 
