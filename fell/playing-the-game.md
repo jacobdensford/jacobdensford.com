@@ -16,7 +16,7 @@ Roll, comparing your highest single die result to the **difficulty number** (DN)
 
 ## Contests
 
-When you attempt a task and someone else opposes you, it's a **contest**. You each collect dice as normal, then roll. Whoever has the highest single die result wins. In a tie, a die higher up the ladder beats a lower one, then more dice beat fewer, then compare the next highest dice.
+When you attempt a task and someone else opposes you, it's a **contest**. You each collect dice as normal and roll. Whoever has the highest single die result wins. In a tie, a die higher up the ladder beats a lower one, then more dice beat fewer, then compare the next highest dice.
 
 ## Help
 
@@ -40,7 +40,7 @@ When you roll a test using your **skills**, include a skill die equal to your Wi
 
 Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill.
 
-It takes a week and tools worth 100 GP to learn a new skill not from your background. You can know a number of skills equal to your Wit.
+It takes a week and tools worth 100 coin to learn a new skill not from your background. You can know a number of skills equal to your Wit.
 
 ## Spells
 
@@ -50,11 +50,11 @@ Each day, your spell die starts equal to your Will. Each time you fail a test to
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
 
-It takes a week and components worth 100 GP to learn a new spell. You can know a number of spells equal to your Will.
+It takes a week and components worth 100 coin to learn a new spell. You can know a number of spells equal to your Will.
 
 ## Bulky
 
-**Bulky** items generally require two hands to carry or wield. You can carry as many regular items as makes sense, but you can only carry one half your Weight bulky items. When carrying more, you have disadvantage. You can never carry more than your Weight. Every 400 GP worth of coins and treasure counts as a bulky item.
+**Bulky** items generally require two hands to carry or wield. You can carry as many regular items as makes sense, but you can only carry one half your Weight bulky items. When carrying more, you have disadvantage. You can never carry more than your Weight. Every 400 coin worth of coins and treasure counts as a bulky item.
 
 ## Detachments
 
@@ -146,9 +146,9 @@ Whenever you take several minutes to **rest**, recover all your HP. After a full
 
 When you return to relative safety bearing significant plunder gained through deadly peril, it may be possible to **advance**. If your hoard is worth...
 
-- 4,000 GP, gain d8 HP and raise one attribute (novice)
-- 6,000 GP, gain d8 HP (professional)
-- 8,000 GP, raise one attribute (expert)
-- 10,000 GP, gain d8 HP (veteran)
-- 12,000 GP, raise one attribute (master)
-- 20,000 GP, gain d8 HP and raise one attribute; fulfill your drive and retire to safety—or keep seeking fortune at your own peril (legend)
+- 4,000 C, gain d8 HP and raise one attribute (novice)
+- 6,000 C, gain d8 HP (professional)
+- 8,000 C, raise one attribute (expert)
+- 10,000 C, gain d8 HP (veteran)
+- 12,000 C, raise one attribute (master)
+- 20,000 C, gain d8 HP and raise one attribute; fulfill your drive and retire to safety—or keep seeking fortune at your own peril (legend)

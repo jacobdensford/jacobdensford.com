@@ -14,7 +14,7 @@ Roll a luck die:
 
 - When the PCs stop to rest in a dangerous location
 - If a PC makes a loud noise in a dungeon
-- After each round of dungeon exploration and wilderness navigation
+- After each round of exploration or travel
 - To see if a trap is triggered
 
 ## Time
@@ -48,7 +48,7 @@ Some tests require more time and effort, and thus require more than one passed t
 
 ## Granular Results
 
-Optionally, instead of tests resulting in a binary pass/fail, the lower the number on a failure, the worse the outcome. The higher the number on a success, the better the outcome. You may even make 4-5 only partial successes.
+Optionally, instead of tests resulting in a binary pass/fail, the lower the number on a failure, the worse the outcome. The higher the number on a success, the better the outcome. You may even make 4-5 only partial success.
 
 ## Rounding Down
 
@@ -60,7 +60,7 @@ Armor should never be increased beyond 3.
 
 ## Non-Protagonist Characters
 
-**Non-protagonist characters** (NPCs) should have a name, a flavorful description, and a drive. They default to having d6 in each ability and d8 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP and reduce their abilities. If they're competent, give them more HP and increase their abilities. If they're good at something specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP. If they're magical, give them a spell.
+**Non-protagonist characters** (NPCs) should have a name, a flavorful description, and a drive. They default to having d6 in each ability and 5 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP and reduce their abilities. If they're competent, give them more HP and increase their abilities. If they're good at something specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP. If they're magical, give them a spell.
 
 ## Longer Dice Ladder
 
@@ -68,7 +68,7 @@ If you have access to wacky dice or a digital dice roller, you may want to add s
 
 ## Custom PCs
 
-PCs may start with any name, any age, d6 in each ability (optionally, lowering one to d4 and raising one to d8), a spell of their choice if their Will is d8, 5 HP, a drive and traits of their choice or making, and either a background of their choice or one of their making—including a name for the background, a skill of their choice, and equipment worth 40 GP. When advancing, gain 5 HP instead of rolling.
+PCs may start with any name, any age, d6 in each ability (optionally, lowering one to d4 and raising one to d8), a spell of their choice if their Will is d8, 5 HP, a drive and traits of their choice or making, and either a background of their choice or one of their making—including a name for the background, a skill of their choice, and equipment worth 40 C. When advancing, gain 5 HP instead of rolling.
 
 ## Converting OSR Material
 
@@ -112,8 +112,8 @@ If you save...
 
 Most OSR-compatible spell lists should work with *Fell* with minimal conversion, such as the [Magic-User Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User_Spells) and [Cleric Spells](https://oldschoolessentials.necroticgnome.com/srd/index.php/Cleric_Spells) from [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page).
 
-If a spell causes harm, follow the damage guidelines above.
+If a spell causes harm or healing, follow the damage guidelines above.
 
 If a spell requires a save, it's a contest.
 
-If the spell uses levels, half the spell's level is added to the DN to cast the spell. This rule only applies when the spell's level is greater than one fourth the caster's Will.
+If a spell uses levels, half the spell's level is added to the DN to cast the spell. This rule only applies when the spell's level is greater than one fourth the caster's Will.
