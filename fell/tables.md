@@ -37,7 +37,7 @@ d20|Drive
 
 ### Tools (1 C)
 
-Air bladder, animal trap, bellows, crowbar, flint & steel, glue, grappling hook, lantern & oil (3 hours), lockpicks, manacles, rope (25 feet), sack, saw, shovel, spikes, torch (1 hour), etc.
+Air bladder, animal trap, bellows, crowbar, flint & steel, glue, grappling hook, lantern & oil (4 hours), lockpicks, manacles, rope (25 feet), sack, saw, shovel, spikes, torch (1 hour), etc.
 
 ### Luxuries (10 C)
 
@@ -77,11 +77,15 @@ Javelin, lance, mace, shortsword, shortbow, etc.
 
 ### Battle Weapons (20 C, d8, bulky)
 
-Battle axe, crossbow, flail, greatsword, longbow, warhammer, etc.
+Battle axe, crossbow, flail, longsword, longbow, warhammer, etc.
+
+### Pure Iron Weapons
+
+Cost double, break if 1 is rolled on their steel die.
 
 ### Crude Armor (20 C, 1 armor, bulky)
 
-Rough helm & shield, brigandine, ceremonial, etc.
+Rough breastplate, brigandine, ceremonial, etc.
 
 ### Great Armor (40 C, 2 armor, bulky)
 

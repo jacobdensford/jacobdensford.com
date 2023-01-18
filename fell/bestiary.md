@@ -6,7 +6,11 @@ link: '/fell'
 
 # Bestiary
 
-Beasts and beings in the Fell are either mortal (M), faërie (F), or nether (N).
+Beasts and beings in the Fell are either mortal (M), faërie (F), or daemon (D).
+
+Attacks against faërie and daemon beings from weapons made of pure iron have advantage.
+
+Knowing a faërie or daemon being's true name counts as leverage.
 
 Unless otherwise noted, HP is assumed to be 5, armor 0, and each ability d6.
 

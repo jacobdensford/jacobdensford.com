@@ -34,6 +34,10 @@ link: '/fell'
 
 ### 1. Foyer
 
+*Describing words and/or phrases in italics.*
+
+- **Each immediately obvious thing in bold** information gained upon closer inspection follows (secret information that might require a roll to obtain in a parenthetical)
+
 ### 2. Ballroom
 
 ### 3. Dining Hall

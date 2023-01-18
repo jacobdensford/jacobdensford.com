@@ -50,7 +50,7 @@ Toxium|Effect
 
 ## Equipment Packs
 
-Rather than tracking each individual item in an equipment pack, when you need an item, haven't already used it, and it would make sense for your pack to contain it, roll a check. If the item is included in the pack by default (PHB 151) or if the item is listed in the Adventuring Gear table (PHB 150) and costs 5 gp or less, the DC is 10. If the item is included in one of the other listed packs or if the item is listed in the Adventuring Gear table and costs 25 gp or less, the DC is 15. If the item is listed in the Adventuring Gear table and costs 50 gp or less, the DC is 20. If the item is listed in the Adventuring Gear table and costs 100 gp or less, the DC is 25. For other items that make sense, consult your DM for the DC.
+Rather than tracking each individual item in an equipment pack, when you need an item, haven't already used it, and it would make sense for your pack to contain it, roll a check. If the item is included in the pack by default (PH, 151) or if the item is listed in the Adventuring Gear table (PH, 150) and costs 5 gp or less, the DC is 10. If the item is included in one of the other listed packs or if the item is listed in the Adventuring Gear table and costs 25 gp or less, the DC is 15. If the item is listed in the Adventuring Gear table and costs 50 gp or less, the DC is 20. If the item is listed in the Adventuring Gear table and costs 100 gp or less, the DC is 25. For other items that make sense, consult your DM for the DC.
 
 ## Expendable Equipment
 
@@ -75,9 +75,9 @@ Inspiration can be handed out at any time at the DM's discretion. However, certa
 
 ## Leveling Up
 
-Rather than tracking experience points, leveling up happens after completing a number of play sessions. One session for 2nd and 3rd levels, two sessions for 4th level, three sessions for 5th through 10th, four sessions for 11th through 16th, and five sessions for 17th through 20th.
+Rather than tracking experience points, leveling up happens after completing a number of play sessions. One session for 2nd and 3rd levels, two sessions for 4th level, three sessions for 5th through 10th, four sessions for 11th through 16th, and five sessions for 17th through 20th. (Key milestones may grant expedited leveling at the DM's discretion.)
 
-When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's multiclass abilities or for gaining a feat. (Other abilities may be improved at the DM's discretion if they are core to the character)
+When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's primary abilities (PH, 45) or for gaining a feat. (Other abilities may be improved at the DM's discretion if they are core to the character.)
 
 ## Luck
 
