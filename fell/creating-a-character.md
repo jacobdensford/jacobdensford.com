@@ -28,7 +28,7 @@ d8|Ability Die
 
 If your Will is d8, roll for one **[spell](/fell/tables/#spells)**.
 
-In addition to the equipment from your background, you start with **three days' rations**, **three torches** (1 hour each), and **3d6 coin** (C).
+In addition to the equipment from your background, you start with a **pack** containing **one days' rations**, **three torches** (1 hour each), and **3d6 coin** (C).
 
 Roll 2d20+10 for your **age**.
 

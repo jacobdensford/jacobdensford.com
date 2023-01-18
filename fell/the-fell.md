@@ -18,11 +18,11 @@ Baron Rotherbourne governs to the west of Castle Fell from his seat in the Rotke
 
 ## The Wealdwood
 
-The Wealdwood is a dark, twisted forest that dominates the Barony of Rotherbourne. It is home to many dangerous creatures that have been known to attack travelers who stray too far from the path. The borders between faërie,  nether, and the mortal realm are thin in here, leading to occasional encounters with magical beings.
+The Wealdwood is a dark, twisted forest that dominates the Barony of Rotherbourne. It is home to many dangerous creatures that have been known to attack travelers who stray too far from the path. The borders between the faërie, daemon, and mortal realms are thin here, leading to occasional encounters with magical beings.
 
 ## Religion
 
-The Church of All-Saints is the official church of the Fell. Chapels to various saints are scattered about the land. In actuality, many in the Fell—especially the peasantry—practice various local religions, centered around faërie-beings or nether-beings. The Church strongly discourages these practices, both through its teachings and through force via its inquisitors.
+The Church of All-Saints is the official church of the Fell. Chapels to various saints are scattered about the land. In actuality, many in the Fell—especially the peasantry—practice various local religions, centered around faërie-beings or daemon-beings. The Church strongly discourages these practices, both through its teachings and through force via its inquisitors.
 
 ## Days
 

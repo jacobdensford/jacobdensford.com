@@ -325,4 +325,8 @@ The Mistguard headed out into the Yondar Steppes, seeking Zalabor's tower. First
 
 <h2 id="part3">Part III: Cataclysm</h2>
 
-### Chapter 19: Assault on Llinaga
+### Episode 19: To Hells with You All
+
+**Endday, the 15th day of Frosting, in the 372nd year of the Alliance (or the 1st Broken Year)**
+
+*The Mistguard seeks to rescue Illgiem from the Hells.*
