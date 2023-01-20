@@ -14,6 +14,14 @@ Knowing a faërie or daemon being's true name counts as leverage.
 
 Unless otherwise noted, HP is assumed to be 5, armor 0, and each ability d6.
 
+## Basilisk
+
+*Giant, gray, eight-legged lizard with crocodile head full of teeth.*
+
+D, 12 HP, 2 A, d10 Weight, d8 Wit, d8 Will, charge (d8, save or prone), tail (d6 blast), stare (save x2 or turned to stone)
+
+Drive: to turn to stone and eat
+
 ## Black Pudding
 
 *Black, pulsating goop that jerks towards movement.*
@@ -37,6 +45,14 @@ Drive: to devour souls
 F, 2 HP, d4 WEIGHT, d4 WIT, d4 WILL, dagger (d4)
 
 Drive: to wreak havoc
+
+## Lich
+
+*Ancient garb, skin stretched tightly over bone–the smell of death is near.*
+
+D, 14 HP, d4 Weight, d8 Wit, d12 Will, dagger (d4), life drain (save or d12 critical harm), d12 spells
+
+Drive: to drain life force.
 
 ## Mime
 

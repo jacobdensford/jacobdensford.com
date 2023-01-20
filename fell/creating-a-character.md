@@ -34,6 +34,8 @@ Roll 2d20+10 for your **age**.
 
 Roll for your **[drive](/fell/tables/#drives)** and your **[traits](/fell/tables/#traits)**.
 
+*Instead of rolling, you may start with any name, any background or a custom background (including a name, a skill, and equipment worth 40 C), 5 HP, d4/d6/d6 or d4/d4/d8 in your abilities, a spell of your choice if your Will is d8, additional equipment worth 20 C, any age, and any drive and traits.*
+
 d20|Background
 :--|---
 1| **Alchemist:** *lore*, firebomb (d6 blast), bottle, fire oil
