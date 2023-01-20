@@ -6,69 +6,61 @@ link: '/fell'
 
 # Running the Game
 
-## Luck
-
-When the way in which the world reacts to the PCs is uncertain, roll a **luck die**—usually a d6. Higher is better for the PCs. Lower is worse.
-
-Roll a luck die:
-
-- When the PCs stop to rest in a dangerous location
-- If a PC makes a loud noise in a dungeon
-- After each round of exploration or travel
-- To see if a trap is triggered
-
-## Time
+## Time Die
 
 One way to track time while traveling, exploring, or during an encounter is to use a d6. Start the d6 with the "one" side facing up. After each round, flip the die to the next highest side and check for encounters. After you've cycled through the whole die, check for rest, food, light sources, etc. Then begin again.
 
-During an encounter, one full die represents a minute.
+-During an encounter, one full die represents a minute.
+-While exploring, one full die represents an hour.
+-When traveling, one full die represents six hours.
 
-While exploring, one full die represents an hour.
+## The Basic Procedure
 
-When traveling, one full die represents six hours.
+You have probably been using a set of rules (more accurately a procedure) that you never read in any rulebook. And not just a little. It is probably the bread-and-butter procedure for your gaming group, even if you haven’t understood it as such. At first blush, the procedure hides itself as “conversation.” But I suspect that is just evidence for how powerful, how transformative and how natural this procedure is. I will quit stalling for now, but expect me to bloviate at length on what this procedure means; here is what I call the “Basic Procedure”:
 
-## Difficulty
+- Step 1. The referee describes the situation, what the player-characters see, hear, smell, taste or feel.
+- Step 2. The players ask clarifying questions about the situation, if they so desire.
+- Step 3. The referee answers any such questions that are immediately observable by the player-characters. If ascertaining the answer would require player-character action, the referee informs the players what they must do to obtain the answer, and resolves such actions if the players wish to do so. Upon the resolution of such actions, the referee answers the question and gives any other pertinent information.
+- Step 4. Based on the information at hand, the players state what actions their player-characters take.
+- Step 5. The referee and players resolve all such actions. If the situation changes (which it almost certainly will), repeat these steps.
 
-When the standard difficulty number of 4 doesn't suffice, which it usually should, consult the difficulty table below for guidance.
+*From [The Basic Procedure of the OSR](https://www.prismaticwasteland.com/blog/the-universal-procedure-of-the-osr)*
 
-DN|Difficulty
-:--|--:
-0|Very easy
-2|Easy
-**4** | **Normal**
-6|Hard
-8|Very hard
-10|Extremely hard
-12|Nearly impossible
+## Landmark, Hidden, Secret
 
+//WORDS//
 
-## Extended Tests
+*From [Landmark, Hidden, Secret](https://diyanddragons.blogspot.com/2019/10/landmark-hidden-secret.html)*
 
-Some tests require more time and effort, and thus require more than one passed test to accomplish. Tell how many the **extended test** will require, then PCs roll as normal. They may repeat the roll to add additional passes once they've dealt with any trouble.
+## Information, Choice, Impact
 
-## Granular Results
+//WORDS//
 
-Optionally, instead of tests resulting in a binary pass/fail, the lower the number on a failure, the worse the outcome. The higher the number on a success, the better the outcome. You may even make 4-5 only partial success.
+*From [The ICI Doctrine: Information, Choice, Impact](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html)*
 
-## Rounding Down
+## Hex Crawls
 
-Unless otherwise specified or it would drop a number below one, always round down.
+//WORDS//
 
-## Armor
+*From [Hexcrawl Checklist: Part One](https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-one) and [Hexcrawl Checklist: Part Two](https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-two)*
 
-Armor should never be increased beyond 3.
+## Dungeons
 
-## Non-Protagonist Characters
+//WORDS//
 
-**Non-protagonist characters** (NPCs) should have a name, a flavorful description, and a drive. They default to having d6 in each ability and 5 HP. If an NPC is meant to be exceptionally easy to overcome, lower their HP and reduce their abilities. If they're competent, give them more HP and increase their abilities. If they're good at something specific, give them a skill. If they're tough, give them armor. If they're quick, give them more HP. If they're magical, give them a spell.
+*From [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html)*
 
-## Longer Dice Ladder
+## Post-Session
 
-If you have access to wacky dice or a digital dice roller, you may want to add some extra rungs to the dice ladder. For example, you could use the extra dice from [DCC](https://goodman-games.com/dungeon-crawl-classics-rpg/). Adding more dice makes PC progression slower but allows for more granularity and customization. But the lowest die should never go below d4 since the default DN is 4.
+The reactive potential of tools is also why my most important prep occurs immediately after running a session. While I’m writing out my recap of events (something I’m indulgently excessive about), I have a set of questions to ask myself:
 
-## Custom PCs
+- Did the players encounter any interesting NPCs that it would be fun to add to my Recurring Characters table?
+- Did the party wrong anyone who might hold a grudge against them? What form might revenge take? (Put this on the consequences table).
+- Does anyone feel that they owe the party a favor? What might they do to settle the debt? (Put this on the consequences table).
+- Review all the table entries used, and restock anything that needs it.
+- What parts of the session were rough, and what tools or techniques would help them work better in future?
 
-PCs may start with any name, any age, d6 in each ability (optionally, lowering one to d4 and raising one to d8), a spell of their choice if their Will is d8, 5 HP, a drive and traits of their choice or making, and either a background of their choice or one of their making—including a name for the background, a skill of their choice, and equipment worth 40 C. When advancing, gain 5 HP instead of rolling.
+*from [Prep Tools, Not Adventures](https://www.paperspencils.com/prep-tools-not-adventures/)*
 
 ## Converting OSR Material
 
@@ -116,4 +108,4 @@ If a spell causes harm or healing, follow the damage guidelines above.
 
 If a spell requires a save, it's a contest.
 
-If a spell uses levels, half the spell's level is added to the DN to cast the spell. This rule only applies when the spell's level is greater than one fourth the caster's Will.
+If a spell uses levels, half the spell's level is added to the DN to cast the spell. This rule only applies when the spell's level is greater than half the caster's Will.

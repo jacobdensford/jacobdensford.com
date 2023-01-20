@@ -6,7 +6,7 @@ link: '/fell'
 
 # Classes
 
-Instead of a background, you may gain a **class**. If you do so, whenever the rules refer to your background, instead use your class. Roll d4 or choose a **class**:
+Instead of a background, you may gain a **class**. If you do so, whenever the rules refer to your background, instead use your class. You're abilities must be such that they can be modified by the class. Roll d4 or choose a **class**:
 
 ## 1. Beast Hunter
 
@@ -24,6 +24,17 @@ Gain one of the following **special features** when you become a professional, v
 - //FEATURE 2//
 - //FEATURE 3//
 - //FEATURE 4//
+
+Gain a class **drive**:
+
+I seek wealth and trophies...
+
+1. //DRIVE//
+2. //DRIVE//
+3. //DRIVE//
+4. //DRIVE//
+5. //DRIVE//
+6. //DRIVE//
 
 **Collecting a bulky trophy from a slain beast counts as 400 coin towards your hoard.**
 
@@ -46,6 +57,17 @@ Gain one of the following **special features** when you become a professional, v
 - //FEATURE 3//
 - //FEATURE 4//
 
+Gain a class **drive**:
+
+I seek wealth and //THING//...
+
+1. //DRIVE//
+2. //DRIVE//
+3. //DRIVE//
+4. //DRIVE//
+5. //DRIVE//
+6. //DRIVE//
+
 **//ADVANCEMENT//.**
 
 **You cannot cast spells while touching or carrying anything made of iron.**
@@ -67,7 +89,18 @@ Gain one of the following **special features** when you become a professional, v
 - //FEATURE 3//
 - //FEATURE 4//
 
-**//ADVANCEMENT//.**
+Gain a class **drive**:
+
+I seek wealth and sacrificial blood...
+
+1. //DRIVE//
+2. //DRIVE//
+3. //DRIVE//
+4. //DRIVE//
+5. //DRIVE//
+6. //DRIVE//
+
+**Collecting a bulky container of sacrificial blood from a willing or unwilling being counts as 400 coin towards your hoard.**
 
 **You cannot use bladed weapons or draw blood except in rituals.**
 
@@ -87,6 +120,15 @@ Gain one of the following **special features** when you become a professional, v
 - //FEATURE 2//
 - //FEATURE 3//
 - //FEATURE 4//
+
+I seek wealth and //THING//...
+
+1. //DRIVE//
+2. //DRIVE//
+3. //DRIVE//
+4. //DRIVE//
+5. //DRIVE//
+6. //DRIVE//
 
 **//ADVANCEMENT//.**
 
@@ -109,6 +151,15 @@ Gain one of the following **special features** when you become a professional, v
 - //FEATURE 3//
 - //FEATURE 4//
 
+I seek wealth and //THING//...
+
+1. //DRIVE//
+2. //DRIVE//
+3. //DRIVE//
+4. //DRIVE//
+5. //DRIVE//
+6. //DRIVE//
+
 **//ADVANCEMENT//.**
 
 **//LIMITATION//.**
@@ -129,6 +180,15 @@ Gain one of the following **special features** when you become a professional, v
 - //FEATURE 2//
 - //FEATURE 3//
 - //FEATURE 4//
+
+I seek wealth and //THING//...
+
+1. //DRIVE//
+2. //DRIVE//
+3. //DRIVE//
+4. //DRIVE//
+5. //DRIVE//
+6. //DRIVE//
 
 **//ADVANCEMENT//.**
 

@@ -61,7 +61,7 @@ Good meal (1 C), pint of ale (1 C), armor repair (10 C/armor), silvered weapon (
 
 ### Hirelings (cost per day)
 
-Untrained (1 C), novice (5 C), professional (10 C), expert (20 C), veteran (40 C), master (80 C)
+Untrained (5 C), novice (15 C), professional (30 C), expert (60 C), veteran (120 C), master (240 C)
 
 ### Crude Weapons (1 C, d4, bulky)
 
