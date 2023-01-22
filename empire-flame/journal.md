@@ -330,3 +330,9 @@ The Mistguard headed out into the Yondar Steppes, seeking Zalabor's tower. First
 **Endday, the 15th day of Frosting, in the 372nd year of the Alliance (or the 1st Broken Year)**
 
 *The Mistguard seeks to rescue Illgiem from the Hells.*
+
+### Episode 20: Madness and Temptation
+
+**???, the ?? day of ??, in the ??? year of the Alliance (or the ? Broken Year)**
+
+*The Mistguard follows Nishanesti's star through the Hells, seeking to retrieve the gem of creation and defeat the Four Riders.*

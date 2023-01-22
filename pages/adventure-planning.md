@@ -248,6 +248,11 @@ More to come.
 
 - [Ex Libris | Mork Borg, Death in Space, more coming soon](https://exlibrisrpg.com/)
 
+### Music
+
+- [Tabletop Audio](https://tabletopaudio.com/)
+- [Punk Rock Jenny's Spotify Fantasy Playlists](https://open.spotify.com/user/simplyjam/playlists)
+
 ### Virtual Tabletops
 
 - [One More Multiverse - Virtual Tabletop](https://multiverse.com/)

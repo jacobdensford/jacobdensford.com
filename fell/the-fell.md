@@ -99,7 +99,7 @@ There are four watches in a day. Each watch lasts six hours. PCs can travel for 
 
 ### Forced March
 
-PCs can skip rest hours or march for additional watches, but doing so gives them disadvantage. These disadvantages stack. Once Weight would be reduced below d4, no more travel can be forced. Removing these disadvantages requires a full night's rest for each level of disadvantage.
+PCs can skip rest hours or march for additional watches, but doing so gives them a level of fatigue. This fatigue stacks. Removing fatigue requires a full night's rest for each level of fatigue.
 
 ### Rates of Travel
 
@@ -132,12 +132,12 @@ Continue from 5 when going beyond 1; Continue from 10 when going beyond 20.
 2. Terrible
 3. Terrible
 4. Terrible
-**5. Bad**
+5. **Bad**
 6. Bad
 7. Bad
 8. Bad
 9. Bad
-**10. Fair**
+10. **Fair**
 11. Fair
 12. Fair
 13. Fair
