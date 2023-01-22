@@ -19,10 +19,10 @@ One way to track time while traveling, exploring, or during an encounter is to u
 > You have probably been using a set of rules (more accurately a procedure) that you never read in any rulebook. And not just a little. It is probably the bread-and-butter procedure for your gaming group, even if you haven’t understood it as such. At first blush, the procedure hides itself as “conversation.” But I suspect that is just evidence for how powerful, how transformative and how natural this procedure is. I will quit stalling for now, but expect me to bloviate at length on what this procedure means; here is what I call the “Basic Procedure”:
 
 > - Step 1. The referee describes the situation, what the player-characters see, hear, smell, taste or feel.
-- Step 2. The players ask clarifying questions about the situation, if they so desire.
-- Step 3. The referee answers any such questions that are immediately observable by the player-characters. If ascertaining the answer would require player-character action, the referee informs the players what they must do to obtain the answer, and resolves such actions if the players wish to do so. Upon the resolution of such actions, the referee answers the question and gives any other pertinent information.
-- Step 4. Based on the information at hand, the players state what actions their player-characters take.
-- Step 5. The referee and players resolve all such actions. If the situation changes (which it almost certainly will), repeat these steps.
+> - Step 2. The players ask clarifying questions about the situation, if they so desire.
+> - Step 3. The referee answers any such questions that are immediately observable by the player-characters. If ascertaining the answer would require player-character action, the referee informs the players what they must do to obtain the answer, and resolves such actions if the players wish to do so. Upon the resolution of such actions, the referee answers the question and gives any other pertinent information.
+> - Step 4. Based on the information at hand, the players state what actions their player-characters take.
+> - Step 5. The referee and players resolve all such actions. If the situation changes (which it almost certainly will), repeat these steps.
 
 *From [The Basic Procedure of the OSR](https://www.prismaticwasteland.com/blog/the-universal-procedure-of-the-osr)*
 
@@ -55,10 +55,10 @@ One way to track time while traveling, exploring, or during an encounter is to u
 > The reactive potential of tools is also why my most important prep occurs immediately after running a session. While I’m writing out my recap of events (something I’m indulgently excessive about), I have a set of questions to ask myself:
 
 > - Did the players encounter any interesting NPCs that it would be fun to add to my Recurring Characters table?
-- Did the party wrong anyone who might hold a grudge against them? What form might revenge take? (Put this on the consequences table).
-- Does anyone feel that they owe the party a favor? What might they do to settle the debt? (Put this on the consequences table).
-- Review all the table entries used, and restock anything that needs it.
-- What parts of the session were rough, and what tools or techniques would help them work better in future?
+> - Did the party wrong anyone who might hold a grudge against them? What form might revenge take? (Put this on the consequences table).
+> - Does anyone feel that they owe the party a favor? What might they do to settle the debt? (Put this on the consequences table).
+> - Review all the table entries used, and restock anything that needs it.
+> - What parts of the session were rough, and what tools or techniques would help them work better in future?
 
 *from [Prep Tools, Not Adventures](https://www.paperspencils.com/prep-tools-not-adventures/)*
 
