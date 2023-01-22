@@ -12,7 +12,19 @@ date: 2023-01-03
 
 # Adventure Planning
 
-## Epic
+<nav>
+
+  <ul>
+    <li><a href="#epic">Epic Adventures</a></li>
+    <li><a href="#osr">Old-School Adventures</a></li>
+    <li><a href="#tools">Tools and Resources</a></li>
+  </ul>
+
+</nav>
+
+<hr/>
+
+<h2 id="epic">Epic Adventures</h2>
 
 This style of campaign and adventure planning is specifically for an epic fantasy style of game, where the player characters are the heroes and the center of an ongoing narrative. It helps facilitate a story game style of play. There are many ways to plan and run this style of game. This one is mine.
 
@@ -129,9 +141,9 @@ If you have time, come up with a handout or two. Blah blah blah.
 - Establish in-between session expectations.
 - Schedule next session.
 
-## Old School
+<h2 id="osr">Old-School Adventures</h2>
 
-This style of campaign and adventure planning is specifically for an old school style of game, where the player characters start as simple folk who are easy to kill. There are many ways to plan and run this style of game. This one is mine.
+This style of campaign and adventure planning is specifically for an old-school style of game, where the player characters start as simple folk who are easy to kill. There are many ways to plan and run this style of game. This one is mine.
 
 ### Before Session One
 
@@ -202,7 +214,7 @@ Unspent luck coins expire after the following session.
 
 More to come.
 
-## Tools and Resources
+<h2 id="tools">Tools and Resources</h2>
 
 ### Map Making
 
