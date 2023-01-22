@@ -10,8 +10,6 @@ layout: main.njk
 date: 2023-01-03
 ---
 
-# Adventure Planning
-
 <nav>
 
   <ul>
@@ -23,6 +21,8 @@ date: 2023-01-03
 </nav>
 
 <hr/>
+
+# Adventure Planning
 
 <h2 id="epic">Epic Adventures</h2>
 
