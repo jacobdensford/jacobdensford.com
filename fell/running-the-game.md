@@ -28,27 +28,53 @@ One way to track time while traveling, exploring, or during an encounter is to u
 
 ## Landmark, Hidden, Secret
 
-//WORDS//
+> **Landmark information** is automatic and free. Players hear landmark information the first time without asking, and if they ask, they can be reminded of it as freely as they heard it at first. Learning landmark information doesn't take up any fictional time and doesn't pose any risks.
+
+> ...
+
+> **Hidden information** isn't automatic - players have to ask to learn it. And it often isn't free - there is often some fictional cost that must be paid to learn hidden information. However, unlike secret information, there is no chance of failure. If the players ask the question and pay the cost, they will learn the hidden information.
+
+> ...
+
+> **Secret information** has no guarantees at all. It is the opposite of automatic, and it's always expensive. It's not just that players have to ask for secret information, as they do with hidden; there is also a chance the judge will continue to withhold the information, unlike any previous type. To learn secret information, players must roll the dice and win. That extra risk, not just of injury but of failure, is what makes secret information more costly than hidden.
 
 *From [Landmark, Hidden, Secret](https://diyanddragons.blogspot.com/2019/10/landmark-hidden-secret.html)*
 
 ## Information, Choice, Impact
 
-//WORDS//
+> **Information** ... Players cannot make a proper choice unless they have enough information! ... Asking for more information should be rewarded! If they ask smart questions I give them great answers. ...
+
+> **Choice** ... No easy decisions. ... there have to be multiple actions the players can choose between, and deciding between them shouldn't be easy. ...
+
+> **Impact** ... Everything you do matters. ... when your players have made a choice, things should happen so that they look back and think "huh, we did that!". ... This is the payoff for everything before this point, and without it your game is going to feel flat.
 
 *From [The ICI Doctrine: Information, Choice, Impact](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html)*
 
 ## Hex Crawls
 
-//WORDS//
+**Hexcrawling Rules:** Variable Movement, Time & Risk, Travel Actions, Getting Lost, Sleep & Starvation
 
-*From [Hexcrawl Checklist: Part One](https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-one) and [Hexcrawl Checklist: Part Two](https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-two)*
+**Hex Terrain:** Draw some mountains (or hills) and maybe a coastline (or lakes), Draw some rivers, Draw some forests, Draw some badlands, deserts or wetlands, Name your regions, Draw some settlements, Draw some roads
+
+**Hex Connections:** Each hex is connected to six adjacent hexes, The easiest way to give players information about the connecting hexes is just give them the map, A map showing the adjacent hexes isn’t the only way to give players information about adjacent hexes
+
+**Key Hexes:** Landmark information is automatic and free, Hidden information is earned by asking for it and accruing some cost, Secret information is never guaranteed but always costly
+
+**Random Encounter Tables:** Unique random encounter tables allow you to give personality to each region, The encounters on the table should not simply be mindless fights, Random encounters are best suited to games that emphasize player choice and meaningful consequences for their choices, Context-sensitive encounter tables can also be added to make the environment even more dynamic, A simpler way to mix up encounter tables is to include two separate tables for each region to represent day and night encounters
+
+**Calendars & Forecasts:** Adventures occur in a certain space and time; Changes in the seasons and weather also provide useful information for players to make decisions, along with providing a sense of realism to your setting; Holidays are also a fun way to embed your setting into the temporal dimension; The classic method for incorporating seasons and holidays is to keep strict time records of the fictional time in your setting
+
+**Factions:** The hexes represent land, controlling land is an avenue power, and there are definitely more than one group in your setting that want that power; Factions don’t usually work together
+
+**History & Rumors:** The past is just as important as the present, you likely have already been developing ideas for your world’s history, You can also embed history in rumors
+
+*Summarized from [Hexcrawl Checklist: Part One](https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-one) and [Hexcrawl Checklist: Part Two](https://www.prismaticwasteland.com/blog/hexcrawl-checklist-part-two)*
 
 ## Dungeons
 
-//WORDS//
+**Dungeon Checklist:** Something to Steal, Something to be Killed, Something to Kill You, Different Paths, Someone to Talk To, Something to Experiment With, Something the Players Probably Won't Find, 
 
-*From [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html)*
+*Summarized from [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html)*
 
 ## Post-Session
 
