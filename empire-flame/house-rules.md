@@ -62,7 +62,7 @@ PC's can only help, granting a fellow PC advantage on a skill check, if they pos
 
 ## Inspiration
 
-Inspiration can be spent to turn disadvantage into advantage or to reroll an attack role, save, or ability check.
+Inspiration can be spent to turn disadvantage or a regular role into advantage, or to reroll an attack role, save, or ability check (including extra dice from advantage or disadvantage).
 
 Inspiration can be handed out at any time at the DM's discretion. However, certain situations always grant inspiration:
 
@@ -75,7 +75,7 @@ Inspiration can be handed out at any time at the DM's discretion. However, certa
 
 ## Leveling Up
 
-Rather than tracking experience points, leveling up happens after completing a number of play sessions. One session for 2nd and 3rd levels, two sessions for 4th level, three sessions for 5th through 10th, four sessions for 11th through 16th, and five sessions for 17th through 20th. (Key milestones may grant expedited leveling at the DM's discretion.)
+Rather than tracking experience points, leveling up happens after completing a number of play sessions. One session for 2nd and 3rd levels, two sessions for 4th level, three sessions for 5th through 10th, four sessions for 11th through 16th, and five sessions for 17th through 20th. (Alternatevly, key milestones may be used instead or in addition, at the DM's discretion.)
 
 When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's primary abilities (PH, 45) or for gaining a feat. (Other abilities may be improved at the DM's discretion if they are core to the character.)
 
@@ -120,7 +120,7 @@ If a PC has both a skill and a tool proficiency that apply to a check, they may 
 
 ## Saving Throws
 
-If an effect grants a bonus to AC, be it numerical or advantage, that same bonus is applied to Dexterity saving throws.
+If an effect grants a bonus to AC, be it numerical or advantage, that same bonus is applied to Dexterity saving throws. In addition, if an effect grants advantage on ability checks, it also grants advantage on saving throws for the same ability.
 
 ## Skill and Ability Checks
 

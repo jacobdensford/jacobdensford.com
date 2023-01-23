@@ -30,7 +30,7 @@ This style of campaign and adventure planning is specifically for an epic fantas
 
 ### Before Session Zero
 
-Come up with a few ideas about the campaign, a broad concept of the world, a potential overarching theme, and a hook. But don't plan too much before session zero. Let the heroes your players create inform the world and where things could go. After session zero, continue with the following steps.
+Come up with a few ideas about the campaign, a broad concept of the world, a potential overarching theme, and a hook. But don't plan too much before session zero. Let the heroes your players create inform the world and where things could go.
 
 ### Session Zero
 
@@ -232,6 +232,7 @@ More to come.
   - [Fantastic Maps - Tips and Tricks](http://www.fantasticmaps.com/category/tips-and-tricks/)
   - [Dungeondraft](https://dungeondraft.net/)
   - [mkhexgrid | A fully-configurable hex grid generator](https://www.nomic.net/~uckelman/mkhexgrid/)
+  - [Hex Grid Generator](https://hexgridgenerator.github.io/)
 
 ### World Building
 
