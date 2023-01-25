@@ -12,18 +12,18 @@ Roll for a **background** and gain the associated **skill** and **[equipment](/f
 
 Roll d8 to determine your starting **hit protection** (HP), a representation of your ability to avoid critical harm.
 
-You have three **abilities**:
+You have three **attributes**:
 
 - **Weight:** constitution, grit, strength
 - **Wit:** aim, cunning, reflexes
 - **Will:** leadership, persuasiveness, magical potential
 
-Roll d8 for each **ability** in order to assign dice.
+Roll d8 for each **attribute** in order to assign dice.
 
-d8|Ability Die
+d8|Attribute Die
 :--|--:
-1-4|d4
-5-6|d6
+1-2|d4
+3-6|d6
 7-8|d8
 
 If your Will is d8, roll for one **[spell](/fell/tables/#spells)**.
@@ -32,9 +32,17 @@ In addition to the equipment from your background, you start with a **pack** con
 
 Roll 2d20+10 for your **age**.
 
+Roll for your **alignment**.
+
+d8|Alignment
+:--|--:
+1-2|Chaotic
+3-6|Neutral
+7-8|Lawful
+
 Roll for your **[drive](/fell/tables/#drives)** and your **[traits](/fell/tables/#traits)**.
 
-*Instead of rolling, you may start with any name, any background or a custom background (including a name, a skill, and equipment worth 40 C), 5 HP, d4/d6/d6 or d4/d4/d8 in your abilities, a spell of your choice if your Will is d8, additional equipment worth 20 C, any age, and any drive and traits.*
+*Instead of rolling, you may start with any name, any background or a custom background (including a name, a skill, and equipment worth 40 C), 5 HP, d6 in each attributes (optionally lowering one to d4 to raise one to d6), a spell of your choice if your Will is d8, additional equipment worth 20 C, any age, a chosen alignment, and any drive and traits.*
 
 d20|Background
 :--|---

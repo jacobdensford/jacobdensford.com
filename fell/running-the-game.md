@@ -30,11 +30,7 @@ One way to track time while traveling, exploring, or during an encounter is to u
 
 > **Landmark information** is automatic and free. Players hear landmark information the first time without asking, and if they ask, they can be reminded of it as freely as they heard it at first. Learning landmark information doesn't take up any fictional time and doesn't pose any risks.
 
-> ...
-
 > **Hidden information** isn't automatic - players have to ask to learn it. And it often isn't free - there is often some fictional cost that must be paid to learn hidden information. However, unlike secret information, there is no chance of failure. If the players ask the question and pay the cost, they will learn the hidden information.
-
-> ...
 
 > **Secret information** has no guarantees at all. It is the opposite of automatic, and it's always expensive. It's not just that players have to ask for secret information, as they do with hidden; there is also a chance the judge will continue to withhold the information, unlike any previous type. To learn secret information, players must roll the dice and win. That extra risk, not just of injury but of failure, is what makes secret information more costly than hidden.
 
@@ -42,9 +38,9 @@ One way to track time while traveling, exploring, or during an encounter is to u
 
 ## Information, Choice, Impact
 
-> **Information** ... Players cannot make a proper choice unless they have enough information! ... Asking for more information should be rewarded! If they ask smart questions I give them great answers. ...
+> **Information** ... Players cannot make a proper choice unless they have enough information! ... Asking for more information should be rewarded! If they ask smart questions I give them great answers.
 
-> **Choice** ... No easy decisions. ... there have to be multiple actions the players can choose between, and deciding between them shouldn't be easy. ...
+> **Choice** ... No easy decisions. ... there have to be multiple actions the players can choose between, and deciding between them shouldn't be easy.
 
 > **Impact** ... Everything you do matters. ... when your players have made a choice, things should happen so that they look back and think "huh, we did that!". ... This is the payoff for everything before this point, and without it your game is going to feel flat.
 
@@ -72,7 +68,7 @@ One way to track time while traveling, exploring, or during an encounter is to u
 
 ## Dungeons
 
-**Dungeon Checklist:** Something to Steal, Something to be Killed, Something to Kill You, Different Paths, Someone to Talk To, Something to Experiment With, Something the Players Probably Won't Find, 
+**Dungeon Checklist:** Something to Steal, Something to be Killed, Something to Kill You, Different Paths, Someone to Talk To, Something to Experiment With, Something the Players Probably Won't Find,
 
 *Summarized from [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html)*
 
@@ -90,9 +86,9 @@ One way to track time while traveling, exploring, or during an encounter is to u
 
 ## Converting OSR Material
 
-### Abilities
+### Attributes
 
-Each of the three abilities in *Fell* roughly corresponds to two OSR abilities.
+Each of the three attributes in *Fell* roughly corresponds to two OSR abilities.
 
 Fell|OSR
 :--|--:
@@ -100,11 +96,17 @@ Weight|Strength, Constitution
 Wit|Intelligence, Dexterity
 Will|Wisdom, Charisma
 
-### Hit Dice
+### Hit Dice, Ability Dice, Hit Points/Protection, and Armor
+
+For AD, give them the die that is one step up from the one closest to their number of HD rounded up.
+
+Give beasts and beings at least 1 HP per HD and up to twice their highest AD.
+
+Depending on how good they are at shrugging off harm, give them some armor--up to one third their highest AD rounded down, but never more than 3.
 
 Use the table below for guidance.
 
-OSR HD|Fell Abilities, HP, and Armor
+OSR HD|Fell attributes, HP, and Armor
 :--|--:
 1-2|d4, 1-8HP, 0-1
 3-4|d6, 3-12HP, 0-1
@@ -118,13 +120,13 @@ Typically, use the damage dice as the steel dice. If there are multiple dice, ra
 
 ### Saving Throws
 
-Saving throws convert to tests with the relevant ability. If the effect being saved against comes from an NPC, it's a contest.
+Saving throws convert to tests with the relevant attribute. If the effect being saved against comes from a PC or an NPC, it's a contest.
 
 If you save...
 
-- by powering through, use Weight
-- by quick reflexes or clever thinking, use Wit
-- by force of will, use Will
+- by powering through (save vs poison/death, paralysis/petrifaction), use Weight
+- by quick reflexes or clever thinking (save vs wands, breath), use Wit
+- by force of will (save vs spells/rods/staves), use Will
 
 ### Alternative Spell Lists
 
