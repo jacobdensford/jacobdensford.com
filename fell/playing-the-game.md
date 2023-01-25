@@ -10,13 +10,13 @@ link: '/fell'
 
 Most of the time, you simply say what you do and find out what happens. But whenever you attempt a **task** where the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
 
-Collect dice: one from your relevant ability and an applicable steel, skill, or spell die if you have one.
+Collect dice: one from your relevant attribute and an applicable steel, skill, or spell die if you have one.
 
 Roll, comparing your highest single die result to the **difficulty number** (DN), which is usually **4**. If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble. The lower the number on a failure, the worse the trouble. The higher the number on a success, the better the outcome.
 
 ## Extended Tests
 
-Some tests require more time and effort, and thus require more than one passed test to accomplish. Learn how many the **extended test** will require, then collect dice and roll as normal. You may repeat the roll to add additional passes once you've dealt with any trouble.
+Some risky tasks require more time and effort, and thus require more than one passed test to accomplish. Learn how many the **extended test** will require, then collect dice and roll as normal. You may repeat the roll to add additional passes once you've dealt with any trouble.
 
 ## Help
 
@@ -141,7 +141,7 @@ Roll|Morale
 
 ## Deprivation and Fatigue
 
-When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain HP or restore abilities.
+When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain HP or restore attributes.
 
 When you are deprived for longer than a day, you become **fatigued** and must make all tests with disadvantage. Each additional day you are deprived makes the disadvantage worse.
 
@@ -149,17 +149,17 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 ## Harm and Death
 
-**Harm** subtracts from HP. Once out of HP, harm becomes **critical harm** and lowers abilities.
+**Harm** subtracts from HP. Once out of HP, harm becomes **critical harm** and lowers attributes.
 
-When you take critical harm, roll a test with that ability. The difficulty number is equal to the amount of critical harm taken. If you fail, lower your ability one step—you’re taken out of the fight and will die without treatment.
+When you take critical harm, roll a test with that attribute. The difficulty number is equal to the amount of critical harm taken. If you fail, lower your attribute one step—you’re taken out of the fight and will die without treatment.
 
-When an ability would be lowered below d4 from critical harm, you are **dead**.
+When an attribute would be lowered below d4 from critical harm, you are **dead**.
 
 ## Healing and Rest
 
-**Healing** recovers HP and restores abilities.
+**Healing** recovers HP and restores attributes.
 
-Whenever you take several minutes to **rest**, recover all your HP. After a full week of rest and appropriate care, raise a lowered ability by one step.
+Whenever you take several minutes to **rest**, recover all your HP. After a full week of rest and appropriate care, raise a lowered attribute by one step.
 
 ## Advancement
 

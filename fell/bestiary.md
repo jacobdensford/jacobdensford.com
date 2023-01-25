@@ -6,13 +6,21 @@ link: '/fell'
 
 # Bestiary
 
+**Beasts and beings** have a name, a description, and a drive. Unless otherwise noted, they have 5 HP, 0 A, and d6 attributes.
+If they are…
+
+- meant to be exceptionally easy to overcome, their HP and attributes are lower
+- competent, their HP and attributes are higher
+- good at something specific, they have a skill
+- tough, they have armor
+- quick, they have more HP
+- magical, they have spells
+
 Beasts and beings in the Fell are either mortal (M), faërie (F), or daemon (D).
 
 Attacks against faërie and daemon beings from weapons made of pure iron have advantage.
 
 Knowing a faërie or daemon being's true name counts as leverage.
-
-Unless otherwise noted, HP is assumed to be 5, armor 0, and each ability d6.
 
 ## Basilisk
 
