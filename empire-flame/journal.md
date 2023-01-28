@@ -283,7 +283,7 @@ On his way back to the Thirsty Monk, he was attacked by the Cult of the Red Dawn
 
 The Mistguard headed out into the Yondar Steppes, seeking Zalabor's tower. First, they had to cross the Void Lake. BLABLABLA. In the steppes, they were attacked by a pair of chimera. Emerging victorious, they continued on until they found the wizard's tower. It was jutting part of the way up out of the ground, and the only way in was the top. They scaled the tower and entered through its balcony. Once inside, they avoided traps and ventured down, through the tower and into the dungeons.
 
-### Chapter 12:
+### Chapter 12: Untitled
 
 **Minalday, the 29th of Falling, in the 371st year of the Alliance**
 
@@ -336,3 +336,9 @@ The Mistguard headed out into the Yondar Steppes, seeking Zalabor's tower. First
 **???, the ?? day of ??, in the ??? year of the Alliance (or the ? Broken Year)**
 
 *The Mistguard follows Nishanesti's star through the Hells, seeking to retrieve the gem of creation and defeat the Four Riders.*
+
+### Episode 21: If You Wish Upon A Moon
+
+**???, the ?? day of ??, in the ??? year of the Alliance (or the ? Broken Year)**
+
+*The Mistguard must fight their way through the four riders in order to reclaim the gem of creation and save the world.*

@@ -78,7 +78,7 @@ Edric Almson was the king of Endoran.
 
 ### Elyn Richye
 
-Elyn was a antique merchant in the town of Mistcrown. She was originally from Yondar.
+Elyn was an antique merchant in the town of Mistcrown. She was originally from Yondar.
 
 ### Ewis Aelstard
 

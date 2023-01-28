@@ -42,7 +42,7 @@ d8|Alignment
 
 Roll for your **[drive](/fell/tables/#drives)** and your **[traits](/fell/tables/#traits)**.
 
-*Instead of rolling, you may start with any name, any background or a custom background (including a name, a skill, and equipment worth 40 C), 5 HP, d6 in each attributes (optionally lowering one to d4 to raise one to d6), a spell of your choice if your Will is d8, additional equipment worth 20 C, any age, a chosen alignment, and any drive and traits.*
+*Instead of rolling, you may start with any name, any background or a custom background (including a name, a skill, and equipment worth 40 C), 5 HP, d6 in each attributes (optionally lowering one to d4 to raise one to d8), a spell of your choice if your Will is d8, additional equipment worth 20 C, any age, a chosen alignment, and any drive and traits.*
 
 d20|Background
 :--|---

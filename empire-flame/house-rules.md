@@ -7,6 +7,10 @@ image: url("/images/efimage.png")
 
 # House Rules
 
+## Bonus Actions
+
+Usually, any small action that doesn't require a roll may be performed for free during an encounter. To do more, you may use your bonus action.
+
 ## Crafting
 
 ### Crafting Magic Items
@@ -17,7 +21,7 @@ Spend 25gp and eight hours per day to create 25 arcanium. Each day's gold requir
 
 To craft poisons, you must possess and be proficient with a poisoner's kit. Spend 25gp and eight hours per day to create 25 toxium. Each day's gold requirement can be replaced with a successful DC 15 nature check. Toxium can be used during a short or long rest to create the desired poison whose gold value matches the toxium spent.
 
-To craft custom poisons, add up the total amount of toxium for a poison you wish to craft from the table below. Poisons are assumed to be applied via injury, be resisted with a DC 5 CON save, have conditions last for 1 round, deal no damage, and deal half damage on a successful save, unless other options are selected. Further options can be requested at the DM's discretion. Such additional options will likely require challenges beyond a simple gold value to craft.
+To craft custom poisons, add up the total amount of toxium for a poison you wish to craft from the table below. Poisons are assumed to be applied via injury, be resisted with a DC 5 CON save, have conditions last for 1 round, deal no damage, and deal half damage on a successful save, unless other options are selected. (Further options can be requested at the DM's discretion. Such additional options will likely require challenges beyond a simple gold value to craft.)
 
 Toxium|Effect
 :---|---
@@ -50,11 +54,15 @@ Toxium|Effect
 
 ## Equipment Packs
 
-Rather than tracking each individual item in an equipment pack, when you need an item, haven't already used it, and it would make sense for your pack to contain it, roll a check. If the item is included in the pack by default (PH, 151) or if the item is listed in the Adventuring Gear table (PH, 150) and costs 5 gp or less, the DC is 10. If the item is included in one of the other listed packs or if the item is listed in the Adventuring Gear table and costs 25 gp or less, the DC is 15. If the item is listed in the Adventuring Gear table and costs 50 gp or less, the DC is 20. If the item is listed in the Adventuring Gear table and costs 100 gp or less, the DC is 25. For other items that make sense, consult your DM for the DC.
+Rather than tracking each individual item in an equipment pack, when you need an item, haven't already used it, and it would make sense for your pack to contain it, roll an INT check. If the item is included in the pack by default (PH, 151) or if the item is listed in the Adventuring Gear table (PH, 150) and costs 5 gp or less, the DC is 10. If the item is included in one of the other listed packs or if the item is listed in the Adventuring Gear table and costs 25 gp or less, the DC is 15. If the item is not included in a pack but is listed in the Adventuring Gear table and costs 50 gp or less, the DC is 20; if it costs more but still less than 100 gp, the DC is 25. (For other items that make sense, consult your DM for the DC.)
 
 ## Expendable Equipment
 
 Rather than tracking each piece of expendable equipment, a consequence of rolling a natural 1 on a d20 is that you expend your last use of that piece of equipment. This rule applies to anything that is normally purchased in collections of 20 (arrows or crossbow bolts, for example), or that is intentionally purchased in a collection of 20 (20 rations or 20 diamonds as spell components, for example). If using the equipment does not usually trigger a roll, the DM may still call for one to see if you run out.
+
+OR
+
+Rather than tracking each individual piece of expendable equipment, you may instead purchase items in bundles and gain a corresponding usage die--d4 for a bundle of 4, d6 for 6, d8 for 8, etc. After an item from a bundle is used (or after a battle for arrows and the like), roll the bundles usage die. On a 1, the usage die is reduced to the next die down. On a 1 using a d4, the bundle is used up.
 
 ## Helping
 
@@ -62,15 +70,15 @@ PC's can only help, granting a fellow PC advantage on a skill check, if they pos
 
 ## Inspiration
 
-Inspiration can be spent to turn disadvantage or a regular role into advantage, or to reroll an attack role, save, or ability check (including extra dice from advantage or disadvantage).
+Inspiration can be spent to turn a regular role or disadvantage into advantage, or to reroll an attack role, save, or ability check (including extra dice from advantage or disadvantage), keeping the chosen result.
 
-Inspiration can be handed out at any time at the DM's discretion. However, certain situations always grant inspiration:
+Inspiration can be handed out at any time at the DM's discretion. However, certain situations always grant inspiration (call this out to the DM when they happen):
 
-- At the start of a session
-- For cashing in a luck coin
-- By acting out personality traits, ideals, bonds, or flaws, especially when such actions put characters in harm's way (call this out to the DM so they know what you're doing)
+- Cashing in a luck coin
+- By acting out personality traits, ideals, bonds, or flaws, especially when such actions put characters in harm's way
+- By solving problems in a unique, impressive, and clever way
 - After rolling a critical failure (can be used on any subsequent rolls, but not on the failed roll that just happened)
-- After rolling a critical success a character can grant one of their companions inspiration, but does not gain inspiration themselves
+- After rolling a critical success a character may grant one of their companions inspiration, but does not gain inspiration themselves
 - Gain one point of exhaustion in exchange for inspiration (characters can keep gaining inspiration and rerolling the same roll, gaining one additional point of exhaustion each time until they have six points of exhaustion and begin making death saves, at which point their roll automatically succeeds)
 
 ## Leveling Up
@@ -120,7 +128,7 @@ If a PC has both a skill and a tool proficiency that apply to a check, they may 
 
 ## Saving Throws
 
-If an effect grants a bonus to AC, be it numerical or advantage, that same bonus is applied to Dexterity saving throws. In addition, if an effect grants advantage on ability checks, it also grants advantage on saving throws for the same ability.
+If an effect grants a bonus to an ability check, be it numerical or advantage, that same bonus is applied to saving throws for that ability. In addition, if an effect grants a bonus to AC, be it numerical or advantage, that same bonus is applied to Dexterity saving throws.
 
 ## Skill and Ability Checks
 
