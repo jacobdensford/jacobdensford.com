@@ -12,7 +12,7 @@ Most of the time, you simply say what you do and find out what happens. But when
 
 Collect dice: one from your relevant attribute and an applicable steel, skill, or spell die if you have one.
 
-Roll, comparing your highest single die result to the **difficulty number** (DN), which is usually **4**. If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble. The lower the number on a failure, the worse the trouble. The higher the number on a success, the better the outcome.
+Roll, comparing your highest single die result to the **difficulty number** (DN), which is usually **4**. If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble.
 
 ## Extended Tests
 
@@ -149,9 +149,9 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 ## Harm and Death
 
-**Harm** subtracts from HP. Once out of HP, harm becomes **critical harm** and lowers the relevant attribute.
+**Harm** subtracts from HP. Once out of HP, harm becomes **critical harm** and lowers a relevant attribute.
 
-When you take critical harm, roll a test with the affected attribute. If you fail, lower your attribute one step—you’re taken out of the fight and will die without treatment.
+When you take critical harm, roll a test with the affected attribute. If you fail, lower the attribute one step—you’re taken out of the fight and will die without treatment.
 
 When an attribute would be lowered below d4 from critical harm, you are **dead**.
 
