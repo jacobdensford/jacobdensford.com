@@ -149,7 +149,7 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 ## Harm and Death
 
-**Harm** subtracts from HP. Once out of HP, harm becomes **critical harm** and lowers a relevant attribute.
+**Harm** subtracts from HP. Once out of HP, harm becomes **critical harm** and may lower a relevant attribute.
 
 When you take critical harm, roll a test with the affected attribute. If you fail, lower the attribute one step—you’re taken out of the fight and will die without treatment.
 
