@@ -111,7 +111,7 @@ PCs can skip rest hours or march for additional watches, but doing so gives them
 
 ### Getting Lost
 
-A Wit test is required when attempting to move into a new hex during travel. On a failure, the PCs have gone astray. If the highest die resulted is a 3, they've veered one hex to the left or right; a 2, two hexes; a 1, three hexes or they've accidentally backtracked.
+An INT test is required when attempting to move into a new hex during travel. On a failure, the PCs have gone astray. If the highest die resulted is a 3, they've veered one hex to the left or right; a 2, two hexes; a 1, three hexes or they've accidentally backtracked.
 
 - **Advantage:** plains, meadows, farmland, gentle hills, sparse forest, previously traveled area
 - **Disadvantage:** swamps, jungles, dense forests, mountains
