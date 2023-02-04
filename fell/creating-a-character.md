@@ -13,7 +13,7 @@ Roll for a **background** and gain the associated **skill** and **[equipment](/f
 You have three **attributes**:
 
 - **STR:** constitution, grit, strength
-- **DEX:** dexterity, aim, speed
+- **DEX:** aim, dexterity, speed
 - **INT:** cunning, intellect, smarts
 - **WIL:** leadership, magical potential, willpower
 
