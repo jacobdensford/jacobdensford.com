@@ -103,6 +103,7 @@ I currently use [**Scivener**](https://www.literatureandlatte.com/scrivener/over
 
 - **Cross-Platform Writing Apps**
   - [iA Writer](https://ia.net/writer/)
+  - [Obsidian](https://obsidian.md/)
 
 ## Editing
 

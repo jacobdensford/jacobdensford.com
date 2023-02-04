@@ -264,6 +264,7 @@ More to come.
 ### Music
 
 - [Tabletop Audio](https://tabletopaudio.com/)
+- [Tabletop RPG Music](https://www.tabletoprpgmusic.com/)
 - [Punk Rock Jenny's Spotify Fantasy Playlists](https://open.spotify.com/user/simplyjam/playlists)
 
 ### Virtual Tabletops

@@ -88,12 +88,13 @@ One way to track time while traveling, exploring, or during an encounter is to u
 
 ### Attributes
 
-Each of the three attributes in *Fell* roughly corresponds to two OSR abilities.
+Each of the three attributes in *Fell* roughly corresponds to one or two OSR abilities.
 
 Fell|OSR
 :--|--:
-Weight|Strength, Constitution
-Wit|Intelligence, Dexterity
+STR|Strength, Constitution
+DEX|Dexterity
+INT|Intelligence
 Will|Wisdom, Charisma
 
 ### Hit Dice, Ability Dice, Hit Points/Protection, and Armor
@@ -124,9 +125,9 @@ Saving throws convert to tests with the relevant attribute. If the effect being 
 
 If you save...
 
-- by powering through (save vs poison/death, paralysis/petrifaction), use Weight
-- by quick reflexes or clever thinking (save vs wands, breath), use Wit
-- by force of will (save vs spells/rods/staves), use Will
+- by powering through (save vs poison/death, paralysis/petrifaction), use STR
+- by quick reflexes (save vs wands, breath), use DEX
+- by force of will (save vs spells/rods/staves), use WIL
 
 ### Alternative Spell Lists
 
@@ -136,4 +137,4 @@ If a spell causes harm or healing, follow the damage guidelines above.
 
 If a spell requires a save, it's a contest.
 
-If a spell uses levels, half the spell's level is added to the DN to cast the spell. This rule only applies when the spell's level is greater than half the caster's Will.
+If a spell uses levels and its level is higher than the casters WIL, the difference between its level and the casters WIL is added to the DN to cast the spell. In such a case, a test must always be made to cast the spell.

@@ -44,25 +44,25 @@ Unless otherwise specified or it would drop a number below one, always **round d
 
 ## Skills
 
-When you roll a test using your **skills**, include a skill die equal to your Wit. If any of your skills overlap, roll it with advantage.
+When you roll a test using your **skills**, include a skill die equal to your INT. If any of your skills overlap, roll it with advantage.
 
 Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill.
 
-It takes a month and tools worth 1,000 coin to learn a new skill not from your background. You can know a number of skills equal to your Wit.
+It takes a month and tools worth 1,000 coin to learn a new skill not from your background. You can know a number of skills equal to your INT.
 
 ## Spells
 
-When you spend several uninterrupted minutes in concentration, you may simply cast a **spell**. But to cast a spell in a hurry or when under threat, you must roll a Will test with your spell die.
+When you spend several uninterrupted minutes in concentration, you may simply cast a **spell**. But to cast a spell in a hurry or when under threat, you must roll a WIL test with your spell die.
 
-Each day, your spell die starts equal to your Will. Each time you fail a test to cast a spell, lower your spell die one step. When it would be lowered below d4, you must wait until dawn to cast spells in this way again.
+Each day, your spell die starts equal to your WIL. Each time you fail a test to cast a spell, lower your spell die one step. When it would be lowered below d4, you must wait until dawn to cast spells in this way again.
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
 
-It takes a month and components worth 1,000 coin to learn a new spell. You can know a number of spells equal to your Will.
+It takes a month and components worth 1,000 coin to learn a new spell. You can know a number of spells equal to your WIL.
 
 ## Item Slots
 
-You have twice your Weight in **item slots**. When carrying more, you have dissadvantage. You can never carry more than double your slots. Smaller items can be bundled together. Every hundred coins-worth of treasure and coins fills one slot. **Bulky** items fill two slots and generally require two hands to carry or wield.
+You have twice your STR in **item slots**. When carrying more, you have disadvantage. You can never carry more than double your slots. Smaller items can be bundled together. Every hundred coins-worth of treasure and coins fills one slot. **Bulky** items fill two slots and generally require two hands to carry or wield.
 
 ## Luck
 
@@ -83,7 +83,7 @@ Groups of similar NPCs acting together are treated as a single **detachment**. T
 
 Time is tracked in **turns** and **rounds**. During a round, everyone takes a turn.
 
-During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room—about ten seconds. PCs act first and as a group, taking their turns together. When surprised, roll a Wit contest to determine if you can act during the first round.
+During an **encounter**, a round lasts long enough for everyone to perform a task and traverse a room—about ten seconds. PCs act first and as a group, taking their turns together. When surprised, roll a DEX contest to determine if you can act during the first round.
 
 While **exploring**, a round lasts long enough for everyone to perform a few tasks and investigate an area, to cast a spell, or to rest—about ten minutes.
 
@@ -93,13 +93,13 @@ When **traveling**, a round lasts long enough to traverse three miles of easy te
 
 **Hirelings** are non-protagonist characters (NPCs) you can employ to carry your burdens and assist you in your endeavors. Hirelings are created just like PCs. When performing a relevant task, your hirelings may help just as another PC would.
 
-Hirelings take an equal share of any plunder, minus their upfront daily fee. If this fee is not paid in advance, you must roll a Will contest whenever asking a hireling to do something dangerous.
+Hirelings take an equal share of any plunder, minus their upfront daily fee. If this fee is not paid in advance, you must roll a WIL contest whenever asking a hireling to do something dangerous.
 
-You can employ a number of hirelings equal to your Will.
+You can employ a number of hirelings equal to your WIL.
 
 ## Reactions
 
-When you encounter an NPC whose disposition towards you is not obvious, roll your Will on the table below to determine their **reaction**.
+When you encounter an NPC whose disposition towards you is not obvious, roll your WIL on the table below to determine their **reaction**.
 
 Roll|Reaction
 :--|--:
@@ -111,11 +111,11 @@ Roll|Reaction
 
 ## Leverage
 
-If you have **leverage** and apply it, you may improve an NPC's reaction by winning a Will contest.
+If you have **leverage** and apply it, you may improve an NPC's reaction by winning a WIL contest.
 
 ## Attacks
 
-To **attack**, roll your weapon's steel die and subtract your opponents armor. Deal what's left as harm—first to HP, then to Weight.
+To **attack**, roll your weapon's steel die and subtract your opponents armor. Deal what's left as harm—first to HP, then to STR.
 
 When more than one person attacks a single target or when attacking with multiple weapons, roll all dice and use the highest single die result.
 
@@ -129,7 +129,7 @@ When more than one person attacks a single target or when attacking with multipl
 
 ## Morale
 
-When you defeat the first enemy or an enemy leader, reduce their force by half, or reduce a lone enemies HP by half, roll a Will contest. If you win, roll your Will on the **morale** table to see what the surviving enemies do.
+When you defeat the first enemy or an enemy leader, reduce their force by half, or reduce a lone enemies HP to zero, roll a WIL contest. If you win, roll your WIL on the **morale** table to see what the surviving enemies do.
 
 Roll|Morale
 :--|--:
@@ -149,9 +149,9 @@ You may remove one level of fatigue for each night of comfortable rest on a full
 
 ## Harm and Death
 
-**Harm** subtracts from HP. Once out of HP, harm becomes **critical harm** and lowers attributes.
+**Harm** subtracts from HP. Once out of HP, harm becomes **critical harm** and lowers the relevant attribute.
 
-When you take critical harm, roll a test with that attribute. The difficulty number is equal to the amount of critical harm taken. If you fail, lower your attribute one step—you’re taken out of the fight and will die without treatment.
+When you take critical harm, roll a test with the affected attribute. If you fail, lower your attribute one step—you’re taken out of the fight and will die without treatment.
 
 When an attribute would be lowered below d4 from critical harm, you are **dead**.
 
@@ -165,9 +165,9 @@ Whenever you take several minutes to **rest**, recover all your HP. After a full
 
 When you return to relative safety bearing significant plunder gained through deadly peril, it may be possible to **advance**. If your hoard is worth...
 
-- 1,000 C, gain d8 HP and raise one attribute (novice)
-- 3,000 C, gain d8 HP (professional)
+- 1,000 C, gain HP and raise one attribute (novice)
+- 3,000 C, gain HP (professional)
 - 6,000 C, raise one attribute (expert)
-- 10,000 C, gain d8 HP (veteran)
+- 10,000 C, gain HP (veteran)
 - 15,000 C, raise one attribute (master)
-- 20,000 C, gain d8 HP and raise one attribute; fulfill your drive and retire to safety—or keep seeking fortune at your own peril (legend)
+- 21,000 C, gain HP and raise one attribute; fulfill your drive and retire to safety—or keep seeking fortune at your own peril (legend)
