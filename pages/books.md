@@ -17,6 +17,20 @@ This page is a response to me being dissatisfied with Goodreads and the like. I 
 
 Just started reading this. It picks up only a few days after *Way of Kings*. Exciting!
 
+## *Smith of Wootton Major* by J. R. R. Tolkien
+
+I've been really into fairy stories lately.
+
+"[Faërie] is a perilous land, and in it are pitfalls for the unwary and dungeons for the overbold. In that realm a man may, perhaps, count himself fortunate to have wandered, but its very richness and strangeness tie the tongue of a traveller who would report them. And while he is there it is dangerous for him to ask too many questions, lest the gates should be shut and the keys be lost.”
+
+— Tolkien
+
+I read this book in January, 2023. **I recommend it.**
+
+## *The Fated Sky* by Mary Robinette Kowal
+
+I read this book in December, 2022. **I recommend it.**
+
 ## *Sea of Tranquility* by Emily St John Mandel
 
 Took a break from all the Brando Sando to read some more from Emily St John Mandel. I think I liked this book even more than her last book I read, *Station Eleven*. It was some elevated science fiction, for sure. All the seperate pieces came together perfectly in the end.
