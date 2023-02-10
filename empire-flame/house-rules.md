@@ -9,9 +9,9 @@ image: url("/images/efimage.png")
 
 ## Beyond 1st Level
 
-Rather than tracking experience points, leveling up happens after completing a number of play sessions. One session for 2nd and 3rd levels, two sessions for 4th level, three sessions for 5th through 10th, four sessions for 11th through 16th, and five sessions for 17th through 20th. (Alternatevly, key milestones may be used instead or in addition, at the DM's discretion.)
+Rather than tracking experience points, leveling up happens after completing a number of play sessions. One session for 2nd and 3rd levels, two sessions for 4th level, three sessions for 5th through 10th, four sessions for 11th through 16th, and five sessions for 17th through 20th. (Alternatively, key milestones may be used instead or in addition, at the DM's discretion.)
 
-When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's primary abilities or starting saving throw profecient abilities (PH, 45), or for gaining a feat. (Other abilities may be improved at the DM's discretion if they are core to the character's concept.)
+When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's primary abilities or starting saving throw proficient abilities (PH, 45), or for gaining a feat. (Other abilities may be improved at the DM's discretion if they are core to the character's concept.)
 
 *This rule modifies Beyond 1st Level (PH, 15).*
 
@@ -25,6 +25,12 @@ Inspiration can be handed out at any time at the DM's discretion. However, these
 - Solving problems in a unique, impressive, and clever way
 
 *This rule clarifies Inspiration (PH, 125).*
+
+## Getting Into and Out of Armor
+
+Donning and Doffing a shield only takes a bonus action.
+
+*This rule modifies Getting Into and Out of Armor (PH, 146)*
 
 ## Advantage and Disadvantage
 
@@ -62,15 +68,23 @@ PC's can only help, granting a fellow PC advantage on a skill check, if they pos
 
 ## Saving Throws
 
-If an effect grants a bonus to an ability check, be it numerical or advantage, that same bonus is applied to saving throws for that ability. In addition, if an effect grants a bonus to AC, be it numerical or advantage, that same bonus is applied to Dexterity saving throws.
+If an effect grants a bonus to an ability check, be it numerical or advantage, that same bonus is applied to saving throws for that ability. In addition, if an effect grants a bonus to AC, that same bonus is applied to Dexterity saving throws.
 
 *This rule modifies Saving Throws (PH, 179).*
 
 ## Bonus Actions
 
-Usually, any small action that doesn't require a roll may be performed for free during an encounter. To do more, a bonus action may be used. A bonus action may also be used to perform any proficient skill checks.
+Usually, any single small interaction that doesn't require a roll may be performed for free during an encounter as part of your movement and action. To do more, a bonus action may be used. A bonus action may also be used to perform any proficient skill checks.
 
 *This rule modifies Bonus Actions (PH, 189).*
+
+## Rolling 1 or 20
+
+If the d20 roll for an attack is a 1, the target may make an opportunity attack using their reaction.
+
+If the d20 roll for a saving throw is a 1, double damage dice are rolled as a critical hit.
+
+*These rules add to Rolling 1 or 20 (PH, 194).*
 
 ## Dropping to Zero Hit Points
 
@@ -86,7 +100,7 @@ Spend 25gp and eight hours per day to create 25 arcanium. Each day's gold requir
 
 ## Identifying a Magic Item
 
-*Use the varient rule: More Difficult Identification (DMG, 136).*
+*Use the variant rule: More Difficult Identification (DMG, 136).*
 
 ## Attunement
 

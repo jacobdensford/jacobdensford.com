@@ -66,6 +66,10 @@ This is my method and order for writing a novel, as well as some tools and resou
 
 I currently use [**Scivener**](https://www.literatureandlatte.com/scrivener/overview) for planning, writing, and editing. But I'm considering switching over to using plaintext with markdown for future projects.
 
+## Adding Dashes to Windows—it doesn't include an easy way to type them for some reason
+
+- [Em-n-en](https://cemrajc.github.io/em-n-en/)
+
 ## Planning
 
 - [**Scapple**](https://www.literatureandlatte.com/scapple/overview)
