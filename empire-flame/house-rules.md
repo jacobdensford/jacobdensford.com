@@ -11,7 +11,7 @@ image: url("/images/efimage.png")
 
 ### Beyond 1st Level
 
-Rather than tracking experience points, leveling up happens after completing a number of play sessions. One session for 2nd and 3rd levels, two sessions for 4th level, three sessions for 5th through 10th, four sessions for 11th through 16th, and five sessions for 17th through 20th. (Alternatively, key milestones may be used instead or in addition, at the DM's discretion.)
+Rather than tracking experience points, leveling up happens after completing a number of play sessions or milestones. One session or milestone for 2nd and 3rd levels, two for 4th level, three for 5th through 10th, four for 11th through 16th, and five for 17th through 20th.
 
 When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's primary abilities or starting saving throw proficient abilities (PH, 45), or for gaining a feat. (Other abilities may be improved at the DM's discretion if they are core to the character's concept.)
 
@@ -65,9 +65,17 @@ Passive checks are not used. Instead, the DM will call for a roll when a check w
 
 ### Working Together
 
-PC's can only help, granting a fellow PC advantage on a skill check, if they possess a relevant skill.
+PCs can only help, granting a fellow PC advantage on a skill check, if they possess a relevant skill.
 
 *This rule modifies Working Together (PH, 175).*
+
+### Lifting and Carrying
+
+PCs have a number of item slots equal to their Strength score. PCs carrying items that fill up to twice this many slots are encumbered, reducing their speed by ten feet. PCs carrying items that fill more are heavily encumbered, reducing their speed by twenty feet and imposing disadvantage on ability checks, saving throws, and attack rolls using Strength, Dexterity, or Constitution. PCs can never cary items that fill more than three times their Strength score in item slots.
+
+Items that can be held in one hand use one slot. Items that require two hands to carry or wield use two slots. Small items can be bundled together into one slot. Tiny or very light items do not require a slot until they are collected in significant quantities. In general, every five pounds of equipment counts as one slot.
+
+*This rule modifies Lifting and Carrying (PH, 176) and uses parts of Variant: Encumbrance (PH, 176).*
 
 ### Saving Throws
 
