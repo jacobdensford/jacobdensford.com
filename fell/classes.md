@@ -70,7 +70,7 @@ I seek wealth and //THING//...
 
 **//ADVANCEMENT//.**
 
-**You cannot cast spells while touching or carrying anything made of iron.**
+**You cannot cast spells while touching or carrying anything made of pure iron.**
 
 ## 3. Wandering Pilgram
 

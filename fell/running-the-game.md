@@ -88,14 +88,14 @@ One way to track time while traveling, exploring, or during an encounter is to u
 
 ### Attributes
 
-Each of the three attributes in *Fell* roughly corresponds to one or two OSR abilities.
+Each of the four attributes in *Fell* roughly corresponds to one or two OSR abilities.
 
 Fell|OSR
 :--|--:
 STR|Strength, Constitution
 DEX|Dexterity
 INT|Intelligence
-Will|Wisdom, Charisma
+WIL|Wisdom, Charisma
 
 ### Hit Dice, Ability Dice, Hit Points/Protection, and Armor
 

@@ -6,17 +6,19 @@ link: '/fell'
 
 # Playing the Game
 
-## Tasks and Tests
+## Tasks
 
-Most of the time, you simply say what you do and find out what happens. But whenever you attempt a **task** where the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
+A **task** is any action you attempt to do. Usually, you simply say what you do and find out what happens.
+
+## Tests
+
+Whenever you attempt a task where the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
 
 Collect dice: one from your relevant attribute and an applicable steel, skill, or spell die if you have one.
 
-Roll, comparing your highest single die result to the **difficulty number** (DN), which is usually **4**. If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble.
+Roll, comparing your highest single die result to the **difficulty number** (DN), which is usually **4**.
 
-## Extended Tests
-
-Some risky tasks require more time and effort, and thus require more than one passed test to accomplish. Learn how many the **extended test** will require, then collect dice and roll as normal. You may repeat the roll to add additional passes once you've dealt with any trouble.
+If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble.
 
 ## Help
 
@@ -38,10 +40,6 @@ When a rule or the referee instructs you to raise or lower your dice a number of
 
 If a die would be lowered below a d4, you cannot roll it. If it would be raised above a d12, add a bonus die that begins at the bottom of the ladder.
 
-## Rounding Down
-
-Unless otherwise specified or it would drop a number below one, always **round down**.
-
 ## Skills
 
 When you roll a test using your **skills**, include a skill die equal to your INT. If any of your skills overlap, roll it with advantage.
@@ -62,7 +60,7 @@ It takes a month and components worth 1,000 coin to learn a new spell. You can k
 
 ## Item Slots
 
-You have twice your STR in **item slots**. When carrying more, you have disadvantage. You can never carry more than double your slots. Smaller items can be bundled together. Every hundred coins-worth of treasure and coins fills one slot. **Bulky** items fill two slots and generally require two hands to carry or wield.
+You have twice your STR in **item slots**. When carrying more, you have disadvantage and your HP is zero. You can never carry more than double your slots. Smaller items can be bundled together. Every hundred coins-worth of treasure and coins fills one slot. **Bulky** items fill two slots and generally require two hands to carry or wield.
 
 ## Luck
 
@@ -99,15 +97,13 @@ You can employ a number of hirelings equal to your WIL.
 
 ## Reactions
 
-When you encounter an NPC whose disposition towards you is not obvious, roll your WIL on the table below to determine their **reaction**.
+When you encounter an NPC whose disposition towards you is not obvious, roll your WIL to determine their **reaction**.
 
-Roll|Reaction
-:--|--:
-1-3|Hostile
-4-5|Wary
-6-7|Indifferent
-8-9|Friendly
-10-12|Helpful
+- **1-3:** Hostile
+- **4-5:** Wary
+- **6-7:** Indifferent
+- **8-9:** Friendly
+- **10-12:** Helpful
 
 ## Leverage
 
@@ -117,7 +113,7 @@ If you have **leverage** and apply it, you may improve an NPC's reaction by winn
 
 To **attack**, roll your weapon's steel die and subtract your opponents armor. Deal what's left as harm—first to HP, then to STR.
 
-When more than one person attacks a single target or when attacking with multiple weapons, roll all dice and use the highest single die result.
+When more than one person attacks a single target or when attacking with multiple weapons, roll all dice and use the highest single die result. Then add one harm for each attacker beyond the first.
 
 ## Armor
 
@@ -129,15 +125,13 @@ When more than one person attacks a single target or when attacking with multipl
 
 ## Morale
 
-When you defeat the first enemy or an enemy leader, reduce their force by half, or reduce a lone enemies HP to zero, roll a WIL contest. If you win, roll your WIL on the **morale** table to see what the surviving enemies do.
+When you defeat the first enemy or an enemy leader, reduce their force by half, or reduce a lone enemies HP to zero, roll a WIL contest to check their **morale**. If you win, roll your WIL to see what the surviving enemies do.
 
-Roll|Morale
-:--|--:
-1-3|Hesitate
-4-5|Retreat
-6-7|Flee
-8-9|Surrender Conditionally
-10-12|Surrender Unconditionally
+- **1-3:** Hesitate
+- **4-5:** Retreat
+- **6-7:** Flee
+- **8-9:** Surrender Conditionally
+- **10-12:** Surrender Unconditionally
 
 ## Deprivation and Fatigue
 
