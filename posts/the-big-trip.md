@@ -53,7 +53,7 @@ Plenty to fill my days and maybe even make a little money along the way. But jus
 
 ### Off I go
 
-Now I am off. Stay tuned here for updates, follow me on [Instagram](https://instagram.com/jacobdensford/) and [Twitter](https://twitter.com/jacobdensford/), and maybe even sign up for my [newsletter](https://buttondown.email/jacobdensford). (I might even post a [TikTok or two](https://www.tiktok.com/@jacobdensford). Who knows?) See you later!
+Now I am off. Stay tuned here for updates and maybe even sign up for my [newsletter](https://buttondown.email/jacobdensford). See you later!
 
 ![](/images/_Mark.png "Testing this feature.")
 
