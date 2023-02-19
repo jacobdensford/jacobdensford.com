@@ -71,7 +71,7 @@ PCs can only help, granting a fellow PC advantage on a skill check, if they poss
 
 ### Lifting and Carrying
 
-PCs have a number of item slots equal to their Strength score. PCs carrying items that fill up to twice this many slots are encumbered, reducing their speed by ten feet. PCs carrying items that fill more are heavily encumbered, reducing their speed by twenty feet and imposing disadvantage on ability checks, saving throws, and attack rolls using Strength, Dexterity, or Constitution. PCs can never cary items that fill more than three times their Strength score in item slots.
+PCs have a number of item slots equal to their Strength score. PCs carrying items that fill up to twice this many slots are encumbered, reducing their speed by ten feet. PCs carrying items that fill more are heavily encumbered, reducing their speed by twenty feet and imposing disadvantage on ability checks, saving throws, and attack rolls using Strength, Dexterity, or Constitution. PCs can never carry items that fill more than three times their Strength score in item slots.
 
 Items that can be held in one hand use one slot. Items that require two hands to carry or wield use two slots. Small items can be bundled together into one slot. Tiny or very light items do not require a slot until they are collected in significant quantities. In general, every five pounds of equipment counts as one slot.
 
