@@ -117,7 +117,7 @@ OSR HD|Fell attributes, HP, and Armor
 
 ### Damage
 
-Typically, use the damage dice as the steel dice. If there are multiple dice, raise the die by one or more steps. If the damage would be significantly more than d12, add bonus dice and keep the highest result when rolling harm.
+Typically, use the damage dice as is. If there are multiple dice, raise the die by one or more steps. If the damage would be significantly more than d12, add bonus dice and keep the highest result when rolling harm.
 
 ### Saving Throws
 

@@ -8,29 +8,31 @@ link: '/fell'
 
 ## Tasks
 
-A **task** is any action you attempt to do. Usually, you simply say what you do and find out what happens.
+A **task** is any action you attempt to do. If you have plenty of time, appropriate skills, and there is no threat of danger, you simply say what you do and find out what happens.
 
 ## Tests
 
 Whenever you attempt a task where the outcome is uncertain and potentially dangerous, learn what could go wrong, then roll a **test**.
 
-Collect dice: one from your relevant attribute and an applicable steel, skill, or spell die if you have one.
-
-Roll, comparing your highest single die result to the **difficulty number** (DN), which is usually **4**.
+Roll your relevant attribute die. Compare the result to the **difficulty number** (DN), which is usually **4**.
 
 If you meet or exceed the difficulty number, the test passes. Otherwise, the test fails. You might still succeed at the task, but there will be trouble.
 
 ## Help
 
-When someone else attempts a task and it makes sense for you to do so, you may **help**. If it's a test, roll an applicable steel, skill, or spell die to be included. If they fail, trouble is coming for you as well.
+When someone else attempts a task and it makes sense for you to do so, you may **help** if you have a relevant skill, granting them advantage on their test. If they fail, trouble is coming for you as well.
 
 ## Contests
 
-When you attempt a task and someone else opposes you, it's a **contest**. You each collect dice as normal and roll. Whoever has the highest single die result wins. In a tie, a die higher up the ladder beats a lower one, then more dice beat fewer, then compare the next highest dice.
+When you attempt a task and someone else opposes you, it's a **contest**. You each roll as normal. Whoever has the highest result wins. In a tie, a die higher up the ladder beats a lower one.
 
 ## Advantage and Disadvantage
 
-When a situation grants you **advantage** (↑), you may roll your dice one step higher. When a situation imposes **disadvantage** (↓), you must roll your dice one step lower. Advantages and disadvantages stack and cancel each other out one for one.
+Rolls can have **advantage (ADV)** or **disadvantage (DIS)**. With advantage, roll twice and keep the higher result. With disadvantage, roll twice and keep the lower result.
+
+## Empaired and Enhanced
+
+Rolls can be **impaired (IMP)** or **enhanced (ENH)**. Impaired rolls use lower dice. Enhanced rolls use higher dice.
 
 ## Dice Ladder
 
@@ -38,11 +40,11 @@ When a rule or the referee instructs you to raise or lower your dice a number of
 
 **d4 → d6 → d8 → d10 → d12**
 
-If a die would be lowered below a d4, you cannot roll it. If it would be raised above a d12, add a bonus die that begins at the bottom of the ladder.
+If a die would be lowered below a d4, you cannot roll it. If it would be raised above a d12, gain advantage.
 
 ## Skills
 
-When you roll a test using your **skills**, include a skill die equal to your INT. If any of your skills overlap, roll it with advantage.
+When you roll a test using your **skills**, your roll is enhanced by one step for each applicable skill.
 
 Whenever you roll a test to attempt a task that someone with your background would reasonably be good at, you may add it as an additional skill.
 
@@ -50,9 +52,14 @@ It takes a month and tools worth 1,000 coin to learn a new skill not from your b
 
 ## Spells
 
-When you spend several uninterrupted minutes in concentration, you may simply cast a **spell**. But to cast a spell in a hurry or when under threat, you must roll a WIL test with your spell die.
+When you spend several uninterrupted minutes in concentration, you may simply cast a **spell**. But to cast a spell in a hurry or when under threat, you must roll a WIL test.
 
-Each day, your spell die starts equal to your WIL. Each time you fail a test to cast a spell, lower your spell die one step. When it would be lowered below d4, you must wait until dawn to cast spells in this way again.
+If you fail the test, choose one:
+
+- The spell has an unintended side effect
+- The spell is lesssened
+- Your WIL is impaired until dawn
+- You cannot cast the spell again until dawn
 
 If a spell is aimed at an unwilling target, they may force a contest to reduce its effects.
 
@@ -111,7 +118,7 @@ If you have **leverage** and apply it, you may improve an NPC's reaction by winn
 
 ## Attacks
 
-To **attack**, roll your weapon's steel die and subtract your opponents armor. Deal what's left as harm—first to HP, then to STR.
+To **attack**, roll your weapon's damage die and subtract your opponents armor. Deal what's left as harm—first to HP, then to STR.
 
 When more than one person attacks a single target or when attacking with multiple weapons, roll all dice and use the highest single die result. Then add one harm for each attacker beyond the first.
 
@@ -125,7 +132,7 @@ When more than one person attacks a single target or when attacking with multipl
 
 ## Morale
 
-When you defeat the first enemy or an enemy leader, reduce their force by half, or reduce a lone enemies HP to zero, roll a WIL contest to check their **morale**. If you win, roll your WIL to see what the surviving enemies do.
+When you defeat the first enemy or an enemy leader, reduce their force by half, or reduce a lone enemy's HP to zero, roll a WIL contest to check their **morale**. If you win, roll your WIL to see what the surviving enemies do.
 
 - **1-3:** Hesitate
 - **4-5:** Retreat
@@ -137,7 +144,7 @@ When you defeat the first enemy or an enemy leader, reduce their force by half, 
 
 When you are **deprived** of a crucial need (such as food, water, warmth, or sleep), you cannot regain HP or restore attributes.
 
-When you are deprived for longer than a day, you become **fatigued** and must make all tests with disadvantage. Each additional day you are deprived makes the disadvantage worse.
+When you are deprived for longer than a day, you become **fatigued** and must make all tests with impaired. Each additional day you are deprived makes the impairement worse.
 
 You may remove one level of fatigue for each night of comfortable rest on a full stomach.
 

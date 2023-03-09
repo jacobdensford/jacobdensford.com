@@ -6,9 +6,13 @@ link: '/fell'
 
 # The Fell
 
-The Fell is a seemingly endless highland expanse covered in fallow fields, twisted woods, and putrid moors, with a dormant volcano rising from its heart. Cairns and barrows dot the frigid landscape—memorials to heroes long dead and a time forgotten. Seldom trodden paths snake and shift through the Fell, connecting silent villages and desolate towns, and leading down into the lands beyond—into the misty expanse and towards the smoking mountains on the distant horizon.
+The Fell is a seemingly endless highland expanse covered in fallow fields, twisted woods, and putrid moors, with a dormant volcano rising from its heart. Cairns and barrows dot the frigid landscape—memorials to heroes long dead and a time forgotten. Seldom trodden paths snake and shift through the Fell, connecting silent villages and desolate towns, and leading down to the coast, beyond which lies the misty expanse of the sea.
 
 ## Locations
+
+## The Island of Eilvalor
+
+The Fell and the Island of Eilvalor are one and the same. The entirety of the island makes up the Duchy of Fellweald, though the duchess's rule is weaker in parts far flung.
 
 ### The Duchy of Fellweald
 
@@ -20,13 +24,25 @@ Baron Rotherbourne governs to the west of Castle Fell from his seat in the Rotke
 
 ### The Wealdwood
 
-The Wealdwood is a dark, twisted forest that dominates the Barony of Rotherbourne. It is home to many dangerous creatures that have been known to attack travelers who stray too far from the path. The borders between the faërie, daemon, and mortal realms are thin here, leading to occasional encounters with magical beings.
+The Wealdwood is a dark, twisted, **Magical Forest** that dominates the Barony of Rotherbourne. It is home to many dangerous creatures that have been known to attack travelers who stray too far from the path. The borders between the faërie, daemon, and mortal realms are thin here, leading to occasional encounters with magical beings.
+
+### The Barony of TKTK
+
+TKTK
+
+### The Barrowfields
+
+These cold, dry fields stretch from the southernmost reaches of the Barony of Rotherbourne, extend down into the Barony of TKTK, and terminate at the coastal cliffs—the very edge of the Dutchy of Fellweald. As their name suggests, the Barrowfields are covered in ancient burrial mounds. Many believe that within some of these tombs lie secret passages into the **Mythic Underworld**.
 
 ## People
 
 ### Duchess Gwendolen Fellweald
 
 ### Baron Rotherbourne
+
+### Baron TKTK
+
+### His Holiness, the Bishop TKTK
 
 ## Beliefs
 

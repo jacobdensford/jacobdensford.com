@@ -11,9 +11,11 @@ image: url("/images/efimage.png")
 
 ### Beyond 1st Level
 
-Rather than tracking experience points, leveling up happens after completing a number of play sessions or milestones. One session or milestone for 2nd and 3rd levels, two for 4th level, three for 5th through 10th, four for 11th through 16th, and five for 17th through 20th.
+Rather than tracking experience points, leveling up happens after completing a number of play sessions or major milestones. One session or major milestone for 2nd and 3rd levels, two for 4th level, three for 5th through 10th, four for 11th through 16th, and five for 17th through 20th.
 
-When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's primary abilities or starting saving throw proficient abilities (PH, 45), or for gaining a feat. (Other abilities may be improved at the DM's discretion if they are core to the character's concept.)
+**Alternate Option:** When you return to relative safety bearing significant plunder gained through deadly peril, or when you are paid for dangerous work, gain 1 XP per 1 gp of treasure spent towards downtime activities.
+
+When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's primary abilities or starting saving throw proficient abilities (PH, 45).
 
 *This rule modifies Beyond 1st Level (PH, 15).*
 
@@ -25,7 +27,7 @@ Inspiration may be handed out at any time at the DM's discretion. However, these
 
 - Acting out personality traits, ideals, bonds, or flaws, especially when such actions put characters in harm's way
 - Solving problems in a unique, impressive, and clever way
-- Overcoming a significant challenge
+- Overcoming a significant challenge or minor milestone
 
 *This rule clarifies Inspiration (PH, 125).*
 
@@ -51,11 +53,13 @@ If a PC has both a skill and a tool proficiency that apply to a check, they may 
 
 Checks are only made when the task is possible to do and the outcome is uncertain and potentially dangerous. If something would have a DC of 5 or lower, no check is needed. The character can simply accomplish the task. Also, if 5 plus the character's relevant modifiers (ability and proficiency bonuses) would meet or exceed the DC, the task is automatically successful without a roll. Conversely, if something would have a DC higher than 30, no check is made. The task is impossible for the character to accomplish.
 
-Rolling a 1 is always a failure and rolling a 20 is always a success, even if the modified roll would not have failed or succeeded numerically when compared to the DC of the task. Failing or succeeding a roll in such a way may introduce new complications or advantages.
+Rolling a natural 1 is a **fumble** and always a failure and rolling a natural 20 is a **critical** and always a success, even if the modified roll would not have failed or succeeded numerically when compared to the DC of the task. Failing or succeeding a roll in such a way may introduce new complications or advantages.
+
+Checks for a particular task can only be made twice. If the first character to try fails, one other person may try, as long as the first character didn't fumble. The two passed or failed checks represents all the efforts of the entire party combined.
 
 Failing a roll doesn't always mean failing a check. At the DM's discretion, a failed roll can still accomplish a given task, provided some other complication or danger is introduced. Players may request this compromise from the DM after a failed role, but the DM is under no obligation to offer it.
 
-*This rule clarifies modifies Ability Checks (PH, 174).*
+*These rule clarify and modify Ability Checks (PH, 174).*
 
 ### Passive Checks
 
@@ -65,7 +69,7 @@ Passive checks are not used. Instead, the DM will call for a roll when a check w
 
 ### Working Together
 
-PCs can only help, granting a fellow PC advantage on a skill check, if they possess a relevant skill.
+PCs can only help, granting a fellow PC advantage on a check, if they have proficiency in a relevant skill.
 
 *This rule modifies Working Together (PH, 175).*
 
@@ -75,7 +79,7 @@ PCs have a number of item slots equal to their Strength score. PCs carrying item
 
 Items that can be held in one hand use one slot. Items that require two hands to carry or wield use two slots. Small items can be bundled together into one slot. Tiny or very light items do not require a slot until they are collected in significant quantities. In general, every five pounds of equipment counts as one slot.
 
-*This rule modifies Lifting and Carrying (PH, 176) and uses parts of Variant: Encumbrance (PH, 176).*
+*These rule modify Lifting and Carrying (PH, 176) and uses parts of Variant: Encumbrance (PH, 176).*
 
 ### Saving Throws
 
@@ -83,29 +87,66 @@ If an effect grants a bonus to an ability check, be it numerical or advantage, t
 
 *This rule modifies Saving Throws (PH, 179).*
 
+### Resting
+
+A character may spend one hit die after each hour of rest during a short or long rest. Even whenn long resting, hit dice must be spent to recover hit points without the use of magic.
+
+*This rule modifies Resting (PH, 186).*
+
 ### Bonus Actions
 
 Usually, any single small interaction that doesn't require a roll may be performed for free during an encounter as part of your movement and action. To do more, a bonus action may be used. A bonus action may also be used to perform any proficient skill checks.
 
 *This rule modifies Bonus Actions (PH, 189).*
 
+### Making an Attack
+
+When you make an attack and miss, use these guidelines to determine how:
+
+- by getting 10 or lower, the enemy dodged or parried
+- by getting higher than ten but lower than ten minus the AC granted by your enemy's armor, their armor absorbed the blow
+- by getting higher than the previous number but lower than the extra AC granted by a shield if they're using one, they blocked or parried the blow with their shield
+- by getting higher than the previous number but still missing, the enemy dodged or parried
+
+*These guidelines add to Making an Attack (PH, 193).*
+
 ### Rolling 1 or 20
 
-If the d20 roll for an attack is a 1, the target may make an opportunity attack using their reaction.
+If the d20 roll for an attack is a natural 1, the target may make an opportunity attack using their reaction.
 
-If the d20 roll for a saving throw is a 1, double damage dice are rolled as a critical hit.
+If the d20 roll for a saving throw is a natural 1, double damage dice are rolled as a critical hit.
+
+If the d20 roll for a saving throw is a natural 20, all harmful effects are avoided.
 
 *These rules add to Rolling 1 or 20 (PH, 194).*
 
+### Damage and Healing
+
+Damage to hit points above half a character's hit point maximum is superficial, consisting of tiring cuts and bruises that leave no lasting signs of injury.
+
+Damage to hit points below half a character's hit point maximum is more serious, representing injuries that may need medical attention. The character becomes **bloodied**—a condition that is visible to all.
+
+Once a character is bloodied, one use of a healer's kit must be applied to them in order for them to naturally regain hit points using hit dice during a short or long rest, or regain hit dice during a long rest.
+
+*These rules add to and modify Damage and Healing (PH, 196).*
+
+### Critical Hits
+
+A critical hit deals the maximum damage possible plus the result of rolling all the damage dice again.
+
+*These rules add to and modify Critical Hits (PH, 196).*
+
 ### Dropping to Zero Hit Points
+
+Without the use of magic, stabilizing a creature requires one use of a healer's kit and a successful DC 10 Wisdom (Medicine) check. For each failed death saving throw, the DC increases by 5.
 
 When a PC is reduced to zero HP and then succeeds on three death saving throws or is revived in some other way, they gain one level of exhaustion.
 
-*This rule adds to Dropping to Zero Hit Points (PH, 197).*
+*These rules add to and modify Dropping to Zero Hit Points (PH, 197).*
 
 ### Crafting Magic Items
 
-Spend 25gp and eight hours per day to create 25 arcanium. Each day's gold requirement can be replaced with a successful DC 15 arcana check. Arcanium can be used during short or long rests to create a desired magical item whose gold value matches the arcanium spent.
+Spend 25gp and eight hours per day to create 25 arcanium. Each day's gold requirement can be replaced with a successful DC 15 arcana check (or a related check using the appropriate skill for the caster or spell, such as religion for a cleric crafting a holy weapon). Arcanium can be used during short or long rests to create a desired magical item whose gold value matches the arcanium spent.
 
 *This rule modifies Crafting Magic Items (DMG, 129).*
 
@@ -118,6 +159,10 @@ Spend 25gp and eight hours per day to create 25 arcanium. Each day's gold requir
 Characters can attune to a number of magical items equal to their proficiency bonus.
 
 *This rule modifies Attunement (DMG, 136).*
+
+### Flanking
+
+*Use the optional rule: Flanking (DMG, 251).*
 
 ### Crafting Poisons
 
@@ -142,7 +187,7 @@ Unspent luck coins expire after the following session.
 
 ### The Oaken Table
 
-In the middle of the tavern sits an oaken table, upon which past adventurers have carved a map of the surrounding region. The PCs can carve additions into this map. They can also make a rubbing to be carried abroad. The oaken table can be a real object in the world or simply a metaphor. Either way, the dungeon master provides a map to the players that they may motify as they explore and gain new information.
+In the middle of the tavern sits an oaken table, upon which past adventurers have carved a map of the surrounding region. The PCs can carve additions into this map. They can also make a rubbing to be carried abroad. The oaken table can be a real object in the world or simply a metaphor. Either way, the dungeon master provides a map to the players that they may modify as they explore and gain new information.
 
 ### Pushing a Roll
 
@@ -154,4 +199,4 @@ They may also push at death's door, marking a failed death save in exchange for 
 
 When a play session ends in a safe location, it is up to the PCs how much in-game time passes before the next session. They should agree on a duration. In cases where consensus cannot be had, the average is taken.
 
-When a play session ends with the PCs in a dangerous location, time is paused until the next session. Optionally, the PCs may decide to roll to return to safety, turning over to chance their riches and well-being. One of the PCs roll a test, adding +1 for each of the following: they have mapped the way, they have cleared the way, they are well equipped, they are unencumbered. If they succeed, they return to safety unmolested. If they fail, they still return to safety, but at great cost.
+When a play session ends with the PCs in a dangerous location, time is paused until the next session. Optionally, the PCs may decide to roll to return to safety, turning over to chance their riches and well-being. One of the PCs rolls a Wisdom (Survival) check, adding +1 for each of the following: they have mapped the way, they have cleared the way, they are well equipped, they are unencumbered. If they succeed, they return to safety unmolested. If they fail, they still return to safety, but at great cost.

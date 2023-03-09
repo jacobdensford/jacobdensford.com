@@ -25,6 +25,7 @@ Oh, and degrees are in Fahrenheit.
 - <a href="#chicken-and-waffles">Chicken and Waffles</a>
 - <a href="#spring-galette">Galette, Spring</a>
 - <a href="#gluhwein">Glühwein</a>
+- <a href="#noodles">Noodles</a>
 - <a href="#cranberry-sauce">Sauce, Cranberry</a>
 - <a href="#spicy-apple-slaw">Slaw, Spicy Apple</a>
 - <a href="#beef-stew">Stew, Beef, the Great Pumpkin Beer Tasting</a>
@@ -77,6 +78,14 @@ Over medium-high heat, cook **1/2 lbs cubed bacon** and **4 sliced green onion b
 <h3 id="gluhwein">Glühwein</h3>
 
 In a pot on the stove, combine **1 bottle of red wine** with **1 quartered orange**, **2 cinnamon sticks**, **6 cloves**, **3 star anise**, and **1/2c sugar**. Simmer (do not boil) for fifteen minutes and serve hot with an optional shot of **dark rum** (mit Schuss).
+
+</section>
+
+<section>
+
+<h3 id="noodles">Noodles</h3>
+
+Cook **5 oz rice vermicelli** as directed. Meanwhile, heat **2 T virgin coconut oil** in pan. Cook **tofu** or **chicken** and remove from pan. Add **1 thinly sliced red onion** and **4 thinly sliced garlic cloves**; cook until softened and fragrant (about 3 min). Add **1" finely grated ginger**, **1 t ground turmeric**, and **1 t coarse black pepper**; cook until fragrant (about 1 min). Add **13.5 oz (1 can) unsweetened coconut milk** and **juice from 1 lime**; bring to simmer. Return chicken or tofu to pan and simmer for about 5 min. Serve over noodles and top with **cilantro**, **lime**, **jalapeno**, **crushed peanuts**, **soy sauce or salt**, **more pepper**, and **sesame oil**.
 
 </section>
 
