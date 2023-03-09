@@ -34,12 +34,12 @@ Roll 2d20+10 for your **age**.
 Roll d8 for your **alignment**.
 
 - **1-2:** Chaotic
-- **3-6:** Neutral
-- **7-8:** Lawful
+- **3-5:** Neutral
+- **6-8:** Lawful
 
 Roll for your **[drive](https://jacobdensford.com/fell/tables/#drives)** and your **[traits](https://jacobdensford.com/fell/tables/#traits)**.
 
-*Instead of rolling, you may start with any name, any background or a custom background (including a name, a skill, and equipment worth 40 C), d6 in each attribute (optionally lowering one or more one step to raise others the same number of steps), 4 HP (or 5 if DEX is d8, 6 if d10, or 7 if d12), a spell of your choice if your WIL is d8 or higher, additional equipment worth 20 C, any age, a chosen alignment, and any drive and traits.*
+*Instead of rolling, you may start with any name, any background or a custom background (including a name, a skill, and equipment worth 40 C), d6 in each attribute (optionally lowering one or more one step to raise others the same number of steps), 3 HP (or 4 if DEX is d8, 5 if d10, or 6 if d12), a spell of your choice if your WIL is d8 or higher, additional equipment worth 20 C, any age, a chosen alignment, and any drive and traits.*
 
 d20|Background
 :--|---

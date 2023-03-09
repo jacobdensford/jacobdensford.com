@@ -6,7 +6,7 @@ link: '/fell'
 
 ![a painting of a swampy landscape](/images/fell-main.jpg)
 
-*The Fell is a seemingly endless highland expanse covered in fallow fields, twisted woods, and putrid moors, with a dormant volcano rising from its heart. Cairns and barrows dot the frigid landscape—memorials to heroes long dead and a time forgotten. Seldom trodden paths snake and shift through the Fell, connecting silent villages and desolate towns, and leading down into the lands beyond—into the misty expanse and towards the smoking mountains on the distant horizon.*
+*The Fell is a seemingly endless highland expanse covered in fallow fields, twisted woods, and putrid moors, with a dormant volcano rising from its heart. Cairns and barrows dot the frigid landscape—memorials to heroes long dead and a time forgotten. Seldom trodden paths snake and shift through the Fell, connecting silent villages and desolate towns, and leading down to the coast, beyond which lies the misty expanse of the sea.*
 
 *You're no hero. At best, you're a knave, wretch, or scoundrel who, along with a few untrustworthy companions, seeks fortune in this corrupted land filled with danger. Chances are high that none of you will survive the winter.*
 
@@ -33,6 +33,6 @@ To play, you will need these rules, at least one set of [polyhedral dice](https:
 
 <hr/>
 
-Fell v0.6. Written by [Jacob Densford](https://jacobdensford.com/). Names, traits, and spells from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Fell v0.8. Written by [Jacob Densford](https://jacobdensford.com/). Names, traits, and spells from [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 </footer>
