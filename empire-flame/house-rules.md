@@ -23,7 +23,7 @@ Rather than tracking experience points, leveling up happens after completing a n
 
 When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's primary abilities or starting saving throw proficient abilities (PH, 45).
 
-*These rule modifies Beyond 1st Level (PH, 15).*
+*These rules modifies Beyond 1st Level (PH, 15).*
 
 ### Inspiration
 
@@ -35,7 +35,7 @@ Inspiration may be handed out at any time at the DM's discretion. However, these
 - Solving problems in a unique, impressive, and clever way
 - Overcoming a significant challenge or minor milestone
 
-*These rule clarifies Inspiration (PH, 125).*
+*These rules clarifies Inspiration (PH, 125).*
 
 ### Getting Into and Out of Armor
 
@@ -97,7 +97,7 @@ Items that can be held in one hand use one slot. Items that require two hands to
 > **Examples of things that use 2 slots:**
 >
 > - two-handed weapons
-? - armor
+> - armor
 
 > **Alternate Option:** Simply use Variant: Encumbrance.
 
@@ -228,24 +228,16 @@ When a play session ends with the PCs in a dangerous location, time is paused un
 
 ### Common Races
 
-Generally, only the common races may be selected during character creation. These are: Dwarf, Elf, Halfling, Human.
-
-Uncommon races and races from the rules expansion may be used, subject to DM approval.
+Using races beyond the common races (Dwarf, Elf, Halfling, Human) is subject to DM approval.
 
 ### Feats
 
-Generally, feats are not allowed.
-
-Feats may be taken if they fit the core character concept, subject to DM approval.
+Taking feats is subject to DM approval.
 
 ### Multiclassing
 
-Generally, multiclassing is not allowed.
-
-Multiclassing may be allowed when it fits the core character concept, subject to DM approval.
+Multiclassing is subject to DM approval.
 
 ### Rules Expansion
 
-Generally, only options from the core rules may be selected.
-
-Options from the rules expansion may be used when they fit the core character concept, subject to DM approval.
+Only options from the core rules (PH, DMG, MM) and rules expansion (XGtE, TCoE, MotM) may be selected.
