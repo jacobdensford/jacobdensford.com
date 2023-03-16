@@ -277,6 +277,7 @@ More to come.
 - [Owlbear Rodeo](https://www.owlbear.rodeo/)
 - [Fari App](https://fari.app/)
 - [Role](https://www.playrole.com/)
+- [MapTool | Open source, self-hosted, VTT](https://www.rptools.net/toolbox/maptool/)
 
 ### Tools for Online Play
 
