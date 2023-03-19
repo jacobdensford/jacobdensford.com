@@ -297,3 +297,4 @@ More to come.
 - [Free League](https://freeleaguepublishing.com/)
 - [Stockholm Kartell](https://www.stockholmkartell.com/)
 - [Deernicorn Distro](https://heartofthedeernicorn.com)
+- [L.F. OSR](https://lfosr.com/)
