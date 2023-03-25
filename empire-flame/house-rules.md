@@ -5,7 +5,7 @@ link: '/empire-flame'
 image: url("/images/efimage.png")
 ---
 
-# House Rules v4.3
+# House Rules v4.4
 
 ## Modified Rules
 
@@ -92,7 +92,7 @@ Items that can be held in one hand use one slot. Items that require two hands to
 
 ### Saving Throws (PH, 179)
 
-If an effect grants a bonus to an ability check, be it numerical or advantage, that same bonus is applied to saving throws for that ability. In addition, if an effect grants a bonus to AC, that same bonus is applied to Dexterity saving throws.
+If an effect grants a bonus to an ability check, be it numerical or advantage, that same bonus is applied to saving throws for that ability. In addition, if an effect grants a bonus to AC, half that bonus is applied to Dexterity saving throws.
 
 ### Darkvision (PH, 183)
 
@@ -114,6 +114,10 @@ If the d20 roll for a saving throw is a natural 1, damage is dealt as a critical
 
 If the d20 roll for a saving throw is a natural 20, all harmful effects are avoided.
 
+### Grappling and Shoving (PH, 195)
+
+Grappling and shoving do not require the use of the attack action.
+
 ### Damage and Healing (PH, 196)
 
 Damage to hit points above half a character's hit point maximum is superficial, consisting of tiring cuts and bruises that leave no lasting signs of injury.
@@ -125,6 +129,10 @@ Once a character is bloodied, one use of a healer's kit must be applied to them 
 ### Critical Hits (PH, 196)
 
 A critical hit deals the maximum damage possible plus the result of rolling all the damage dice again.
+
+### Damage Resistance and Vulnerability (PH, 197)
+
+Damage resistances and and vulnerabilities stack when granted or imposed from differing sources. 
 
 ### Dropping to Zero Hit Points (PH, 197)
 
@@ -141,6 +149,8 @@ If a cost is listed for the material components needed for a spell, the listed c
 Spend 25 gp and eight hours per day to create 25 arcanium. Each day's gold requirement can be replaced with a successful DC 15 arcana check (or a related check using the appropriate skill for the caster or spell, such as religion for a cleric crafting a holy weapon). Arcanium can be used during short or long rests to create a desired magical item whose gold value matches the arcanium spent.
 
 ### Identifying a Magic Item (DMG, 136)
+
+*Use the variant rule: More Difficult Identification*
 
 ### Attunement (DMG, 136)
 
@@ -202,4 +212,4 @@ Multiclassing is discouraged but allowed.
 
 ### Rules Expansion
 
-Only options from the core rules (PH, DMG, MM) and rules expansion (XGtE, TCoE, MotM) may be used.
+Only options from the core rules (PH, DMG, MM) and rules expansion (XGtE, TCoE, MotM) may be used. Exceptions for options from other sources may be made at the DM's discretion.
