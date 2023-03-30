@@ -176,7 +176,7 @@ In the middle of the tavern sits an oaken table, upon which past adventurers hav
 
 To push a roll, a PC may gain one point of exhaustion to reroll their dice. They may keep rerolling and gaining additional points of exhaustion until they have six and begin making death saves.
 
-They may also push at death's door, marking a failed death save in exchange for staying conscious long enough to automatically succeed at one action. They may continue to push in this way until accumulating three failed death saves, at which point they die.
+They may also push at death's door, marking a failed death save in exchange for staying conscious long enough to make an additional reroll. They may continue to push in this way until accumulating three failed death saves, at which point they die.
 
 ### Time
 
