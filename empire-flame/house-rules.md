@@ -16,7 +16,7 @@ Rather than tracking experience points, leveling up happens after completing a n
 > **Alternate Option:** When you return to relative safety...
 >
 > - bearing significant plunder gained through deadly peril, or when you are paid for dangerous work, gain 1 XP per 1 gp of gold and treasure.
-> - having rescued an innocent or performed a heroic deed of note, gain 200 XP.
+> - having rescued an innocent or performed a heroic deed of note, gain your current level times 100 XP.
 > - after defeating monsters and overcoming traps, gain one tenth their listed XP.
 >
 > *When using this alternate option, humans are granted a 10% boost to XP gained.*
@@ -43,7 +43,7 @@ Advantage and disadvantage stack and cancel each other out, one for one.
 
 ### Proficiency Bonus (PH, 173)
 
-If a PC has both a skill and a tool proficiency that apply to a check, they may roll with advantage.
+If a PC has both a skill and a tool proficiency that apply to a check, they may roll with advantage. (XGtE, 78)
 
 ### Ability Checks (PH, 174)
 
@@ -65,7 +65,7 @@ Passive checks are not used. Instead, the DM will call for a roll when a check w
 
 ### Working Together (PH, 175)
 
-PCs can only help, granting a fellow PC advantage on a check, if they have proficiency in a relevant skill.
+PCs can only help, granting a fellow PC advantage on a check, if they have proficiency in a relevant skill or tool.
 
 ### Lifting and Carrying (PH, 176)
 
@@ -116,15 +116,15 @@ If the d20 roll for a saving throw is a natural 20, all harmful effects are avoi
 
 ### Grappling and Shoving (PH, 195)
 
-Grappling and shoving do not require the use of the attack action.
+Grappling and shoving do not require the use of the attack action. Instead, they are their own action.
 
 ### Damage and Healing (PH, 196)
 
 Damage to hit points above half a character's hit point maximum is superficial, consisting of tiring cuts and bruises that leave no lasting signs of injury.
 
-Damage to hit points below half a character's hit point maximum is more serious, representing injuries that may need medical attention. The character becomes **bloodied**—a condition that is visible to all.
+Damage to hit points below half a character's hit point maximum is more serious, representing injuries that may need medical attention. The character becomes **wounded**—a condition that is visible to all.
 
-Once a character is bloodied, one use of a healer's kit must be applied to them in order for them to naturally regain hit points using hit dice during a short or long rest, or regain hit dice during a long rest.
+Once a character is wounded, one use of a healer's kit must be applied to them in order for them to naturally regain hit points using hit dice during a short or long rest, or regain hit dice during a long rest.
 
 ### Critical Hits (PH, 196)
 
@@ -132,21 +132,13 @@ A critical hit deals the maximum damage possible plus the result of rolling all 
 
 ### Damage Resistance and Vulnerability (PH, 197)
 
-Damage resistances and and vulnerabilities stack when granted or imposed from differing sources. 
+Damage resistances and and vulnerabilities stack when granted or imposed from differing sources.
 
 ### Dropping to Zero Hit Points (PH, 197)
 
 Without the use of magic, stabilizing a creature requires one use of a healer's kit and a successful DC 10 Wisdom (Medicine) check. For each level of exhaustion, the DC increases by 5.
 
 When a PC fails a death saving throw, they gain one level of exhaustion.
-
-### Material Spell Components (PH, 203)
-
-If a cost is listed for the material components needed for a spell, the listed components may be replaced with that many gold pieces worth of arcanium.
-
-### Crafting Magic Items (DMG, 129)
-
-Spend 25 gp and eight hours per day to create 25 arcanium. Each day's gold requirement can be replaced with a successful DC 15 arcana check (or a related check using the appropriate skill for the caster or spell, such as religion for a cleric crafting a holy weapon). Arcanium can be used during short or long rests to create a desired magical item whose gold value matches the arcanium spent.
 
 ### Identifying a Magic Item (DMG, 136)
 
@@ -159,10 +151,6 @@ Characters can attune to a number of magical items equal to their proficiency bo
 ### Flanking (DMG, 251)
 
 *Use the optional rule: Flanking.*
-
-### Crafting Poisons (DMG, 258)
-
-To craft poisons, you must possess and be proficient with a poisoner's kit. Spend 25 gp and eight hours per day to create 25 toxium. Each day's gold requirement can be replaced with a successful DC 15 nature check. Toxium can be used during a short or long rest to create the desired poison whose gold value matches the toxium spent.
 
 ## Additional Rules
 
