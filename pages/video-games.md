@@ -15,6 +15,14 @@ date: 2022-10-14
 
 I'm never just playing one games. And I almost never finish any of them. But, right now, I'm periodically enjoying *Disco Elysium* and creeping my way through *Scorn*.
 
+## Tomb Raider (2013)
+
+**I recommend it.**
+
+## Dark Souls
+
+Dark Souls takes advantage of its medium to do things I've never seen in a game before. **I highly recommend it.**
+
 ## *Control*
 
 **I recommend it.**

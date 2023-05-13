@@ -233,11 +233,13 @@ More to come.
   - [Dungeondraft](https://dungeondraft.net/)
   - [mkhexgrid | A fully-configurable hex grid generator](https://www.nomic.net/~uckelman/mkhexgrid/)
   - [Hex Grid Generator](https://hexgridgenerator.github.io/)
+  - [Hex World Generator](https://tamas-rabel.github.io/hex_world_generator/hex_world_generator.html)
 
 ### World Building
 
 - [Fantasy Calendar](https://app.fantasy-calendar.com/)
 - [Rimspace Planet Generator](https://anodyneprintware.com/planets/)
+- [A Book of Creatures](https://abookofcreatures.com/)
 
 ### Adventure Planning
 
@@ -251,12 +253,13 @@ More to come.
 - [Hero Forge Custom Miniatures](https://www.heroforge.com/)
 - [Artbreeder](https://www.artbreeder.com/)
 
-### Dungeons & Dragons Specific Tools
+### Dungeons & Dragons 5E Specific Tools
 
 - [The Homebrewery | Make Custom Homebrew Content for D&D](https://homebrewery.naturalcrit.com/)
 - [D&D Beyond | An Official Digital Toolset for D&D](https://www.dndbeyond.com/)
 - [Kobold+ Fight Club | Plan D&D Encounters](https://koboldplus.club/)
 - [DiceCloud | Online Character Sheet](https://dicecloud.com/)
+- [Open5e | "best open-source resource for 5e content"](https://open5e.com/)
 
 ### Homebrewed Content for Indie TRPGS
 
@@ -299,3 +302,8 @@ More to come.
 - [Stockholm Kartell](https://www.stockholmkartell.com/)
 - [Deernicorn Distro](https://heartofthedeernicorn.com)
 - [L.F. OSR](https://lfosr.com/)
+
+### Game Design
+
+- [The Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Annotated%20Archives/)
+- [Into the Odd Exhibit | How to Lay Out Your RPG](https://www.explorersdesign.com/blogs/design-guide/layout-into-the-odd-rpg)
