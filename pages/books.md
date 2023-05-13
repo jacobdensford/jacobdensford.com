@@ -13,9 +13,13 @@ date: 2022-10-14
 
 This page is a response to me being dissatisfied with Goodreads and the like. I want a place to track the books I've read and show my recommendations, and I want it to be my own place. So, here it is: my own book place. Up first is what I'm currently reading, followed by the books I've read recently and recommend, and then my favorite books of all time. (I won't be posting about books I read and didn't like or books I didn't even finish. No need for all that negativity.)
 
-## Currently reading *Words of Radiance* by Brandon Sanderson
+## Currently reading...
 
-Just started reading this. It picks up only a few days after *Way of Kings*. Exciting!
+I dunno. Something soon, I suppose.
+
+## *Words of Radiance* by Brandon Sanderson
+
+I finished this book at the start of May, 2023. **I recommend it<sup><a href=#1down>*</a></sup>.**
 
 ## *Smith of Wootton Major* by J. R. R. Tolkien
 
