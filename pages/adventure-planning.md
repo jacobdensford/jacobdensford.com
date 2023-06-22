@@ -288,6 +288,11 @@ More to come.
 - [Kenku FM | Audio Sharing for Discord](https://www.kenku.fm/)
 - [Token Stamp](https://rolladvantage.com/tokenstamp/)
 
+### Finding Online Games
+
+- [StartPlaying](https://startplaying.games/)
+- [CRAWLR](https://crawlr.app/)
+
 ### Online Shared Dice Rollers
 
 - [dddice](https://dddice.com/)
@@ -307,3 +312,9 @@ More to come.
 
 - [The Annotated Archive of Game Design Resources](https://goblinarchives.github.io/LiminalHorror/Annotated%20Archives/)
 - [Into the Odd Exhibit | How to Lay Out Your RPG](https://www.explorersdesign.com/blogs/design-guide/layout-into-the-odd-rpg)
+
+### Forums
+
+- [The Gauntlet](https://forums.gauntlet-rpg.com/)
+- [The Cauldron](https://discourse.rpgcauldron.com/)
+- [OSR Pit](https://discourse.osrrpg.com/)

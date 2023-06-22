@@ -15,7 +15,13 @@ This page is a response to me being dissatisfied with Goodreads and the like. I 
 
 ## Currently reading...
 
-I dunno. Something soon, I suppose.
+*City of Illusions* by Ursula K. Le Guin, *Outhbringer* by Brandon Sanderson, and *Star Wars: The Rising Storm* by Cavan Scott.
+
+## *Planet of Exile* by Ursula K. Le Guin
+
+This was the second novel both in the Hainish Cycle (which doesn't actually exist—see ["In what order should I read the Ekumen, Earthsea, and Catwings books?" on this page](https://www.ursulakleguin.com/ursula-on-ursula)) and in the book *Three Hainish Novels*. (I read the first on both counts, *Rocannon's World*, a year or two ago and liked it fine.) It was such a fast read. But still impactful. I really felt the hate, love, and—most of all–snow. I liked it a lot.
+
+I read this story in June of 2023. **I recommend it.**
 
 ## *Words of Radiance* by Brandon Sanderson
 
@@ -37,7 +43,7 @@ I read this book in December, 2022. **I recommend it.**
 
 ## *Sea of Tranquility* by Emily St John Mandel
 
-Took a break from all the Brando Sando to read some more from Emily St John Mandel. I think I liked this book even more than her last book I read, *Station Eleven*. It was some elevated science fiction, for sure. All the seperate pieces came together perfectly in the end.
+Took a break from all the Brando Sando to read some more from Emily St John Mandel. I think I liked this book even more than her last book I read, *Station Eleven*. It was some elevated science fiction, for sure. All the separate pieces came together perfectly in the end.
 
 I read this book in December, 2022. **I strongly recommend it.**
 

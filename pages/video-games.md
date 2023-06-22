@@ -13,20 +13,52 @@ date: 2022-10-14
 
 ## Currently playing *Disco Elysium* and *Scorn*
 
-I'm never just playing one games. And I almost never finish any of them. But, right now, I'm periodically enjoying *Disco Elysium* and creeping my way through *Scorn*.
+I'm never just playing one games. And I almost never finish any of them. But, right now, I'm periodically enjoying *Disco Elysium*, *The Witcher 3*, and *Dark Souls II*.
+
+## Scorn
+
+This game is absolutely not for everyone. The puzzles were good. The combat not so much. Still liked it, though.
+
+Started sometime in 2022 and finished in June of 2023. **I recommend it.**
+
+## MINERVA: Metastasis
+
+A great unofficial addition to Half-Life.
+
+Played in June of 2023. **I recommend it.**
+
+## Jedi Knight: Jedi Academy
+
+Not sure why I waited so long to finally get into this. Great game. Best lightsaber combat ever. The multiplayer is really where the game shines, even today.
+
+Played in June of 2023. **I recommend it.**
+
+## Jedi Knight II: Jedi Outcast
+
+Jedi Outcast is a pretty good game, even twenty years later. The gunplay is rough and swimming is dumb, but the lightsaber combat and force powers are fun. And I enjoyed the occasional puzzle.
+
+Played in June of 2023. **I recommend it.**
 
 ## Tomb Raider (2013)
 
-**I recommend it.**
+This is a game like games used to be games.
+
+Played in May of 2023. **I recommend it.**
 
 ## Dark Souls
 
-Dark Souls takes advantage of its medium to do things I've never seen in a game before. **I highly recommend it.**
+Dark Souls takes advantage of its medium to do things I've never seen in a game before.
+
+Played in the spring of 2023. **I highly recommend it.**
 
 ## *Control*
 
-**I recommend it.**
+Compelling story and even better gameplay.
+
+Played in the first few months of 2023. **I recommend it.**
 
 ## *Celeste*
 
-Played off and on for most of 2022. It's a challanging platformer with a heartwarming, if a little weak, story. **I recommend it.**
+It's a challenging platformer with a heartwarming, if a little weak, story.
+
+Played off and on for most of 2022. **I recommend it.**

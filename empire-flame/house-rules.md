@@ -5,7 +5,7 @@ link: '/empire-flame'
 image: url("/images/efimage.png")
 ---
 
-# House Rules v4.4
+# House Rules v4.5
 
 ## Modified Rules
 
@@ -19,6 +19,8 @@ Rather than tracking experience points, leveling up happens after completing a n
 > - having rescued an innocent or performed a heroic deed of note, gain your current level times 100 XP.
 > - after defeating monsters and overcoming traps, gain one tenth their listed XP.
 >
+> Additionally, gain your currently level times 100 XP for playing a session.
+>
 > *When using this alternate option, humans are granted a 10% boost to XP gained.*
 
 When granted an ability score improvement class feature on any level other than 4th, 8th, 12th, 16th, or 19th, it must be used for improving one of the class's primary abilities or starting saving throw proficient abilities (PH, 45).
@@ -29,13 +31,13 @@ Inspiration may be spent to gain advantage on an attack role, save, or ability c
 
 Inspiration may be handed out at any time at the DM's discretion. However, these situations grant inspiration more often:
 
-- Acting out personality traits, ideals, bonds, or flaws, especially when such actions put characters in harm's way
-- Solving problems in a unique, impressive, and clever way
-- Overcoming a significant challenge or minor milestone
+- Acting out personality traits, ideals, bonds, or flaws, especially when such actions put characters in harm's way.
+- Solving problems in a unique, impressive, and clever way.
+- Overcoming a significant challenge or minor milestone.
 
 ### Getting Into and Out of Armor (PH, 146)
 
-Donning and Doffing a shield only takes a bonus action.
+Donning or Doffing a shield only takes a bonus action.
 
 ### Advantage and Disadvantage (PH, 173)
 
@@ -80,7 +82,6 @@ Items that can be held in one hand use one slot. Items that require two hands to
 > - 5 daggers
 > - 250 coins
 > - 25 pieces of jewelry or gemstones
-> - 25 arcanium or toxium
 > - 20 arrows in a quiver
 >
 > **Examples of things that use 2 slots:**
@@ -105,6 +106,10 @@ A character may spend one hit die after each hour of rest during a short or long
 ### Bonus Actions (PH, 189)
 
 Usually, any single small interaction that doesn't require a roll may be performed for free during an encounter as part of your movement and action. To do more, a bonus action may be used. A bonus action may also be used to perform any proficient skill checks.
+
+### Disengage (PH, 192)
+
+Instead of spending an action to disengage, you may choose to make a fighting retreat, expending half your movement speed.
 
 ### Rolling 1 or 20 (PH, 194)
 
@@ -132,7 +137,7 @@ A critical hit deals the maximum damage possible plus the result of rolling all 
 
 ### Damage Resistance and Vulnerability (PH, 197)
 
-Damage resistances and and vulnerabilities stack when granted or imposed from differing sources.
+Damage resistances and vulnerabilities stack when granted or imposed from differing sources.
 
 ### Dropping to Zero Hit Points (PH, 197)
 
