@@ -15,7 +15,25 @@ This page is a response to me being dissatisfied with Goodreads and the like. I 
 
 ## Currently reading...
 
-*City of Illusions* by Ursula K. Le Guin, *Outhbringer* by Brandon Sanderson, and *Star Wars: The Rising Storm* by Cavan Scott.
+*City of Illusions* by Ursula K. Le Guin, *Outhbringer* by Brandon Sanderson, and *Dark Force Rising* by Timothy Zahn.
+
+## *Star Wars: Heir to the Empire* by Timothy Zahn
+
+What a fantastic start to the Star Wars Expanded Universe. Zahn really captured the characters from the films and successfully brought them to the page. And, somehow, made his new characters just as compelling, if not more so.
+
+I read this book in the middle of July, 2023. **I recommend it.**
+
+## *Star Wars: The Rising Storm* by Cavan Scott
+
+I read this book in the middle of July, 2023. **I recommend it.**
+
+## *X-Wing: Rogue Squadron* by Michael Stackpole
+
+I read this book at the beginning of July, 2023. **I recommend it.**
+
+## *The City & the City* by China Miéville
+
+I read this book at the beginning of July, 2023. **I recommend it.**
 
 ## *Planet of Exile* by Ursula K. Le Guin
 

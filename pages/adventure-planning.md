@@ -246,6 +246,7 @@ More to come.
 - [Sigil Generator by watabou](https://watabou.itch.io/sigil-generator)
 - [Rune Generator by watabou](https://watabou.itch.io/rune-generator)
 - [donjon; RPG Tools](https://donjon.bin.sh/)
+- [The Lazy GM's Resource Document](https://slyflourish.com/lazy_gm_resource_document.html)
 
 ### Characters
 
