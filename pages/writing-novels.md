@@ -104,6 +104,7 @@ I currently use [**Scivener**](https://www.literatureandlatte.com/scrivener/over
   - [Caret](https://caret.io/)
   - [Mark Text](https://marktext.app/)
   - [novelWriter](https://novelwriter.io/)
+  - [Manuskript](http://www.theologeek.ch/manuskript/)
 
 - **Cross-Platform Writing Apps**
   - [iA Writer](https://ia.net/writer/)

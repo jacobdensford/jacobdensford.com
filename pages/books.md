@@ -15,7 +15,25 @@ This page is a response to me being dissatisfied with Goodreads and the like. I 
 
 ## Currently reading...
 
-*City of Illusions* by Ursula K. Le Guin, *Outhbringer* by Brandon Sanderson, and *Dark Force Rising* by Timothy Zahn.
+*Outhbringer* by Brandon Sanderson and *The Truce at Bakura* by Kathy Tyers.
+
+## *City of Illusions* by Ursula K. Le Guin
+
+I read this book at the end of September, 2023. **I recommend it.**
+
+## *The Likeness* by Tana French
+
+I read this book at the end of August, 2023. **I recommend it.**
+
+## *Star Wars: The Last Command* by Timothy Zahn
+
+This book concludes the original Thrawn trilogy that kicked off the Star Wars Expanded Universe back in the early 90s. I loved it.
+
+I read this book in the middle of August, 2023. **I recommend it.**
+
+## *Star Wars: Dark Force Rising* by Timothy Zahn
+
+I read this book at the end of July, 2023. **I recommend it.**
 
 ## *Star Wars: Heir to the Empire* by Timothy Zahn
 
