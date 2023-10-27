@@ -15,7 +15,13 @@ This page is a response to me being dissatisfied with Goodreads and the like. I 
 
 ## Currently reading...
 
-*Outhbringer* by Brandon Sanderson and *The Truce at Bakura* by Kathy Tyers.
+*Outhbringer* by Brandon Sanderson and *Hilde* by Nicola Griffith.
+
+## *The Truce at Bakura* by Kathy Tyers
+
+As I continue reading through all the old Expanded Universe Star Wars novels in release order, I reach the first speedbump. This book was not as good as the original Thrawn trilogy. Not even close. But it wasn't terrible. Still, probably only worth reading if you're doing something weird like reading through all the old Expanded Universe Star Wars novels in release order.
+
+I read this book in October 2023. **I don't recommend it.**
 
 ## *City of Illusions* by Ursula K. Le Guin
 
