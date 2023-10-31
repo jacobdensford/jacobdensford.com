@@ -10,7 +10,7 @@ layout: main.njk
 
 # Centauri Womb
 
-*A freelance spaceship captain on the verge of losing everything embarks on a mission to solve a decades-old mystery; but when she is trapped on a hostile planet with little hope of escape, she must learn to accept the mistakes of her past before they define her future.*
+*In a not-too-distant future where mega-corporations and multi-planetary governments wage a cold war for control of humanity, a down on her luck freelance spaceship captain and recently disinherited playboy embark on a mission to solve a centuries-old mystery surrounding the loss of an ancient generation ship; but when they’re trapped on a hostile planet and confronted by a mysterious microorganism, a corrupt prince seeking to rule the galaxy, and an ancient power with unknown machinations, they must learn to come to terms with the past or risk it defining the future.*
 
 ## What
 
@@ -18,4 +18,4 @@ Centauri Womb is a science fiction novel.
 
 ## Status
 
-I’m about two thirds of the way through the second draft. Trying really hard to finish by the end of the year, but we’ll see.
+I’m just starting on the third draft, which I hope to finish by the end of the year (2023).
