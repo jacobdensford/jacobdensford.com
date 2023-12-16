@@ -234,6 +234,8 @@ More to come.
   - [mkhexgrid | A fully-configurable hex grid generator](https://www.nomic.net/~uckelman/mkhexgrid/)
   - [Hex Grid Generator](https://hexgridgenerator.github.io/)
   - [Hex World Generator](https://tamas-rabel.github.io/hex_world_generator/hex_world_generator.html)
+  - [HEXROLL | Roll your own sandbox](https://hexroll.app/)
+  - [NEWT Blueprint Builder](https://delacannon.itch.io/newt-blueprint-builder)
 
 ### World Building
 
