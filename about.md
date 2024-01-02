@@ -5,7 +5,7 @@ title: About
 
 # About
 
-![A picture of me standing by my Prius and holding a Jar Jar Binks tiki mug.](/images/jarjarmug.png)
+![A picture of me sitting on a wooden bench next to some pine tree trimmings.](/images/jacobwinter.jpg)
 
 I’m a writer and game designer who has yet to finish anything, currently dwelling in the foothills of Appalachia.
 
