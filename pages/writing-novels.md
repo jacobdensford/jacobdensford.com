@@ -156,7 +156,3 @@ I currently use [**Scivener**](https://www.literatureandlatte.com/scrivener/over
 - [Noisli](https://www.noisli.com/)
 - [Tabletop Audio](https://tabletopaudio.com/)
 - [Rainy Mood](http://rainymood.com/)
-
-## Cover Art
-
-- [Ganbreeder](https://ganbreeder.app/)/[ArtBreeder](https://www.artbreeder.com/)
