@@ -5,23 +5,30 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'ITC Serif Gothic Heavy';
+    src: url('/fonts/itc_serif_gothic_heavy-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
 :root {
-  --background-color: #ffffff;
-  --title-color: #000000;
-  --title-hover-color: #000000;
-  --nav-color: #000000;
-  --nav-hover-color: #000000;
+  --background-color: #fff8e7;
+  --title-color: #1c1b19;
+  --title-hover-color: #1c1b19;
+  --nav-color: #1c1b19;
+  --nav-hover-color: #006c67;
   --nav-font: 'alte_haas_grotesk', sans-serif;
-  --text-color: #000000;
-  --link-color: #000000;
-  --link-hover-color: #000000;
-  --accent-color: #000000;
-  --accent-color-2: #ffffff;
-  --accent-color-3: #000000;
-  --accent-color-4: #ffffff;
+  --text-color: #1c1b19;
+  --link-color: #1c1b19;
+  --link-hover-color: #c15300;
+  --accent-color: #1c1b19;
+  --accent-color-2: #fff8e7;
+  --accent-color-3: #006c67;
+  --accent-color-4: #c15300;
   --title-transform: uppercase;
   --title-font-size: 3.7rem;
-  --title-font: 'alte_haas_grotesk', sans-serif;
+  --title-font: 'ITC Serif Gothic Heavy', sans-serif;
   --heading-font: 'alte_haas_grotesk', sans-serif;
   --main-font: 'cmu_typewriter_text', Courier, 'Courier New', monospace;
   --letter-font: 'Lapti Nek', sans-serif;
