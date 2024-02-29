@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'breathe_fire_iiiregular';
-    src: url('/fonts/breathefireiii-pklob-webfont.woff2') format('woff2');
+    font-family: 'ITC Serif Gothic Heavy';
+    src: url('/fonts/itc_serif_gothic_heavy-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -34,26 +34,27 @@
 }
 
 :root {
-  --background-color: #ffffff;
+  --background-color: #fff8e7;
   --title-color: #e40712;
   --title-hover-color: #e40712;
-  --nav-color: #000000;
+  --nav-color: #1c1b19;
   --nav-hover-color: #e40712;
   --nav-font: 'alte_haas_grotesk', sans-serif;
-  --text-color: #000000;
-  --link-color: #000000;
+  --text-color: #1c1b19;
+  --link-color: #1c1b19;
   --link-hover-color: #e40712;
-  --accent-color: #000000;
-  --accent-color-2: #ffffff;
+  --accent-color: #1c1b19;
+  --accent-color-2: #fff8e7;
   --accent-color-3: #e40712;
-  --accent-color-4: #ffffff;
+  --accent-color-4: #fff8e7;
   --title-transform: uppercase;
   --title-font-size: 3.7rem;
-  --title-font: 'breathe_fire_iiiregular', sans-serif;
+  --title-font: 'ITC Serif Gothic Heavy', sans-serif;
   --heading-font: 'alte_haas_grotesk', sans-serif;
-  --main-font: 'averia_serif_libre', Courier, 'Courier New', monospace;
-  --letter-font: 'breathe_fire_iiiregular', sans-serif;
+  --main-font: 'averia_serif_libre', serif;
+  --letter-font: 'ITC Serif Gothic Heavy', sans-serif;
   --cirlce-background-image: none;
   --circle-font-size: 3.5rem;
   --cirlce-text-align: center;
+  --shadow-color: #1c1b19;
 }
