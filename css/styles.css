@@ -111,9 +111,6 @@ footer > p {
   width: 4rem;
   height: 4rem;
   line-height: 4.5rem;
-  position: absolute;
-  top: 1.5rem;
-  left: 1.5rem;
 }
 
 .return-home a:link,
@@ -233,4 +230,9 @@ footer > h1 > a:active {
     width: 700px;
   }
 
+  .return-home a {
+    position: absolute;
+    top: 1.5rem;
+    left: 1.5rem;
+  }
 }
