@@ -1,4 +1,11 @@
 @font-face {
+    font-family: 'Lapti Nek';
+    src: url('/fonts/laptinekaf-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'alte_haas_grotesk';
     src: url('/fonts/altehaasgroteskbold-webfont.woff2') format('woff2');
     font-weight: bold;
@@ -91,6 +98,35 @@ footer > p {
   font-style: italic;
 }
 
+.return-home a {
+  background-color: #1c1b19;
+  font-family: 'Lapti Nek', sans-serif;
+  text-decoration: none;
+  border: none;
+  border-radius: 50%;
+  margin: 0.5rem;
+  display: inline-block;
+  text-align: center;
+  font-size: 2.2rem;
+  width: 4rem;
+  height: 4rem;
+  line-height: 4.5rem;
+  position: absolute;
+  top: 1.5rem;
+  left: 1.5rem;
+}
+
+.return-home a:link,
+.return-home a:visited {
+  color: #fff8e7;
+}
+
+.return-home a:hover,
+.return-home a:active {
+  background-color: #006c67;
+  color: #c15300;
+}
+
 .lastdate {
   font-family: var(--heading-font);
   font-size: 1rem;
@@ -175,7 +211,7 @@ footer > h1 > a {
   text-align: var(--circle-text-align);
   font-size: var(--circle-font-size);
   width: 8rem;
-  line-height: 8rem;
+  line-height: var(--circle-line-height);
 }
 
 footer > h1 > a:link,
@@ -187,7 +223,7 @@ footer > h1 > a:hover,
 footer > h1 > a:active {
   background-color: var(--accent-color-3);
   background-image: var(--cirlce-background-image);
-  color: var(--accent-color-4)
+  color: var(--accent-color-4);
 }
 
 @media only screen and (min-width: 700px) {
