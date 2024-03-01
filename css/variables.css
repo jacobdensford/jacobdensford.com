@@ -45,11 +45,13 @@
   --title-color: #1c1b19;
   --title-hover-color: #1c1b19;
   --nav-color: #1c1b19;
-  --nav-hover-color: #006c67;
+  --nav-hover-color: #fff8e7;
+  --nav-hovor-background-color: #006c67;
   --nav-font: 'alte_haas_grotesk', sans-serif;
   --text-color: #1c1b19;
   --link-color: #1c1b19;
-  --link-hover-color: #c15300;
+  --link-hover-color: #fff8e7;
+  --link-hovor-background-color: #c15300;
   --accent-color: #1c1b19;
   --accent-color-2: #fff8e7;
   --accent-color-3: #006c67;
