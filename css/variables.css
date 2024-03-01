@@ -1,11 +1,4 @@
 @font-face {
-    font-family: 'Lapti Nek';
-    src: url('/fonts/laptinekaf-webfont.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
     font-family: 'ITC Serif Gothic Heavy';
     src: url('/fonts/itc_serif_gothic_heavy-webfont.woff2') format('woff2');
     font-weight: normal;
@@ -65,5 +58,6 @@
   --cirlce-background-image: none;
   --circle-font-size: 4.5rem;
   --cirlce-text-align: center;
+  --circle-line-height: 10rem;
   --shadow-color: rgba(0, 0, 0, 0.1);
 }
