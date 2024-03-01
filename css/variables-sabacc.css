@@ -5,16 +5,46 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmunit-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmuntb-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmuntt-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cmu_typewriter_text';
+    src: url('/fonts/cmuntx-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
 :root {
   --background-color: #fff8e7;
   --title-color: #2e8ba0;
   --title-hover-color: #2e8ba0;
   --nav-color: #1c1b19;
-  --nav-hover-color: #2e8ba0;
+  --nav-hover-color: #fff8e7;
+  --nav-hovor-background-color: #2e8ba0;
   --nav-font: 'alte_haas_grotesk', sans-serif;
   --text-color: #1c1b19;
   --link-color: #1c1b19;
-  --link-hover-color: #2e8ba0;
+  --link-hover-color: #fff8e7;
+  --link-hovor-background-color: #2e8ba0;
   --accent-color: #1c1b19;
   --accent-color-2: #fff8e7;
   --accent-color-3: #2e8ba0;

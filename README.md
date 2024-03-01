@@ -26,6 +26,7 @@ This website was crafted by hand in [Atom](https://atom.io/) and generated using
 - Rework homepage to link to and better represent the several different aspects of my "work".
 - Fix tables
 - Fix blockquotes
+- Add floating button to return to homepage.
 
 ## Learn
 

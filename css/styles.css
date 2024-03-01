@@ -12,34 +12,6 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'cmu_typewriter_text';
-    src: url('/fonts/cmunit-webfont.woff2') format('woff2');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'cmu_typewriter_text';
-    src: url('/fonts/cmuntb-webfont.woff2') format('woff2');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'cmu_typewriter_text';
-    src: url('/fonts/cmuntt-webfont.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'cmu_typewriter_text';
-    src: url('/fonts/cmuntx-webfont.woff2') format('woff2');
-    font-weight: bold;
-    font-style: italic;
-}
-
 html {
   scroll-behavior: smooth;
 }
@@ -136,6 +108,8 @@ a:visited {
 a:hover,
 a:active {
   color: var(--link-hover-color);
+  background-color: var(--link-hovor-background-color);
+  text-decoration: none;
 }
 
 nav > ul {
@@ -173,7 +147,8 @@ header > h1 > a {
 nav > ul > li > a:hover,
 nav > ul > li > a:active {
   color: var(--nav-hover-color);
-  text-decoration: underline;
+  background-color: var(--nav-hovor-background-color);
+  text-decoration: none;
 }
 
 
