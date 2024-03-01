@@ -111,6 +111,9 @@ footer > p {
   width: 4rem;
   height: 4rem;
   line-height: 4.5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .return-home a:link,
