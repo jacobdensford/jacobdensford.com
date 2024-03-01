@@ -56,5 +56,5 @@
   --cirlce-background-image: none;
   --circle-font-size: 3.5rem;
   --cirlce-text-align: center;
-  --shadow-color: #1c1b19;
+  --shadow-color: rgba(0, 0, 0, 0.1);
 }
