@@ -11,7 +11,7 @@ date: 2022-04-30 12:00:00 -4
 
 # Fast Cars with Fangs and Family
 
-*There's nothing more import than family. Except maybe blood.*
+*There's nothing more important than family. Except maybe blood.*
 
 ## What
 
