@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'altenglisch';
+    src: url('/fonts/altenglisch.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'averia_serif_libre';
+    src: url('/fonts/averiaseriflibre-light-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'averia_serif_libre';
+    src: url('/fonts/averiaseriflibre-italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'averia_serif_libre';
+    src: url('/fonts/averiaseriflibre-bolditalic-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'averia_serif_libre';
+    src: url('/fonts/averiaseriflibre-bold-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+:root {
+  --background-color: #fff8e7;
+  --title-color: #1c1b19;
+  --title-hover-color: #1c1b19;
+  --nav-color: #1c1b19;
+  --nav-hover-color: #63d2ac;
+  --nav-font: 'alte_haas_grotesk', sans-serif;
+  --text-color: #1c1b19;
+  --link-color: #1c1b19;
+  --link-hover-color: #63d2ac;
+  --accent-color: #fff8e7;
+  --accent-color-2: #fff8e7;
+  --accent-color-3: #e55934;
+  --accent-color-4: #fff8e7;
+  --title-transform: none;
+  --title-font: 'altenglisch', sans-serif;
+  --title-font-size: 5.5rem;
+  --heading-font: 'alte_haas_grotesk', sans-serif;
+  --main-font: 'averia_serif_libre', serif;
+  --letter-font: 'altenglisch', sans-serif;
+  --cirlce-background-image: none;
+  --circle-font-size: 4.5rem;
+  --cirlce-text-align: center;
+  --shadow-color: #1c1b19;
+}

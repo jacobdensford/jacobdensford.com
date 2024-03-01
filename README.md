@@ -5,6 +5,7 @@ This website was crafted by hand in [Atom](https://atom.io/) and generated using
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8167ff8f-a9c5-4327-8e0b-ea0e84056bdb/deploy-status)](https://app.netlify.com/sites/flourishing-sunflower-497834/deploys)
 
 ## Todo
+
 - Fix bolded text.
 - Reincorporate tags.
 - Add "Now" page.
@@ -22,15 +23,19 @@ This website was crafted by hand in [Atom](https://atom.io/) and generated using
 - Figure out how to automatically display webmentions under my posts, and design a format for them.
 - Figure out how to automatically display backlinks under my pages, and design a format for them.
 - Make a super lightweight version and self-host it.
-- Rework homepage to link to and better represent the several different aspects of my "work"
+- Rework homepage to link to and better represent the several different aspects of my "work".
+- Fix tables
+- Fix blockquotes
 
 ## Learn
+
 - [HTML simple tips and tricks for your website](https://thomasorus.com/html-tips.html)
 - [MDN](https://developer.mozilla.org/en-US/) (I'm on the CSS section)
 - [Interneting is Hard](https://www.internetingishard.com/) (I'm done!)
 - [cssreference.io](https://cssreference.io/)
 
 ## Tools
+
 - [Dither It!](https://ditherit.com/)
 - [TinyPNG](https://tinypng.com/)
 - [Layout Builder](https://sadgrl.online/projects/layout-builder/)
