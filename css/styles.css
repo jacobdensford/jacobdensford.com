@@ -211,6 +211,7 @@ footer > h1 > a {
   text-align: var(--circle-text-align);
   font-size: var(--circle-font-size);
   width: 8rem;
+  height: 8rem;
   line-height: var(--circle-line-height);
 }
 
@@ -231,3 +232,5 @@ footer > h1 > a:active {
   body {
     width: 700px;
   }
+
+}
