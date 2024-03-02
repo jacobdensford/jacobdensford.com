@@ -4,7 +4,7 @@ title: 'Classes'
 link: '/fell'
 ---
 
-# classes
+# Classes
 
 Instead of a background, you may gain a **class**. If you do so, whenever the rules refer to your background, instead use your class. You're attributes must be such that they can be modified by the class. Roll d4 or choose a **class**:
 

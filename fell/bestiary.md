@@ -4,7 +4,7 @@ title: 'Bestiary'
 link: '/fell'
 ---
 
-# bestiary
+# Bestiary
 
 **Beasts and beings** have a name, a description, and a drive. Unless otherwise noted, they have 4 HP, 0 A, and d6 attributes.
 If they are…

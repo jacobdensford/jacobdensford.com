@@ -4,7 +4,7 @@ title: 'Creating a Character'
 link: '/fell'
 ---
 
-# creating-a-character
+# Creating a Character
 
 Roll for your **[name](/fell/tables/#names)**.
 

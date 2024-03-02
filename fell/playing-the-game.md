@@ -4,7 +4,7 @@ title: 'Playing the Game'
 link: '/fell'
 ---
 
-# playing-the-game
+# Playing the Game
 
 ## Tasks
 
