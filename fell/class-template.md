@@ -4,7 +4,7 @@ title: 'Class Template'
 link: '/fell'
 ---
 
-# class-template
+# Class Template
 
 *Evocative class description.*
 

@@ -4,7 +4,7 @@ title: 'Running the Game'
 link: '/fell'
 ---
 
-# running-the-game
+# Running the Game
 
 ## Time Die
 

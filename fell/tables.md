@@ -4,7 +4,7 @@ title: 'Tables'
 link: '/fell'
 ---
 
-# tables
+# Tables
 
 <h2 id="drives">Drives</h2>
 

@@ -4,7 +4,7 @@ title: 'Downloads'
 link: '/fell'
 ---
 
-# downloads
+# Downloads
 
 [Download Fell here](/files/Fell.pdf).
 

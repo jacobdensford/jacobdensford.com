@@ -4,7 +4,7 @@ title: 'Modules'
 link: '/fell'
 ---
 
-# modules
+# Modules
 
 ## 1. [Degaré House](/fell/modules/degare-house)
 
