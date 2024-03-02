@@ -19,8 +19,8 @@ layout: main.njk
 
 ## What
 
-*Fell* is a [tabletop roleplaying game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) in the [new](https://newschoolrevolution.com/2022/05/04/the-new-new-school-revolution) [old-school](https://en.wikipedia.org/wiki/Old_School_Renaissance) tradition for two or more players, inspired by [Into the Odd](https://freeleaguepublishing.com/en/games/into-the-odd/) by [Chris McDowall](https://www.bastionland.com/), [Knave](https://questingbeast.itch.io/knave) by [Ben Milton](http://questingblog.com/), [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/), and [Trophy](https://trophyrpg.com/) by [Jesse Ross](https://jesseross.com/), among many other games.
+*[Fell](/fell)* is a [tabletop roleplaying game](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) in the [new](https://newschoolrevolution.com/2022/05/04/the-new-new-school-revolution) [old-school](https://en.wikipedia.org/wiki/Old_School_Renaissance) tradition for two or more players, inspired by [Into the Odd](https://freeleaguepublishing.com/en/games/into-the-odd/) by [Chris McDowall](https://www.bastionland.com/), [Knave](https://questingbeast.itch.io/knave) by [Ben Milton](http://questingblog.com/), [Cairn](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/), and [Trophy](https://trophyrpg.com/) by [Jesse Ross](https://jesseross.com/), among many other games.
 
 ## Status
 
-I’ve taken this project as far as it will go. I'm happy with how it turned out for what it is. But it isn't exactly what I wanted it to be when I started. You can [download it here](/files/Fell.pdf).
+I’ve taken this project as far as it will go. I'm happy with how it turned out for what it is. But it isn't exactly what I wanted it to be when I started. You can [view the rules online here](/fell) or [download it here](/files/Fell.pdf).
