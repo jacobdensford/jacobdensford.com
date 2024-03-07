@@ -201,6 +201,7 @@ header > h1 > a:active {
 }
 
 footer > h1 > a {
+  background-image: var(--cirlce-background-image);
   background-color: var(--accent-color);
   font-family: var(--letter-font);
   text-decoration: none;
@@ -222,8 +223,8 @@ footer > h1 > a:visited {
 
 footer > h1 > a:hover,
 footer > h1 > a:active {
+  background-image: var(--cirlce-background-image-hover);
   background-color: var(--accent-color-3);
-  background-image: var(--cirlce-background-image);
   color: var(--accent-color-4);
 }
 

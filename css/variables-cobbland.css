@@ -39,7 +39,7 @@
   --title-hover-color: #1c1b19;
   --nav-color: #1c1b19;
   --nav-hover-color: #fff8e7;
-  --nav-hovor-background-color: #63d2ac;
+  --nav-hovor-background-color: #e55934;
   --nav-font: 'alte_haas_grotesk', sans-serif;
   --text-color: #1c1b19;
   --link-color: #1c1b19;
@@ -55,7 +55,8 @@
   --heading-font: 'alte_haas_grotesk', sans-serif;
   --main-font: 'averia_serif_libre', serif;
   --letter-font: 'altenglisch', sans-serif;
-  --cirlce-background-image: none;
+  --cirlce-background-image: url(/images/cobbland-swan-dark.png);
+  --cirlce-background-image-hover: url(/images/cobbland-swan-light.png);
   --circle-font-size: 4.5rem;
   --cirlce-text-align: center;
   --circle-line-height: 8rem;
