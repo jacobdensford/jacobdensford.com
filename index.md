@@ -24,6 +24,6 @@ I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my w
 
 ## Stay up to date
 
-Sign up for [my newsletter](https://buttondown.email/jacobdensford) and follow this website’s [RSS feed](/feed.xml).
+Sign up for [my newsletter](/newsletter) and follow this website’s [RSS feed](/feed.xml).
 
 </section>
