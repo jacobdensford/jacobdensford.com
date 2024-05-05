@@ -7,7 +7,7 @@ title: Orbital Detritus
 
 # Orbital Detritus
 
-Enter your email in the form below to sign up for my newsletter, Orbital Detritus. (Or, if you prefer, follow [the newsletter's RSS feed](https://buttondown.email/jacobdensford/rss).)
+Enter your email in the form below to sign up for my newsletter, Orbital Detritus. (Or, if you prefer, follow the newsletter's [RSS feed](https://buttondown.email/jacobdensford/rss).)
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/jacobdensford"
