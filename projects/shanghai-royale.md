@@ -13,7 +13,7 @@ layout: main.njk
 A card game using standard Shanghai rules with the following exceptions:
 
 - Up to sixteen players may play at once using one deck per two players (rounded up).
-- At the end of each hand, players are eliminated using the chosen elimination rules (see below).
+- At the end of each hand, players are eliminated using the chosen elimination rules (see below) until only four players remain.
 - As players are eliminated, the number of decks used is reduced. (Each deck should have a different backing for easy removal.)
 
 ## Elimination Rules
@@ -26,7 +26,7 @@ Players are eliminated for having more points than the number of completed hands
 
 ### Highest Score
 
-Players with the highest scores are eliminated at a rate that leaves four players playing the last hand.
+Players with the highest scores are eliminated at a rate that leaves the appropriate number of players playing the last hand.
 
 ### Sudden Death
 
@@ -36,9 +36,9 @@ All players caught are eliminated.
 
 Choose none, one, or a combination of alternative rules before the game begins.
 
-### Assassination
+### Blade of Fools
 
-Cards played on a down hand by other players add to the played upon player’s points as follows: 0 points for 2–9, 5 points for 10–king, 10 points for aces, 20 points for jokers. These cards should be played sideways to differentiate them.
+Jokers may be played face up and sideways in front of a player at any time, each increasing that player’s points gained that hand by 20.
 
 ### Corrected Hand Order
 
@@ -46,7 +46,7 @@ The order of hands is: 2S, 2R, 1S1R, 2S1R, 1S2R, 3S, 3R.
 
 ### Down is Out
 
-As soon as on player goes down, the hand is over.
+As soon as one player goes down, the hand is over.
 
 ### Extra Hand
 
@@ -58,11 +58,19 @@ Rather than playing down to two decks and the corresponding number of players, t
 
 ### Fool’s Protection
 
-Jokers may be played face up in front of a player at any time, each reducing the points gained that hand by 10 points.
+Jokers may be played face up in front of a player at any time, each reducing the points gained that hand by 20.
 
 ### Half Game
 
 Only play the first four hands.
+
+### Last Hand
+
+When only the final players remain, the first to go down wins the game.
+
+### No Funny Business
+
+Jokers are not used.
 
 ### Persistent Jokers
 
