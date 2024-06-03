@@ -18,4 +18,4 @@ Centauri Womb is a science fiction novel.
 
 ## Status
 
-I’m just starting on the third draft, which I hope to finish by the end of the year (2023).
+I’m about a fifth of the way through the third draft, which I hope to finish by the end of the year (2024).

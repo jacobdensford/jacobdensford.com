@@ -15,6 +15,12 @@ date: 2022-10-14
 
 I'm never just playing one game. And I almost never finish any of them. But, right now, I'm periodically enjoying *Disco Elysium*, *The Witcher 3*, and *Baldur's Gate 3*.
 
+## *Mortal Shell*
+
+It's like tighter Dark Souls with a few things done better and a few things done not as good. I liked it.
+
+Played in May 2024. **I recommend it.**
+
 ## *Scorn*
 
 This game is absolutely not for everyone. The puzzles were good. The combat not so much. Still liked it, though.
