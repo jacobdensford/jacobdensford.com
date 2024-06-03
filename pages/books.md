@@ -13,7 +13,27 @@ date: 2022-10-14
 
 ## Currently reading...
 
-*Outhbringer* by Brandon Sanderson and *Hilde* by Nicola Griffith.
+*Star Wars: Jedi Search* by Kevin J Anderson and *A Memory Called Empire* by Arkady Martine.
+
+## Read in 2024
+
+### *Fluent Forever* by Gabriel Wyner
+
+I finished this book at the end of May, 2024. **I recommend it**.
+
+### *Oathbringer* by Brandon Sanderson
+
+I finished this book at the start of April, 2024. **I recommend it<sup><a href=#1down>*</a></sup>.**
+
+### *The Fallbacks: Bound for Ruin* by Jaleigh Johnson
+
+This was a fun, if predictable, read. It had a lot of the same vibes as the D&D movie. The characters and their interactions with each other were enjoyable.
+
+I read this book in March, 2024. **I recommend it.**
+
+### *Hild* by Nicola Griffith
+
+I started this book when it first came out and finished it almost a decade later, in February, 2024. **I recommend it.**
 
 ## Read in 2023
 

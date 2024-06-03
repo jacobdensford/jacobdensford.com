@@ -1,7 +1,7 @@
 ---
 title: Shanghai Royale
 url: /projects/shanghai-royale/
-date: 2024-05-04
+date: 2024-05-12
 tags:
   - projects
   - games
@@ -9,6 +9,8 @@ layout: main.njk
 ---
 
 # Shanghai Royale
+
+*v1.2
 
 A card game using standard Shanghai rules with the following exceptions:
 
@@ -18,11 +20,11 @@ A card game using standard Shanghai rules with the following exceptions:
 
 ## Elimination Rules
 
-Choose one or a combination of elimination rules before the game begins. If playing with more than one, decide the order in which the eliminations are prioritized.
+Choose one or more elimination rules before the game begins. If playing with multiple rules, decide the order in which the eliminations are prioritized.
 
 ### Eighty-Fives
 
-Players are eliminated for having more points than the number of completed hands times eighty-five. (Optionally, a different point limit may be set.)
+Players are eliminated for having more points than the number of completed hands times eighty-five.
 
 ### Highest Score
 
@@ -36,6 +38,10 @@ All players caught are eliminated.
 
 Choose none, one, or a combination of alternative rules before the game begins.
 
+### Bank Your Buys
+
+Everyone has two buys each hand. Unused buys roll over to subsequent hands.
+
 ### Blade of Fools
 
 Jokers may be played face up and sideways in front of a player at any time, each increasing that player’s points gained that hand by 20.
@@ -47,6 +53,14 @@ The order of hands is: 2S, 2R, 1S1R, 2S1R, 1S2R, 3S, 3R.
 ### Down is Out
 
 As soon as one player goes down, the hand is over.
+
+### Endless Eliminations
+
+Eliminations continue even after players have been reduced to the normal final amount.
+
+### Everyone Plays
+
+Play continues until everyone has had at least one turn.
 
 ### Extra Hand
 

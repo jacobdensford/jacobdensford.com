@@ -15,6 +15,8 @@ title: Projects
 
 ### [Sabacc](/sabacc)
 
+### [Shanghai Royale](/projects/shanghai-royale)
+
 ## Novels
 
 ### [Centauri Womb](/projects/centauri-womb)
