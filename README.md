@@ -1,6 +1,6 @@
 # jacobdensford.com
 
-This website was crafted by hand in [Atom](https://atom.io/) and generated using [11ty](https://www.11ty.dev/). It's hosted on [Netlify](https://www.netlify.com/) and deployed from [Github](https://github.com/jacobdensford/jacobdensford.com). Typefaces used include [Computer Modern](https://en.wikipedia.org/wiki/Computer_Modern), [Alte Haas Grotesk](https://www.dafont.com/alte-haas-grotesk.font), [Breathe Fire III](https://www.dafont.com/breathe-fire-iii.font), and [Lapti Nek](https://aurekfonts.github.io/?font=LaptiNekAF).
+This website was crafted by hand in [Atom](https://atom.io/) and generated using [11ty](https://www.11ty.dev/). It's hosted on [Netlify](https://www.netlify.com/) and deployed from [Github](https://github.com/jacobdensford/jacobdensford.com). Typefaces used include [Computer Modern](https://fontsinuse.com/typefaces/39120/computer-modern), [Alte Haas Grotesk](https://fontsinuse.com/typefaces/82632/alte-haas-grotesk), [Averia Serif Libre](http://iotic.com/averia/), [ITC Serif Gothic](https://fontsinuse.com/typefaces/1907/itc-serif-gothic), [Altenglisch](https://fontsinuse.com/search?terms=Altenglisch&page=1), and [Lapti Nek](https://aurekfonts.github.io/?font=LaptiNekAF).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8167ff8f-a9c5-4327-8e0b-ea0e84056bdb/deploy-status)](https://app.netlify.com/sites/flourishing-sunflower-497834/deploys)
 

@@ -10,7 +10,7 @@ layout: main.njk
 
 # Shanghai Royale
 
-*v1.2
+*v1.2*
 
 A card game using standard Shanghai rules with the following exceptions:
 
