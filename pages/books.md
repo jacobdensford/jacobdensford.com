@@ -17,6 +17,26 @@ date: 2022-10-14
 
 ## Read in 2024
 
+### *Dawnshard* by Brandon Sanderson
+
+I finished this book in the middle of July, 2024. **I recommend it<sup><a href=#1down>*</a></sup>.**
+
+### *Moonbound* by Robin Sloan
+
+A great book that's a little too enamored with San Francisco.
+
+Finished in the beginning of July, 2024. **I recommend it.**
+
+### *A Memory Called Empire* by Arkady Martine
+
+Finished in the beginning of July, 2024. **I recommend it.**
+
+### *Jedi Search* by Kevin J Anderson
+
+It was pretty alright. Better than *Truce* for sure, but not as good as *Thrawn*.
+
+Finished at the beginning of June, 2024. **I recommend it.**
+
 ### *Fluent Forever* by Gabriel Wyner
 
 I finished this book at the end of May, 2024. **I recommend it**.
