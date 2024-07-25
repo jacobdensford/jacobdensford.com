@@ -23,4 +23,4 @@ layout: main.njk
 
 ## Status
 
-I’ve taken this project as far as it will go. I'm happy with how it turned out for what it is. But it isn't exactly what I wanted it to be when I started. You can [view the rules online here](/fell) or [download it here](/files/Fell.pdf).
+You can [view the rules online here](/fell) or [download it here](/files/Fell.pdf). A second edition is coming soon!
