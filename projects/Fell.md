@@ -23,4 +23,4 @@ layout: main.njk
 
 ## Status
 
-You can [view the rules online here](/fell) or [download it here](/files/Fell.pdf). A second edition is coming soon!
+You can [download it here](https://cobbland.itch.io/fell). A second edition is coming soon!
