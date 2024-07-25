@@ -13,6 +13,8 @@ title: Projects
 
 ### [Fell](/projects/fell)
 
+### [Peasant](https://cobbland.itch.io/peasant)
+
 ### [Sabacc](/sabacc)
 
 ### [Shanghai Royale](/projects/shanghai-royale)
