@@ -23,4 +23,4 @@ image: url("/images/efimage.png")
 
 *They must conquer flames.*
 
-Empire & Flame was a Dungeons & Dragons 5E campaign I ran in 2022—2023.
+Empire & Flame was a Dungeons & Dragons 5E campaign I ran in 2022–2023.
