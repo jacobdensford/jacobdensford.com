@@ -5,6 +5,8 @@ title: Projects
 
 # Projects
 
+Things I'm working on (that I'll probably never finish).
+
 ## Games
 
 ### [Empire & Flame](/empire-flame)
