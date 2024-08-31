@@ -9,4 +9,4 @@ You wanna give me money? Sure, I'll accept it. (Leave a note in the transaction 
 
 - [**Venmo**: @jacob-densford](https://account.venmo.com/u/jacob-densford)
 - [**Cash App**: $JacobDensford](https://cash.app/$JacobDensford)
-- [**PayPal**: @JacobDensford](paypal.me/JacobDensford)
+- [**PayPal**: @JacobDensford](https://paypal.me/JacobDensford)
