@@ -16,7 +16,7 @@ title: Home
 
 ## Welcome
 
-I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Here you will find my [posts](/posts/), information [about](/about/) me and this website, how to [contact](/contact/) me, and updates on my [projects](/projects/). (If you're looking for my tabletop roleplaying game focused website, that's [cobb.land](/cobbland/).)
+I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Here you will find my [posts](/posts/), information [about](/about/) me and this website, how to [contact](/contact/) me, updates on my [projects](/projects/), and what I'm doing right [now](/now/). (If you're looking for my tabletop roleplaying game focused website, that's [cobb.land](/cobbland/).)
 
 </section>
 
