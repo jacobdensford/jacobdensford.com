@@ -5,9 +5,9 @@ title: About
 
 # About
 
-## Me
-
 ![A picture of me sitting on a wooden bench next to some pine tree trimmings.](/images/jacobwinter.jpg)
+
+## Me
 
 I’m a writer, artist, and game designer currently dwelling in the foothills of Appalachia.
 
