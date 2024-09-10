@@ -23,4 +23,4 @@ layout: main.njk
 
 ## Status
 
-You can [download it here](https://cobbland.itch.io/fell). A second edition is coming soon!
+You can [download it here](https://cobbland.itch.io/fell). A second edition is coming ~~soon~~ someday!
