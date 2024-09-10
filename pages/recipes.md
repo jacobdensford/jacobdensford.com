@@ -1,6 +1,5 @@
 ---
 title: "Recipes"
-
 tags:
   - pages
   - food
