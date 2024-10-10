@@ -1,0 +1,89 @@
+/* Default styles that will work on mobile and small screens. */
+.webring {
+    align-items: center;
+    column-gap: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 15px;
+  }
+  
+  .webring .item {
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+  }
+  
+  .webring .item:nth-child(2) {
+    flex-basis: auto;
+    flex-grow: 2;
+    flex-shrink: 2;
+  }
+  
+  .webring .item p {
+    margin: 0;
+  }
+  
+  .webring .item.webring-info p:first-of-type {
+    margin-bottom: 9px;
+  }
+  
+  .webring .webring-prev {
+    order: 1;
+    text-align: right;
+  }
+  
+  .webring .webring-info {
+    order: 3;
+    text-align: center;
+  }
+  
+  .webring .webring-next {
+    order: 2;
+    text-align: left;
+  }
+  
+  .webring .webring-links {
+    font-size: 0.9rem;
+  }
+  
+  .webring .webring-error {
+    text-align: center;
+  }
+  
+  /* Desktop styles that only apply to screens 1000px and wider. */
+  @media (min-width: 1000px) {
+    .webring {
+      column-gap: 15px;
+      flex-wrap: nowrap;
+    }
+    
+    .webring .item {
+      flex-grow: 1;
+      flex-shrink: 1;
+    }
+    
+    .webring .item:nth-child(2) {
+      flex-basis: 0;
+      flex-grow: 4;
+      flex-shrink: 4;
+    }
+    
+    .webring .webring-prev {
+      order: 0;
+      text-align: left;
+    }
+    
+    .webring .webring-info {
+      order: 0;
+    }
+    
+    .webring .webring-next {
+      order: 0;
+      text-align: right;
+    }
+    
+    .webring .webring-links {
+      font-size: 1rem;
+    }
+  }
