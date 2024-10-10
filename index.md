@@ -27,3 +27,15 @@ I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my w
 Sign up for [my newsletter](/newsletter) and follow this website’s [RSS feed](/feed.xml).
 
 </section>
+
+<br>
+<hr/>
+
+<section class='section woodpanel' id='woodpanel'>
+  <div class='content'>
+    <script type="text/javascript" src='https://woodpaneled.org/scripts/onionring-variables.js'></script>
+    <script type="text/javascript" src="https://woodpaneled.org/scripts/onionring-widget.js"></script>
+  </div>
+</section>
+
+<hr/>
