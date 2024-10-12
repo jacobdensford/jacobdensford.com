@@ -6,6 +6,7 @@ tags:
   - posts
   - games
   - projects
+  - tabletop
 layout: post.njk
 subtitle: An tiny 5E game.
 ---

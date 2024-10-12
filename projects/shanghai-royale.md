@@ -5,6 +5,7 @@ date: 2024-05-12
 tags:
   - projects
   - games
+  - tabletop
 layout: main.njk
 ---
 

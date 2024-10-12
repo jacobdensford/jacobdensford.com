@@ -4,6 +4,7 @@ tags:
   - pages
   - food
   - books
+  - reviews
 url: /pages/cookbooks/
 layout: main.njk
 date: 2022-06-20

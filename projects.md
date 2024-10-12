@@ -5,7 +5,9 @@ title: Projects
 
 # Projects
 
-Things I'm working on (that I'll probably never finish).
+*Things I'm working on.*
+
+The list below is no longer maintained. For more, visit the <a href="/tags/projects">projects tag</a>.
 
 ## Games
 
