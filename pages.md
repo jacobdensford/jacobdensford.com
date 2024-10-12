@@ -5,7 +5,7 @@ title: Pages
 
 # Pages
 
-Unsorted, disorganized, out-of-date, still kind of fun—a digital garden in need of weeding.
+Unsorted, disorganized, out-of-date, still kind of fun—a digital garden in constant need of weeding.
 
 ### [Adventure Planning](/pages/adventure-planning)
 

@@ -3,19 +3,27 @@ title: "Books"
 tags:
   - pages
   - books
-  - recommendations
+  - reviews
 url: /pages/books/
 layout: main.njk
-date: 2022-10-14
+date: 2024-10-12
 ---
 
 # Books
 
-## Currently reading...
+*Books that I read one time, and what I thought of' em.*
 
-*Star Wars: Jedi Search* by Kevin J Anderson and *A Memory Called Empire* by Arkady Martine.
+The list below is no longer maintained. For more, check out the <a href="/tags/books">books</a> and <a href="/tags/reviews">reviews</a> tags.
 
 ## Read in 2024
+
+### *Rhythm of War* by Brandon Sanderson
+
+Finished near the end of September, 2024. **I recommend it<sup><a href=#1down>*</a></sup>.**
+
+### *A Song for the Wild-Built* by Becky Chambers
+
+Read in mid September, 2024. **I recommend it.**
 
 ### *Dawnshard* by Brandon Sanderson
 

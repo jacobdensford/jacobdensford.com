@@ -4,7 +4,7 @@ url: /projects/centauri-womb/
 date: 2022-04-25
 tags:
   - projects
-  - novels
+  - books
 layout: main.njk
 ---
 

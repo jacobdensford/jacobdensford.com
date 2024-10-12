@@ -3,7 +3,7 @@ title: "Video Games"
 tags:
   - pages
   - games
-  - recommendations
+  - reviews
 url: /pages/video-games/
 layout: main.njk
 date: 2022-10-14
@@ -11,9 +11,13 @@ date: 2022-10-14
 
 # Video Games
 
-## Currently playing...
+The list below is no longer maintained. For more, check out the <a href="/tags/games">games</a> and <a href="/tags/reviews">reviews</a> tags.
 
-I'm never just playing one game. And I almost never finish any of them. But, right now, I'm periodically enjoying *Disco Elysium*, *The Witcher 3*, and *Baldur's Gate 3*.
+## *GRIS*
+
+Great little game with some mostly easy puzzles and platforming. More about the vibes than the challenge.
+
+Played in May 2024. **I recommend it.**
 
 ## *Mortal Shell*
 
