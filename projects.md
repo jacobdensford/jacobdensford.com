@@ -7,7 +7,7 @@ title: Projects
 
 *Things I'm working on.*
 
-The list below is no longer maintained. For more, visit the <a href="/tags/projects">projects tag</a>.
+The list below is not always maintained. For more, visit the <a href="/tags/projects">projects tag</a>.
 
 ## Games
 
@@ -26,3 +26,7 @@ The list below is no longer maintained. For more, visit the <a href="/tags/proje
 ## Novels
 
 ### [Centauri Womb](/projects/centauri-womb)
+
+## Other things
+
+### [Cobb Land](/cobbland/)
