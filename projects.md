@@ -7,7 +7,7 @@ title: Projects
 
 *Things I'm working on.*
 
-The list below is not always maintained. For more, visit the <a href="/tags/projects">projects tag</a>.
+The list below is not always maintained. For more, visit the <a href="https://blog.jacobdensford.com/tagged/project">project</a> tag on my [blog](https://blog.jacobdensford.com/).
 
 ## Games
 

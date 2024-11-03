@@ -13,7 +13,7 @@ date: 2022-12-11
 
 # Movies and Shows
 
-The list below is no longer maintained. For more, check out the <a href="/tags/video">video</a> and <a href="/tags/reviews">reviews</a> tags.
+The list below is no longer maintained. For more, check out the <a href="https://blog.jacobdensford.com/tagged/video">video</a> and <a href="https://blog.jacobdensford.com/tagged/review">review</a> tags on my [blog](https://blog.jacobdensford.com/).
 
 ## *Cowboy Bebop*
 
