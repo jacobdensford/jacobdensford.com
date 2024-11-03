@@ -16,7 +16,7 @@ title: Home
 
 ## Welcome
 
-I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Here you will find my [posts](/posts/) and [pages](/pages/), information [about](/about/) me and this website, how to [contact](/contact/) me, updates on my [projects](/projects/), and what I'm doing right [now](/now/).
+I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Here you will find my [blog](https://blog.jacobdensford.com/), my [pages](/pages/), information [about](/about/) me and this website, how to [contact](/contact/) me, updates on my [projects](/projects/), and what I'm doing right [now](https://blog.jacobdensford.com/now/).
 
 </section>
 
@@ -24,7 +24,7 @@ I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my w
 
 ## Stay up to date
 
-Sign up for [my newsletter](/newsletter) and follow this website’s [RSS feed](/feed.xml).
+Sign up for [my newsletter](/newsletter) and follow my blog’s [RSS feed](https://blog.jacobdensford.com/feed.rss).
 
 </section>
 
