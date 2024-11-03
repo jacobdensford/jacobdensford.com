@@ -6,43 +6,43 @@
 }
 
 @font-face {
-    font-family: 'averia_serif_libre';
-    src: url('/fonts/averiaseriflibre-light-webfont.woff2') format('woff2');
+    font-family: 'vollkorn';
+    src: url('/fonts/Vollkorn-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'averia_serif_libre';
-    src: url('/fonts/averiaseriflibre-italic-webfont.woff2') format('woff2');
+    font-family: 'vollkorn';
+    src: url('/fonts/Vollkorn-Italic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'averia_serif_libre';
-    src: url('/fonts/averiaseriflibre-bolditalic-webfont.woff2') format('woff2');
+    font-family: 'vollkorn';
+    src: url('/fonts/Vollkorn-BoldItalic.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'averia_serif_libre';
-    src: url('/fonts/averiaseriflibre-bold-webfont.woff2') format('woff2');
+    font-family: 'vollkorn';
+    src: url('/fonts/Vollkorn-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
 
 :root {
   --background-color: #fff8e7;
-  --title-color: #1c1b19;
-  --title-hover-color: #1c1b19;
+  --title-color: #006c67;
+  --title-hover-color: #006c67;
   --nav-color: #1c1b19;
   --nav-hover-color: #fff8e7;
   --nav-hovor-background-color: #006c67;
   --nav-font: 'alte_haas_grotesk', sans-serif;
   --text-color: #1c1b19;
-  --link-color: #1c1b19;
+  --link-color: #c15300;
   --link-hover-color: #fff8e7;
   --link-hovor-background-color: #c15300;
   --accent-color: #1c1b19;
@@ -53,7 +53,7 @@
   --title-font-size: 3.7rem;
   --title-font: 'ITC Serif Gothic Heavy', sans-serif;
   --heading-font: 'alte_haas_grotesk', sans-serif;
-  --main-font: 'averia_serif_libre', serif; /*'cmu_typewriter_text', Courier, 'Courier New', monospace;*/
+  --main-font: 'vollkorn, serif';
   --letter-font: 'Lapti Nek', sans-serif;
   --cirlce-background-image: none;
   --circle-font-size: 4.5rem;

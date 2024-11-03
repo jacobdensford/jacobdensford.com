@@ -13,7 +13,7 @@ date: 2024-10-12
 
 *Books that I read one time, and what I thought of' em.*
 
-The list below is no longer maintained. For more, check out the <a href="/tags/books">books</a> and <a href="/tags/reviews">reviews</a> tags.
+The list below is no longer maintained. For more, check out the <a href="https://blog.jacobdensford.com/tagged/review">review</a> and <a href="https://blog.jacobdensford.com/tagged/book">book</a> tags on my [blog](https://blog.jacobdensford.com/).
 
 ## Read in 2024
 
