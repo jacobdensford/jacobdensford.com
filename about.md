@@ -13,11 +13,11 @@ I’m a writer, artist, and game designer currently dwelling in the foothills of
 
 ## Me, but elsewhere
 
-- [@cobb@dice.camp on Mastodon](https://dice.camp/@cobb)
-- [@cobb.land on Bluesky](https://bsky.app/profile/cobb.land)
-- [Illuminated Snail Press on itch.io](https://illuminatedsnail.itch.io/)
-- [Cobb Land on Patreon](https://www.patreon.com/cobbland/)
-- [My newsletter—Orbital Detritus](/newsletter/)
+- [**@cobb@dice.camp** on Mastodon](https://dice.camp/@cobb)
+- [**@cobb.land** on Bluesky](https://bsky.app/profile/cobb.land)
+- [**Illuminated Snail Press** on itch.io](https://illuminatedsnail.itch.io/)
+- [**Cobb Land** on Patreon](https://www.patreon.com/cobbland/)
+- [**Orbital Detritus**—my newsletter](https://buttondown.com/orbitaldetritus)
 
 ## This website
 
