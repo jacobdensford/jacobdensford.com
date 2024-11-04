@@ -24,7 +24,7 @@ I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my w
 
 ## Stay up to date
 
-Sign up for [my newsletter](https://buttondown.com/orbitaldetritus) below (or follow its [RSS feed](https://buttondown.email/jacobdensford/rss)) and follow my [blog](https://blog.jacobdensford.com/)'s [RSS feed](https://blog.jacobdensford.com/feed.rss).
+Sign up for [my newsletter](https://buttondown.com/orbitaldetritus) below (or follow its [RSS feed](https://buttondown.email/orbitaldetritus/rss)) and follow my [blog](https://blog.jacobdensford.com/)'s [RSS feed](https://blog.jacobdensford.com/feed.rss).
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/orbitaldetritus"
