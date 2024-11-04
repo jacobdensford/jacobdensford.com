@@ -14,9 +14,7 @@ title: Home
 
 <section>
 
-I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Welcome. In addition to what's below, here you will find my **[blog](https://blog.jacobdensford.com/)**, my [pages](/pages/) (unsorted, disorganized, out-of-date, but still kind of fun), and updates on my [projects](/projects/) (also often hopelessly out-of-date).
-
-(Much of my stuff is free and right here on this website. But, for more, [join my Patreon](https://www.patreon.com/cobbland/). There you'll gain access to some short and long-form fiction (including previews of my upcoming novel), more tabletop roleplaying game content (adventures, mechanics, procedures, maps, systems, et cetera), and even more of whatever else I'm currently working on.)
+I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Welcome. In addition to what's below, here you will find my **[blog](https://blog.jacobdensford.com/)**, my [pages](/pages/) (unsorted, disorganized, but still kind of fun), and updates on my [projects](/projects/) (hopelessly out-of-date). (I also have a [Patreon](https://www.patreon.com/cobbland/).)
 
 </section>
 
