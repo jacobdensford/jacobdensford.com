@@ -14,7 +14,7 @@ title: Home
 
 <section>
 
-I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Welcome. In addition to what's below, here you will find my **[blog](https://blog.jacobdensford.com/)**, my [pages](/pages/) (unsorted, disorganized, but still kind of fun), and updates on my [projects](/projects/) (hopelessly out-of-date). (I also have a [Patreon](https://www.patreon.com/cobbland/).)
+I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Welcome. In addition to what's below, here you will find my **[blog](https://blog.jacobdensford.com/)**, my [pages](/pages/) (unsorted, disorganized), and updates on my [projects](/projects/) (hopelessly out-of-date). I also have a [Patreon](https://www.patreon.com/cobbland/).
 
 </section>
 
