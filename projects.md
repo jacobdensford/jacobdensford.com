@@ -17,7 +17,7 @@ The list below is not always maintained. For more, visit the <a href="https://bl
 
 ### [Fell](/projects/fell)
 
-### [Peasant](https://cobbland.itch.io/peasant)
+### [Peasant](https://illuminatedsnail.itch.io/peasant)
 
 ### [Sabacc](/sabacc)
 
@@ -26,7 +26,3 @@ The list below is not always maintained. For more, visit the <a href="https://bl
 ## Novels
 
 ### [Centauri Womb](/projects/centauri-womb)
-
-## Other things
-
-### [Cobb Land](/cobbland/)

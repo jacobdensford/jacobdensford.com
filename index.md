@@ -24,7 +24,20 @@ I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my w
 
 ## Stay up to date
 
-Sign up for [my newsletter](/newsletter/) and follow my [blog](https://blog.jacobdensford.com/)'s [RSS feed](https://blog.jacobdensford.com/feed.rss).
+Sign up for [my newsletter](https://buttondown.com/orbitaldetritus) below (or follow its [RSS feed](https://buttondown.email/jacobdensford/rss)) and follow my [blog](https://blog.jacobdensford.com/)'s [RSS feed](https://blog.jacobdensford.com/feed.rss).
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/jacobdensford"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/jacobdensford', 'popupwindow')"
+  class="embeddable-buttondown-form">
+
+  <input type="email" name="email" id="bd-email" />
+
+  <input type="submit" value="Subscribe" />
+
+</form>
 
 </section>
 
