@@ -10,8 +10,6 @@ layout: main.njk
 date: 2023-01-03
 ---
 
-<hr/>
-
 <nav>
 
   <ul>
