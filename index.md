@@ -20,6 +20,18 @@ I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my w
 
 </section>
 
+<!--
+
+<section>
+
+## Latest Posts
+
+LIST OF MOST RECENT FEW BLOG POSTS. MAYBE ALSO WEBSITE UPDATES AND SOCIAL MEDIA POSTS.
+
+</section>
+
+-->
+
 <section>
 
 ## Stay up to date
