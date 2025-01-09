@@ -16,7 +16,7 @@ title: Home
 
 ## Welcome
 
-I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Here you will find my **[blog](https://blog.jacobdensford.com/)**, my [pages](/pages/) (unsorted, disorganized), updates on my [projects](/projects/) (hopelessly out-of-date), information [about](/about/) me, and how to [contact](/contact/) me. I also have a [Patreon](https://www.patreon.com/cobbland/).
+I’m <span class="h-card" class="p-name">Jacob Densford</span> and this is my website. Here you will find my **[blog](https://blog.jacobdensford.com/)**, my [pages](/pages/) (unsorted, disorganized), updates on my [projects](/projects/) (hopelessly out-of-date), information [about](/about/) me, and how to [contact](/contact/) me. I also have a [Patreon](https://www.patreon.com/illuminatedsnail).
 
 </section>
 
