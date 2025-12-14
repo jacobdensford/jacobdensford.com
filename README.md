@@ -1,2 +1,3 @@
 # jacobdensford.com
-My "official" home on the internet
+
+My "official" home on the internet.
