@@ -6,6 +6,6 @@
 /blog/*                 https://cobb.land/posts/:splat
 /projects/fell          https://illuminatedsnail.itch.io/fell
 /pages/                 https://cobb.land/pages
-/pages/*                https://cobb.land/pages/:splat
 /pages/cookbooks        https://cobb.land/cookbooks
 /pages/writing-advice   https://cobb.land/writing-advice/
+/pages/*                https://cobb.land/pages/:splat
