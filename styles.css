@@ -1,0 +1,72 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  height: 100%;
+  font-family: monospace;
+}
+
+body {
+  line-height: 1.5; /* This requires customizing the line height for larger text. */
+  font-size: 1.5rem;
+  background-color: teal;
+  background-image: url(./pyramid.bmp);
+  background-repeat: repeat;
+  position: relative;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%; /* Use `max-width: revert;` if an image is meant to overflow */
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.window {
+  background-color: silver;
+  border: 6px double black;
+  overflow: hidden;
+  box-shadow: 6px 6px black;
+  max-width: 60ch;
+  margin: 1rem;
+}
+
+.top-bar {
+  border-bottom: 2px solid black;
+  color: white;
+  font-weight: bold;
+  background-color: navy;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.status-bar {
+  border-top: 2px solid black;
+  padding-left: 0.5rem;
+  font-size: 1rem;
+}
+
+.content {
+  padding: 1rem;
+}
