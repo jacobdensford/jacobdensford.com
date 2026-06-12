@@ -37,10 +37,11 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-size: 1.4rem;
+    margin: 1.6em 0 0.6em;
 }
 
 h3 {
-    margin: 0.6rem 0 0.1rem;
+    margin: 0.6em 0 0.1em;
 }
 
 a {
@@ -117,7 +118,7 @@ a {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    gap: 1em;
+    gap: 0.8em;
 }
 
 #stack li {
@@ -157,8 +158,16 @@ a {
 }
 
 .project p {
-    margin: 0 0 0.6rem;
+    margin: 0 0 0.2em;
     font-size: 0.8em;
+}
+
+.project p:first-of-type {
+    color: var(--sub-text-color);
+}
+
+.project p:last-of-type {
+    margin-bottom: 0.4em;
 }
 
 .project svg {
@@ -194,7 +203,7 @@ a {
 }
 
 .job p {
-    margin: 0 0 0.2rem;
+    margin: 0 0 0.2em;
     font-size: 0.8em;
     color: var(--sub-text-color);
 }
@@ -215,7 +224,7 @@ a {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    gap: 1em;
+    gap: 0.8em;
 }
 
 #connect li {
@@ -237,10 +246,26 @@ a {
     box-shadow: 1px 1px var(--sub-bg-color);
 }
 
+/* Footer */
+
+footer .little-guy {
+    font-size: 0.6em;
+    color: var(--sub-text-color);
+    margin: 2rem auto;
+    border: none;
+}
+
 /* Media */
 
 @media (prefers-reduced-motion: no-preference) {
     html {
         scroll-behavior: smooth;
+    }
+}
+
+@media (width <= 675px) {
+    #all-projects {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
     }
 }
