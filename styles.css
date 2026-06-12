@@ -65,6 +65,7 @@ a {
   border-top: 2px solid black;
   padding-left: 0.5rem;
   font-size: 1rem;
+  text-align: center;
 }
 
 .content {
